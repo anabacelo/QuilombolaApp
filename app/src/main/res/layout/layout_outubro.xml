@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_outubro"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/imageViewOutubro"
+                android:layout_below="@+id/textViewSetembro28"
+                android:src="@drawable/mes_outubro"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="0sp"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center"
+                android:scaleType="center" />
+
+            <TextView
+                android:id="@+id/textViewOutubro01"
+                android:layout_below="@+id/imageViewOutubro"
+                android:text="@string/textoOutubro01"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewOutubro07"
+                android:layout_below="@+id/textViewOutubro01"
+                android:text="@string/textoOutubro07"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewOutubro10"
+                android:layout_below="@+id/textViewOutubro07"
+                android:text="@string/textoOutubro10"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewOutubro11"
+                android:layout_below="@+id/textViewOutubro10"
+                android:text="@string/textoOutubro11"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewOutubro12"
+                android:layout_below="@+id/textViewOutubro11"
+                android:text="@string/textoOutubro12"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewOutubro13"
+                android:layout_below="@+id/textViewOutubro12"
+                android:text="@string/textoOutubro13"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewOutubro15"
+                android:layout_below="@+id/textViewOutubro13"
+                android:text="@string/textoOutubro15"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewOutubro24"
+                android:layout_below="@+id/textViewOutubro15"
+                android:text="@string/textoOutubro24"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textSize="20sp" />
+        </RelativeLayout>
+    </ScrollView>
+</LinearLayout>

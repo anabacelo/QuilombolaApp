@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <!--<item
+            android:id="@+id/pag_inicial"
+            android:title="@string/pag_inicial"
+            /> -->
+        <item
+            android:id="@+id/nav_homepage"
+            android:icon="@drawable/ic_home"
+            android:title="Página Inicial" />
+
+        <item
+            android:id="@+id/nav_1"
+            android:icon="@drawable/ic_duvida"
+            android:title="O que é ser Quilombola?" />
+
+        <item
+            android:id="@+id/nav_2"
+            android:icon="@drawable/ic_location"
+            android:title="Quilombos de Porto Alegre" />
+        <item
+            android:id="@+id/nav_3"
+            android:icon="@drawable/ic_law"
+            android:title="Legislação" />
+        <item
+            android:id="@+id/nav_4"
+            android:icon="@drawable/ic_books"
+            android:title="História, Cultura e Tradição" />
+
+        <item
+            android:id="@+id/nav_5"
+            android:icon="@drawable/ic_core"
+            android:title="Saúde da População Negra" />
+
+        <item
+            android:id="@+id/nav_6"
+            android:icon="@drawable/ic_atendimento"
+            android:title="Redes de Atendimento" />
+
+        <item
+            android:id="@+id/nav_7"
+            android:title="Serviços e Benefícios Sociais"
+            android:icon="@drawable/ic_handshake"/>
+
+        <item
+            android:id="@+id/nav_8"
+            android:title="Representações Quilombolas"
+            android:icon="@drawable/ic_people"/>
+
+        <item
+            android:id="@+id/nav_9"
+            android:title="Curiosidades"
+            android:icon="@drawable/ic_public"/>
+
+        <item
+            android:id="@+id/nav_11"
+            android:title="Calendário Quilombola"
+            android:icon="@drawable/calendar2"/>
+
+        <item
+            android:id="@+id/nav_10"
+            android:title="Mulheres Quilombola na História"
+            android:icon="@drawable/ic_person"/>
+
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_Login"
+                android:icon="@drawable/ic_admin"
+                android:title="Login" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_logout"
+                android:title="Sair" />
+        </menu>
+    </item>
+
+</menu>

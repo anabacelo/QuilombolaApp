@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_quilombo_silva"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <!--silva-->
+            <TextView
+                android:id="@+id/textViewquilo"
+                android:text="@string/titulo_quilomboSilva"
+                android:layout_below="@+id/imageView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:layout_marginTop="29dp" />
+
+            <TextView
+                android:id="@+id/textquilosilva"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="21sp"
+                android:textAlignment="center"
+                android:text="@string/texto_quilopoa03"
+                android:layout_marginTop="21dp"
+                android:layout_below="@+id/textViewquilo"
+                android:layout_alignParentStart="true"
+                android:autoLink="web"
+                android:linksClickable="true"/>
+
+        </RelativeLayout>
+    </ScrollView>
+</LinearLayout>
+
+
+
+
+

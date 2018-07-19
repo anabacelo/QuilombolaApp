@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_agosto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <ImageView
+            android:id="@+id/imageViewAgosto"
+            android:layout_below="@+id/textViewJulho25"
+            android:src="@drawable/mes_agosto"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="0sp"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:scaleType="center" />
+
+        <TextView
+            android:id="@+id/textViewAgosto03"
+            android:layout_below="@+id/imageViewAgosto"
+            android:text="@string/textoAgosto03"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textViewAgosto12"
+            android:layout_below="@+id/textViewAgosto03"
+            android:text="@string/textoAgosto12"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textViewAgosto14"
+            android:layout_below="@+id/textViewAgosto12"
+            android:text="@string/textoAgosto14"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textViewAgosto22"
+            android:layout_below="@+id/textViewAgosto14"
+            android:text="@string/textoAgosto22"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textViewAgosto23"
+            android:layout_below="@+id/textViewAgosto22"
+            android:text="@string/textoAgosto23"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textViewAgosto24"
+            android:layout_below="@+id/textViewAgosto23"
+            android:text="@string/textoAgosto24"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textViewAgosto28"
+            android:layout_below="@+id/textViewAgosto24"
+            android:text="@string/textoAgosto28"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textViewAgosto31"
+            android:layout_below="@+id/textViewAgosto28"
+            android:text="@string/textoAgosto31"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textSize="20sp" />
+        </RelativeLayout>
+    </ScrollView>
+</LinearLayout>
