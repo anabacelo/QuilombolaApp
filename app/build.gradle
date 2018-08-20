@@ -21,6 +21,7 @@ android {
 }
 
 dependencies {
+    implementation 'com.nineoldandroids:library:2.4.0'
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
