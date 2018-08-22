@@ -1148,10 +1148,6 @@ Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l128
         https://pt-br.facebook.com/FrenteQuilombolaRs/ \n
         http://www.editorialj.eusoufamecos.net/site/acontece/frente-quilombola-reforca-mobilizacao-para-garantir-posse-de-seus-territorios/
     </string>
-
-
-
-
     <!-- Representações Quilombola -->
 
     <string name="direitoAutoral_quilombosPortoAlegre">
@@ -1161,4 +1157,100 @@ Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l128
     <string name="direitoAutoral_quilombosAreal">
         wikimapia.org - Quilombo-do-Areal
     </string>
+
+
+
+
+
+
+
+    <!-- Mulheres Quilombola -->
+    <string name="textoTituloMulheresQuilombola">
+        Mulheres Quilombola na História
+    </string>
+
+    <string name="textoIntroducaoMulheresQuilombola">
+        As mulheres que foram escravizadas no Brasil contribuiram, e muito, para acabar com escravidão no país.
+        Engana-se quem acha que a Princesa Isabel foi a responsável pela libertação dos escravizados,
+        como diria a cantora Yzalú,” a Lei Áurea não passa de um texto morto”, afinal após o 13 de maio de 1888, mulheres lutaram,
+        e ainda lutam contra a racismo e machismo.
+    </string>
+
+    <string name="textoTituloUmDadara">
+        1. Dandara dos Palmares
+    </string>
+
+    <string name="textoUmDadara">
+        É uma das líderes mais conhecidas no Brasil. Lutou contra a escravidão em Palmares.
+        Foi contra a proposta da Coroa Portuguesa em condicionar as reivindicações dos quilombolas.
+        A guerreira morreu durante a disputa no Quilombo dos Macacos pertencente ao Quilombo de Palmares, onde vivia também seu marido,
+        Zumbi dos Palmares.
+    </string>
+
+    <string name="textoTituloDoisAnastacia">
+        2. Anastácia
+    </string>
+
+    <string name="textoDoisAnastacia">
+        Ajudou escravos quando eram castigados, ou facilitando a fuga.
+        Certa vez, lutou contra a violência física e sexual de um homem branco, por isso,
+        recebeu o castigo de usar um mordaça de folha de flandres e uma gargantilha de ferro.
+        Apesar de viver na Bahia e em Minas Gerais foi levada para o Rio de Janeiro no fim da vida, lá atribuíram vários milagres
+        durante sua estadia.
+    </string>
+
+    <string name="textoTituloTresLuizaMahin">
+        3. Luiza Mahín
+    </string>
+
+    <string name="textoTresLuizaMahin">
+        Passou muito tempo na Bahia e participou do levante na Revolta dos Malês, em 1835 e a Sabinada, em 1837.
+        Trabalhava como ganhadeira (no comércio de rua).
+    </string>
+
+    <string name="textoTituloQuatroTereza">
+        4. Tereza de Benguela
+    </string>
+
+    <string name="textoQuatroTereza">
+        No Brasil, dia 25 de julho é comemorado o Dia de Tereza de Benguela em homenagem a líder quilombola.
+        Era mulher do líder do Quilombo de Quarterê ou do Piolho, no Mato Grosso.
+        Por lá, foram abrigados até índios bolivianos incomodando autoridades das Coroas espanhola e portuguesa.
+        Tereza foi presa em um dos confrontos e como não aceitou a condição de escravizada suicidou-se.
+    </string>
+
+    <string name="textoTituloCincoAqualtune">
+        5. Aqualtune
+    </string>
+
+    <string name="textoCincoAqualtune">
+        Era filha do Rei do Congo e foi vendida para o Brasil. Grávida no Quilombo dos Palmares organizou sua primeira fuga.
+        Ficou conhecida por ficar ao lado de Ganga Zumba, antecessor de Zumbi, seu neto.  A guerreira morreu queimada.
+    </string>
+
+    <string name="textoTituloSeisZeferina">
+        6. Zeferina
+    </string>
+
+    <string name="textoSeisZeferina">
+        Líder no quilombo de Urubu, na Bahia. Era angolana e foi trazida ainda criança para o Brasil.
+        As histórias relatam que ela confrontava os capitães do mato com arco e flecha.
+    </string>
+
+    <string name="textoTituloSeteMariaFelipa">
+        7. Maria Felipa de Oliveira
+    </string>
+
+    <string name="textoSeteMariaFelipa">
+        Foi líder na Ilha de Itaparica, Bahia. Aprendeu a jogar capoeira para se defender.
+        Tinha como missão principalmente libertar seus descendentes e avós.
+        Ficava escondida na Fazenda 27, em Gameleira (Itaparica), para acompanhar, durante a noite,
+        a movimentação das caravelas lusitanas. Em seguida, tomava uma jangada e ia para Salvador, passar as informações para o
+        Comando do Movimento de Libertação.
+    </string>
+
+
+    <!-- Mulheres Quilombola -->
+
+
 </resources>

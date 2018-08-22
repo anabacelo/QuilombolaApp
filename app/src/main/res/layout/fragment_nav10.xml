@@ -5,16 +5,304 @@
     android:layout_height="match_parent"
     tools:context="com.example.anapaula.quilombolaappv4.Nav2">
 
-    <!-- TODO: Update blank fragment layout -->
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="16dp"
-        android:textSize="30sp"
-        android:text="Destaques Mulheres" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textViewTituloMulheresQuilombola"
+                android:text="@string/textoTituloMulheresQuilombola"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="16dp"
+                android:textSize="30sp" />
+
+            <TextView
+                android:id="@+id/textViewTextoIntroducaoMulheresQuilombola"
+                android:layout_below="@+id/textViewTituloMulheresQuilombola"
+                android:text="@string/textoIntroducaoMulheresQuilombola"
+                android:layout_centerHorizontal="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:layout_marginTop="0dp"
+                android:textSize="35dp" />
+
+            <TextView
+                android:id="@+id/textViewTituloUmDadara"
+                android:text="@string/textoTituloUmDadara"
+                android:layout_below="@+id/textViewTextoIntroducaoMulheresQuilombola"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:layout_alignParentTop="false"
+                android:paddingTop="10dp"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewTextoUmDandara"
+                android:text="@string/textoUmDadara"
+                android:layout_below="@+id/textViewTituloUmDadara"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:layout_alignParentTop="false"
+                android:paddingTop="10dp"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewTituloDoisAnastacia"
+                android:text="@string/textoTituloDoisAnastacia"
+                android:layout_below="@+id/textViewTextoUmDandara"
+                android:textAlignment="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="false"
+                android:paddingTop="10dp"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewTextoDoisAnastacia"
+                android:layout_below="@+id/textViewTituloDoisAnastacia"
+                android:text="@string/textoDoisAnastacia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:layout_alignParentTop="false"
+                android:paddingTop="10dp"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewTextoTituloTresLuizaMahin"
+                android:text="@string/textoTituloTresLuizaMahin"
+                android:layout_below="@+id/textViewTextoUmDandara"
+                android:textAlignment="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="false"
+                android:paddingTop="10dp"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewTextoTresLuizaMahin"
+                android:layout_below="@+id/textViewTextoTituloTresLuizaMahin"
+                android:text="@string/textoTresLuizaMahin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:layout_alignParentTop="false"
+                android:paddingTop="10dp"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewTextoTituloQuatroTereza"
+                android:text="@string/textoTituloTresLuizaMahin"
+                android:layout_below="@+id/textViewTextoUmDandara"
+                android:textAlignment="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="false"
+                android:paddingTop="10dp"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewTextoQuatroTereza"
+                android:layout_below="@+id/textViewTextoTituloQuatroTereza"
+                android:text="@string/textoQuatroTereza"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:layout_alignParentTop="false"
+                android:paddingTop="10dp"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewTextoTituloCincoAqualtune"
+                android:layout_below="@+id/textViewTextoQuatroTereza"
+                android:text="@string/textoTituloCincoAqualtune"
+                android:textAlignment="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="false"
+                android:paddingTop="10dp"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewTextoCincoAqualtune"
+                android:layout_below="@+id/textViewTextoTituloCincoAqualtune"
+                android:text="@string/textoCincoAqualtune"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:layout_alignParentTop="false"
+                android:paddingTop="10dp"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewTextoTituloSeisZeferina"
+                android:layout_below="@+id/textViewTextoCincoAqualtune"
+                android:text="@string/textoTituloSeisZeferina"
+                android:textAlignment="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="false"
+                android:paddingTop="10dp"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewTextoSeisZeferina"
+                android:layout_below="@+id/textViewTextoTituloSeisZeferina"
+                android:text="@string/textoSeisZeferina"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:layout_alignParentTop="false"
+                android:paddingTop="10dp"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewTextoTituloSeteMariaFelipa"
+                android:layout_below="@+id/textViewTextoSeisZeferina"
+                android:text="@string/textoTituloSeisZeferina"
+                android:textAlignment="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="false"
+                android:paddingTop="10dp"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewTextoSeteMariaFelipa"
+                android:layout_below="@+id/textViewTextoTituloSeteMariaFelipa"
+                android:text="@string/textoSeteMariaFelipa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:layout_alignParentTop="false"
+                android:paddingTop="10dp"
+                android:textSize="20sp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <TextView
+                android:id="@+id/textViewTextoTituloSteMariaFelipa"
+                android:layout_below="@+id/textViewTextoSeisZeferina"
+                android:text="@string/textoTituloSeisZeferina"
+                android:textAlignment="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="false"
+                android:paddingTop="10dp"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewTextoSeteMaraFelipa"
+                android:layout_below="@+id/textViewTextoTituloSeteMariaFelipa"
+                android:text="@string/textoSeteMariaFelipa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:layout_alignParentTop="false"
+                android:paddingTop="10dp"
+                android:textSize="20sp" />
+
+            <ImageView
+                android:id="@+id/imageViewMariaFelipadeOliveira"
+                android:src="@drawable/maria_felipa_de_oliveira"
+                android:layout_below="@+id/textViewTextoSeteMaraFelipa"
+                android:scaleType="centerCrop"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:paddingTop="0px"
+                android:layout_marginLeft="5dp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <!--<TextView-->
+                <!--android:id="@+id/textView6"-->
+                <!--android:text="@string/texto_histcult01_part03"-->
+                <!--android:layout_below="@+id/textViewTextoUmDandara"-->
+                <!--android:textAlignment="center"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_alignParentTop="false"-->
+                <!--android:paddingTop="10dp"-->
+                <!--android:textSize="20sp" />-->
+
+            <!--<ImageView-->
+                <!--android:id="@+id/imageView1"-->
+                <!--android:src="@drawable/historia_"-->
+                <!--android:layout_below="@+id/textViewTextoMulheresQuilomboaIntroducao"-->
+                <!--android:scaleType="centerCrop"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:textAlignment="center"-->
+                <!--android:paddingTop="0px"-->
+                <!--android:layout_marginLeft="5dp" />-->
+
+            <!--<ImageView-->
+                <!--android:id="@+id/imageView3"-->
+                <!--android:src="@drawable/cultura_"-->
+                <!--android:layout_below="@+id/textView2"-->
+                <!--android:scaleType="centerCrop"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:textAlignment="center"-->
+                <!--android:layout_alignParentTop="false"-->
+                <!--android:paddingTop="10dp"-->
+                <!--android:layout_marginLeft="5dp" />-->
+
+
+            <!--<ImageView-->
+                <!--android:id="@+id/imageView5"-->
+                <!--android:src="@drawable/tradicao_"-->
+                <!--android:layout_below="@+id/textView4"-->
+                <!--android:scaleType="centerCrop"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:textAlignment="center"-->
+                <!--android:layout_alignParentTop="false"-->
+                <!--android:paddingTop="10dp"-->
+                <!--android:layout_marginLeft="0sp" />-->
+        </RelativeLayout>
+    </ScrollView>
 </RelativeLayout>
