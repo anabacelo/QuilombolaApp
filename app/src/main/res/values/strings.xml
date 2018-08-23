@@ -1161,4 +1161,217 @@ Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l128
     <string name="direitoAutoral_quilombosAreal">
         wikimapia.org - Quilombo-do-Areal
     </string>
+
+
+
+
+
+
+    <!-- Mulheres Quilombola -->
+    <string name="textoTituloMulheresQuilombola">
+        Mulheres Quilombola na História
+    </string>
+
+    <string name="textoIntroducaoMulheresQuilombola">
+        As mulheres que foram escravizadas no Brasil contribuiram, e muito, para acabar com escravidão no país.
+        Engana-se quem acha que a Princesa Isabel foi a responsável pela libertação dos escravizados,
+        como diria a cantora Yzalú,” a Lei Áurea não passa de um texto morto”, afinal após o 13 de maio de 1888, mulheres lutaram,
+        e ainda lutam contra a racismo e machismo.
+    </string>
+
+    <string name="textoByPatriciaGonçalves">
+        Por  Patrícia Gonçalves, do Catraca Livre.
+    </string>
+
+    <string name="textoIntroducaoDoisMulheresQuilombola">
+        Os passos das mulheres negras vêm de longe, mesmo.  Por isso, separamos 17 mulheres negras que fizeram parte de quilombos brasileiros e
+        foram fundamentais em algum momento para a comunidade negra. As histórias são relatadas nos cordéis de Jarid Arraes e do Mural Memória
+        das Mulheres Negras, acervo do Instituto Políticas Alternativas para o Cone Sul, Rio de Janeiro.
+    </string>
+
+    <string name="textoTituloUmDadara">
+        1. Dandara dos Palmares
+    </string>
+
+    <string name="textoUmDadara">
+        É uma das líderes mais conhecidas no Brasil. Lutou contra a escravidão em Palmares.
+        Foi contra a proposta da Coroa Portuguesa em condicionar as reivindicações dos quilombolas.
+        A guerreira morreu durante a disputa no Quilombo dos Macacos pertencente ao Quilombo de Palmares, onde vivia também seu marido,
+        Zumbi dos Palmares.
+    </string>
+
+    <string name="textoTituloDoisAnastacia">
+        2. Anastácia
+    </string>
+
+    <string name="textoDoisAnastacia">
+        Ajudou escravos quando eram castigados, ou facilitando a fuga.
+        Certa vez, lutou contra a violência física e sexual de um homem branco, por isso,
+        recebeu o castigo de usar um mordaça de folha de flandres e uma gargantilha de ferro.
+        Apesar de viver na Bahia e em Minas Gerais foi levada para o Rio de Janeiro no fim da vida, lá atribuíram vários milagres
+        durante sua estadia.
+    </string>
+
+    <string name="textoTituloTresLuizaMahin">
+        3. Luiza Mahín
+    </string>
+
+    <string name="textoTresLuizaMahin">
+        Passou muito tempo na Bahia e participou do levante na Revolta dos Malês, em 1835 e a Sabinada, em 1837.
+        Trabalhava como ganhadeira (no comércio de rua).
+    </string>
+
+    <string name="textoTituloQuatroTereza">
+        4. Tereza de Benguela
+    </string>
+
+    <string name="textoQuatroTereza">
+        No Brasil, dia 25 de julho é comemorado o Dia de Tereza de Benguela em homenagem a líder quilombola.
+        Era mulher do líder do Quilombo de Quarterê ou do Piolho, no Mato Grosso.
+        Por lá, foram abrigados até índios bolivianos incomodando autoridades das Coroas espanhola e portuguesa.
+        Tereza foi presa em um dos confrontos e como não aceitou a condição de escravizada suicidou-se.
+    </string>
+
+    <string name="textoTituloCincoAqualtune">
+        5. Aqualtune
+    </string>
+
+    <string name="textoCincoAqualtune">
+        Era filha do Rei do Congo e foi vendida para o Brasil. Grávida no Quilombo dos Palmares organizou sua primeira fuga.
+        Ficou conhecida por ficar ao lado de Ganga Zumba, antecessor de Zumbi, seu neto.  A guerreira morreu queimada.
+    </string>
+
+    <string name="textoTituloSeisZeferina">
+        6. Zeferina
+    </string>
+
+    <string name="textoSeisZeferina">
+        Líder no quilombo de Urubu, na Bahia. Era angolana e foi trazida ainda criança para o Brasil.
+        As histórias relatam que ela confrontava os capitães do mato com arco e flecha.
+    </string>
+
+    <string name="textoTituloSeteMariaFelipa">
+        7. Maria Felipa de Oliveira
+    </string>
+
+    <string name="textoSeteMariaFelipa">
+        Foi líder na Ilha de Itaparica, Bahia. Aprendeu a jogar capoeira para se defender.
+        Tinha como missão principalmente libertar seus descendentes e avós.
+        Ficava escondida na Fazenda 27, em Gameleira (Itaparica), para acompanhar, durante a noite,
+        a movimentação das caravelas lusitanas. Em seguida, tomava uma jangada e ia para Salvador, passar as informações para o
+        Comando do Movimento de Libertação.
+    </string>
+
+    <string name="textoTituloOitoAcotirene">
+        8. Acotirene
+    </string>
+
+    <string name="textoOitoAcotirene">
+        Era considerada matriarca no Quilombo dos Palmares e conselheira dos primeiros negros refugiados na Cerca Real dos Macacos.
+        Um dos mocambos (casa) foi batizado com o seu nome.
+    </string>
+
+    <string name="textoTituloNoveAdelina">
+        9. Adelina Charuteira
+    </string>
+
+    <string name="textoNoveAdelina">
+        Era uma das líderes no Maranhão. Era filha de uma escravizada com um senhor, por isso, sabia ler e escrever.
+        Apesar do pai, não foi libertada aos 17 anos, mas era ativamente parte da sociedade abolicionista de rapazes, o
+        Clube dos Mortos. Para arrecadar dinheiro vendia charutos fabricados pelo pai, com essa articulação descobria vários
+        planos de perseguição aos escravos.
+    </string>
+
+    <string name="textoTituloDezRainha">
+        10. Rainha Tereza do Quariterê
+    </string>
+
+    <string name="textoDezRainha">
+        Foi guerreira no Quilombo do Quariterê, em Cuiabá. Comandou toda a estrutura política, econômica e administrativa do
+        quilombo. Mantinha até um sistema de defesa com armas trocadas com homens brancos ou resgatadas pelos escravizados.
+    </string>
+
+    <string name="textoTituloOnzeMariana">
+        11. Mariana Crioula
+    </string>
+
+    <string name="textoOnzeMariana">
+        Era mucama em Vila das Vassouras, Rio de Janeiro. Se juntou com escravizados na maior fuga de escravos da história
+        fluminense em 5 de novembro de 1838. Liderou a fuga e um quilombo com Manuel Congo.
+    </string>
+
+    <string name="textoTituloDozeEsperanca">
+        12. Esperança Garcia
+    </string>
+
+    <string name="textoDozeEsperanca">
+        Ousou a escrever uma carta para o presidente da Província de São José do Piauí, Gonçalo Lourenço Botelho de Castro,
+        denunciando os maus-tratos físicos de que era vítima, ela e seu filho, por parte do feitor da Fazenda Algodões.
+    </string>
+
+    <string name="textoTituloTrezeMariaFirmina">
+        13. Maria Firmina dos Reis
+    </string>
+
+    <string name="textoTrezeMariaFirmina">
+        Foi considerada a primeira romancista brasileira, além de escrever o primeiro romance abolicionista, Úrsula,
+        que narra a condição da população negra no Brasil com elementos da tradição africana. Dedicou sua vida a leitura e escrita.
+    </string>
+
+    <string name="textoTituloQuatorzeEvaMaria">
+        14. Eva Maria de Bonsucesso
+    </string>
+
+    <string name="textoQuatorzeEvaMaria">
+        Era uma escrava alforriada que vendia frutas e verduras no Rio de Janeiro. Foi agredida por um homem branco e conseguiu
+        que ele fosse preso, e condenado pela agressão
+    </string>
+
+    <string name="textoTituloQuinzeMariaAranha">
+        15. Maria Aranha
+    </string>
+
+    <string name="textoQuinzeMariaAranha">
+        Foi líder do Quilombo de Mola, no Tocantins. Venceu todos os ataques escravistas e organizou toda a sociedade do local.
+    </string>
+
+    <string name="textoTituloDezeseisNaAgontime">
+        16. Na Agontimé
+    </string>
+
+    <string name="textoDezeseisNaAgontime">
+        Era rainha do Benim e foi vendida como escrava para o Maranhão, até ganhou um novo nome, Maria Jesuína. Ela fundou a Casa das Minas e reconstruiu o culto aos ancestrais.
+    </string>
+
+    <string name="textoTituloDezeseteTiaSimoa">
+        17. Tia Simoa
+    </string>
+
+    <string name="textoDezeseteTiaSimoa">
+        Liderou a luta contra a escravidão no Ceará. Foi do Grupo de Mulheres Negras do Cariri, o Pretas Simoa.
+    </string>
+
+    <string name="textoTituloDezoitoZacimba">
+        18. Zacimba Gaba
+    </string>
+
+    <string name="textoDezoitoZacimba">
+        Era princesa angolana e acabou no Espírito Santo. Provocou uma revolta das pessoas escravizadas contra a Casa Grande
+        e liderou um quilombo onde foi rainha.  Comandou durante anos ataques aos navios, surgindo no meio da noite em canos
+        precárias para resgatar os negros escravos, a referência à sua morte seja em um desses enfrentamentos.
+    </string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- Mulheres Quilombola -->
 </resources>
