@@ -55,10 +55,10 @@ public class Nav2 extends Fragment {
         listHash = new HashMap<>();
 
         listDataHeader.add("Quilombos de Porto Alegre");
-        listDataHeader.add("Quilombo Alpes");
-        listDataHeader.add("Quilombo Areal");
-        listDataHeader.add("Quilombo Silva");
-        listDataHeader.add("Quilombo Fidélix");
+        listDataHeader.add("Quilombo dos Alpes");
+        listDataHeader.add("Quilombo Areal da Baronesa");
+        listDataHeader.add("Quilombo da Família Silva");
+        listDataHeader.add("Quilombo da Família Fidélix");
         listDataHeader.add("Entrevistas");
 
 
