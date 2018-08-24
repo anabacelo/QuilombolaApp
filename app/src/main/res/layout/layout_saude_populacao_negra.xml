@@ -23,7 +23,7 @@
                 android:layout_alignParentTop="true"
                 android:layout_centerHorizontal="true"
                 android:layout_marginTop="15dp"
-                android:textSize="29sp" />
+                android:textSize="26sp" />
 
             <ImageView
                 android:id="@+id/imageViewPopulacaoNegra"
@@ -32,7 +32,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
-                android:layout_alignParentStart="true" />
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true" />
 
             <TextView
                 android:id="@+id/textViewTextoPopulacaoNegra"
@@ -45,7 +46,8 @@
                 android:textSize="20sp"
                 android:autoLink="web"
                 android:linksClickable="true"
-                android:layout_alignParentStart="true" />
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true" />
 
         </RelativeLayout>
     </ScrollView>
