@@ -63,7 +63,7 @@ public class Nav5 extends Fragment {
         listDataHeader.add("Diabetes Mellitus");
         listDataHeader.add("Hipertensão Arterial");
         listDataHeader.add("Mioma Uterino");
-        listDataHeader.add("Quilombos atendidos no SUS");
+        listDataHeader.add("Atendimento SUS para os Quilombos");
 
         List<Integer> layoutList0 = new ArrayList<>();
         layoutList0.add(layoutSaudePopulacaoNegra);
