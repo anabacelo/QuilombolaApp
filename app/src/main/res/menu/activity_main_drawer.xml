@@ -46,7 +46,7 @@
 
         <item
             android:id="@+id/nav_8"
-            android:title="Representações Quilombolas"
+            android:title="Representações Quilombola"
             android:icon="@drawable/ic_people"/>
 
         <item

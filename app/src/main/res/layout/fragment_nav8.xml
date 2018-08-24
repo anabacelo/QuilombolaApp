@@ -16,8 +16,8 @@
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="13dp"
-            android:textSize="29sp"
-            android:text="Representações Quilombolas" />
+            android:textSize="26sp"
+            android:text="Representações Quilombola" />
 
         <TextView
             android:id="@+id/textViewCoordenacaoNacional"
