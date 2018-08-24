@@ -56,13 +56,13 @@ public class Nav3 extends Fragment {
         listDataHeader = new ArrayList<String>();
         listHash = new HashMap<>();
 
-        listDataHeader.add("Estatuto Do Idoso");
-        listDataHeader.add("Estatuto Da Criança e Do Adolescente");
-        listDataHeader.add("Estatuto Da Juventude");
-        listDataHeader.add("Politica Nacional De Assistencia Social");
+        listDataHeader.add("Estatuto do Idoso");
+        listDataHeader.add("Estatuto da Criança e do Adolescente");
+        listDataHeader.add("Estatuto da Juventude");
+        listDataHeader.add("Politica Nacional de Assistencia Social");
         listDataHeader.add("Programa Brasil Quilombola (PBQ): ");
-        listDataHeader.add("Estatuto De Igualdade Racial (LEI 12.888) ");
-        listDataHeader.add("Lei Maria Da Penha");
+        listDataHeader.add("Estatuto de Igualdade Racial (LEI 12.888) ");
+        listDataHeader.add("Lei Maria da Penha");
 
 
         List<Integer> layoutList0 = new ArrayList<>();
