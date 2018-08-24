@@ -45,25 +45,25 @@ public class Nav7 extends Fragment {
 
     public void initializeData()
     {
+        Integer layoutCadastroUnico = R.layout.layout_serv_ben_cadastro_unico;
         Integer layoutServicoBeneficioSocial = R.layout.layout_servico_beneficio_social;
         Integer layoutBeneficioPrestacaoContinuada = R.layout.layout_beneficio_continuado;
-        Integer layoutCadastroUnico = R.layout.layout_serv_ben_cadastro_unico;
 
         listDataHeader = new ArrayList<String>();
         listHash = new HashMap<>();
 
+        listDataHeader.add("Cadastro Único");
         listDataHeader.add("Programa Bolsa Família");
         listDataHeader.add("Benefício de Prestação Continuada");
-        listDataHeader.add("Cadastro Único");
 
         List<Integer> layoutList0 = new ArrayList<>();
         layoutList0.add(layoutServicoBeneficioSocial);
 
         List<Integer> layoutList1 = new ArrayList<>();
-        layoutList1.add(layoutBeneficioPrestacaoContinuada);
+        layoutList1.add(layoutCadastroUnico);
 
         List<Integer> layoutList2 = new ArrayList<>();
-        layoutList2.add(layoutCadastroUnico);
+        layoutList2.add(layoutBeneficioPrestacaoContinuada);
 
         listHash.put(listDataHeader.get(0), layoutList0);
         listHash.put(listDataHeader.get(1), layoutList1);
