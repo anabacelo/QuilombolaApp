@@ -48,22 +48,22 @@ public class Nav5 extends Fragment {
     {
         Integer layoutSaudePopulacaoNegra = R.layout.layout_saude_populacao_negra;
         Integer layoutDoencasPrevalecenteNegra = R.layout.layout_doencas_prevalecente_negra;
-        Integer layoutQuilombosAtendidosSUS = R.layout.layout_quilombos_atendidos_sus;
         Integer layoutAnemiaFalciforme = R.layout.layout_anemia_falciforme;
         Integer layoutDiabeteMellitus = R.layout.layout_diabete_mellitus;
         Integer layoutHipertensaoArterial = R.layout.layout_hipertensao_arterial;
         Integer layoutMiomaUterino = R.layout.layout_mioma_uterino;
+        Integer layoutQuilombosAtendidosSUS = R.layout.layout_quilombos_atendidos_sus;
 
         listDataHeader = new ArrayList<String>();
         listHash = new HashMap<>();
 
         listDataHeader.add("Saúde da população Negra");
         listDataHeader.add("Doenças prevalecentes da população negra");
-        listDataHeader.add("Quilombos atendidos no SUS");
         listDataHeader.add("Anemia Falciforme");
         listDataHeader.add("Diabetes Mellitus");
         listDataHeader.add("Hipertensão Arterial");
         listDataHeader.add("Mioma Uterino");
+        listDataHeader.add("Quilombos atendidos no SUS");
 
         List<Integer> layoutList0 = new ArrayList<>();
         layoutList0.add(layoutSaudePopulacaoNegra);
@@ -72,7 +72,7 @@ public class Nav5 extends Fragment {
         layoutList1.add(layoutDoencasPrevalecenteNegra);
 
         List<Integer> layoutList2 = new ArrayList<>();
-        layoutList2.add(layoutQuilombosAtendidosSUS);
+        layoutList2.add(layoutMiomaUterino);
 
         List<Integer> layoutList3 = new ArrayList<>();
         layoutList3.add(layoutAnemiaFalciforme);
@@ -84,7 +84,7 @@ public class Nav5 extends Fragment {
         layoutList5.add(layoutHipertensaoArterial);
 
         List<Integer> layoutList6 = new ArrayList<>();
-        layoutList6.add(layoutMiomaUterino);
+        layoutList6.add(layoutQuilombosAtendidosSUS);
 
         listHash.put(listDataHeader.get(0), layoutList0);
         listHash.put(listDataHeader.get(1), layoutList1);
