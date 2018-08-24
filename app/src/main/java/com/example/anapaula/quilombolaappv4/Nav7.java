@@ -52,7 +52,7 @@ public class Nav7 extends Fragment {
         listDataHeader = new ArrayList<String>();
         listHash = new HashMap<>();
 
-        listDataHeader.add("Serviços e Benefícios Sociais");
+        listDataHeader.add("Programa Bolsa Família");
         listDataHeader.add("Benefício de Prestação Continuada");
         listDataHeader.add("Cadastro Único");
 
