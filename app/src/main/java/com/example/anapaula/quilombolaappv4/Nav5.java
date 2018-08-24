@@ -57,8 +57,8 @@ public class Nav5 extends Fragment {
         listDataHeader = new ArrayList<String>();
         listHash = new HashMap<>();
 
-        listDataHeader.add("Saúde da população Negra");
-        listDataHeader.add("Doenças prevalecentes da população negra");
+        listDataHeader.add("Saúde da População Negra");
+        listDataHeader.add("Doenças Prevalecentes na População Negra");
         listDataHeader.add("Anemia Falciforme");
         listDataHeader.add("Diabetes Mellitus");
         listDataHeader.add("Hipertensão Arterial");
