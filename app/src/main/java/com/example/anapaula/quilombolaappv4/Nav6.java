@@ -56,7 +56,7 @@ public class Nav6 extends Fragment {
 
         listDataHeader.add("Redes de Atendimento");
         listDataHeader.add("O que é? Onde? Como acessar?");
-        listDataHeader.add("Serviço de Conveniência");
+        listDataHeader.add("Serviço de Convivência - SCFV");
         listDataHeader.add("Telefones Úteis em Porto Alegre");
 
         List<Integer> layoutList0 = new ArrayList<>();

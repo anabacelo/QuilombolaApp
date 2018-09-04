@@ -7,33 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5444ea9-7775-4172-96e4-1be9e0e7aa00" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v21/maria_felipa_de_oliveira.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rainha_tereza.jpg" />
-      <change beforePath="$PROJECT_DIR$/.idea/QuilombolaAppV4.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/QuilombolaApp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/anapaula/quilombolaappv4/Nav2.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/anapaula/quilombolaappv4/Nav2.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/anapaula/quilombolaappv4/Nav3.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/anapaula/quilombolaappv4/Nav3.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/anapaula/quilombolaappv4/Nav5.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/anapaula/quilombolaappv4/Nav5.java" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/anapaula/quilombolaappv4/Nav6.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/anapaula/quilombolaappv4/Nav6.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/anapaula/quilombolaappv4/Nav7.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/anapaula/quilombolaappv4/Nav7.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_nav10.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_nav10.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_nav8.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_nav8.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_doencas_prevalecente_negra.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_doencas_prevalecente_negra.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_quilombo_alpes.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_quilombo_alpes.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_quilombo_areal.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_quilombo_areal.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_quilombo_fidelix.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_quilombo_fidelix.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_quilombo_silva.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_quilombo_silva.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_quilombos_atendidos_sus.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_quilombos_atendidos_sus.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_saude_populacao_negra.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_saude_populacao_negra.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,18 +22,7 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ExpandableListAdapter.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/anapaula/quilombolaappv4/ExpandableListAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -2101,12 +2064,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_nav8.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/anapaula/quilombolaappv4/Nav6.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="212" />
-    <option name="y" value="153" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="414" />
+    <option name="y" value="120" />
     <option name="width" value="954" />
     <option name="height" value="705" />
   </component>
@@ -2151,6 +2115,17 @@
               <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="quilombolaappv4" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QuilombolaAppV4" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="QuilombolaAppV4" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
             </path>
           </expand>
           <select />
@@ -2345,8 +2320,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="212" y="153" width="954" height="705" extended-state="1" />
-    <editor active="true" />
+    <frame x="414" y="120" width="954" height="705" extended-state="0" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2363,7 +2337,7 @@
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3691275" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3691275" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -2437,17 +2411,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="32" lean-forward="false" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/anapaula/quilombolaappv4/Nav8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -2464,17 +2427,6 @@
         </state>
       </provider>
       <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
         <state />
       </provider>
     </entry>
@@ -2495,6 +2447,47 @@
           <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/anapaula/quilombolaappv4/Nav6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="58" column="57" lean-forward="false" selection-start-line="58" selection-start-column="57" selection-end-line="58" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_nav6.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="37" column="31" lean-forward="false" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
   </component>
