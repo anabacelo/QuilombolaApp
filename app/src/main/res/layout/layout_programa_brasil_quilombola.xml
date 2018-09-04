@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_programa_brasil_quilombola"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    tools:context="com.example.anapaula.quilombolaappv4.Nav3">
+
+            <TextView
+                android:id="@+id/title_programa_brasil_quilombola"
+                android:text="@string/titulo_programa_brasil_quilombola"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="21dp"
+                android:textAlignment="center"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/text_layout_texto_programa_brasil_quilombola"
+                android:text="@string/texto_programa_brasil_quilombola"
+                android:layout_below="@id/title_programa_brasil_quilombola"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="21dp"
+                android:textAlignment="center"
+                android:textSize="16sp" />
+
+</LinearLayout>

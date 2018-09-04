@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_diabete_mellitus"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView6"
+                android:text="@string/texto_popnegra04"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="21sp"
+                android:textAlignment="center"
+                android:layout_marginTop="21dp"
+                android:layout_alignParentStart="true"
+                android:autoLink="web"
+                android:linksClickable="true" />
+
+        </RelativeLayout>
+    </ScrollView>
+</LinearLayout>

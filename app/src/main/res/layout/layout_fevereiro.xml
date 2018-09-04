@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_fevereiro"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/imageViewFevereiro"
+                android:layout_below="@+id/textViewJaneiro31"
+                android:src="@drawable/mes_fevereiro"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="0sp"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center"
+                android:scaleType="center" />
+
+            <TextView
+                android:id="@+id/textViewFevereiro01"
+                android:layout_below="@+id/imageViewFevereiro"
+                android:text="@string/textoFevereiro01"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewFevereiro02"
+                android:layout_below="@+id/textViewFevereiro01"
+                android:text="@string/textoFevereiro02"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewFevereiro07"
+                android:layout_below="@+id/textViewFevereiro02"
+                android:text="@string/textoFevereiro07"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewFevereiro10"
+                android:layout_below="@+id/textViewFevereiro07"
+                android:text="@string/textoFevereiro10"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewFevereiro12"
+                android:layout_below="@+id/textViewFevereiro10"
+                android:text="@string/textoFevereiro12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textAlignment="center"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewFevereiro18"
+                android:layout_below="@+id/textViewFevereiro12"
+                android:text="@string/textoFevereiro18"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewFevereiro19"
+                android:layout_below="@+id/textViewFevereiro18"
+                android:text="@string/textoFevereiro19"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewFevereiro21"
+                android:layout_below="@+id/textViewFevereiro19"
+                android:text="@string/textoFevereiro21"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textSize="20sp" />
+        </RelativeLayout>
+    </ScrollView>
+</LinearLayout>

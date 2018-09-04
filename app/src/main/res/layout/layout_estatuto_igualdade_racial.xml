@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_estatudo_igualdade_racial"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    tools:context="com.example.anapaula.quilombolaappv4.Nav3">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/title_estatuto_igualdade_racial"
+                android:text="@string/titulo_estatuto_igualdade_racial"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="21dp"
+                android:textAlignment="center"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/text_estatuto_igualdade_racial"
+                android:text="@string/texto_estatuto_igualdade_racial"
+                android:layout_below="@id/title_estatuto_igualdade_racial"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="21dp"
+                android:autoLink="web"
+                android:linksClickable="true"
+                android:textAlignment="center"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/text_estatuto_igualdade_racial_complemento"
+                android:text="@string/texto_estatuto_igualdade_racial_complemento"
+                android:layout_below="@id/text_estatuto_igualdade_racial"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="21dp"
+                android:textAlignment="center"
+                android:textSize="16sp" />
+
+        </RelativeLayout>
+</LinearLayout>
