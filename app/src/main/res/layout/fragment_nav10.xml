@@ -21,8 +21,9 @@
                 android:layout_height="wrap_content"
                 android:layout_alignParentTop="true"
                 android:layout_centerHorizontal="true"
+                android:textStyle="bold"
                 android:layout_marginTop="16dp"
-                android:textSize="30sp" />
+                android:textSize="26sp" />
 
             <TextView
                 android:id="@+id/textViewTextoIntroducaoMulheresQuilombola"
@@ -32,16 +33,19 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
+                android:layout_marginTop="20dp"
                 android:textSize="20dp" />
 
             <TextView
                 android:id="@+id/textViewTextoByPatriciaGonçalves"
                 android:layout_below="@+id/textViewTextoIntroducaoMulheresQuilombola"
                 android:text="@string/textoByPatriciaGonçalves"
-                android:layout_centerHorizontal="true"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:textStyle="bold"
                 android:textAlignment="center"
+                android:layout_marginTop="20dp"
                 android:textSize="30dp" />
 
             <TextView
@@ -52,6 +56,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
+                android:layout_marginTop="20dp"
                 android:textSize="20dp" />
 
             <TextView
@@ -61,7 +66,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
-                android:layout_alignParentTop="false"
+                android:textStyle="bold"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
@@ -71,17 +77,19 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
-                android:layout_alignParentTop="false"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloDoisAnastacia"
                 android:layout_below="@+id/textViewTextoUmDandara"
                 android:text="@string/textoTituloDoisAnastacia"
-                android:textAlignment="center"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
+                android:layout_centerHorizontal="true"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
@@ -90,18 +98,21 @@
                 android:text="@string/textoDoisAnastacia"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textAlignment="center"
                 android:layout_alignParentTop="false"
+                android:textAlignment="center"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloTresLuizaMahin"
                 android:layout_below="@+id/textViewTextoDoisAnastacia"
                 android:text="@string/textoTituloTresLuizaMahin"
-                android:textAlignment="center"
+                android:layout_centerHorizontal="true"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
@@ -112,15 +123,19 @@
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
                 android:layout_alignParentTop="false"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloQuatroTereza"
                 android:layout_below="@+id/textViewTextoTresLuizaMahin"
-                android:text="@string/textoTituloTresLuizaMahin"
-                android:textAlignment="center"
+                android:text="@string/textoTituloQuatroTereza"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
@@ -130,16 +145,20 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloCincoAqualtune"
                 android:layout_below="@+id/textViewTextoQuatroTereza"
                 android:text="@string/textoTituloCincoAqualtune"
-                android:textAlignment="center"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_alignParentTop="false"
+                android:layout_centerHorizontal="true"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
@@ -148,18 +167,22 @@
                 android:text="@string/textoCincoAqualtune"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
                 android:textAlignment="center"
                 android:layout_alignParentTop="false"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloSeisZeferina"
                 android:layout_below="@+id/textViewTextoCincoAqualtune"
                 android:text="@string/textoTituloSeisZeferina"
-                android:textAlignment="center"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
+                android:layout_centerHorizontal="true"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
@@ -168,18 +191,22 @@
                 android:text="@string/textoSeisZeferina"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
                 android:textAlignment="center"
                 android:layout_alignParentTop="false"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloSeteMariaFelipa"
                 android:layout_below="@+id/textViewTextoSeisZeferina"
                 android:text="@string/textoTituloSeteMariaFelipa"
-                android:textAlignment="center"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
+                android:layout_centerHorizontal="true"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
@@ -190,6 +217,7 @@
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
                 android:layout_alignParentTop="false"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <ImageView
@@ -200,16 +228,19 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
+                android:layout_marginTop="20dp"
                 android:layout_marginLeft="5dp" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloOitoAcotirene"
                 android:layout_below="@+id/imageViewMariaFelipadeOliveira"
                 android:text="@string/textoTituloSeteMariaFelipa"
-                android:textAlignment="center"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
+                android:layout_centerHorizontal="true"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
@@ -220,16 +251,19 @@
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
                 android:layout_alignParentTop="false"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloNoveAdelina"
                 android:layout_below="@+id/textViewTextoOitoAcotirene"
                 android:text="@string/textoTituloSeteMariaFelipa"
-                android:textAlignment="center"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
+                android:layout_centerHorizontal="true"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
@@ -240,16 +274,19 @@
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
                 android:layout_alignParentTop="false"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloDezRainha"
                 android:layout_below="@+id/textViewTextoNoveAdelina"
                 android:text="@string/textoTituloSeteMariaFelipa"
-                android:textAlignment="center"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
+                android:layout_centerHorizontal="true"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
@@ -258,8 +295,10 @@
                 android:text="@string/textoNoveAdelina"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
                 android:textAlignment="center"
                 android:layout_alignParentTop="false"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <ImageView
@@ -270,16 +309,19 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
+                android:layout_marginTop="20dp"
                 android:layout_marginLeft="5dp" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloOnzeMariana"
                 android:layout_below="@+id/imageViewRainhaTereza"
                 android:text="@string/textoTituloOnzeMariana"
-                android:textAlignment="center"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
+                android:layout_centerHorizontal="true"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
@@ -290,16 +332,19 @@
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
                 android:layout_alignParentTop="false"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloDozeEsperanca"
                 android:layout_below="@+id/textViewTextoOnzeMariana"
                 android:text="@string/textoTituloDozeEsperanca"
-                android:textAlignment="center"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
+                android:layout_centerHorizontal="true"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
@@ -310,16 +355,19 @@
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
                 android:layout_alignParentTop="false"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloTrezeMariaFirmina"
                 android:layout_below="@+id/textViewTextoDozeEsperanca"
                 android:text="@string/textoTituloTrezeMariaFirmina"
-                android:textAlignment="center"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
+                android:layout_centerHorizontal="true"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
@@ -330,16 +378,19 @@
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
                 android:layout_alignParentTop="false"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloQuatorzeEvaMaria"
                 android:layout_below="@+id/textViewTextoTrezeMariaFirmina"
                 android:text="@string/textoTituloQuatorzeEvaMaria"
-                android:textAlignment="center"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
+                android:layout_centerHorizontal="true"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
@@ -350,16 +401,19 @@
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
                 android:layout_alignParentTop="false"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloQuinzeMariaAranha"
                 android:layout_below="@+id/textViewTextoQuatorzeEvaMaria"
                 android:text="@string/textoTituloQuinzeMariaAranha"
-                android:textAlignment="center"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
+                android:layout_centerHorizontal="true"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
@@ -370,16 +424,19 @@
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
                 android:layout_alignParentTop="false"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloDezeseisNaAgontime"
                 android:layout_below="@+id/textViewTextoQuinzeMariaAranha"
                 android:text="@string/textoTituloDezeseisNaAgontime"
-                android:textAlignment="center"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
+                android:layout_centerHorizontal="true"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
@@ -390,16 +447,19 @@
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
                 android:layout_alignParentTop="false"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloDezeseteTiaSimoa"
                 android:layout_below="@+id/textViewTextoDezeseisNaAgontime"
                 android:text="@string/textoTituloDezeseteTiaSimoa"
-                android:textAlignment="center"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
+                android:layout_centerHorizontal="true"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
@@ -410,16 +470,19 @@
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
                 android:layout_alignParentTop="false"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloDezoitoZacimba"
                 android:layout_below="@+id/textViewTextoDezeseteTiaSimoa"
                 android:text="@string/textoTituloDezoitoZacimba"
-                android:textAlignment="center"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
+                android:layout_centerHorizontal="true"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
             <TextView
@@ -430,6 +493,7 @@
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
                 android:layout_alignParentTop="false"
+                android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
         </RelativeLayout>
