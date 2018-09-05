@@ -23,7 +23,7 @@
                 android:layout_centerHorizontal="true"
                 android:textStyle="bold"
                 android:layout_marginTop="16dp"
-                android:textSize="26sp" />
+                android:textSize="20sp" />
 
             <TextView
                 android:id="@+id/textViewTextoIntroducaoMulheresQuilombola"
@@ -493,6 +493,18 @@
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
                 android:layout_alignParentTop="false"
+                android:layout_marginTop="20dp"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewTextoDireitosAutoraisGeledesOrg"
+                android:layout_below="@+id/textViewTextoDezoitoZacimba"
+                android:text="@string/textoDireitosAutoraisGeledesOrg"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:layout_alignParentTop="false"
+                android:autoLink="all"
                 android:layout_marginTop="20dp"
                 android:textSize="20sp" />
 
