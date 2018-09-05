@@ -33,7 +33,6 @@
             android:id="@+id/nav_5"
             android:icon="@drawable/ic_core"
             android:title="Saúde da População Negra" />
-
         <item
             android:id="@+id/nav_6"
             android:icon="@drawable/ic_atendimento"
