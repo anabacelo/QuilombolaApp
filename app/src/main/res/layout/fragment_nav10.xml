@@ -19,9 +19,9 @@
                 android:text="@string/textoTituloMulheresQuilombola"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textStyle="bold"
                 android:layout_alignParentTop="true"
                 android:layout_centerHorizontal="true"
+                android:textStyle="bold"
                 android:layout_marginTop="16dp"
                 android:textSize="26sp" />
 
@@ -40,9 +40,10 @@
                 android:id="@+id/textViewTextoByPatriciaGonçalves"
                 android:layout_below="@+id/textViewTextoIntroducaoMulheresQuilombola"
                 android:text="@string/textoByPatriciaGonçalves"
-                android:layout_centerHorizontal="true"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:textStyle="bold"
                 android:textAlignment="center"
                 android:layout_marginTop="20dp"
                 android:textSize="30dp" />
