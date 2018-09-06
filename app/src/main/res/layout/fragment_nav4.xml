@@ -34,7 +34,7 @@
                 android:paddingTop="0px"
                 android:layout_marginLeft="5dp" />
 
-            <TextView
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textView2"
                 android:text="@string/texto_histcult01"
                 android:layout_below="@+id/imageView1"

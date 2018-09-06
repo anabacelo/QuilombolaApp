@@ -1169,7 +1169,7 @@ Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l128
 
     <!-- Mulheres Quilombola -->
     <string name="textoTituloMulheresQuilombola">
-        Mulheres Quilombola na História
+        Mulheres Quilombolas na História
     </string>
 
     <string name="textoIntroducaoMulheresQuilombola">
@@ -1366,7 +1366,5 @@ Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l128
         <a href="https://www.geledes.org.br/17-mulheres-negras-brasileiras-que-lutaram-contra-escravidao/">Site:
             https://www.geledes.org.br/17-mulheres-negras-brasileiras-que-lutaram-contra-escravidao/</a>".
     </string>
-
-
     <!-- Mulheres Quilombola -->
 </resources>
