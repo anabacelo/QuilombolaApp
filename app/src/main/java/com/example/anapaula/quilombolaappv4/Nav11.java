@@ -59,7 +59,7 @@ public class Nav11 extends Fragment {
 
 
         listDataHeader = new ArrayList<String>();
-        listHashMap = new HashMap();
+        listHashMap = new HashMap<String, List<Integer>>();
 
 
         listDataHeader.add("Janeiro");
