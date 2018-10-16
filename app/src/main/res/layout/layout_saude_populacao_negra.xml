@@ -27,7 +27,7 @@
 
             <ImageView
                 android:id="@+id/imageViewPopulacaoNegra"
-                app:srcCompat="@drawable/saudedapopnegra"
+                android:src="@drawable/saudedapopnegra"
                 android:layout_below="@+id/textViewTituloPopulacaoNegra"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

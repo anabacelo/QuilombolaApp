@@ -8,7 +8,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
-        <TextView
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/title_layout_lei_maria_da_penha"
             android:text="@string/titulo_lei_maria_da_penha"
             android:layout_width="match_parent"
@@ -17,7 +17,6 @@
             android:paddingBottom="5dp"
             android:autoLink="web"
             android:linksClickable="true"
-            android:textAlignment="center"
             android:textSize="16sp" />
 
     </RelativeLayout>

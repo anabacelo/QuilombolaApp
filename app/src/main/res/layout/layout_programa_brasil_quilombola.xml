@@ -20,14 +20,12 @@
                 android:textAlignment="center"
                 android:textSize="16sp" />
 
-            <TextView
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/text_layout_texto_programa_brasil_quilombola"
                 android:text="@string/texto_programa_brasil_quilombola"
                 android:layout_below="@id/title_programa_brasil_quilombola"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="21dp"
-                android:textAlignment="center"
                 android:textSize="16sp" />
-
 </LinearLayout>

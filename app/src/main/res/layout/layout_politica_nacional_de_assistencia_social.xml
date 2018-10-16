@@ -15,7 +15,7 @@
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
-            <TextView
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/lblListItem_title_layout_estatudo_idoso"
                 android:text="@string/politica_nacional_de_assistencia_social"
                 android:layout_width="match_parent"
@@ -23,7 +23,6 @@
                 android:layout_marginTop="21dp"
                 android:autoLink="web"
                 android:linksClickable="true"
-                android:textAlignment="center"
                 android:textSize="16sp" />
 
             <ImageView
@@ -34,7 +33,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="10dp" />
 
-            <TextView
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/lblListItem_text_layout_estatudo_idoso"
                 android:text="@string/texto_lei_legislacao_conselho_tutelar"
                 android:layout_below="@id/list_item_icon"
@@ -43,7 +42,6 @@
                 android:layout_marginTop="21dp"
                 android:autoLink="web"
                 android:linksClickable="true"
-                android:textAlignment="center"
                 android:textSize="16sp" />
 
         </RelativeLayout>

@@ -5,24 +5,30 @@ buildscript {
         jcenter()
         google()
     }
+
     dependencies {
-        classpath 'com.android.tools.build:gradle:3.1.4'
+//        classpath 'com.android.tools.build:gradle:1.5.0'
+//        classpath 'com.android.tools.build:gradle:2.0.0'
+        classpath 'com.android.tools.build:gradle:3.2.0'
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
-        classpath 'com.android.tools.build:gradle:3.1.0'
         classpath 'com.google.gms:google-services:3.2.0'
-        //compile 'com.android.support:design:22.2.0' //
+        classpath "android.arch.navigation:navigation-safe-args-gradle-plugin:1.0.0-alpha06"
     }
 }
 
 allprojects {
-gradle.projectsEvaluated
-        {
-            tasks.withType((JavaCompile))
-}
+    gradle.projectsEvaluated {
+            tasks.withType((JavaCompile)) {
+                options.compilerArgs << '-Xlint:unchecked' << '-Xlint:deprecation'
+                options.deprecation = true
+            }
+    }
+
     repositories {
         jcenter()
         google()
+        mavenCentral()
     }
 }
 
