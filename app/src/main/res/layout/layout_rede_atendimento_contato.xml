@@ -24,7 +24,7 @@
                 android:textAlignment="center"
                 android:textSize="25sp" />
 
-            <TextView
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textView6"
                 android:text="@string/texto_assitencial03"
                 android:layout_below="@id/textView5"
@@ -44,16 +44,16 @@
                 android:textAlignment="center"
                 android:textSize="25sp" />
 
-            <TextView
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textView8"
                 android:text="@string/texto_assitencial04"
                 android:layout_below="@id/textView7"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="21dp"
-                android:textAlignment="center"
-                android:textSize="18sp" />
-
+                android:textSize="18sp"
+                android:layout_marginLeft="12dp"
+                android:layout_marginRight="12dp" />
         </RelativeLayout>
     </ScrollView>
 </LinearLayout>

@@ -21,7 +21,7 @@
                 android:text="@string/titulo_beneficios02"
                 android:textSize="25sp" />
 
-            <TextView
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textView4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -31,7 +31,9 @@
                 android:textAlignment="center"
                 android:autoLink="web"
                 android:linksClickable="true"
-                android:text="@string/texto_beneficios02" />
+                android:text="@string/texto_beneficios02"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp" />
         </RelativeLayout>
     </ScrollView>
 </LinearLayout>

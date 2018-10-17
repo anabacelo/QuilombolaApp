@@ -30,15 +30,16 @@
             android:layout_height="wrap_content"
             android:src="@drawable/convivencia" />
 
-        <TextView
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textView10"
             android:text="@string/texto_assitencial05"
             android:layout_below="@id/imageView3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="21dp"
-            android:textAlignment="center"
-            android:textSize="20sp" />
+            android:textSize="20sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
 
         </RelativeLayout>
     </ScrollView>

@@ -21,17 +21,18 @@
             android:text="Serviços e Benefícios Sociais"
             android:textSize="27sp" />
 
-        <TextView
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textView2"
             android:layout_below="@id/textView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="20sp"
             android:layout_marginTop="20sp"
-            android:textAlignment="center"
             android:autoLink="web"
             android:linksClickable="true"
-            android:text="@string/texto_beneficios01" />
+            android:text="@string/texto_beneficios01"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
         </RelativeLayout>
     </ScrollView>
 </LinearLayout>
