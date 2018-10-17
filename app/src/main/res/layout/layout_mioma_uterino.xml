@@ -14,7 +14,7 @@
             android:layout_height="wrap_content"
             android:orientation="vertical" >
 
-            <TextView
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textView8"
                 android:text="@string/texto_popnegra06"
                 android:layout_width="match_parent"

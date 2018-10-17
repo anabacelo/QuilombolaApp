@@ -43,7 +43,9 @@
                 android:textAlignment="center"
                 android:layout_alignParentTop="false"
                 android:paddingTop="10dp"
-                android:textSize="20sp" />
+                android:textSize="20sp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp" />
 
             <ImageView
                 android:id="@+id/imageView3"
@@ -57,7 +59,7 @@
                 android:paddingTop="10dp"
                 android:layout_marginLeft="5dp" />
 
-            <TextView
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textView4"
                 android:text="@string/texto_histcult01_part02"
                 android:layout_below="@+id/imageView3"
@@ -66,7 +68,9 @@
                 android:textAlignment="center"
                 android:layout_alignParentTop="false"
                 android:paddingTop="10dp"
-                android:textSize="20sp" />
+                android:textSize="20sp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp" />
 
             <ImageView
                 android:id="@+id/imageView5"
@@ -80,7 +84,7 @@
                 android:paddingTop="10dp"
                 android:layout_marginLeft="0sp" />
 
-            <TextView
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textView6"
                 android:text="@string/texto_histcult01_part03"
                 android:layout_below="@+id/imageView5"
@@ -89,7 +93,9 @@
                 android:layout_height="wrap_content"
                 android:layout_alignParentTop="false"
                 android:paddingTop="10dp"
-                android:textSize="20sp" />
+                android:textSize="20sp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp" />
         </RelativeLayout>
     </ScrollView>
 </LinearLayout>

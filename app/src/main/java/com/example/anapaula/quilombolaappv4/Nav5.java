@@ -72,16 +72,16 @@ public class Nav5 extends Fragment {
         layoutList1.add(layoutDoencasPrevalecenteNegra);
 
         List<Integer> layoutList2 = new ArrayList<>();
-        layoutList2.add(layoutMiomaUterino);
+        layoutList2.add(layoutAnemiaFalciforme);
 
         List<Integer> layoutList3 = new ArrayList<>();
-        layoutList3.add(layoutAnemiaFalciforme);
+        layoutList3.add(layoutDiabeteMellitus);
 
         List<Integer> layoutList4 = new ArrayList<>();
-        layoutList4.add(layoutDiabeteMellitus);
+        layoutList4.add(layoutHipertensaoArterial);
 
         List<Integer> layoutList5 = new ArrayList<>();
-        layoutList5.add(layoutHipertensaoArterial);
+        layoutList5.add(layoutMiomaUterino);
 
         List<Integer> layoutList6 = new ArrayList<>();
         layoutList6.add(layoutQuilombosAtendidosSUS);

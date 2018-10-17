@@ -35,7 +35,7 @@
                 android:layout_alignParentStart="true"
                 android:layout_alignParentLeft="true" />
 
-            <TextView
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoPopulacaoNegra"
                 android:text="@string/texto_popnegra01"
                 android:layout_below="@+id/imageViewPopulacaoNegra"

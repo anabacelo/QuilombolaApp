@@ -14,7 +14,7 @@
             android:layout_height="wrap_content"
             android:orientation="vertical" >
 
-            <TextView
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textView3"
                 android:text="@string/texto_popnegra02"
                 android:layout_width="match_parent"
@@ -26,7 +26,6 @@
                 android:layout_marginTop="21dp"
                 android:layout_alignParentStart="true"
                 android:layout_alignParentLeft="true" />
-
         </RelativeLayout>
     </ScrollView>
 </LinearLayout>
