@@ -23,75 +23,82 @@
                 android:layout_gravity="center"
                 android:scaleType="center" />
 
-            <TextView
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewJaneiro02"
                 android:layout_below="@+id/imagemJaneiro"
                 android:text="@string/textoJaneiro02"
                 android:layout_marginTop="10dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textAlignment="center"
-                android:textSize="20sp" />
+                android:textSize="20sp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp" />
 
-            <TextView
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewJaneiro06"
                 android:layout_below="@+id/textViewJaneiro02"
                 android:text="@string/textoJaneiro06"
                 android:layout_marginTop="10dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textAlignment="center"
-                android:textSize="20sp" />
+                android:textSize="20sp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp" />
 
-            <TextView
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewJaneiro09"
                 android:layout_below="@+id/textViewJaneiro06"
                 android:text="@string/textoJaneiro09"
                 android:layout_marginTop="10dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textAlignment="center"
-                android:textSize="20sp" />
+                android:textSize="20sp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp" />
 
-            <TextView
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewJaneiro13"
                 android:layout_below="@+id/textViewJaneiro09"
                 android:text="@string/textoJaneiro13"
                 android:layout_marginTop="10dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textAlignment="center"
-                android:textSize="20sp" />
+                android:textSize="20sp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp" />
 
-            <TextView
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewJaneiro15"
                 android:layout_below="@+id/textViewJaneiro13"
                 android:text="@string/textoJaneiro15"
                 android:layout_marginTop="10dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textAlignment="center"
-                android:textSize="20sp" />
+                android:textSize="20sp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp" />
 
-            <TextView
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewJaneiro29"
                 android:layout_below="@+id/textViewJaneiro15"
                 android:text="@string/textoJaneiro29"
                 android:layout_marginTop="10dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textAlignment="center"
-                android:textSize="20sp" />
+                android:textSize="20sp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp" />
 
-            <TextView
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewJaneiro31"
                 android:layout_below="@+id/textViewJaneiro29"
                 android:text="@string/textoJaneiro31"
                 android:layout_marginTop="10dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textAlignment="center"
-                android:textSize="20sp" />
+                android:textSize="20sp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp" />
         </RelativeLayout>
     </ScrollView>
 </LinearLayout>

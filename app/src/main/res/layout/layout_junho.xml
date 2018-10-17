@@ -25,35 +25,38 @@
             android:layout_gravity="center"
             android:scaleType="center" />
 
-        <TextView
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewJunho06"
             android:layout_below="@+id/imageViewJunho"
             android:text="@string/textoJunho06"
             android:layout_marginTop="10dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textAlignment="center"
-            android:textSize="20sp" />
+            android:textSize="20sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
 
-        <TextView
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewJunho21"
             android:layout_below="@+id/textViewJunho06"
             android:text="@string/textoJunho21"
             android:layout_marginTop="10dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textAlignment="center"
-            android:textSize="20sp" />
+            android:textSize="20sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
 
-        <TextView
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewJunho24"
             android:layout_below="@+id/textViewJunho21"
             android:text="@string/textoJunho24"
             android:layout_marginTop="10dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textAlignment="center"
-            android:textSize="20sp" />
+            android:textSize="20sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
         </RelativeLayout>
     </ScrollView>
 </LinearLayout>
