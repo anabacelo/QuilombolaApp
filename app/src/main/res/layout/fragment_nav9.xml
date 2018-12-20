@@ -55,11 +55,79 @@
                 android:textAlignment="center"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:paddingTop="10dp"
+                android:textSize="18sp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="50dp" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewAbayomiTitulo"
+                android:layout_below="@+id/textViewUbuntuComplemento"
+                android:text="@string/texto_curiosidade_abayomi_titulo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:textAlignment="center"
+                android:paddingTop="30dp"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewAbayomiTexto"
+                android:layout_below="@+id/textViewAbayomiTitulo"
+                android:text="@string/texto_curiosidade_abayomi_texto"
+                android:textAlignment="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="false"
+                android:paddingTop="10dp"
+                android:textSize="18sp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:textStyle="bold" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewtextViewAbayomiComplemento"
+                android:layout_below="@+id/textViewAbayomiTexto"
+                android:text="@string/texto_curiosidade_abayomi_complemento"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:layout_alignParentTop="false"
                 android:paddingTop="10dp"
                 android:textSize="18sp"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewtextViewAbayomiLink"
+                android:layout_below="@+id/textViewtextViewAbayomiComplemento"
+                android:text="@string/texto_curiosidade_abayomi_link"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="false"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:paddingTop="10dp"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:autoLink="web"
+                android:linksClickable="true" />
+
+            <ImageView
+                android:id="@+id/imageViewAbaomi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textViewtextViewAbayomiLink"
+                android:layout_marginStart="45dp"
+                android:paddingTop="50px"
+                android:scaleType="fitCenter"
+                android:src="@drawable/abayomi"
+                android:textAlignment="center"
+                android:layout_marginBottom="50dp" />
+
+
 
         </RelativeLayout>
     </ScrollView>

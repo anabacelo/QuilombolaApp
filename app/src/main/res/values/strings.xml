@@ -1064,6 +1064,37 @@ Ubuntu é uma palavra que apresenta significados humanísticos como a solidaried
     </string>
 
 
+    <string name="texto_curiosidade_quilombo_palmas_titulo">
+    “*********Quilombo Palmas”
+    </string>
+
+    <string name="texto_curiosidade_quilombo_palmas_link">
+    ***************Documentário sobre Quilombo Palmas.
+        Link: https://www.youtube.com/watch?v=NjpvaP8rIgA
+    </string>
+
+
+    <string name="texto_curiosidade_abayomi_titulo">
+    “Abayomi”
+    </string>
+
+    <string name="texto_curiosidade_abayomi_texto">
+    Você sabia que as bonecas conhecidas como Abayomi são um símbolo de resistência das mulheres negras?
+    </string>
+
+    <string name="texto_curiosidade_abayomi_complemento">
+    No período da escravização, as mulheres negras trazidas da África para o Brasil nos tumbeiros - grandes barcos
+        utilizados para o transporte de pessoas escravizadas - proporcionavam acalento aos seus filhos confeccionando as
+        Abayomi com retalhos cortados de suas roupas. As bonecas, feitas em nós e tranças tinhas diversas cores e tamanhos,
+        conforme os retalhos cortados, o que representava a diversidade das etnias africanas, sendo chamadas de Abayomi,
+        "encontro precioso", em Iorubá. Saiba mais em:
+    </string>
+
+    <string name="texto_curiosidade_abayomi_link">
+        https://www.geledes.org.br/bonecas-abayomi-simbolo-de-resistencia-tradicao-e-poder-feminino/
+    </string>
+
+
 <!-- CURIOSIDADES -->
 
 
