@@ -128,6 +128,44 @@
                 android:layout_marginBottom="50dp" />
 
 
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewtextViewPalmasTitulo"
+                android:layout_below="@+id/imageViewAbaomi"
+                android:text="@string/texto_curiosidade_palmas_titulo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:paddingTop="20dp"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewtextViewPalmasTexto"
+                android:layout_below="@+id/textViewtextViewPalmasTitulo"
+                android:text="@string/texto_curiosidade_palmas_texto"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="false"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:paddingTop="10dp"
+                android:textSize="18sp" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewtextViewPalmasLink"
+                android:layout_below="@+id/textViewtextViewPalmasTexto"
+                android:text="@string/texto_curiosidade_palmas_link"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="false"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:paddingTop="10dp"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:autoLink="web"
+                android:linksClickable="true" />
 
         </RelativeLayout>
     </ScrollView>

@@ -1063,17 +1063,6 @@ Ubuntu é uma palavra que apresenta significados humanísticos como a solidaried
         com a nossa alma (com o nosso ser interno), buscando o nosso bem-estar e o de todos à nossa volta.
     </string>
 
-
-    <string name="texto_curiosidade_quilombo_palmas_titulo">
-    “*********Quilombo Palmas”
-    </string>
-
-    <string name="texto_curiosidade_quilombo_palmas_link">
-    ***************Documentário sobre Quilombo Palmas.
-        Link: https://www.youtube.com/watch?v=NjpvaP8rIgA
-    </string>
-
-
     <string name="texto_curiosidade_abayomi_titulo">
     “Abayomi”
     </string>
@@ -1094,7 +1083,17 @@ Ubuntu é uma palavra que apresenta significados humanísticos como a solidaried
         https://www.geledes.org.br/bonecas-abayomi-simbolo-de-resistencia-tradicao-e-poder-feminino/
     </string>
 
+    <string name="texto_curiosidade_palmas_titulo">
+    “Quilombo Palmas”
+    </string>
 
+    <string name="texto_curiosidade_palmas_texto">
+    Documentário sobre Quilombo Palmas.
+    </string>
+
+    <string name="texto_curiosidade_palmas_link">
+        https://www.youtube.com/watch?v=NjpvaP8rIgA
+    </string>
 <!-- CURIOSIDADES -->
 
 
