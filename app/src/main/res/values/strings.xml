@@ -1036,6 +1036,40 @@ Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l128
 </string>
 
 
+
+
+
+<!-- CURIOSIDADES -->
+
+    <string name="texto_curiosidade_ubuntu_titulo">
+    “UBUNTU”
+    </string>
+
+    <string name="texto_curiosidade_ubuntu_introducao">
+    “UBUNTU é uma antiga palavra africana e tem origem na língua Zulu (pertencente ao grupo.”
+    </string>
+
+    <string name="texto_curiosidade_ubuntu_complemento">
+A palavra Ubuntu possui diversos significados, mas dois deles são os mais citados nos mecanismos de pesquisa, são eles:
+
+"Humanidade para os outros" ou "Sou o que sou pelo que nós somos". É uma palavra paroxítona, que se pronuncia
+        uBuntu (de forma figurada seria algo assim: ubúntu). Ubuntu é uma antiga palavra africana e
+        tem origem na língua Zulu (pertencente ao grupo linguístico bantu) e
+        significa que "uma pessoa é uma pessoa através (por meio) de outras pessoas".po linguístico bantu) e
+        significa que "uma pessoa é uma pessoa através (por meio) de outras pessoas.”
+
+Ubuntu é uma palavra que apresenta significados humanísticos como a solidariedade, a cooperação,
+        o respeito, o acolhimento, a generosidade, entre muitas outras ações que realizamos em sintonia
+        com a nossa alma (com o nosso ser interno), buscando o nosso bem-estar e o de todos à nossa volta.
+    </string>
+
+
+<!-- CURIOSIDADES -->
+
+
+
+
+
     <string name="texto_calendario01">  </string>
     <string name="texto_calendario02">  </string>
     <string name="texto_calendario03">  </string>
