@@ -20,8 +20,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
-
+public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener
+{
     static {
         AppCompatDelegate.setCompatVectorFromResourcesEnabled(true);
     }
@@ -187,6 +187,14 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             fragmentManager.beginTransaction().replace(R.id.fragment, nav10).commit();
         }
 
+        else if (id == R.id.layoutRedeEnfrentamentoViolencia)
+        {
+            setTitle("Aplicativo Quilombola");  // Rede de enfrentamento à violência
+
+            RedeEnfrentamentoViolencia layoutRedeEnfrentamentoViolencia = new RedeEnfrentamentoViolencia();
+            android.support.v4.app.FragmentManager fragmentManager = getSupportFragmentManager();
+            fragmentManager.beginTransaction().replace(R.id.fragment, layoutRedeEnfrentamentoViolencia).commit();
+        }
 
         else if (id == R.id.nav_Login) {
             setTitle("Login");
@@ -198,7 +206,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             android.support.v4.app.ActivityManagerCompat actManager = getSupportParentActivityIntent();
             fragmentManager.beginTransaction().replace(R.id.fragment, loginActivity).commit();
             */
-
         }
 
         /*else if (id == R.id.nav_9) {

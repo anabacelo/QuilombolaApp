@@ -33,10 +33,16 @@
             android:id="@+id/nav_5"
             android:icon="@drawable/ic_core"
             android:title="Saúde da População Negra" />
+
         <item
             android:id="@+id/nav_6"
             android:icon="@drawable/ic_atendimento"
             android:title="Redes de Atendimento" />
+        
+        <item
+            android:id="@+id/layoutRedeEnfrentamentoViolencia"
+            android:icon="@drawable/ic_people"
+            android:title="Rede de enfrentamento" />
 
         <item
             android:id="@+id/nav_7"
