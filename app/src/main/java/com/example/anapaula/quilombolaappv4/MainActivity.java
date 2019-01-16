@@ -98,10 +98,8 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         // Handle navigation view item clicks here.
         int id = item.getItemId();
 
-        if (id == R.id.nav_homepage) {
-//            Intent intent = new Intent(MainActivity.this, MainActivity.class);
-//            startActivity(intent);
-
+        if (id == R.id.nav_homepage)
+        {
             setTitle("Aplicativo Quilombola");  // PÁGINA INICIAL
             HomePage homepage = new HomePage();
             android.support.v4.app.FragmentManager fragmentManager = getSupportFragmentManager();
@@ -201,19 +199,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             Nav_Login nav_login = new Nav_Login();
             android.support.v4.app.FragmentManager fragmentManager = getSupportFragmentManager();
             fragmentManager.beginTransaction().replace(R.id.fragment, nav_login).commit();
-
-          /*  LoginActivity loginActivity = new LoginActivity();
-            android.support.v4.app.ActivityManagerCompat actManager = getSupportParentActivityIntent();
-            fragmentManager.beginTransaction().replace(R.id.fragment, loginActivity).commit();
-            */
         }
-
-        /*else if (id == R.id.nav_9) {
-            setTitle("Teste página com scrool");
-            Nav9 nav9 = new Nav9();
-            android.support.v4.app.FragmentManager fragmentManager = getSupportFragmentManager();
-            fragmentManager.beginTransaction().replace(R.id.fragment, nav9).commit();
-        } */
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);

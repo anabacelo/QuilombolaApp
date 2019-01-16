@@ -61,13 +61,6 @@
                 android:layout_marginRight="10dp"
                 android:layout_marginBottom="50dp" />
 
-
-
-
-
-
-
-
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewAbayomiTitulo"
                 android:layout_below="@+id/textViewUbuntuComplemento"
