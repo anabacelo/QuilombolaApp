@@ -1488,12 +1488,12 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         Agora, ela tem uma sala de espera diferenciada para fazer o exame de lesões e a perícia psíquica,
         onde promovemos um acolhimento mais qualificado e colocamos à disposição o atendimento com psicólogas e assistentes sociais.
         \n\n
-        Departamento Médico-Legal
-        Endereço: Avenida Ipiranga, 1807 Bairro: Santana
-        Cidade: Porto Alegre – RS, Cep: 90160.093
-        Telefones do DML:
-        Atendimento ao Público: (51) 3288-2656
-        Secretaria DML: (51) 3288-2654
+        Departamento Médico-Legal \n
+        Endereço: Avenida Ipiranga, 1807 Bairro: Santana \n
+        Cidade: Porto Alegre – RS, Cep: 90160.093 \n
+        Telefones do DML: \n
+        Atendimento ao Público: (51) 3288-2656 \n
+        Secretaria DML: (51) 3288-2654 \n
         Divisão de Perícias da Capital
     </string>
 
@@ -1512,24 +1512,39 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         melhoria da qualidade de vida e a ampliação do conhecimento e do acesso aos direitos humanos.
         \n\n
         Endereço: Rua Xavier de Carvalho, 80 – Bairro Sarandi, na zona norte de
-        Porto Alegre.
+        Porto Alegre. \n
         Fone: (51) 3344.9591
         \n\n
         <b>Ações desenvolvidas</b>:
         \n
         No Projeto Geração de Renda são desenvolvidas as seguintes técnicas:
-        \n
-        Embelezamento Afro
-        Estamparia
-        Trabalho Educativo
-        Casas Lares
-        Ações Complementares (Oficinas):
-        Sexualidade e DST
-        Gestão e Liderança
-        Mundo do Trabalho
-        Participação Comunitária
-        Contação de Histórias
+        \n\n
+        Embelezamento Afro \n
+        Estamparia \n
+        Trabalho Educativo \n
+        Casas Lares \n
+        Ações Complementares (Oficinas): \n
+        Sexualidade e DST \n
+        Gestão e Liderança \n
+        Mundo do Trabalho \n
+        Participação Comunitária \n
+        Contação de Histórias \n
         Segurança Alimentar
+    </string>
+
+    <string name = "textoTituloOngMariaMulher">
+        ONG Maria Mulher
+    </string>
+
+    <string name = "textoLinkOngMariaMulher">
+        http://www.mariamulher.org.br/
+    </string>
+
+    <string name = "textoOngMariaMulher">
+        Nossa missão é a defesa dos direitos humanos das populações marginalizadas excluídas, principalmente de afrodescendentes e o combate às discriminações.
+        \n\n
+        Endereço: Av. Moab Caldas, 2035 - Santa Teresa, Porto Alegre, 90880-310 \n
+        Telefone: (51) 3219-0180
     </string>
     <!-- Fim: Rede de enfrentamento a Violência contra a mulher -->
 </resources>

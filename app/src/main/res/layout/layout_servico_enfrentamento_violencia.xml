@@ -178,5 +178,42 @@
             android:textSize="16sp"
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoTituloOngMariaMulher"
+            android:layout_below="@id/textViewTextoSempreMulher"
+            android:text="@string/textoTituloOngMariaMulher"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:textStyle="bold" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoLinkOngMariaMulher"
+            android:layout_below="@id/textViewTextoTituloOngMariaMulher"
+            android:text="@string/textoLinkOngMariaMulher"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:autoLink="web"
+            android:linksClickable="true"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoOngMariaMulher"
+            android:layout_below="@id/textViewTextoLinkOngMariaMulher"
+            android:text="@string/textoOngMariaMulher"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
+
     </RelativeLayout>
 </LinearLayout>
