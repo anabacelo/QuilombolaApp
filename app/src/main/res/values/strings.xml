@@ -1473,5 +1473,28 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         para atuarem com mais sensibilidade e conhecimento sobre a realidade das vítimas e para entenderem a enorme dificuldade que elas têm de denunciarem seus agressores.
         A patrulha iniciou sua atividade em Porto Alegre e hoje já está com 37 patrulhas em 28 municípios do estado.
     </string>
+
+    <string name = "textoTituloInstitutoGeralPericias">
+        IGP – Instituto Geral de Perícias - Sala Lilás
+    </string>
+
+    <string name = "textoLinkInstitutoGeralPericias">
+        http://www.igp.rs.gov.br/index.php?option=com_content&amp;task=view&amp;id=24&amp;Itemid=37
+    </string>
+
+    <string name = "textoInstitutoGeralPericias">
+        A Sala Lilás foi criada dentro do Instituto Geral de Perícias em Porto Alegre com o objetivo de oferecer um atendimento especializado à mulher vítima de violência.
+        “Antes a mulher ficava numa sala de espera geral para fazer o exame de corpo de delito, muitas vezes junto com o próprio agressor ou com outros agressores.
+        Agora, ela tem uma sala de espera diferenciada para fazer o exame de lesões e a perícia psíquica,
+        onde promovemos um acolhimento mais qualificado e colocamos à disposição o atendimento com psicólogas e assistentes sociais.
+        \n
+        Departamento Médico-Legal
+        Endereço: Avenida Ipiranga, 1807 Bairro: Santana
+        Cidade: Porto Alegre – RS, Cep: 90160.093
+        Telefones do DML:
+        Atendimento ao Público: (51) 3288-2656
+        Secretaria DML: (51) 3288-2654
+        Divisão de Perícias da Capital
+    </string>
     <!-- Fim: Rede de enfrentamento a Violência contra a mulher -->
 </resources>
