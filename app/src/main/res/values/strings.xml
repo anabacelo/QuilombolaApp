@@ -1447,9 +1447,16 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name = "textoLinkPoliciaCivil">
-        <a href="http://www.policiacivil.rs.gov.br/conteudo/29823/como-identificar-a-violencia-contra-a-mulher/" target="_blank">
-            link do site
-        </a>
+        http://www.policiacivil.rs.gov.br/conteudo/29823/como-identificar-a-violencia-contra-a-mulher/
     </string>
+
+
+    <string name = "textoTituloSecretariaNacionalDePoliticasParaMulheres">
+        Secretaria Nacional de Políticas para Mulheres
+    </string>
+
+    <string name = "textoLinkSecretariaNacionalDePoliticasParaMulheres">
+        http://www.spm.gov.br/
+</string>
     <!-- Fim: Rede de enfrentamento a Violência contra a mulher -->
 </resources>

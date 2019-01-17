@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_servico_enfrentamento_violencia"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context="com.example.anapaula.quilombolaappv4.RedeEnfrentamentoViolencia">
+    android:layout_height="match_parent">
 
     <RelativeLayout
         android:layout_width="match_parent"
@@ -19,7 +17,7 @@
             android:layout_centerHorizontal="true"
             android:layout_marginTop="13dp"
             android:textSize="26sp"
-            android:text="Rede de Enfrentamento à violência contra a Mulher Quilombola" />
+            android:text="Rede de Enfrentamento à violência" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoTituloPoliciaCivil"
@@ -48,14 +46,29 @@
             android:text="@string/textoLinkPoliciaCivil"
             android:textSize="16sp" />
 
-        <TextView
-            android:id="@+id/textViewTituloExemplo"
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoTituloSecretariaNacional"
             android:layout_below="@id/textViewTextoPoliciaCivil"
-            android:layout_width="wrap_content"
+            android:text="@string/textoTituloSecretariaNacionalDePoliticasParaMulheres"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_centerHorizontal="true"
-            android:textSize="26sp"
-            android:onClick="linkMeuExemplo"
-            android:text="exemplooo" />
+            android:layout_marginTop="21dp"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:textStyle="bold" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoLinkSecretariaNacional"
+            android:layout_below="@id/textViewTextoTituloSecretariaNacional"
+            android:text="@string/textoLinkSecretariaNacionalDePoliticasParaMulheres"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:autoLink="web"
+            android:linksClickable="true"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
     </RelativeLayout>
 </LinearLayout>
