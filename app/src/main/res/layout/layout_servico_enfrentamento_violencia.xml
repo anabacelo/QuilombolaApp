@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -34,15 +35,27 @@
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoPoliciaCivil"
-            android:layout_below="@id/textViewTextoTituloPoliciaCivil"
-            android:text="@string/textoLinkPoliciaCivil"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:autoLink="web"
-            android:linksClickable="true"
-            android:textSize="16sp"
+            android:layout_below="@id/textViewTextoTituloPoliciaCivil"
             android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            android:layout_marginRight="10dp"
+            android:accessibilityLiveRegion="polite"
+            android:autoLink="web"
+            android:clickable="true"
+            android:cursorVisible="true"
+            android:linksClickable="true"
+            android:text="@string/textoLinkPoliciaCivil"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/textViewTituloExemplo"
+            android:layout_below="@id/textViewTextoPoliciaCivil"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:textSize="26sp"
+            android:onClick="linkMeuExemplo"
+            android:text="exemplooo" />
     </RelativeLayout>
 </LinearLayout>

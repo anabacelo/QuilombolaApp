@@ -185,15 +185,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             fragmentManager.beginTransaction().replace(R.id.fragment, nav10).commit();
         }
 
-        else if (id == R.id.layoutRedeEnfrentamentoViolencia)
-        {
-            setTitle("Aplicativo Quilombola");  // Rede de enfrentamento à violência
-
-            RedeEnfrentamentoViolencia layoutRedeEnfrentamentoViolencia = new RedeEnfrentamentoViolencia();
-            android.support.v4.app.FragmentManager fragmentManager = getSupportFragmentManager();
-            fragmentManager.beginTransaction().replace(R.id.fragment, layoutRedeEnfrentamentoViolencia).commit();
-        }
-
         else if (id == R.id.nav_Login) {
             setTitle("Login");
             Nav_Login nav_login = new Nav_Login();

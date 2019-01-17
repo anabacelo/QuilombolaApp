@@ -37,11 +37,6 @@
             android:title="Redes de Atendimento" />
 
         <item
-            android:id="@+id/layoutRedeEnfrentamentoViolencia"
-            android:icon="@drawable/ic_people"
-            android:title="Rede de enfrentamento" />
-
-        <item
             android:id="@+id/nav_7"
             android:title="Serviços e Benefícios Sociais"
             android:icon="@drawable/ic_handshake"/>

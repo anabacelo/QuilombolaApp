@@ -49,6 +49,7 @@ public class Nav6 extends Fragment {
         Integer layoutRedeAtendimentoSobre = R.layout.layout_rede_atendimento_sobre;
         Integer layoutRedeAtendimentoServicoConveniencia = R.layout.layout_rede_atendimento_servico_conveniencia;
         Integer layoutRedeAtendimentoContato = R.layout.layout_rede_atendimento_contato;
+        Integer layoutServicoEnfrentamentoViolencia = R.layout.layout_servico_enfrentamento_violencia;
 
 
         listDataHeader = new ArrayList<String>();
@@ -58,6 +59,7 @@ public class Nav6 extends Fragment {
         listDataHeader.add("O que é? Onde? Como acessar?");
         listDataHeader.add("Serviço de Convivência - SCFV");
         listDataHeader.add("Telefones Úteis em Porto Alegre");
+        listDataHeader.add("Serviços de Enfrentamento à Violência");
 
         List<Integer> layoutList0 = new ArrayList<>();
         layoutList0.add(layoutRedeAtendimentoIntro);
@@ -71,10 +73,13 @@ public class Nav6 extends Fragment {
         List<Integer> layoutList3 = new ArrayList<>();
         layoutList3.add(layoutRedeAtendimentoContato);
 
+        List<Integer> layoutList4 = new ArrayList<>();
+        layoutList4.add(layoutServicoEnfrentamentoViolencia);
 
         listHash.put(listDataHeader.get(0), layoutList0);
         listHash.put(listDataHeader.get(1), layoutList1);
         listHash.put(listDataHeader.get(2), layoutList2);
         listHash.put(listDataHeader.get(3), layoutList3);
+        listHash.put(listDataHeader.get(4), layoutList4);
     }
 }
