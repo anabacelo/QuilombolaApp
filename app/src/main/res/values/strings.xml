@@ -1487,7 +1487,7 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         “Antes a mulher ficava numa sala de espera geral para fazer o exame de corpo de delito, muitas vezes junto com o próprio agressor ou com outros agressores.
         Agora, ela tem uma sala de espera diferenciada para fazer o exame de lesões e a perícia psíquica,
         onde promovemos um acolhimento mais qualificado e colocamos à disposição o atendimento com psicólogas e assistentes sociais.
-        \n
+        \n\n
         Departamento Médico-Legal
         Endereço: Avenida Ipiranga, 1807 Bairro: Santana
         Cidade: Porto Alegre – RS, Cep: 90160.093
@@ -1495,6 +1495,41 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         Atendimento ao Público: (51) 3288-2656
         Secretaria DML: (51) 3288-2654
         Divisão de Perícias da Capital
+    </string>
+
+    <string name = "textoTituloSempreMulher">
+        Sempre Mulher – Instituto de Pesquisa e Intervenção sobre Relações Raciais
+    </string>
+
+    <string name = "textoLinkSempreMulher">
+        http://ong.portoweb.com.br/sempremulher/default.php?p_secao=3&amp;PHPSESSID=2b76a9d7f3116524b46db766ddc1df27
+    </string>
+
+    <string name = "textoSempreMulher">
+        Tem por finalidade identificar através de estudos e pesquisas, as vulnerabilidades sociais e as possibilidades de superação.
+        Por entender que a injustiça social atinge de forma mais cruel a população afrodescendente, em particular as mulheres, seus filhos e dependentes,
+        o Instituto Sempre Mulher faz um recorte de gênero e raça, priorizando em suas ações o atendimento às mulheres negras e suas famílias a fim de contribuir para a
+        melhoria da qualidade de vida e a ampliação do conhecimento e do acesso aos direitos humanos.
+        \n\n
+        Endereço: Rua Xavier de Carvalho, 80 – Bairro Sarandi, na zona norte de
+        Porto Alegre.
+        Fone: (51) 3344.9591
+        \n\n
+        <b>Ações desenvolvidas</b>:
+        \n
+        No Projeto Geração de Renda são desenvolvidas as seguintes técnicas:
+        \n
+        Embelezamento Afro
+        Estamparia
+        Trabalho Educativo
+        Casas Lares
+        Ações Complementares (Oficinas):
+        Sexualidade e DST
+        Gestão e Liderança
+        Mundo do Trabalho
+        Participação Comunitária
+        Contação de Histórias
+        Segurança Alimentar
     </string>
     <!-- Fim: Rede de enfrentamento a Violência contra a mulher -->
 </resources>
