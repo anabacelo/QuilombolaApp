@@ -70,5 +70,41 @@
             android:textSize="16sp"
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoTituloPatrulhaMariaDaPenhaDaBrigadaMilitarRS"
+            android:layout_below="@id/textViewTextoLinkSecretariaNacional"
+            android:text="@string/textoTituloPatrulhaMariaDaPenhaDaBrigadaMilitarRS"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:textStyle="bold" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoLinkPatrulhaMariaDaPenhaDaBrigadaMilitarRS"
+            android:layout_below="@id/textViewTextoTituloPatrulhaMariaDaPenhaDaBrigadaMilitarRS"
+            android:text="@string/textoLinkPatrulhaMariaDaPenhaDaBrigadaMilitarRS"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:autoLink="web"
+            android:linksClickable="true"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoPatrulhaMariaDaPenhaDaBrigadaMilitarRS"
+            android:layout_below="@id/textViewTextoLinkPatrulhaMariaDaPenhaDaBrigadaMilitarRS"
+            android:text="@string/textoPatrulhaMariaDaPenhaDaBrigadaMilitarRS"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
     </RelativeLayout>
 </LinearLayout>

@@ -1457,6 +1457,21 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
 
     <string name = "textoLinkSecretariaNacionalDePoliticasParaMulheres">
         http://www.spm.gov.br/
-</string>
+    </string>
+
+    <string name = "textoTituloPatrulhaMariaDaPenhaDaBrigadaMilitarRS">
+        Patrulha Maria da Penha da Brigada Militar RS
+    </string>
+
+    <string name = "textoLinkPatrulhaMariaDaPenhaDaBrigadaMilitarRS">
+        https://estado.rs.gov.br/patrulha-maria-da-penha-amplia-atendimento-as-mulheres-vitimas-de-violencia
+    </string>
+
+    <string name = "textoPatrulhaMariaDaPenhaDaBrigadaMilitarRS">
+        A Patrulha Maria da Penha atua, desde 2012, como forma de prevenção primária, comparecendo periodicamente à residência das mulheres que possuem Medidas Protetivas de
+        Urgência, para verificar se as mesmas estão sendo cumpridas. Para isso há a necessidade de serem ministrados cursos de capacitação aos policiais militares,
+        para atuarem com mais sensibilidade e conhecimento sobre a realidade das vítimas e para entenderem a enorme dificuldade que elas têm de denunciarem seus agressores.
+        A patrulha iniciou sua atividade em Porto Alegre e hoje já está com 37 patrulhas em 28 municípios do estado.
+    </string>
     <!-- Fim: Rede de enfrentamento a Violência contra a mulher -->
 </resources>
