@@ -1494,7 +1494,7 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         Telefones do DML: \n
         Atendimento ao Público: (51) 3288-2656 \n
         Secretaria DML: (51) 3288-2654 \n
-        Divisão de Perícias da Capital
+        Divisão de Perícias da Capital \n
     </string>
 
     <string name = "textoTituloSempreMulher">
@@ -1529,7 +1529,7 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         Mundo do Trabalho \n
         Participação Comunitária \n
         Contação de Histórias \n
-        Segurança Alimentar
+        Segurança Alimentar \n
     </string>
 
     <string name = "textoTituloOngMariaMulher">
@@ -1545,6 +1545,24 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         \n\n
         Endereço: Av. Moab Caldas, 2035 - Santa Teresa, Porto Alegre, 90880-310 \n
         Telefone: (51) 3219-0180
+    </string>
+
+    <string name = "textoTituloACMUN">
+        ACMUN
+    </string>
+
+    <string name = "textoLinkACMUN">
+        http://www.acmun.org.br/
+    </string>
+
+    <string name = "textoACMUN">
+        A Associação Cultural de Mulheres Negras, ACMUN, tem como principal objetivo a valorização da população negra, em especial das mulheres negras.
+        A ACMUN desenvolve ações para o combate da discriminação de gênero, raça e etnia.
+        \n\n
+        Endereço: Rua Vigário José Inácio, 371 - sala 1919 - Centro Histórico \n
+        Porto Alegre/RS - CEP: 90028-900 \n
+        Fone: +55 (51) 3062.7009 \n
+        E-mail: acmun_acmun@yahoo.com.br
     </string>
     <!-- Fim: Rede de enfrentamento a Violência contra a mulher -->
 </resources>
