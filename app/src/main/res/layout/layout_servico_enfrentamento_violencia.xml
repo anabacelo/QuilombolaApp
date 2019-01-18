@@ -404,5 +404,41 @@
             android:textSize="16sp"
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoTituloCentroDeReferenciaEmDireitosHumanos"
+            android:layout_below="@id/textViewTextoCentroReferenciaDeAtendimento"
+            android:text="@string/textoTituloCentroDeReferenciaEmDireitosHumanos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:textStyle="bold" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoLinkCentroDeReferenciaEmDireitosHumanos"
+            android:layout_below="@id/textViewTextoTituloCentroDeReferenciaEmDireitosHumanos"
+            android:text="@string/textoLinkCentroDeReferenciaEmDireitosHumanos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:autoLink="web"
+            android:linksClickable="true"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoCentroDeReferenciaEmDireitosHumanos"
+            android:layout_below="@id/textViewTextoLinkCentroDeReferenciaEmDireitosHumanos"
+            android:text="@string/textoCentroDeReferenciaEmDireitosHumanos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
     </RelativeLayout>
 </LinearLayout>

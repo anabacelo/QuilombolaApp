@@ -1668,5 +1668,21 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         Telefone: (51)3289-5102 \n
          E-mail:  cram@smdh.prefpoa.com.br \n
     </string>
+
+    <string name = "textoTituloCentroDeReferenciaEmDireitosHumanos">
+        Centro de Referência em Direitos Humanos da Defensoria Pública do Estado do Rio Grande do Sul - CRDH/DP-RS \n\n
+    </string>
+
+    <string name = "textoLinkCentroDeReferenciaEmDireitosHumanos">
+        <b>http://www.defensoria.rs.def.br/conteudo/21218</b> \n\n
+    </string>
+
+    <string name = "textoCentroDeReferenciaEmDireitosHumanos">
+        Destina-se às vítimas de preconceito, discriminação, intolerância, abusos e maus-tratos, negligência e abandono,
+        especialmente às mulheres em situação de violência e às vítimas de violência estatal (do sistema de justiça e de segurança pública). Indiretamente,
+        aos familiares, lideranças comunitárias e cidadãos (ãs) em geral. \n
+        Endereço:  Rua Caldas Júnior, nº 352, no Centro Histórico, de Porto Alegre/RS \n
+        DISQUE-ACOLHIMENTO 0800 644 5556 - Ligação Gratuita \n
+    </string>
     <!-- Fim: Rede de enfrentamento a Violência contra a mulher -->
 </resources>
