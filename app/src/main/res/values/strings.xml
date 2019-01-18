@@ -1591,5 +1591,45 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         SIM (serviços de informação à mulher) nas comunidades. As promotoras atuam em todas as regiões de porto Alegre. \n\n
         Telefone: Themis 32120104 \n
     </string>
+
+    <string name = "textoTituloSIM">
+        SIM Restinga na sede da AMOVIR
+    </string>
+
+    <string name = "textoSIM">
+        Endereço: Oscar de Oliveira Ramos,1411 (fundos) - Bairro Restinga Nova \n
+        E-mail: plpsrestinga@gmail.com \n
+        Plantões todas as segundas das 9hs às 17 hs na AMOVIR \n
+    </string>
+
+    <string name = "textoTituloDefensoriaPublica">
+        Defensoria Pública do Rio Grande do Sul - Núcleo de Defesa da Mulher - NUDEM \n\n
+    </string>
+
+    <string name = "textoLinkDefensoriaPublica">
+        <b>http://www.defensoria.rs.def.br/conteudo/20571</b> \n\n
+    </string>
+
+    <string name = "textoDefensoriaPublica">
+        <b>Sede Administrativa</b> \n
+
+        Rua Sete de Setembro, 666 - Centro Histórico \n\n
+
+        <b>Unidades de Atendimento</b> \n
+
+        Família - Rua Sete de Setembro, 745 - Centro Histórico \n
+        Cível - Rua Siqueira Campos, 731 - Centro Histórico \n
+        Fone: (51) 3211-2233 \n
+        Porto Alegre – RS  CEP: 90010-190 \n\n
+
+        Funcionamento: \n
+        De segunda a sexta-feira \n \n
+        Atendimento Externo \n
+        Das 8:00 às 12:00 - 13:30 às 17:30 \n
+        Administrativo Interno \n
+        Das 9:00 às 12:00 - 13:00 às 18:00 \n
+        Link útil: \n
+        http://www.defensoria.rs.def.br/lista/413/links-uteis \n
+    </string>
     <!-- Fim: Rede de enfrentamento a Violência contra a mulher -->
 </resources>
