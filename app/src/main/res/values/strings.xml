@@ -1631,5 +1631,27 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         Link útil: \n
         http://www.defensoria.rs.def.br/lista/413/links-uteis \n
     </string>
+
+    <string name = "textoTituloJuizadosEspecializadosEmViolencia">
+        Juizados especializados em Violência Doméstica \n\n
+    </string>
+
+    <string name = "textoLinkJuizadosEspecializadosEmViolencia">
+        <b>http://www.tjrs.jus.br/violencia_domestica/juizados.html</b> \n\n
+    </string>
+
+    <string name = "textoJuizadosEspecializadosEmViolencia">
+        <b>PORTO ALEGRE</b>
+
+        1º Juizado de Violência Doméstica e Familiar Contra a Mulher \n
+        Endereço: Rua Márcio Luiz Veras Vidor, 10, Sala 511 - Praia de Belas, CEP 90110160 \n
+        Fone: (51) 3210.6500 \n
+        e-mail: frpoacentvdfam@tj.rs.gov.br \n
+
+        2º Juizado de Violência Doméstica e Familiar Contra a Mulher \n
+        Endereço: Rua Márcio Luiz Veras Vidor, 10, Sala 512 - Praia de Belas, CEP 90110160 \n
+        Fone: (51) 3210.6500 \n
+        E-mail: frpoacent2jzvdfamm@tj.rs.gov.br \n
+    </string>
     <!-- Fim: Rede de enfrentamento a Violência contra a mulher -->
 </resources>
