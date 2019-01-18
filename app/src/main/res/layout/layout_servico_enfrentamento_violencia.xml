@@ -260,7 +260,8 @@
             android:layout_marginTop="21dp"
             android:textSize="16sp"
             android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            android:layout_marginRight="10dp"
+            android:textStyle="bold" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoThemisGenero"
@@ -282,7 +283,8 @@
             android:layout_marginTop="21dp"
             android:textSize="16sp"
             android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            android:layout_marginRight="10dp"
+            android:textStyle="bold" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoPromotorasLegaisPopulares"
@@ -360,6 +362,42 @@
             android:id="@+id/textViewTextoJuizadosEspecializadosEmViolencia"
             android:layout_below="@id/textViewTextoLinkJuizadosEspecializadosEmViolencia"
             android:text="@string/textoJuizadosEspecializadosEmViolencia"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoTituloCentroReferenciaDeAtendimento"
+            android:layout_below="@id/textViewTextoJuizadosEspecializadosEmViolencia"
+            android:text="@string/textoTituloCentroReferenciaDeAtendimento"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:textStyle="bold" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoLinkCentroReferenciaDeAtendimento"
+            android:layout_below="@id/textViewTextoTituloCentroReferenciaDeAtendimento"
+            android:text="@string/textoLinkCentroReferenciaDeAtendimento"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:autoLink="web"
+            android:linksClickable="true"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoCentroReferenciaDeAtendimento"
+            android:layout_below="@id/textViewTextoLinkCentroReferenciaDeAtendimento"
+            android:text="@string/textoJuizadosCentroReferenciaDeAtendimento"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="21dp"

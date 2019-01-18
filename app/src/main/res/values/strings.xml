@@ -1562,7 +1562,7 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         Endereço: Rua Vigário José Inácio, 371 - sala 1919 - Centro Histórico \n
         Porto Alegre/RS - CEP: 90028-900 \n
         Fone: +55 (51) 3062.7009 \n
-        E-mail: acmun_acmun@yahoo.com.br
+        E-mail: acmun_acmun@yahoo.com.br \n
     </string>
 
     <string name = "textoTituloThemisGenero">
@@ -1583,7 +1583,7 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name = "textoTituloPromotorasLegaisPopulares">
-        Promotoras Legais Populares
+        Promotoras Legais Populares \n
     </string>
 
     <string name = "textoPromotorasLegaisPopulares">
@@ -1603,11 +1603,11 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name = "textoTituloDefensoriaPublica">
-        Defensoria Pública do Rio Grande do Sul - Núcleo de Defesa da Mulher - NUDEM \n\n
+        Defensoria Pública do Rio Grande do Sul - Núcleo de Defesa da Mulher - NUDEM \n
     </string>
 
     <string name = "textoLinkDefensoriaPublica">
-        <b>http://www.defensoria.rs.def.br/conteudo/20571</b> \n\n
+        <b>http://www.defensoria.rs.def.br/conteudo/20571</b> \n
     </string>
 
     <string name = "textoDefensoriaPublica">
@@ -1652,6 +1652,21 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         Endereço: Rua Márcio Luiz Veras Vidor, 10, Sala 512 - Praia de Belas, CEP 90110160 \n
         Fone: (51) 3210.6500 \n
         E-mail: frpoacent2jzvdfamm@tj.rs.gov.br \n
+    </string>
+
+    <string name = "textoTituloCentroReferenciaDeAtendimento">
+        Centro de Referência de Atendimento á Mulher Municipal - Márcia Calixto \n\n
+    </string>
+
+    <string name = "textoLinkCentroReferenciaDeAtendimento">
+        <b> http://www2.portoalegre.rs.gov.br/smdh/default.php?p_secao=41 </b> \n\n
+    </string>
+
+    <string name = "textoJuizadosCentroReferenciaDeAtendimento">
+        Endereço: Rua Siqueira Campos, nº 1184, 16º andar \n
+        Bairro: Centro Histórico Cep: 90010-001 Município: Porto Alegre \n
+        Telefone: (51)3289-5102 \n
+         E-mail:  cram@smdh.prefpoa.com.br \n
     </string>
     <!-- Fim: Rede de enfrentamento a Violência contra a mulher -->
 </resources>
