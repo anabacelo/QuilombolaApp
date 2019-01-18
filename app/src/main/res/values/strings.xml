@@ -1581,5 +1581,15 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         Site: www.themis.org.br \n
         E-MAIL: themis@themis.org.br \n
     </string>
+
+    <string name = "textoTituloPromotorasLegaisPopulares">
+        Promotoras Legais Populares
+    </string>
+
+    <string name = "textoPromotorasLegaisPopulares">
+        São mulheres lideranças da comunidade, que são capacitadas pala THEMIS em noções de direito a fim de dar acolhimento e orientação as mulheres vítimas de violência nos
+        SIM (serviços de informação à mulher) nas comunidades. As promotoras atuam em todas as regiões de porto Alegre. \n\n
+        Telefone: Themis 32120104 \n
+    </string>
     <!-- Fim: Rede de enfrentamento a Violência contra a mulher -->
 </resources>
