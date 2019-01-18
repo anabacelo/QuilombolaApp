@@ -1544,7 +1544,7 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         Nossa missão é a defesa dos direitos humanos das populações marginalizadas excluídas, principalmente de afrodescendentes e o combate às discriminações.
         \n\n
         Endereço: Av. Moab Caldas, 2035 - Santa Teresa, Porto Alegre, 90880-310 \n
-        Telefone: (51) 3219-0180
+        Telefone: (51) 3219-0180 \n
     </string>
 
     <string name = "textoTituloACMUN">
@@ -1563,6 +1563,23 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         Porto Alegre/RS - CEP: 90028-900 \n
         Fone: +55 (51) 3062.7009 \n
         E-mail: acmun_acmun@yahoo.com.br
+    </string>
+
+    <string name = "textoTituloThemisGenero">
+        THEMIS GÊNERO JUSTIÇA E DIREITOS HUMANOS
+    </string>
+
+    <string name = "textoThemisGenero">
+        A THEMIS concentra sua atuação na promoção de uma rede de apoio e enfrentamento formada por diversos segmentos para compartilhar,
+        elucidar e defender os direitos fundamentais das mulheres. Desde a sua criação a ONG desenvolveu 15 programas de formação de Promotoras Legais Populares e
+        Jovens Multiplicadoras de Cidadania (JMCs). A THEMIS participou do consórcio de organizações que debateu e propôs a Lei Maria da Penha e acompanha sua implementação.
+        \n\n
+        TELEFONE:(51) 3212-0104 \n
+        ENDEREÇO: Rua dos Andradas nº 1137, sala 2205 \n
+        Porto Alegre - Rio Grande do Sul - Brasil \n
+        CEP 90020-015 \n
+        Site: www.themis.org.br \n
+        E-MAIL: themis@themis.org.br \n
     </string>
     <!-- Fim: Rede de enfrentamento a Violência contra a mulher -->
 </resources>
