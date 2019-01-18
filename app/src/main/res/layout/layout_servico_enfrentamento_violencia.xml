@@ -440,5 +440,41 @@
             android:textSize="16sp"
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoTituloCentroDeReferenciaAsVitimasDeViolencia"
+            android:layout_below="@id/textViewTextoCentroDeReferenciaEmDireitosHumanos"
+            android:text="@string/textoTituloCentroDeReferenciaAsVitimasDeViolencia"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:textStyle="bold" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoLinkCentroDeReferenciaAsVitimasDeViolencia"
+            android:layout_below="@id/textViewTextoTituloCentroDeReferenciaAsVitimasDeViolencia"
+            android:text="@string/textoLinkCentroDeReferenciaAsVitimasDeViolencia"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:autoLink="web"
+            android:linksClickable="true"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoCentroDeReferenciaAsVitimasDeViolencia"
+            android:layout_below="@id/textViewTextoLinkCentroDeReferenciaAsVitimasDeViolencia"
+            android:text="@string/textoCentroDeReferenciaAsVitimasDeViolencia"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
     </RelativeLayout>
 </LinearLayout>

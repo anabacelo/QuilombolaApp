@@ -1684,5 +1684,23 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         Endereço:  Rua Caldas Júnior, nº 352, no Centro Histórico, de Porto Alegre/RS \n
         DISQUE-ACOLHIMENTO 0800 644 5556 - Ligação Gratuita \n
     </string>
+
+    <string name = "textoTituloCentroDeReferenciaAsVitimasDeViolencia">
+        Centro de Referência às Vítimas de Violência – CRVV \n\n
+    </string>
+
+    <string name = "textoLinkCentroDeReferenciaAsVitimasDeViolencia">
+        <b>http://www2.portoalegre.rs.gov.br/cmm/default.php?p_secao=24</b> \n\n
+    </string>
+
+    <string name = "textoCentroDeReferenciaAsVitimasDeViolencia">
+        O que é o CRVV? \n
+        O Centro de Referência às Vítimas de Violência (CRVV) é um serviço do Município, em parceria com o Governo Federal, criado para prestar informações e
+        orientações às vítimas de violações de direitos, abuso de autoridade, exploração sexual e qualquer tipo de discriminação.
+        O CRVV possui profissionais capacitados para diagnosticar e orientar a população sobre direitos e possibilidades de defesa,
+        em casos de crime e de violências. \n
+        Endereço: Andradas, 1643, sala 302. \n
+        Fone: (51) 3289.5110. \n
+    </string>
     <!-- Fim: Rede de enfrentamento a Violência contra a mulher -->
 </resources>
