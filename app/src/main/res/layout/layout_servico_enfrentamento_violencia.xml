@@ -476,5 +476,41 @@
             android:textSize="16sp"
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoTituloEscutaLilas"
+            android:layout_below="@id/textViewTextoCentroDeReferenciaAsVitimasDeViolencia"
+            android:text="@string/textoTituloEscutaLilas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:textStyle="bold" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoLinkEscutaLilas"
+            android:layout_below="@id/textViewTextoTituloEscutaLilas"
+            android:text="@string/textoLinkEscutaLilas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:autoLink="web"
+            android:linksClickable="true"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoEscutaLilas"
+            android:layout_below="@id/textViewTextoLinkEscutaLilas"
+            android:text="@string/textoEscutaLilas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
     </RelativeLayout>
 </LinearLayout>

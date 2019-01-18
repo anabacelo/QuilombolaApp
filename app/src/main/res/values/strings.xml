@@ -1702,5 +1702,35 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         Endereço: Andradas, 1643, sala 302. \n
         Fone: (51) 3289.5110. \n
     </string>
+
+    <string name = "textoTituloCentroEstadualDeReferenciaDaMulherVania">
+        Centro Estadual de Referência da Mulher Vânia Araújo Machado\n\n
+    </string>
+
+    <string name = "textoLinkCentroEstadualDeReferenciaDaMulherVania">
+        <b>http://www.rs.gov.br/conteudo/224474/servico-do-centro-estadual-de-referencia-da-mulher-e-ampliado/termosbusca=*</b> \n\n
+    </string>
+
+    <string name = "textoCentroEstadualDeReferenciaDaMulherVania">
+        Endereço: Travessa Tuyuty, 10, esquina com Rua André Machado, no Centro de Porto Alegre
+        Atendimento: segunda a sexta-feira, das 8h30 às 18h \n
+    </string>
+
+    <string name = "textoTituloEscutaLilas">
+        Escuta Lilás \n\n
+    </string>
+
+    <string name = "textoLinkEscutaLilas">
+        <b>http://www2.spm.rs.gov.br/conteudo.php?cod_menu=37</b> \n\n
+    </string>
+
+    <string name = "textoEscutaLilas">
+        A Escuta Lilás é uma central de atendimento à mulher da Secretaria de Políticas para as Mulheres do RS,
+                acessada pelo telefone gratuíto 0800.541.0803, junto ao Centro de Referência da Mulher Vânia Araújo Machado (CRM). \n
+        Escuta Lilás - 0800.541.0803 \n
+        Atendimento: de segunda a sexta das 8h30min às 18 horas \n
+        Porto Alegre/RS - Brasil \n
+        Para a Central de Atendimento à Mulher, 24 horas: ligue:180 \n
+    </string>
     <!-- Fim: Rede de enfrentamento a Violência contra a mulher -->
 </resources>
