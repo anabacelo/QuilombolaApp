@@ -1741,12 +1741,50 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         <b>http://ilemulher.org.br/site/quem-somos</b> \n\n
     </string>
 
-    <string name = "textoEnderecoILEMulher">
+    <string name = "textoContatoILEMulher">
         Endereço: Rua Gaspar Martins, 216  \n
         Bairro: Floresta, Porto Alegre - RS, CEP.: 90220-160 \n
         Telefone: (51) 3225-3828 – 51 3574 0591 \n
         Email: comunicacao@ilemulher.org.br \n
         Email: ilemulher@ilemulher.org.br \n
+    </string>
+
+    <string name = "textoTituloSAJUGPUCRS">
+        SAJUG – PUCRS \n
+    </string>
+
+    <string name = "textoLinkSAJUGPUCRS">
+        <b>http://www.pucrs.br/direito/a-escola/servicos/sajug-servico-de-assistencia-juridica-gratuita/</b> \n
+    </string>
+
+    <string name = "textoSAJUGPUCRS">
+        O Serviço de Assistência Jurídica Gratuita – SAJUG – é órgão da Escola de Direito da Pontifícia Universidade Católica do Rio Grande do Sul,
+        vinculado ao Departamento de Prática Jurídica, que tem por a prestação de atividades filantrópicas, através do atendimento jurídico gratuito à comunidade carente de
+        Porto Alegre. \n
+    </string>
+
+    <string name = "textoComplementoSAJUGPUCRS">
+        Áreas de Atuação \n
+        Família, Cível e Penal. \n
+        Requisitos de Atendimento \n
+        Não possuir rendimentos superiores a dois salários mínimos nacionais mensais; \n
+        Ser residente em Porto Alegre ou que a ação deva ser proposta ou contestada nos fóruns do Partenon ou Central deste município; \n
+    </string>
+
+    <string name = "textoContatoSAJUGPUCRS">
+        Solicitar agendamento pelo fone: 3320-3532 ou no local. \n
+
+        Locais de Atendimento \n
+
+        Campus Central: \n
+            Av. Ipiranga, 6681 – Prédio 08 – Sala 140 \n
+            Fone: (51) 3320-3532 \n
+            CEP: 90619-900 – Porto Alegre – RS – Brasil \n
+            Email: sajug@pucrs.br \n
+        Centro de Extensão Universitária Vila Fátima: \n
+            Rua 14, n° 227 – Vila Fátima/Mato Sampaio \n
+            Fone (51) 3320-3536 \n
+            CEP: 91430-140 – Porto Alegre – RS – Brasil \n
     </string>
     <!-- Fim: Rede de enfrentamento a Violência contra a mulher -->
 </resources>

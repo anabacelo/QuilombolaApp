@@ -539,9 +539,67 @@
             android:layout_marginRight="10dp" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
-            android:id="@+id/textViewTextoEnderecoILEMulher"
+            android:id="@+id/textViewTextoContatoILEMulher"
             android:layout_below="@id/textViewTextoLinkILEMulher"
-            android:text="@string/textoEnderecoILEMulher"
+            android:text="@string/textoContatoILEMulher"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoTituloSAJUGPUCRS"
+            android:layout_below="@id/textViewTextoContatoILEMulher"
+            android:text="@string/textoTituloSAJUGPUCRS"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:textStyle="bold" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoLinkSAJUGPUCRS"
+            android:layout_below="@id/textViewTextoTituloSAJUGPUCRS"
+            android:text="@string/textoLinkSAJUGPUCRS"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:autoLink="web"
+            android:linksClickable="true"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoSAJUGPUCRS"
+            android:layout_below="@id/textViewTextoLinkSAJUGPUCRS"
+            android:text="@string/textoSAJUGPUCRS"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoComplementoSAJUGPUCRS"
+            android:layout_below="@id/textViewTextoSAJUGPUCRS"
+            android:text="@string/textoComplementoSAJUGPUCRS"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoContatoSAJUGPUCRS"
+            android:layout_below="@id/textViewTextoComplementoSAJUGPUCRS"
+            android:text="@string/textoContatoSAJUGPUCRS"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="21dp"
