@@ -1786,5 +1786,25 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
             Fone (51) 3320-3536 \n
             CEP: 91430-140 – Porto Alegre – RS – Brasil \n
     </string>
+
+    <string name = "textoTituloSAJUUFRGS">
+        SAJU - UFRGS - Serviço de Assessoria Jurídica Universitária \n
+    </string>
+
+    <string name = "textoLinkSAJUUFRGS">
+        <b>http://www.ufrgs.br/saju/</b> \n
+    </string>
+
+    <string name = "textoSAJUUFRGS">
+        O Serviço de Assessoria Jurídica Universitária, através de seus grupos temáticos, presta atendimento a toda pessoa que não puder pagar por um advogado.
+        Faculdade de Direito - Universidade Federal do Rio Grande do Sul (UFRGS)\n
+    </string>
+
+    <string name = "textoContatoSAJUUFRGS">
+        Endereço: Avenida João Pessoa, n° 80, CEP: 90.040-000 \n
+        Centro, Porto Alegre – RS \n
+        Telefone: (51) 3308-3967 \n
+         E-mail: saju@ufrgs.br \n
+    </string>
     <!-- Fim: Rede de enfrentamento a Violência contra a mulher -->
 </resources>
