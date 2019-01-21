@@ -653,5 +653,39 @@
             android:textSize="16sp"
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoTituloDelegaciaEspecializadanoAtendimentoAMulher"
+            android:layout_below="@id/textViewTextoContatoSAJUUFRGS"
+            android:text="@string/textoTituloDelegaciaEspecializadanoAtendimentoAMulher"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:textStyle="bold" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoDelegaciaEspecializadanoAtendimentoAMulher"
+            android:layout_below="@id/textViewTextoTituloDelegaciaEspecializadanoAtendimentoAMulher"
+            android:text="@string/textoDelegaciaEspecializadanoAtendimentoAMulher"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoContatoDelegaciaEspecializadanoAtendimentoAMulher"
+            android:layout_below="@id/textViewTextoDelegaciaEspecializadanoAtendimentoAMulher"
+            android:text="@string/textoContatoDelegaciaEspecializadanoAtendimentoAMulher"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
     </RelativeLayout>
 </LinearLayout>

@@ -1806,5 +1806,38 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         Telefone: (51) 3308-3967 \n
          E-mail: saju@ufrgs.br \n
     </string>
+
+    <string name = "textoTituloDelegaciaEspecializadanoAtendimentoAMulher">
+        Delegacia Especializada no Atendimento à Mulher \n
+    </string>
+
+    <string name = "textoDelegaciaEspecializadanoAtendimentoAMulher">
+        As DEAMs são unidades especializadas da Polícia Civil, que realizam ações de prevenção, proteção e investigação dos crimes de violência doméstica e violência sexual
+        contra as mulheres, entre outros. Entre as ações, cabe citar: registro de Boletim de Ocorrência, solicitação ao juiz das medidas protetivas de urgência nos casos
+        de violência doméstica e familiar contra as mulheres, realização da investigação dos crimes. \n
+    </string>
+
+    <string name = "textoContatoDelegaciaEspecializadanoAtendimentoAMulher">
+        RIO GRANDE DO SUL \n
+
+        Canoas  \n
+            Delegacia para a Mulher  \n
+            Endereço: Rua Muck, 104 - Centro  \n
+            Tel.: (51) 3476-2056 / 3427-1103 / 3466-5983 \n
+
+        Porto Alegre  \n
+            Delegacia de Polícia da Mulher  \n
+            Endereço: Rua Freitas e Castro, s/n - Azenha  \n
+            Tel.: (51) 3217-2411 \n
+
+        Delegacia da Mulher  \n
+            Endereço: Av. João Pessoa, 2050 - Farroupilha (51) 3217-6938  \n
+            Tel.: (51) 3217-6938 \n
+
+        São Leopoldo \n
+            Posto Policial para a Mulher  \n
+            Endereço: Rua Pandiá Calógeras, 170 - Cristo Rei  \n
+            Tel.:(51) 3592-1013 \n
+    </string>
     <!-- Fim: Rede de enfrentamento a Violência contra a mulher -->
 </resources>
