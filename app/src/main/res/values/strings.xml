@@ -1839,5 +1839,33 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
             Endereço: Rua Pandiá Calógeras, 170 - Cristo Rei  \n
             Tel.:(51) 3592-1013 \n
     </string>
+
+    <string name = "textoTituloServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher">
+        Serviços de Saúde Especializados para o Atendimento dos Casos de Violência Contra a Mulher \n
+    </string>
+
+    <string name = "textoLinkServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher">
+        http://sistema3.planalto.gov.br/spmu/atendimento/atendimento_mulher.php?uf=RS \n
+    </string>
+
+    <string name = "textoContatoServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher">
+    Hospital Nossa Senhora Conceição - Porto Alegre \n
+        Endereço: Avenida Francisco Trein, 596 - Bairro Cristo Redentor \n
+        Cep: 91350-240 \n
+        Município: Porto Alegre \n
+        Telefone: (51)3357-2161 \n
+
+    Hospital Pronto Socorro de Porto Alegre \n
+        Endereço: Largo Teodoro Herzl, s/n - Bairro Bom Fim \n
+        Cep: 90040-192 \n
+        Fone:(51)3289-7999 \n
+
+    Hospital Femina - Porto Alegre \n
+        Endereço:  Rua Mostardeiro,  17 - Bairro: Moinhos do Vento \n
+        Cep: 90430-001 \n
+        Município: Porto Alegre \n
+        Telefone: (51)3314-5200 \n
+        E-mail: hfe@ghc.com.br \n
+    </string>
     <!-- Fim: Rede de enfrentamento a Violência contra a mulher -->
 </resources>
