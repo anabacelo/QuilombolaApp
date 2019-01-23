@@ -166,6 +166,73 @@
                 android:autoLink="web"
                 android:linksClickable="true" />
 
+            <ImageView
+                android:id="@+id/imageViewTrancasNago"
+                android:layout_below="@+id/textViewtextViewPalmasLink"
+                android:src="@drawable/montagem_nago"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="45dp"
+                android:paddingTop="50px"
+                android:scaleType="fitCenter"
+                android:textAlignment="center"
+                android:layout_marginBottom="50dp" />
+
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewTextoTituloTrancasNago"
+                android:layout_below="@+id/imageViewTrancasNago"
+                android:text="@string/textoTituloTrancasNago"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:paddingTop="20dp"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewTextoTrancasNago"
+                android:layout_below="@+id/textViewTextoTituloTrancasNago"
+                android:text="@string/textoTrancasNago"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="false"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:paddingTop="10dp"
+                android:textSize="18sp" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewTextoComplementoTrancasNago"
+                android:layout_below="@+id/textViewTextoTrancasNago"
+                android:text="@string/textoComplementoTrancasNago"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="false"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:paddingTop="10dp"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:autoLink="web"
+                android:linksClickable="true" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewTextoFimTrancasNago"
+                android:layout_below="@+id/textViewTextoComplementoTrancasNago"
+                android:text="@string/textoFimTrancasNago"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="false"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:paddingTop="10dp"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:autoLink="web"
+                android:linksClickable="true" />
+
         </RelativeLayout>
     </ScrollView>
 </LinearLayout>

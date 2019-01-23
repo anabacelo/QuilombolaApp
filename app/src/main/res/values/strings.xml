@@ -1102,6 +1102,33 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     <string name="texto_curiosidade_palmas_link">
         https://www.youtube.com/watch?v=NjpvaP8rIgA
     </string>
+
+
+
+    <string name="textoTituloTrancasNago">
+        Tranças Nagô \n
+    </string>
+
+    <string name="textoTrancasNago">
+        “As tranças nagô são as tranças de raiz, aquelas que ficam rente ao couro cabeludo; as tranças Nagô tem significados diversos na cultura africana. Simbolizam,
+        estado civil, classe social, família e até mesmo algum problema pessoal. Existem penteados específicos para cerimônia como o casamento ou eventos religiosos.”
+    </string>
+
+    <string name="textoComplementoTrancasNago">
+        “Na Grécia, e depois em toda a Europa durante a Idade Média, a trança foi adotada pela maioria das mulheres. No início do século XV, com a escravidão das sociedades
+        africanas, o cabelo exerceu a importante função de condutor de mensagens. Nessas culturas, o cabelo era parte integrante de um complexo sistema de linguagem.
+        A manipulação do cabelo era uma forma resistência e de manter suas raízes.” (Blog Trança Nago)
+    </string>
+
+    <string name="textoFimTrancasNago">
+        Aqui no Brasil e em outros países da América Latina como a Colômbia, no período da escravidão elas foram usadas de maneira muito inteligente, como forma de comunicação
+        entre os negros. As mulheres negras tinham o costume da trançar seus cabelos e faziam os mapas na cabeça umas das outras, desenhados com as tranças para encontrar o
+        caminho nas fugas para os quilombos. A simbologia da resistência também é muito forte nas tranças nagô.
+    </string>
+
+
+
+
 <!-- CURIOSIDADES -->
 
 
