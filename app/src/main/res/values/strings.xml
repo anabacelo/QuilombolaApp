@@ -12,23 +12,41 @@
     <string name="entrar">Entrar</string>
     <string name="senha">Senha:</string>
     <string name="app_name">Aplicativo Quilombola</string>
-    <string name="pag_inicial">Página Inicial</string>
     <string name="pag_entrada">Adicionar imagem/texto</string>
-
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="config_cf">Configurações</string>
     <string name="ajuda_aj">Ajuda</string>
     <string name="sobre_ns">Sobre Nós</string>
     <string name="action_settings">Settings</string>
-
-
     <!-- TODAS OS TEXTOS EM STRINGS PARA AS PÁGINAS -->
 
 
+
+    <!-- Início - Pagina Inicial -->
+    <string name="tituloLayoutPaginaInicial">
+        Sejam bem vindos ao APP Quilombola!
+    </string>
+
+    <string name="textoLayoutPaginaInicial">
+        Esse app foi uma iniciativa de uma equipe de Serviço Social da PUCRS, sob coordenação da professora
+        Dra. Patrícia Krieger Grossi e da equipe de engenharia de software da Escola Politécnica,
+        sob coordenação da professora Dra. Ana Paula Terra Bacelo. Tem como objetivo oferecer informações sobre os quilombos de Porto Alegre, legislação, história, cultura e tradição, saúde da população negra, redes de atendimento para a mulher, serviços e benefícios sociais, representações quilombolas e outras curiosidades.
+Tem o apoio financeiro da FAPERGS através do edital PQG Gaúcho 2017 e do CNPq edital Universal 2018.
+Esperamos que seja um instrumento para facilitar o acesso à informação sobre os direitos de cidadania das comunidades quilombolas! E que possam interagir com outras comunidades!!! Troca de experiências e diálogo!!!
+Navegue à vontade!!!
+    </string>
+
+    <string name="textoLayoutPaginaInicialRodape">
+         \n \n
+        Edital Universal 2018 CNPq:  Processo 434180/2018-1 \n
+        Edital PQG FAPERGS 2017 - Processo 17/2551-0000997-5 \n
+        \"Mulheres Quilombolas e acesso aos direitos de cidadania: desafios para as políticas públicas\" \n
+    </string>
+    <!-- Fim - Pagina Inicial -->
+
+
     <!-- O QUE É SER QUILOMBOLA -->
-
-
     <string name="titulo_oqeh01"> O que é ser Quilombola? </string>
 
 

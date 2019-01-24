@@ -1,17 +1,68 @@
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/fragmentHomePage"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.example.anapaula.quilombolaappv4.HomePage">
 
-    <TextView
-        android:id="@+id/textView"
-        android:text="@string/pag_inicial"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="21dp"
-        android:textSize="30dp" />
-</RelativeLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/textViewTituloLayoutPaginaInicial"
+                android:text="@string/tituloLayoutPaginaInicial"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="21dp"
+                android:textSize="30dp" />
+
+            <ImageView
+                android:id="@+id/imageViewLogoResistenciaNegra"
+                android:layout_below="@+id/textViewTituloLayoutPaginaInicial"
+                android:src="@drawable/logo_resistencia_negra"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="45dp"
+                android:paddingTop="50px"
+                android:scaleType="fitCenter"
+                android:textAlignment="center"
+                android:layout_marginBottom="20dp" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewTextoLayoutPaginaInicial"
+                android:layout_below="@+id/imageViewLogoResistenciaNegra"
+                android:text="@string/textoLayoutPaginaInicial"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="false"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:paddingTop="10dp"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:autoLink="web"
+                android:linksClickable="true" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewTextoLayoutPaginaInicialRodape"
+                android:layout_below="@+id/textViewTextoLayoutPaginaInicial"
+                android:text="@string/textoLayoutPaginaInicialRodape"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="false"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:paddingTop="10dp"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:autoLink="web"
+                android:linksClickable="true" />
+        </RelativeLayout>
+    </ScrollView>
+</LinearLayout>
