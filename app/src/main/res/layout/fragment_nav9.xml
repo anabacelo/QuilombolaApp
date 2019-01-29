@@ -235,99 +235,119 @@
             <ImageView
                 android:id="@+id/imageViewDesenhosGrafite1546872699578"
                 android:layout_below="@+id/textViewTextoFimTrancasNago"
-                android:src="@drawable/FB_IMG_1546872699578"
+                android:src="@drawable/fb_img_1546872699578"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="45dp"
+                android:paddingLeft="25dp"
+                android:layout_marginBottom="10dp"
                 android:paddingTop="50px"
                 android:scaleType="fitCenter"
-                android:textAlignment="center"
-                android:layout_marginBottom="50dp" />
+                android:textAlignment="center" />
 
             <ImageView
                 android:id="@+id/imageViewDesenhosGrafite1546872710595"
                 android:layout_below="@+id/imageViewDesenhosGrafite1546872699578"
-                android:src="@drawable/FB_IMG_1546872710595"
+                android:src="@drawable/fb_img_1546872710595"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="45dp"
+                android:paddingLeft="25dp"
+                android:layout_marginBottom="10dp"
                 android:paddingTop="50px"
                 android:scaleType="fitCenter"
-                android:textAlignment="center"
-                android:layout_marginBottom="50dp" />
+                android:textAlignment="center" />
 
             <ImageView
                 android:id="@+id/imageViewDesenhosGrafite1546872739748"
                 android:layout_below="@+id/imageViewDesenhosGrafite1546872710595"
-                android:src="@drawable/FB_IMG_1546872739748"
+                android:src="@drawable/fb_img_1546872739748"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="45dp"
+                android:paddingLeft="25dp"
+                android:layout_marginBottom="10dp"
                 android:paddingTop="50px"
                 android:scaleType="fitCenter"
-                android:textAlignment="center"
-                android:layout_marginBottom="50dp" />
+                android:textAlignment="center" />
 
             <ImageView
                 android:id="@+id/imageViewDesenhosGrafite1546873013431"
                 android:layout_below="@+id/imageViewDesenhosGrafite1546872739748"
-                android:src="@drawable/FB_IMG_1546873013431"
+                android:src="@drawable/fb_img_1546873013431"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="45dp"
+                android:paddingLeft="25dp"
+                android:layout_marginBottom="10dp"
                 android:paddingTop="50px"
                 android:scaleType="fitCenter"
-                android:textAlignment="center"
-                android:layout_marginBottom="50dp" />
+                android:textAlignment="center" />
 
             <ImageView
                 android:id="@+id/imageViewDesenhosGrafite1546873106888"
                 android:layout_below="@+id/imageViewDesenhosGrafite1546873013431"
-                android:src="@drawable/FB_IMG_1546873106888"
+                android:src="@drawable/fb_img_1546873106888"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="45dp"
+                android:paddingLeft="25dp"
+                android:layout_marginBottom="10dp"
                 android:paddingTop="50px"
                 android:scaleType="fitCenter"
-                android:textAlignment="center"
-                android:layout_marginBottom="50dp" />
+                android:textAlignment="center" />
 
             <ImageView
                 android:id="@+id/imageViewDesenhosGrafite1546873356857"
                 android:layout_below="@+id/imageViewDesenhosGrafite1546873106888"
-                android:src="@drawable/FB_IMG_1546873356857"
+                android:src="@drawable/fb_img_1546873356857"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="45dp"
+                android:paddingLeft="25dp"
+                android:layout_marginBottom="10dp"
                 android:paddingTop="50px"
                 android:scaleType="fitCenter"
-                android:textAlignment="center"
-                android:layout_marginBottom="50dp" />
+                android:textAlignment="center" />
 
             <ImageView
                 android:id="@+id/imageViewDesenhosGrafite1546873365584"
                 android:layout_below="@+id/imageViewDesenhosGrafite1546873356857"
-                android:src="@drawable/FB_IMG_1546873365584"
+                android:src="@drawable/fb_img_1546873365584"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="45dp"
+                android:paddingLeft="25dp"
+                android:layout_marginBottom="10dp"
                 android:paddingTop="50px"
                 android:scaleType="fitCenter"
-                android:textAlignment="center"
-                android:layout_marginBottom="50dp" />
+                android:textAlignment="center" />
 
             <ImageView
                 android:id="@+id/imageViewDesenhosGrafite1546873383437"
                 android:layout_below="@+id/imageViewDesenhosGrafite1546873365584"
-                android:src="@drawable/FB_IMG_1546873383437"
+                android:src="@drawable/fb_img_1546873383437"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="45dp"
+                android:paddingLeft="25dp"
+                android:layout_marginBottom="10dp"
                 android:paddingTop="50px"
                 android:scaleType="fitCenter"
-                android:textAlignment="center"
-                android:layout_marginBottom="50dp" />
+                android:textAlignment="center" />
 
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewTextoDireitoAutoralDaImagemDoAdalbertoReisDosSantos"
+                android:layout_below="@+id/imageViewDesenhosGrafite1546873383437"
+                android:text="@string/textoDireitoAutoralDaImagemDoAdalbertoReisDosSantos"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="false"
+                android:layout_marginBottom="40dp"
+                android:layout_marginLeft="145dp"
+                android:paddingTop="5dp"
+                android:textSize="11dp"
+                android:textStyle="bold" />
         </RelativeLayout>
     </ScrollView>
 </LinearLayout>
