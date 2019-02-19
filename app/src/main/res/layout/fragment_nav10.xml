@@ -241,9 +241,20 @@
                 android:layout_marginLeft="5dp" />
 
             <TextView
-                android:id="@+id/textViewTextoTituloOitoAcotirene"
+                android:id="@+id/textViewTextoDireitosMariaFelipa"
                 android:layout_below="@+id/imageViewMariaFelipadeOliveira"
                 android:text="@string/textoTituloSeteMariaFelipa"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="210dp"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:textSize="14sp" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewTextoTituloOitoAcotirene"
+                android:layout_below="@+id/textViewTextoDireitosMariaFelipa"
+                android:text="@string/textoTituloOitoAcotirene"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerHorizontal="true"
@@ -255,7 +266,7 @@
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoOitoAcotirene"
                 android:layout_below="@+id/textViewTextoTituloOitoAcotirene"
-                android:text="@string/textoSeteMariaFelipa"
+                android:text="@string/textoOitoAcotirene"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_alignParentTop="false"
@@ -267,7 +278,7 @@
             <TextView
                 android:id="@+id/textViewTextoTituloNoveAdelina"
                 android:layout_below="@+id/textViewTextoOitoAcotirene"
-                android:text="@string/textoTituloSeteMariaFelipa"
+                android:text="@string/textoTituloNoveAdelina"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerHorizontal="true"
@@ -291,7 +302,7 @@
             <TextView
                 android:id="@+id/textViewTextoTituloDezRainha"
                 android:layout_below="@+id/textViewTextoNoveAdelina"
-                android:text="@string/textoTituloSeteMariaFelipa"
+                android:text="@string/textoTituloDezRainha"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerHorizontal="true"
@@ -303,7 +314,7 @@
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoDezRainha"
                 android:layout_below="@+id/textViewTextoTituloDezRainha"
-                android:text="@string/textoNoveAdelina"
+                android:text="@string/textoDezRainha"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_centerHorizontal="true"
@@ -322,7 +333,7 @@
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
                 android:layout_marginTop="20dp"
-                android:layout_marginLeft="5dp" />
+                android:layout_marginLeft="40dp" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloOnzeMariana"

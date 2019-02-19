@@ -57,10 +57,10 @@ public class Nav7 extends Fragment {
         listDataHeader.add("Benefício de Prestação Continuada");
 
         List<Integer> layoutList0 = new ArrayList<>();
-        layoutList0.add(layoutServicoBeneficioSocial);
+        layoutList0.add(layoutCadastroUnico);
 
         List<Integer> layoutList1 = new ArrayList<>();
-        layoutList1.add(layoutCadastroUnico);
+        layoutList1.add(layoutServicoBeneficioSocial);
 
         List<Integer> layoutList2 = new ArrayList<>();
         layoutList2.add(layoutBeneficioPrestacaoContinuada);

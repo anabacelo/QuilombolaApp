@@ -179,7 +179,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         }
 
         else if (id == R.id.nav_10) {
-            setTitle("Aplicativo Quilombola");  // DESTAQUES MULHERES
+            setTitle("Aplicativo Quilombola");  // MULHERES Negras Quilombola
             Nav10 nav10 = new Nav10();
             android.support.v4.app.FragmentManager fragmentManager = getSupportFragmentManager();
             fragmentManager.beginTransaction().replace(R.id.fragment, nav10).commit();
