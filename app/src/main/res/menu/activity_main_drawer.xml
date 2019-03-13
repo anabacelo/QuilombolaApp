@@ -58,7 +58,7 @@
 
         <item
             android:id="@+id/nav_10"
-            android:title="Mulheres Negras Quilombola"
+            android:title="Mulheres Negras Quilombolas"
             android:icon="@drawable/ic_person"/>
 
     </group>

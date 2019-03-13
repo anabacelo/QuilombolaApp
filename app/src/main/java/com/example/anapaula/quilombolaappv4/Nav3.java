@@ -42,7 +42,6 @@ public class Nav3 extends Fragment {
         listView.setAdapter(listAdapter);
     }
 
-    //    para link legislação
     private void iniData() {
         Integer layoutEstatutoIdoso = R.layout.layout_estatuto_idoso;
         Integer layoutEstatutoCrianca = R.layout.layout_estatuto_crianca;
