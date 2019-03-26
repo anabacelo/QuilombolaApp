@@ -20,34 +20,25 @@
                 android:text="@string/titulo_popnegra01"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="true"
-                android:layout_centerHorizontal="true"
-                android:layout_marginTop="15dp"
-                android:textSize="26sp" />
+                style="@style/estiloTextoTitulo" />
 
             <ImageView
                 android:id="@+id/imageViewPopulacaoNegra"
                 android:src="@drawable/saudedapopnegra"
                 android:layout_below="@+id/textViewTituloPopulacaoNegra"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentLeft="true" />
+                style="@style/estiloImagem"/>
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoPopulacaoNegra"
                 android:text="@string/texto_popnegra01"
                 android:layout_below="@+id/imageViewPopulacaoNegra"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
-                android:textAlignment="center"
-                android:textSize="20sp"
                 android:autoLink="web"
                 android:linksClickable="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentLeft="true" />
+                style="@style/estiloTextoComplemento" />
 
         </RelativeLayout>
     </ScrollView>

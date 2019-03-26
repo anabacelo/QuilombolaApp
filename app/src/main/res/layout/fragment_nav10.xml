@@ -1,5 +1,4 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -7,35 +6,27 @@
 
 
     <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
 
         <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
 
             <TextView
                 android:id="@+id/textViewTituloMulheresQuilombola"
                 android:text="@string/textoTituloMulheresQuilombola"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="true"
-                android:layout_centerHorizontal="true"
-                android:textStyle="bold"
-                android:layout_marginTop="16dp"
-                android:textSize="20sp" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoIntroducaoMulheresQuilombola"
                 android:layout_below="@+id/textViewTituloMulheresQuilombola"
                 android:text="@string/textoIntroducaoMulheresQuilombola"
-                android:layout_centerHorizontal="true"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="20dp"
-                android:textSize="20dp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <TextView
                 android:id="@+id/textViewTextoByPatriciaGonçalves"
@@ -43,45 +34,31 @@
                 android:text="@string/textoByPatriciaGonçalves"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_centerHorizontal="true"
-                android:textStyle="bold"
-                android:textAlignment="center"
-                android:layout_marginTop="20dp"
-                android:textSize="30dp" />
+                style="@style/estiloTextoDireitosReservados" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoIntroducaoDoisMulheresQuilombola"
                 android:layout_below="@+id/textViewTextoByPatriciaGonçalves"
                 android:text="@string/textoIntroducaoDoisMulheresQuilombola"
-                android:layout_centerHorizontal="true"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="20dp"
-                android:textSize="20dp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloUmDadara"
                 android:layout_below="@+id/textViewTextoIntroducaoDoisMulheresQuilombola"
                 android:text="@string/textoTituloUmDadara"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textAlignment="center"
-                android:textStyle="bold"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoUmDandara"
                 android:layout_below="@+id/textViewTextoTituloUmDadara"
                 android:text="@string/textoUmDadara"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloDoisAnastacia"
@@ -89,47 +66,31 @@
                 android:text="@string/textoTituloDoisAnastacia"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_centerHorizontal="true"
-                android:textAlignment="center"
-                android:textStyle="bold"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoDoisAnastacia"
                 android:layout_below="@+id/textViewTextoTituloDoisAnastacia"
                 android:text="@string/textoDoisAnastacia"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloTresLuizaMahin"
                 android:layout_below="@+id/textViewTextoDoisAnastacia"
                 android:text="@string/textoTituloTresLuizaMahin"
-                android:layout_centerHorizontal="true"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textAlignment="center"
-                android:textStyle="bold"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoTresLuizaMahin"
                 android:layout_below="@+id/textViewTextoTituloTresLuizaMahin"
                 android:text="@string/textoTresLuizaMahin"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloQuatroTereza"
@@ -137,22 +98,15 @@
                 android:text="@string/textoTituloQuatroTereza"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_centerHorizontal="true"
-                android:textAlignment="center"
-                android:textStyle="bold"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoQuatroTereza"
                 android:layout_below="@+id/textViewTextoTituloQuatroTereza"
                 android:text="@string/textoQuatroTereza"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloCincoAqualtune"
@@ -160,25 +114,15 @@
                 android:text="@string/textoTituloCincoAqualtune"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
-                android:layout_centerHorizontal="true"
-                android:textAlignment="center"
-                android:textStyle="bold"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoCincoAqualtune"
                 android:layout_below="@+id/textViewTextoTituloCincoAqualtune"
                 android:text="@string/textoCincoAqualtune"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_centerHorizontal="true"
-                android:layout_alignParentTop="false"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloSeisZeferina"
@@ -186,24 +130,15 @@
                 android:text="@string/textoTituloSeisZeferina"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_centerHorizontal="true"
-                android:textAlignment="center"
-                android:textStyle="bold"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoSeisZeferina"
                 android:layout_below="@+id/textViewTextoTituloSeisZeferina"
                 android:text="@string/textoSeisZeferina"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_centerHorizontal="true"
-                android:layout_alignParentTop="false"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloSeteMariaFelipa"
@@ -211,34 +146,23 @@
                 android:text="@string/textoTituloSeteMariaFelipa"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_centerHorizontal="true"
-                android:textAlignment="center"
-                android:textStyle="bold"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoSeteMariaFelipa"
                 android:layout_below="@+id/textViewTextoTituloSeteMariaFelipa"
                 android:text="@string/textoSeteMariaFelipa"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <ImageView
                 android:id="@+id/imageViewMariaFelipadeOliveira"
                 android:layout_below="@+id/textViewTextoSeteMariaFelipa"
                 android:src="@drawable/maria_felipa_de_oliveira"
-                android:scaleType="centerCrop"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textAlignment="center"
-                android:layout_marginTop="20dp"
-                android:layout_marginLeft="5dp" />
+                style="@style/estiloImagem" />
 
             <TextView
                 android:id="@+id/textViewTextoDireitosMariaFelipa"
@@ -246,10 +170,7 @@
                 android:text="@string/textoTituloSeteMariaFelipa"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="250dp"
-                android:textStyle="bold"
-                android:layout_marginTop="0dp"
-                android:textSize="14sp" />
+                style="@style/estiloTextoDireitosReservados" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoTituloOitoAcotirene"
@@ -257,23 +178,15 @@
                 android:text="@string/textoTituloOitoAcotirene"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_centerHorizontal="true"
-                android:textAlignment="center"
-                android:textStyle="bold"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoOitoAcotirene"
                 android:layout_below="@+id/textViewTextoTituloOitoAcotirene"
                 android:text="@string/textoOitoAcotirene"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloNoveAdelina"
@@ -281,23 +194,15 @@
                 android:text="@string/textoTituloNoveAdelina"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_centerHorizontal="true"
-                android:textAlignment="center"
-                android:textStyle="bold"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoNoveAdelina"
                 android:layout_below="@+id/textViewTextoTituloNoveAdelina"
                 android:text="@string/textoNoveAdelina"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloDezRainha"
@@ -305,35 +210,23 @@
                 android:text="@string/textoTituloDezRainha"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_centerHorizontal="true"
-                android:textAlignment="center"
-                android:textStyle="bold"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoDezRainha"
                 android:layout_below="@+id/textViewTextoTituloDezRainha"
                 android:text="@string/textoDezRainha"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_centerHorizontal="true"
-                android:layout_alignParentTop="false"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <ImageView
                 android:id="@+id/imageViewRainhaTereza"
                 android:layout_below="@+id/textViewTextoDezRainha"
                 android:src="@drawable/rainha_tereza"
-                android:scaleType="centerCrop"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textAlignment="center"
-                android:layout_marginTop="20dp"
-                android:layout_marginLeft="40dp" />
+                style="@style/estiloImagem" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloOnzeMariana"
@@ -341,23 +234,15 @@
                 android:text="@string/textoTituloOnzeMariana"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_centerHorizontal="true"
-                android:textAlignment="center"
-                android:textStyle="bold"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoOnzeMariana"
                 android:layout_below="@+id/textViewTextoTituloOnzeMariana"
                 android:text="@string/textoOnzeMariana"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloDozeEsperanca"
@@ -365,23 +250,15 @@
                 android:text="@string/textoTituloDozeEsperanca"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_centerHorizontal="true"
-                android:textAlignment="center"
-                android:textStyle="bold"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoDozeEsperanca"
                 android:layout_below="@+id/textViewTextoTituloDozeEsperanca"
                 android:text="@string/textoDozeEsperanca"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloTrezeMariaFirmina"
@@ -389,23 +266,15 @@
                 android:text="@string/textoTituloTrezeMariaFirmina"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_centerHorizontal="true"
-                android:textAlignment="center"
-                android:textStyle="bold"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoTrezeMariaFirmina"
                 android:layout_below="@+id/textViewTextoTituloTrezeMariaFirmina"
                 android:text="@string/textoTrezeMariaFirmina"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloQuatorzeEvaMaria"
@@ -413,23 +282,15 @@
                 android:text="@string/textoTituloQuatorzeEvaMaria"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_centerHorizontal="true"
-                android:textAlignment="center"
-                android:textStyle="bold"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoQuatorzeEvaMaria"
                 android:layout_below="@+id/textViewTextoTituloQuatorzeEvaMaria"
                 android:text="@string/textoQuatorzeEvaMaria"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloQuinzeMariaAranha"
@@ -437,23 +298,15 @@
                 android:text="@string/textoTituloQuinzeMariaAranha"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_centerHorizontal="true"
-                android:textAlignment="center"
-                android:textStyle="bold"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoQuinzeMariaAranha"
                 android:layout_below="@+id/textViewTextoTituloQuinzeMariaAranha"
                 android:text="@string/textoQuinzeMariaAranha"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloDezeseisNaAgontime"
@@ -461,23 +314,15 @@
                 android:text="@string/textoTituloDezeseisNaAgontime"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_centerHorizontal="true"
-                android:textAlignment="center"
-                android:textStyle="bold"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoDezeseisNaAgontime"
                 android:layout_below="@+id/textViewTextoTituloDezeseisNaAgontime"
                 android:text="@string/textoDezeseisNaAgontime"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloDezeseteTiaSimoa"
@@ -485,23 +330,15 @@
                 android:text="@string/textoTituloDezeseteTiaSimoa"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_centerHorizontal="true"
-                android:textAlignment="center"
-                android:textStyle="bold"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoDezeseteTiaSimoa"
                 android:layout_below="@+id/textViewTextoTituloDezeseteTiaSimoa"
                 android:text="@string/textoDezeseteTiaSimoa"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <TextView
                 android:id="@+id/textViewTextoTituloDezoitoZacimba"
@@ -509,36 +346,23 @@
                 android:text="@string/textoTituloDezoitoZacimba"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_centerHorizontal="true"
-                android:textAlignment="center"
-                android:textStyle="bold"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoDezoitoZacimba"
                 android:layout_below="@+id/textViewTextoTituloDezoitoZacimba"
                 android:text="@string/textoDezoitoZacimba"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoDireitosAutoraisGeledesOrg"
                 android:layout_below="@+id/textViewTextoDezoitoZacimba"
                 android:text="@string/textoDireitosAutoraisGeledesOrg"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
-                android:autoLink="all"
-                android:layout_marginTop="20dp"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoDireitosReservados" />
 
         </RelativeLayout>
     </ScrollView>

@@ -1,116 +1,153 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/layout_fevereiro"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
-
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
 
     <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
 
         <RelativeLayout
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content">
 
             <ImageView
-                android:id="@+id/imageViewFevereiro"
-                android:layout_below="@+id/textViewJaneiro31"
+                android:id="@+id/imageViewImagemFevereiro"
                 android:src="@drawable/mes_fevereiro"
-                android:layout_marginTop="10dp"
-                android:layout_marginLeft="0sp"
-                android:layout_width="fill_parent"
-                android:layout_height="fill_parent"
-                android:layout_gravity="center"
-                android:scaleType="center" />
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloImagem" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textViewFevereiro01"
-                android:layout_below="@+id/imageViewFevereiro"
-                android:text="@string/textoFevereiro01"
-                android:layout_marginTop="10dp"
-                android:layout_width="match_parent"
+                android:id="@+id/textViewTituloFevereiro01"
+                android:layout_below="@+id/imageViewImagemFevereiro"
+                android:text="@string/textoTituloFevereiro01"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textViewFevereiro02"
-                android:layout_below="@+id/textViewFevereiro01"
-                android:text="@string/textoFevereiro02"
-                android:layout_marginTop="10dp"
-                android:layout_width="match_parent"
+                android:id="@+id/textViewConteudoFevereiro01"
+                android:layout_below="@+id/textViewTituloFevereiro01"
+                android:text="@string/textoConteudoFevereiro01"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textViewFevereiro07"
-                android:layout_below="@+id/textViewFevereiro02"
-                android:text="@string/textoFevereiro07"
-                android:layout_marginTop="10dp"
-                android:layout_width="match_parent"
+                android:id="@+id/textViewTituloFevereiro02"
+                android:layout_below="@+id/textViewConteudoFevereiro01"
+                android:text="@string/textoTituloFevereiro02"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textViewFevereiro10"
-                android:layout_below="@+id/textViewFevereiro07"
-                android:text="@string/textoFevereiro10"
-                android:layout_marginTop="10dp"
-                android:layout_width="match_parent"
+                android:id="@+id/textViewConteudoFevereiro02"
+                android:layout_below="@+id/textViewTituloFevereiro02"
+                android:text="@string/textoConteudoFevereiro02"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textViewFevereiro12"
-                android:layout_below="@+id/textViewFevereiro10"
-                android:text="@string/textoFevereiro12"
-                android:layout_width="match_parent"
+                android:id="@+id/textViewTituloFevereiro07"
+                android:layout_below="@+id/textViewConteudoFevereiro02"
+                android:text="@string/textoTituloFevereiro07"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textViewFevereiro18"
-                android:layout_below="@+id/textViewFevereiro12"
-                android:text="@string/textoFevereiro18"
-                android:layout_marginTop="10dp"
-                android:layout_width="match_parent"
+                android:id="@+id/textViewConteudoFevereiro07"
+                android:layout_below="@+id/textViewTituloFevereiro07"
+                android:text="@string/textoConteudoFevereiro07"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textViewFevereiro19"
-                android:layout_below="@+id/textViewFevereiro18"
-                android:text="@string/textoFevereiro19"
-                android:layout_marginTop="10dp"
-                android:layout_width="match_parent"
+                android:id="@+id/textViewTituloFevereiro10"
+                android:layout_below="@+id/textViewConteudoFevereiro07"
+                android:text="@string/textoTituloFevereiro10"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textViewFevereiro21"
-                android:layout_below="@+id/textViewFevereiro19"
-                android:text="@string/textoFevereiro21"
-                android:layout_marginTop="10dp"
+                android:id="@+id/textViewConteudoFevereiro10"
+                android:layout_below="@+id/textViewTituloFevereiro10"
+                android:text="@string/textoConteudoFevereiro10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoConteudo" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewTituloFevereiro12"
+                android:layout_below="@+id/textViewConteudoFevereiro10"
+                android:text="@string/textoTituloFevereiro12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoTituloNormal" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewConteudoFevereiro12"
+                android:layout_below="@+id/textViewTituloFevereiro12"
+                android:text="@string/textoConteudoFevereiro12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoConteudo" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewTituloFevereiro18"
+                android:layout_below="@+id/textViewConteudoFevereiro12"
+                android:text="@string/textoTituloFevereiro18"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoTituloNormal" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewConteudoFevereiro18"
+                android:layout_below="@+id/textViewTituloFevereiro18"
+                android:text="@string/textoConteudoFevereiro18"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoConteudo" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewTituloFevereiro19"
+                android:layout_below="@+id/textViewConteudoFevereiro18"
+                android:text="@string/textoTituloFevereiro19"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoTituloNormal" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewConteudoFevereiro19"
+                android:layout_below="@+id/textViewTituloFevereiro19"
+                android:text="@string/textoConteudoFevereiro19"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoConteudo" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewTituloFevereiro21"
+                android:layout_below="@+id/textViewConteudoFevereiro19"
+                android:text="@string/textoTituloFevereiro21"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoTituloNormal" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewConteudoFevereiro21"
+                android:layout_below="@+id/textViewTituloFevereiro21"
+                android:text="@string/textoConteudoFevereiro21"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoConteudo" />
+
         </RelativeLayout>
     </ScrollView>
 </LinearLayout>

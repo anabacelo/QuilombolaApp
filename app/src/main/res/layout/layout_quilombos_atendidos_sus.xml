@@ -2,40 +2,33 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/layout_quilombos_atendidos_sus"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
 
 
     <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
 
         <RelativeLayout
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="vertical" >
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTituloQuilombosAtendidosSUS"
                 android:text="@string/titulo_popnegra02"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:textSize="21sp"
-                android:textAlignment="center"
-                android:layout_marginTop="21dp"
-                android:layout_alignParentStart="true"
-                android:autoLink="web"
-                android:linksClickable="true"
-                android:layout_alignParentLeft="true" />
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoTitulo" />
 
             <ImageView
                 android:id="@+id/imageViewQuilombosAtendidosSUS"
                 android:src="@drawable/locaispopnegra"
                 android:layout_below="@+id/textViewTituloQuilombosAtendidosSUS"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentLeft="true" />
+                style="@style/estiloImagem" />
         </RelativeLayout>
     </ScrollView>
 </LinearLayout>

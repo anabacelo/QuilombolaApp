@@ -1,30 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/layout_diabete_mellitus"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
 
 
     <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
 
         <RelativeLayout
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="vertical" >
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textView6"
-                android:text="@string/texto_popnegra04"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:textSize="21sp"
-                android:textAlignment="center"
-                android:layout_marginTop="21dp"
-                android:layout_alignParentStart="true"
+                android:id="@+id/textViewTituloDiabetesMellitus"
+                android:text="@string/textoTituloDiabetesMellitus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoTitulo" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewTexto"
+                android:text="@string/textoDiabetesMellitus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:autoLink="web"
-                android:linksClickable="true" />
+                android:linksClickable="true"
+                style="@style/estiloTextoComplemento" />
 
         </RelativeLayout>
     </ScrollView>

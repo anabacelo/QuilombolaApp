@@ -1,95 +1,121 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/layout_maio"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
-
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
 
     <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
 
         <RelativeLayout
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content">
-
 
             <ImageView
                 android:id="@+id/imageViewMaio"
-                android:layout_below="@+id/textViewAbril26"
                 android:src="@drawable/mes_maio"
-                android:layout_marginTop="10dp"
-                android:layout_marginLeft="0sp"
-                android:layout_width="fill_parent"
-                android:layout_height="fill_parent"
-                android:layout_gravity="center"
-                android:scaleType="center" />
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloImagem" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textViewMaio02"
+                android:id="@+id/textViewTituloMaio02"
                 android:layout_below="@+id/imageViewMaio"
-                android:text="@string/textoMaio02"
-                android:layout_marginTop="10dp"
-                android:layout_width="match_parent"
+                android:text="@string/textoTituloMaio02"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textViewMaio03"
-                android:layout_below="@+id/textViewMaio02"
-                android:text="@string/textoMaio03"
-                android:layout_marginTop="10dp"
-                android:layout_width="match_parent"
+                android:id="@+id/textViewConteudoMaio02"
+                android:layout_below="@+id/textViewTituloMaio02"
+                android:text="@string/textoConteudoMaio02"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textViewMaio13"
-                android:layout_below="@+id/textViewMaio03"
-                android:text="@string/textoMaio13"
-                android:layout_marginTop="10dp"
-                android:layout_width="match_parent"
+                android:id="@+id/textViewTituloMaio03"
+                android:layout_below="@+id/textViewConteudoMaio02"
+                android:text="@string/textoTituloMaio03"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textViewMaio14"
-                android:layout_below="@+id/textViewMaio13"
-                android:text="@string/textoMaio14"
-                android:layout_marginTop="10dp"
-                android:layout_width="match_parent"
+                android:id="@+id/textViewConteudoMaio03"
+                android:layout_below="@+id/textViewTituloMaio03"
+                android:text="@string/textoConteudoMaio03"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textViewMaio18"
-                android:layout_below="@+id/textViewMaio14"
-                android:text="@string/textoMaio18"
-                android:layout_marginTop="10dp"
-                android:layout_width="match_parent"
+                android:id="@+id/textViewTituloMaio13"
+                android:layout_below="@+id/textViewConteudoMaio03"
+                android:text="@string/textoTituloMaio13"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textViewMaio19"
-                android:layout_below="@+id/textViewMaio18"
-                android:text="@string/textoMaio19"
-                android:layout_marginTop="10dp"
-                android:layout_width="match_parent"
+                android:id="@+id/textViewConteudoMaio13"
+                android:layout_below="@+id/textViewTituloMaio13"
+                android:text="@string/textoConteudoMaio13"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewTituloMaio14"
+                android:layout_below="@+id/textViewConteudoMaio13"
+                android:text="@string/textoTituloMaio14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoTituloNormal" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewConteudoMaio14"
+                android:layout_below="@+id/textViewTituloMaio14"
+                android:text="@string/textoConteudoMaio14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoConteudo" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewTituloMaio18"
+                android:layout_below="@+id/textViewConteudoMaio14"
+                android:text="@string/textoTituloMaio18"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoTituloNormal" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewConteudoMaio18"
+                android:layout_below="@+id/textViewTituloMaio18"
+                android:text="@string/textoConteudoMaio18"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoConteudo" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewTituloMaio19"
+                android:layout_below="@+id/textViewConteudoMaio18"
+                android:text="@string/textoTituloMaio19"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoTituloNormal" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewConteudoMaio19"
+                android:layout_below="@+id/textViewTituloMaio19"
+                android:text="@string/textoConteudoMaio19"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoConteudo" />
+
         </RelativeLayout>
     </ScrollView>
 </LinearLayout>

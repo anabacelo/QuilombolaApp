@@ -1,59 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/layout_rede_atendimento_contato"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
-
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
 
 
     <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
 
         <RelativeLayout
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
-
             <TextView
                 android:id="@+id/textView5"
-                android:text="@string/titulo_assistencial03"
                 android:layout_width="wrap_content"
+                android:text="@string/titulo_assistencial03"
                 android:layout_height="wrap_content"
-                android:textAlignment="center"
-                android:textSize="25sp" />
+                style="@style/estiloTextoTitulo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textView6"
-                android:text="@string/texto_assitencial03"
                 android:layout_below="@id/textView5"
+                android:text="@string/texto_assitencial03"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="21dp"
-                android:textAlignment="center"
-                android:textSize="18sp" />
+                style="@style/estiloTextoConteudo" />
 
             <TextView
                 android:id="@+id/textView7"
-                android:text="@string/titulo_assistencial04"
                 android:layout_below="@id/textView6"
-                android:layout_width="match_parent"
+                android:text="@string/titulo_assistencial04"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="15dp"
-                android:textAlignment="center"
-                android:textSize="25sp" />
+                style="@style/estiloTextoConteudo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textView8"
-                android:text="@string/texto_assitencial04"
                 android:layout_below="@id/textView7"
+                android:text="@string/texto_assitencial04"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="21dp"
-                android:textSize="18sp"
-                android:layout_marginLeft="12dp"
-                android:layout_marginRight="12dp" />
+                style="@style/estiloTextoConteudo" />
         </RelativeLayout>
     </ScrollView>
 </LinearLayout>

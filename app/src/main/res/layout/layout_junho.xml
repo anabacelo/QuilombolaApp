@@ -1,62 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/layout_junho"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
-
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
 
     <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
-
-        <RelativeLayout
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content">
 
+        <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
 
         <ImageView
             android:id="@+id/imageViewJunho"
-            android:layout_below="@+id/textViewMaio19"
             android:src="@drawable/mes_junho"
-            android:layout_marginTop="10dp"
-            android:layout_marginLeft="0sp"
-            android:layout_width="fill_parent"
-            android:layout_height="fill_parent"
-            android:layout_gravity="center"
-            android:scaleType="center" />
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/estiloImagem" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
-            android:id="@+id/textViewJunho06"
+            android:id="@+id/textViewTituloJunho06"
             android:layout_below="@+id/imageViewJunho"
-            android:text="@string/textoJunho06"
-            android:layout_marginTop="10dp"
-            android:layout_width="match_parent"
+            android:text="@string/textoTituloJunho06"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="20sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoTituloNormal" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
-            android:id="@+id/textViewJunho21"
-            android:layout_below="@+id/textViewJunho06"
-            android:text="@string/textoJunho21"
-            android:layout_marginTop="10dp"
-            android:layout_width="match_parent"
+            android:id="@+id/textViewConteudoJunho06"
+            android:layout_below="@+id/textViewTituloJunho06"
+            android:text="@string/textoConteudoJunho06"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="20sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
-            android:id="@+id/textViewJunho24"
-            android:layout_below="@+id/textViewJunho21"
-            android:text="@string/textoJunho24"
-            android:layout_marginTop="10dp"
-            android:layout_width="match_parent"
+            android:id="@+id/textViewTituloJunho21"
+            android:layout_below="@+id/textViewConteudoJunho06"
+            android:text="@string/textoTituloJunho21"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="20sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoTituloNormal" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewConteudoJunho21"
+            android:layout_below="@+id/textViewTituloJunho21"
+            android:text="@string/textoConteudoJunho21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/estiloTextoConteudo" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTituloJunho24"
+            android:layout_below="@+id/textViewConteudoJunho21"
+            android:text="@string/textoTituloJunho24"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/estiloTextoTituloNormal" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewConteudoJunho24"
+            android:layout_below="@+id/textViewTituloJunho24"
+            android:text="@string/textoConteudoJunho24"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/estiloTextoConteudo" />
+
         </RelativeLayout>
     </ScrollView>
 </LinearLayout>

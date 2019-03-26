@@ -1,4 +1,5 @@
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -11,13 +12,10 @@
 
         <TextView
             android:id="@+id/textViewRepresentaQuilombo8"
+            android:text="Representações Quilombolas"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignParentTop="true"
-            android:layout_centerHorizontal="true"
-            android:layout_marginTop="13dp"
-            android:textSize="26sp"
-            android:text="Representações Quilombolas" />
+            style="@style/estiloTextoTitulo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewCoordenacaoNacional"
@@ -25,12 +23,9 @@
             android:text="@string/textoCoordenacaoNacional"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
             android:autoLink="web"
             android:linksClickable="true"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewConaq"
@@ -38,12 +33,9 @@
             android:text="@string/textoConaq"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
             android:autoLink="web"
             android:linksClickable="true"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewFrenteQuilombola"
@@ -51,11 +43,9 @@
             android:text="@string/textoFrenteQuilombola"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
             android:autoLink="web"
             android:linksClickable="true"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoConteudo" />
+
     </RelativeLayout>
 </LinearLayout>

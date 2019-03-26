@@ -1,42 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/layout_estatudo_juventude"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context="com.example.anapaula.quilombolaappv4.HomePage">
 
 
     <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
 
         <RelativeLayout
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="vertical" >
 
             <TextView
                 android:id="@+id/textViewTituloEstatutoDaJuventude"
                 android:text="@string/titulo_estatuto_juventude"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:textSize="20sp"
-                android:textAlignment="center"
-                android:autoLink="web"
-                android:linksClickable="true"
-                android:layout_marginTop="21dp"
-                android:layout_alignParentStart="true" />
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoTitulo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewEstatutoDaJuventude"
                 android:text="@string/texto_estatuto_juventude"
                 android:layout_below="@+id/textViewTituloEstatutoDaJuventude"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:textSize="20sp"
-                android:autoLink="web"
-                android:linksClickable="true"
-                android:layout_marginTop="21dp"
-                android:layout_alignParentStart="true" />
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoComplemento" />
 
         </RelativeLayout>
     </ScrollView>

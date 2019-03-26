@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
@@ -19,36 +20,23 @@
                 android:text="@string/tituloLayoutPaginaInicial"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="true"
-                android:layout_centerHorizontal="true"
-                android:layout_marginTop="21dp"
-                android:textSize="30dp" />
+                style="@style/estiloTextoTitulo" />
 
             <ImageView
                 android:id="@+id/imageViewLogoResistenciaNegra"
+                android:layout_below="@+id/textViewTituloLayoutPaginaInicial"
+                android:src="@drawable/img_capa_resitencia"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_below="@+id/textViewTituloLayoutPaginaInicial"
-                android:layout_marginStart="45dp"
-                android:layout_marginTop="0dp"
-                android:layout_marginBottom="10dp"
-                android:paddingLeft="30dp"
-                android:paddingTop="50px"
-                android:src="@drawable/img_capa_resitencia"
-                android:textAlignment="center" />
+                style="@style/estiloImagem" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoDireitoAutoralDaImagem"
-                android:layout_below="@+id/imageViewLogoResistenciaNegra"
                 android:text="@string/textoDireitoAutoralDaImagemDoAdalbertoReisDosSantos"
+                android:layout_below="@+id/imageViewLogoResistenciaNegra"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
-                android:layout_marginBottom="40dp"
-                android:layout_marginLeft="150dp"
-                android:paddingTop="5dp"
-                android:textSize="11dp"
-                android:textStyle="bold" />
+                style="@style/estiloTextoDireitosReservados" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoLayoutPaginaInicial"
@@ -56,14 +44,7 @@
                 android:text="@string/textoLayoutPaginaInicial"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp"
-                android:paddingTop="10dp"
-                android:textSize="18sp"
-                android:textStyle="bold"
-                android:autoLink="web"
-                android:linksClickable="true" />
+                style="@style/estiloTextoConteudo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoLayoutPaginaInicialRodape"
@@ -71,14 +52,7 @@
                 android:text="@string/textoLayoutPaginaInicialRodape"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp"
-                android:paddingTop="10dp"
-                android:textSize="18sp"
-                android:textStyle="bold"
-                android:autoLink="web"
-                android:linksClickable="true" />
+                style="@style/estiloTextoComplemento" />
         </RelativeLayout>
     </ScrollView>
 </LinearLayout>

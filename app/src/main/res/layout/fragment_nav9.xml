@@ -1,9 +1,9 @@
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.example.anapaula.quilombolaappv4.Nav4">
-
 
     <ScrollView
         android:layout_width="match_parent"
@@ -15,14 +15,11 @@
 
             <TextView
                 android:id="@+id/textViewTituloPagina"
+                android:text="Curiosidades"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerHorizontal="true"
-                android:layout_marginTop="0dp"
-                android:text="Curiosidades"
-                android:textAlignment="center"
-                android:textSize="35dp"
-                android:textStyle="bold" />
+                style="@style/estiloTextoTitulo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewuBuntu"
@@ -30,36 +27,23 @@
                 android:text="@string/texto_curiosidade_ubuntu_titulo"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textAlignment="center"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp"
-                android:layout_margin="30dp" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewUbuntuIntroducao"
-                android:text="@string/texto_curiosidade_ubuntu_introducao"
                 android:layout_below="@+id/textViewuBuntu"
+                android:text="@string/texto_curiosidade_ubuntu_introducao"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textAlignment="center"
-                android:paddingTop="10dp"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewUbuntuComplemento"
                 android:text="@string/texto_curiosidade_ubuntu_complemento"
                 android:layout_below="@+id/textViewUbuntuIntroducao"
-                android:textAlignment="center"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:paddingTop="10dp"
-                android:textSize="18sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp"
-                android:layout_marginBottom="50dp" />
+                style="@style/estiloTextoConteudo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewAbayomiTitulo"
@@ -67,25 +51,15 @@
                 android:text="@string/texto_curiosidade_abayomi_titulo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp"
-                android:textAlignment="center"
-                android:paddingTop="30dp"
-                android:textSize="24sp"
-                android:textStyle="bold" />
+                style="@style/estiloTextoConteudo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewAbayomiTexto"
                 android:layout_below="@+id/textViewAbayomiTitulo"
                 android:text="@string/texto_curiosidade_abayomi_texto"
-                android:textAlignment="center"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
-                android:paddingTop="10dp"
-                android:textSize="18sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewtextViewAbayomiComplemento"
@@ -93,11 +67,7 @@
                 android:text="@string/texto_curiosidade_abayomi_complemento"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
-                android:paddingTop="10dp"
-                android:textSize="18sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewtextViewAbayomiLink"
@@ -105,27 +75,17 @@
                 android:text="@string/texto_curiosidade_abayomi_link"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp"
-                android:paddingTop="10dp"
-                android:textSize="18sp"
-                android:textStyle="bold"
                 android:autoLink="web"
-                android:linksClickable="true" />
+                android:linksClickable="true"
+                style="@style/estiloTextoComplemento" />
 
             <ImageView
                 android:id="@+id/imageViewAbaomi"
+                android:layout_below="@+id/textViewtextViewAbayomiLink"
+                android:src="@drawable/abayomi"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_below="@+id/textViewtextViewAbayomiLink"
-                android:layout_marginStart="45dp"
-                android:paddingTop="50px"
-                android:scaleType="fitCenter"
-                android:src="@drawable/abayomi"
-                android:textAlignment="center"
-                android:layout_marginBottom="50dp" />
-
+                style="@style/estiloImagem" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewtextViewPalmasTitulo"
@@ -133,11 +93,7 @@
                 android:text="@string/texto_curiosidade_palmas_titulo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp"
-                android:paddingTop="20dp"
-                android:textSize="18sp"
-                android:textStyle="bold" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewtextViewPalmasTexto"
@@ -145,11 +101,7 @@
                 android:text="@string/texto_curiosidade_palmas_texto"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp"
-                android:paddingTop="10dp"
-                android:textSize="18sp" />
+                style="@style/estiloTextoConteudo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewtextViewPalmasLink"
@@ -157,14 +109,9 @@
                 android:text="@string/texto_curiosidade_palmas_link"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp"
-                android:paddingTop="10dp"
-                android:textSize="18sp"
-                android:textStyle="bold"
                 android:autoLink="web"
-                android:linksClickable="true" />
+                android:linksClickable="true"
+                style="@style/estiloTextoComplemento" />
 
             <ImageView
                 android:id="@+id/imageViewTrancasNago"
@@ -172,11 +119,7 @@
                 android:src="@drawable/montagem_nago"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="45dp"
-                android:paddingTop="50px"
-                android:scaleType="fitCenter"
-                android:textAlignment="center"
-                android:layout_marginBottom="50dp" />
+                style="@style/estiloImagem" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoTituloTrancasNago"
@@ -184,11 +127,7 @@
                 android:text="@string/textoTituloTrancasNago"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp"
-                android:paddingTop="20dp"
-                android:textSize="18sp"
-                android:textStyle="bold" />
+                style="@style/estiloTextoTituloNormal" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoTrancasNago"
@@ -196,11 +135,7 @@
                 android:text="@string/textoTrancasNago"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp"
-                android:paddingTop="10dp"
-                android:textSize="18sp" />
+                style="@style/estiloTextoConteudo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoComplementoTrancasNago"
@@ -208,14 +143,9 @@
                 android:text="@string/textoComplementoTrancasNago"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp"
-                android:paddingTop="10dp"
-                android:textSize="18sp"
-                android:textStyle="bold"
                 android:autoLink="web"
-                android:linksClickable="true" />
+                android:linksClickable="true"
+                style="@style/estiloTextoConteudo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoFimTrancasNago"
@@ -224,13 +154,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_alignParentTop="false"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp"
-                android:paddingTop="10dp"
-                android:textSize="18sp"
-                android:textStyle="bold"
                 android:autoLink="web"
-                android:linksClickable="true" />
+                android:linksClickable="true"
+                style="@style/estiloTextoConteudo" />
 
             <ImageView
                 android:id="@+id/imageViewDesenhosGrafite1546872699578"
@@ -238,12 +164,7 @@
                 android:src="@drawable/fb_img_1546872699578"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="45dp"
-                android:paddingLeft="25dp"
-                android:layout_marginBottom="10dp"
-                android:paddingTop="50px"
-                android:scaleType="fitCenter"
-                android:textAlignment="center" />
+                style="@style/estiloImagem" />
 
             <ImageView
                 android:id="@+id/imageViewDesenhosGrafite1546872710595"
@@ -251,12 +172,7 @@
                 android:src="@drawable/fb_img_1546872710595"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="45dp"
-                android:paddingLeft="25dp"
-                android:layout_marginBottom="10dp"
-                android:paddingTop="50px"
-                android:scaleType="fitCenter"
-                android:textAlignment="center" />
+                style="@style/estiloImagem" />
 
             <ImageView
                 android:id="@+id/imageViewDesenhosGrafite1546872739748"
@@ -264,12 +180,7 @@
                 android:src="@drawable/fb_img_1546872739748"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="45dp"
-                android:paddingLeft="25dp"
-                android:layout_marginBottom="10dp"
-                android:paddingTop="50px"
-                android:scaleType="fitCenter"
-                android:textAlignment="center" />
+                style="@style/estiloImagem" />
 
             <ImageView
                 android:id="@+id/imageViewDesenhosGrafite1546873013431"
@@ -277,12 +188,7 @@
                 android:src="@drawable/fb_img_1546873013431"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="45dp"
-                android:paddingLeft="25dp"
-                android:layout_marginBottom="10dp"
-                android:paddingTop="50px"
-                android:scaleType="fitCenter"
-                android:textAlignment="center" />
+                style="@style/estiloImagem" />
 
             <ImageView
                 android:id="@+id/imageViewDesenhosGrafite1546873106888"
@@ -290,12 +196,7 @@
                 android:src="@drawable/fb_img_1546873106888"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="45dp"
-                android:paddingLeft="25dp"
-                android:layout_marginBottom="10dp"
-                android:paddingTop="50px"
-                android:scaleType="fitCenter"
-                android:textAlignment="center" />
+                style="@style/estiloImagem" />
 
             <ImageView
                 android:id="@+id/imageViewDesenhosGrafite1546873356857"
@@ -303,12 +204,7 @@
                 android:src="@drawable/fb_img_1546873356857"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="45dp"
-                android:paddingLeft="25dp"
-                android:layout_marginBottom="10dp"
-                android:paddingTop="50px"
-                android:scaleType="fitCenter"
-                android:textAlignment="center" />
+                style="@style/estiloImagem" />
 
             <ImageView
                 android:id="@+id/imageViewDesenhosGrafite1546873365584"
@@ -316,12 +212,7 @@
                 android:src="@drawable/fb_img_1546873365584"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="45dp"
-                android:paddingLeft="25dp"
-                android:layout_marginBottom="10dp"
-                android:paddingTop="50px"
-                android:scaleType="fitCenter"
-                android:textAlignment="center" />
+                style="@style/estiloImagem" />
 
             <ImageView
                 android:id="@+id/imageViewDesenhosGrafite1546873383437"
@@ -329,12 +220,7 @@
                 android:src="@drawable/fb_img_1546873383437"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="45dp"
-                android:paddingLeft="25dp"
-                android:layout_marginBottom="10dp"
-                android:paddingTop="50px"
-                android:scaleType="fitCenter"
-                android:textAlignment="center" />
+                style="@style/estiloImagem" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoDireitoAutoralDaImagemDoAdalbertoReisDosSantos"
@@ -342,12 +228,8 @@
                 android:text="@string/textoDireitoAutoralDaImagemDoAdalbertoReisDosSantos"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
-                android:layout_marginBottom="40dp"
-                android:layout_marginLeft="145dp"
-                android:paddingTop="5dp"
-                android:textSize="11dp"
-                android:textStyle="bold" />
+                style="@style/estiloTextoDireitosReservados" />
+
         </RelativeLayout>
     </ScrollView>
 </LinearLayout>

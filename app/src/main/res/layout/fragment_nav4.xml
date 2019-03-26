@@ -1,101 +1,71 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
     tools:context="com.example.anapaula.quilombolaappv4.Nav4">
 
 
     <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
 
         <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
 
             <TextView
                 android:id="@+id/textViewTitulo"
-                android:layout_centerHorizontal="true"
+                android:text="História, Cultura e Tradição"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textAlignment="center"
-                android:layout_marginTop="0dp"
-                android:textSize="35dp"
-                android:text="História, Cultura e Tradição" />
+                style="@style/estiloTextoTitulo" />
 
             <ImageView
                 android:id="@+id/imageView1"
                 android:src="@drawable/historia_"
                 android:layout_below="@+id/textViewTitulo"
-                android:scaleType="centerCrop"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textAlignment="center"
-                android:paddingTop="0px"
-                android:layout_marginLeft="5dp" />
+                style="@style/estiloImagem" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textView2"
                 android:text="@string/texto_histcult01"
                 android:layout_below="@+id/imageView1"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textAlignment="center"
-                android:layout_alignParentTop="false"
-                android:paddingTop="10dp"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoComplemento" />
 
             <ImageView
                 android:id="@+id/imageView3"
                 android:src="@drawable/cultura_"
                 android:layout_below="@+id/textView2"
-                android:scaleType="centerCrop"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textAlignment="center"
-                android:layout_alignParentTop="false"
-                android:paddingTop="10dp"
-                android:layout_marginLeft="5dp" />
+                style="@style/estiloImagem" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textView4"
                 android:text="@string/texto_histcult01_part02"
                 android:layout_below="@+id/imageView3"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textAlignment="center"
-                android:layout_alignParentTop="false"
-                android:paddingTop="10dp"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
 
             <ImageView
                 android:id="@+id/imageView5"
                 android:src="@drawable/tradicao_"
                 android:layout_below="@+id/textView4"
-                android:scaleType="centerCrop"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textAlignment="center"
-                android:layout_alignParentTop="false"
-                android:paddingTop="10dp"
-                android:layout_marginLeft="0sp" />
+                style="@style/estiloImagem"/>
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textView6"
                 android:text="@string/texto_histcult01_part03"
                 android:layout_below="@+id/imageView5"
-                android:textAlignment="center"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentTop="false"
-                android:paddingTop="10dp"
-                android:textSize="20sp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoComplemento" />
 
         </RelativeLayout>
     </ScrollView>

@@ -1,38 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/layout_servico_beneficio_social"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
-
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
 
     <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
 
         <RelativeLayout
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content">
 
-        <TextView
-            android:id="@+id/textView"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_centerHorizontal="true"
-            android:text="Serviços e Benefícios Sociais"
-            android:textSize="27sp" />
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Serviços e Benefícios Sociais"
+                style="@style/estiloTextoTitulo" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
-            android:id="@+id/textView2"
-            android:layout_below="@id/textView"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textSize="20sp"
-            android:layout_marginTop="20sp"
-            android:autoLink="web"
-            android:linksClickable="true"
-            android:text="@string/texto_beneficios01"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textView2"
+                android:layout_below="@id/textView"
+                android:text="@string/texto_beneficios01"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:linksClickable="true"
+                style="@style/estiloTextoConteudo" />
+
         </RelativeLayout>
     </ScrollView>
 </LinearLayout>

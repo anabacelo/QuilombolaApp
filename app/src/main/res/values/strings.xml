@@ -38,10 +38,10 @@ Navegue à vontade!!!
     </string>
 
     <string name="textoLayoutPaginaInicialRodape">
-         \n \n
+         \n
         Edital Universal 2018 CNPq:  Processo 434180/2018-1 \n
         Edital PQG FAPERGS 2017 - Processo 17/2551-0000997-5 \n
-        \"Mulheres Quilombolas e acesso aos direitos de cidadania: desafios para as políticas públicas\" \n
+        \"Mulheres Quilombolas e acesso aos direitos de cidadania: desafios para as políticas públicas\"
     </string>
 
     <string name="textoDireitoAutoralDaImagemDoAdalbertoReisDosSantos">
@@ -53,11 +53,15 @@ Navegue à vontade!!!
     <!-- O QUE É SER QUILOMBOLA -->
     <string name="titulo_oqeh01"> O que é ser Quilombola? </string>
 
-
     <string name="texto_oqeh01"> <b> “Ser quilombola é pertencer a uma comunidade negra, assumir sua cor,
         sentir orgulho, lutar contra o racismo, pela liberdade, pelos ideais, pelos objetivos.
         Ser quilombola é ter orgulho de sua comunidade e de seu povo. Ser quilombola é ter a “consciência limpa,
-        isto é, sem preconceito”. </b> \n\n <b>(CHAVES; SANTOS, 2007, p.7).</b>  </string>
+        isto é, sem preconceito”. </b>
+    </string>
+
+    <string name="textoDireitos">
+        \n\n <b>(CHAVES; SANTOS, 2007, p.7).</b>
+    </string>
 
 
     <!-- O QUE É SER QUILOMBOLA -->
@@ -181,6 +185,7 @@ Navegue à vontade!!!
         Dessa forma, os integrantes das comunidades quilombolas possuem fortes laços culturais, mantendo suas tradições,
         práticas religiosas, relações com a terra e sistemas de organização social próprio. Além de fatores como sua educação,
         saúde e modo de vida de seus membros, as relações com o território são essenciais para a preservação de sua ancestralidade.
+        \n\n
     </string>
 
     <!-- HISTÓRIA CULTURA E TRADIÇÃO -->
@@ -229,35 +234,33 @@ Navegue à vontade!!!
 
         Abriga pelo menos 70 famílias, segundo o Instituto Nacional de Colonização e Reforma Agrária (INCRA). \n\n
 
-        <b> Fonte: http://www.canalrural.com.br/noticias/agricultura/quilombo-areal-resgata-historia-cultural-desde-epoca-escravidao-14187 </b> \n\n
+        <b>
+            Fonte: \n
+        </b>
+        <b>
+            http://www.canalrural.com.br/noticias/agricultura/quilombo-areal-resgata-historia-cultural-desde-epoca-escravidao-14187
+            \n\n
+        </b>
 
-        Situado no limite entre os bairros Cidade Baixa e Menino Deus, o Areal da Baronesa é um dos
-        espaços de cultura negra mais tradicionais de Porto Alegre. Teve origem no século XIX, quando
-        passou a ser reduto de ex-escravos e seus descendentes, que ocupavam a chácara da Baronesa do Gravataí.
-        Ela deixou as terras para seus escravos. A área de 4,5 mil metros quadrados fica na avenida Luiz Guaranha,
-        rua sem saída, onde vivem 80 famílias. A comunidade é legatária da área conhecida por ter uma das primeiras
-        ruas de Porto Alegre, pelas casas de religião, pelo Carnaval de Rua e por seus músicos populares. Ocupa um beco,
-        a que chamam de avenida – uma pequena rua com casas geminadas. As fachadas de antigas casas são preservadas, por
-        seu caráter histórico. (PMPA, 2015) \n\n
+        Situado no limite entre os bairros Cidade Baixa e Menino \n Deus, o Areal da Baronesa é um dos espaços de cultura negra mais tradicionais de Porto Alegre.
+        Teve origem no século XIX, quando passou a ser reduto de ex-escravos e seus descendentes, que ocupavam a chácara da Baronesa do Gravataí. Ela deixou as terras
+        para seus escravos. A área de 4,5 mil metros quadrados fica na avenida Luiz Guaranha, rua sem saída, onde vivem 80 famílias. A comunidade é legatária da área
+        conhecida por ter uma das primeiras ruas de Porto Alegre, pelas casas de religião, pelo Carnaval de Rua e por seus músicos populares. Ocupa um beco, a que chamam de
+        avenida – uma pequena rua com casas geminadas. As fachadas de antigas casas são preservadas, por seu caráter histórico. (PMPA, 2015)
 
-        As sociabilidades de rua e as relações de auxílio mútuo, caracterizam o
-        “morar em casa de avenida” - modo de vida que é um dos elementos
-        centrais na identidade dessa comunidade. São aproximadamente 80 famílias
-        que vivem em uma das últimas “avenidas” da região, a Luís Guaranha, historicamente
-        ocupada por famílias negras. As fachadas de antigas casas são preservadas, por seu caráter
-        histórico. Através de participação política, lideranças da comunidade obtiveram no Orçamento
-        Participativo da cidade a construção de 12 novas casas no local. \n\n Seus integrantes trabalham
-        como serventes, domésticas, policiais da Brigada Militar, entre outros. Historicamente esta
-        área ficou na memória dos habitantes da cidade, principalmente os antigos carnavalescos como
-        Areal da Baronesa, um dos mais antigos arraiais de Porto Alegre, que surgiu na região denominada
-        na acepção popular de Cidade Baixa, estava localizada ao sul da Colina da Rua Duque de Caxias, e
-        recebeu sua delimitação oficial somente em 1959. \n\n
+        \n\n As sociabilidades de rua e as relações de auxílio mútuo, caracterizam o “morar em casa de avenida” - modo de vida que é um dos elementos centrais na identidade
+        dessa comunidade. São aproximadamente 80 famílias que vivem em uma das últimas “avenidas” da região, a Luís Guaranha, historicamente ocupada por famílias negras.
+        As fachadas de antigas casas são preservadas, por seu caráter histórico. Através de participação política, lideranças da comunidade obtiveram no Orçamento
+        Participativo da cidade a construção de 12 novas casas no local.
 
-        <b>Fonte: Diversidade e proteção social: estudos quanti-qualitativos
-        das populações de Porto Alegre: afro-brasileiros; crianças,
-        adolescentes e adultos em situação de rua; coletivos indígenas
-        remanescentes de quilombos/organizado por Ivaldo Gehlen,
-        Marta Borba Silva e Simone Ritta dos Santos. Porto Alegre: Century, 2008. 280p. </b>
+        \n\n Seus integrantes trabalham como serventes, domésticas, policiais da Brigada Militar, entre outros. Historicamente esta área ficou na memória dos habitantes da
+        cidade, principalmente os antigos carnavalescos como Areal da Baronesa, um dos mais antigos arraiais de Porto Alegre, que surgiu na região denominada na acepção
+        popular de Cidade Baixa, estava localizada ao sul da Colina da Rua Duque de Caxias, e recebeu sua delimitação oficial somente em 1959.
+
+        \n\n <b>Fonte: Diversidade e proteção social: estudos quanti-qualitativos das populações de Porto Alegre: afro-brasileiros; crianças, adolescentes e adultos em
+        situação de rua; coletivos indígenas remanescentes de quilombos/organizado por Ivaldo Gehlen, Marta Borba Silva e Simone Ritta dos Santos.
+
+        \nPorto Alegre: Century, 2008. 280p. </b>
     </string>
 
     <string name="texto_quilopoa03">
@@ -352,7 +355,7 @@ Navegue à vontade!!!
     - Expor em perigo a integridade e a saúde, física ou psíquica, do idoso, submetendo-o a condições desumanas ou degradantes, privando-o de alimentos e cuidados indispensáveis, quando obrigado a fazê-lo, ou sujeitando-o a trabalho excessivo e inadequado;\n\n
     - Apropriar-se ou desviar bens, proventos, pensão ou qualquer outro tipo de rendimento do idoso;\n\n
     - Induzir pessoa idosa sem discernimento de seus atos a outorgar procuração para fins de administração de bens ou deles dispor livremente;\n\n
-    - Coagir, de qualquer modo, o idoso a doar, contratar, testar ou outorgar procuração. \n\n
+    - Coagir, de qualquer modo, o idoso a doar, contratar, testar ou outorgar procuração. \n\n \n\n
 
 </string>
 
@@ -450,8 +453,9 @@ Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l128
     Lei nº 3.807, de 26 de agosto de 1960. — Lei Orgânica da Previdência Social. \n\n
     <b> Disponível em:
          \n http://www.planalto.gov.br/ccivil_03/leis/1950-1969/L3807.htm </b>
-     \n ————————————————————————— \n
+     \n ————————————————————————— \n\n\n\n
     </string>
+
 
     <string name="politica_nacional_de_assistencia_social">
         A proteção social básica (CRAS E SAFs) tem como objetivos prevenir situações de risco por meio do desenvolvimento de
@@ -657,9 +661,11 @@ Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l128
 
         </string>
 
-    <string name="texto_popnegra03">
-    <b> Anemia Falciforme</b> \n\n
+    <string name="textoTituloAnemiaFalciforme">
+        <b> Anemia Falciforme</b>\n\n
+    </string>
 
+    <string name="textoAnemiaFalciforme">
         A Anemia Falciforme é causada pela ausência da hemoglobina A.
         No lugar dela, ocorpo produz outra, a hemoglobina S, o
         que faz com que essa anemia seja mais persistente que o tipo de anemia mais conhecido.
@@ -676,11 +682,13 @@ Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l128
         http://bvsms.saude.gov.br/bvs/publicacoes/doenca_falciforme_condutas_basicas.pdf </i>  \n\n
     </string>
 
-    <string name="texto_popnegra04">
+    <string name="textoTituloDiabetesMellitus">
+        <b> Diabetes Mellitus</b>
+    </string>
 
-    <b> Diabetes Mellitus</b> \n\n
-
-        Diabetes é uma doença crônica em que a produção do hormônio insulina pelo corpo apresenta alteração de forma duradoura.
+    <string name="textoDiabetesMellitus">
+        \n\n
+            Diabetes é uma doença crônica em que a produção do hormônio insulina pelo corpo apresenta alteração de forma duradoura.
         Este hormônio (insulina) é responsável por controlar a quantidade e a utilização da glicose no sangue.
         Como o corpo da pessoa com Diabetes Mellitus tem dificuldade em produzir esse hormônio, acontece a alteração
         da glicose – chamada de hiperglicemia – e, sem o tratamento adequado, essa alteração pode causar
@@ -695,10 +703,11 @@ Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l128
         http://bvsms.saude.gov.br/bvs/publicacoes/diabetes_mellitus.PDF </i> \n\n
     </string>
 
-    <string name="texto_popnegra05">
+    <string name="textoTituloHipertensao">
+       Hipertensão Arterial
+    </string>
 
-        <b>Hipertensão Arterial</b> \n\n
-
+    <string name="textoHipertensao">
         A Hipertensão, conhecida como pressão alta, é uma alteração persistente no fluxo sanguíneo
         dentro das artérias, o que pode acontecer, principalmente, porque os vasos pelos quais circula o
         sangue se contraem, ficando mais estreitos.
@@ -716,9 +725,11 @@ Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l128
             http://189.28.128.100/dab/docs/portaldab/publicacoes/caderno_37.pdf </i> \n\n
     </string>
 
-    <string name="texto_popnegra06">
+    <string name="textoTituloMiomaUterino">
         <b>Mioma Uterino</b> \n\n
-
+    </string>
+    <string name="textoMiomaUterino">
+        \n\n
         O mioma uterino é um tipo de tumor benigno de causa desconhecida, que seapresenta como uma espécie de nódulo dentro ou
         fora do útero em uma parte conhecida como músculo uterino.
         Segundo a Associação de Obstetrícia e Ginecologia do Estado de São Paulo,
@@ -739,404 +750,541 @@ Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l128
     <!-- CALENDÁRIO -->
     <!-- Janeiro -->
 
-    <string name="textoJaneiro02">
+    <string name="textoTituloJaneiro02">
         Dia 02
-    - Fundada a Irmandade do Rosário dos Homens Pretos. São Paulo/SP (1711).
-    - Morre Mônica Veyrac, a primeira diplomata negra da história do Itamaraty. Costa Rica (1985).
-
+    </string>
+    <string name="textoConteudoJaneiro02">
+        - Fundada a Irmandade do Rosário dos Homens Pretos. São Paulo/SP (1711). \n
+        - Morre Mônica Veyrac, a primeira diplomata negra da história do Itamaraty. Costa Rica (1985). \n
     </string>
 
-
-    <string name="textoJaneiro06">
+    <string name="textoTituloJaneiro06">
         Dia 06
-    - Lançado o jornal O Clarim da Alvorada, um dos poucos a refletirem a inquietação da população negra no Brasil. Matão/SP (1924).
-
+    </string>
+    <string name="textoConteudoJaneiro06">
+        - Lançado o jornal O Clarim da Alvorada, um dos poucos a refletirem a inquietação da população negra no Brasil. Matão/SP (1924). \n
     </string>
 
-    <string name="textoJaneiro09">
+    <string name="textoTituloJaneiro09">
         Dia 09
-    - Promulgada a Lei Federal Nº 10.639, que rege a obrigatoriedade do ensino da história afro-brasileira na rede oficial de ensino (2003).
+    </string>
+    <string name="textoConteudoJaneiro09">
+        - Promulgada a Lei Federal Nº 10.639, que rege a obrigatoriedade do ensino da história afro-brasileira na rede oficial de ensino (2003). \n
     </string>
 
-    <string name="textoJaneiro13">
+    <string name="textoTituloJaneiro13">
         Dia 13
-    - Nasce André Rebouças, engenheiro, professor universitário e grande abolicionista. Cachoeira/BA (1838).
+    </string>
+    <string name="textoConteudoJaneiro13">
+        - Nasce André Rebouças, engenheiro, professor universitário e grande abolicionista. Cachoeira/BA (1838). \n
     </string>
 
-    <string name="textoJaneiro15">
+    <string name="textoTituloJaneiro15">
         Dia 15
-    - Nasce Marthin Luther King, pastor norte-americano que lutou pela igualdade racial. Atlanta/Georgia (1929).
-    - Acontece a Revolta dos Malês, rebelião contra o escravismo e a imposição da religião católica. Salvador/BA (1835).
+    </string>
+    <string name="textoConteudoJaneiro15">
+        - Nasce Marthin Luther King, pastor norte-americano que lutou pela igualdade racial. Atlanta/Georgia (1929). \n
+        - Acontece a Revolta dos Malês, rebelião contra o escravismo e a imposição da religião católica. Salvador/BA (1835). \n
     </string>
 
-    <string name="textoJaneiro29">
+    <string name="textoTituloJaneiro29">
         Dia 29
-    - Morre José do Patrocínio, jornalista e ativista da causa abolicionista. Rio de Janeiro/RJ (1905).
+    </string>
+    <string name="textoConteudoJaneiro29">
+       - Morre José do Patrocínio, jornalista e ativista da causa abolicionista. Rio de Janeiro/RJ (1905). \n
     </string>
 
-    <string name="textoJaneiro31">
+    <string name="textoTituloJaneiro31">
         Dia 31
+    </string>
+    <string name="textoConteudoJaneiro31">
         - Tombamento da Serra da Barriga, berço da resistência negra, onde nasceu o Quilombo dos Palmares e viveu seu maior líder,
-        Zumbi dos Palmares. União dos Palmares/AL (1986).
+        Zumbi dos Palmares. União dos Palmares/AL (1986). \n
     </string>
     <!-- Janeiro -->
 
 
     <!-- Fevereiro -->
-    <string name="textoFevereiro01">
+    <string name="textoTituloFevereiro01">
         Dia 01
-        - Nasce Lélia González, antropóloga, filósofa, intelectual e militante da causa negra. Bebedouro/MG (1935).
+    </string>
+    <string name="textoConteudoFevereiro01">
+        - Nasce Lélia González, antropóloga, filósofa, intelectual e militante da causa negra. Bebedouro/MG (1935). \n
     </string>
 
-    <string name="textoFevereiro02">
+    <string name="textoTituloFevereiro02">
         Dia 02
-        - Plenário da Constituinte aprova a emenda de autoria do deputado federal Carlos Alberto Caó Oliveira, estabelecendo o
-        racismo como crime inafiançável e imprescritível (1988).
+    </string>
+    <string name="textoConteudoFevereiro02">
+        - Plenário da Constituinte aprova a emenda de autoria do deputado federal Carlos Alberto Caó Oliveira, estabelecendo o racismo como crime inafiançável e
+        imprescritível (1988). \n
     </string>
 
-    <string name="textoFevereiro07">
+    <string name="textoTituloFevereiro07">
         Dia 07
-        - Nasce Clementina Jesus da Silva, sambista e ícone da luta contra a discriminação racial. Valença/RJ (1902).
+    </string>
+    <string name="textoConteudoFevereiro07">
+        - Nasce Clementina Jesus da Silva, sambista e ícone da luta contra a discriminação racial. Valença/RJ (1902). \n
     </string>
 
-    <string name="textoFevereiro10">
-        Dia 10 
-        - Nasce a Yalorixá Mãe Menininha do Gantois, ícone da luta contra a intolerância religiosa. Salvador/BA (1894).
+    <string name="textoTituloFevereiro10">
+        Dia 10
+    </string>
+    <string name="textoConteudoFevereiro10"> 
+        - Nasce a Yalorixá Mãe Menininha do Gantois, ícone da luta contra a intolerância religiosa. Salvador/BA (1894). \n
     </string>
 
-    <string name="textoFevereiro12">
+    <string name="textoTituloFevereiro12">
         Dia 12
-        - Nasce Arlindo Veigas dos Santos, acadêmico e primeiro presidente da Frente Negra Brasileira (FNB). Itu/SP (1902).
+    </string>
+    <string name="textoConteudoFevereiro12">
+        - Nasce Arlindo Veigas dos Santos, acadêmico e primeiro presidente da Frente Negra Brasileira (FNB). Itu/SP (1902).  \n
     </string>
 
-    <string name="textoFevereiro18">
+    <string name="textoTituloFevereiro18">
         Dia 18
-        - Fundado o Afoxé Filhos de Gandhi, agremiação carnavalesca de maioria negra. Salvador/BA (1949).
+    </string>
+    <string name="textoConteudoFevereiro18">
+        - Fundado o Afoxé Filhos de Gandhi, agremiação carnavalesca de maioria negra. Salvador/BA (1949). \n
     </string>
 
-    <string name="textoFevereiro19">
+    <string name="textoTituloFevereiro19">
         Dia 19
-        - Realizado o primeiro Congresso Pan-Africano. Paris/França (1919).
+    </string>
+    <string name="textoConteudoFevereiro19">
+        - Realizado o primeiro Congresso Pan-Africano. Paris/França (1919). \n
     </string>
 
-    <string name="textoFevereiro21">
+    <string name="textoTituloFevereiro21">
         Dia 21
-        - Morre Malcom X, um dos grandes defensores dos direitos afro-americanos. Nova Iorque (1965).
+    </string>
+    <string name="textoConteudoFevereiro21">
+        - Morre Malcom X, um dos grandes defensores dos direitos afro-americanos. Nova Iorque (1965). \n
     </string>
 
-    <string name="textoMarco19">
+    <string name="textoTituloMarco19">
         Dia 19
-        - Acontece a Revolta do Queimado, principal movimento de luta contra a escravidão do estado do Espírito Santo/ES (1849).
+    </string>
+    <string name="textoConteudoMarco19">
+        - Acontece a Revolta do Queimado, principal movimento de luta contra a escravidão do estado do Espírito Santo/ES (1849). \n
     </string>
 
-    <string name="textoMarco21">
+    <string name="textoTituloMarco21">
         Dia 21
+    </string>
+    <string name="textoConteudoMarco21">
         -  Dia Internacional de Luta contra a Discriminação Racial. O dia foi instituído pela Organização das Nações Unidas (ONU),
-        em memória das vítimas do massacre de Shapevile, África do Sul.
+        em memória das vítimas do massacre de Shapevile, África do Sul. \n
     </string>
 
-    <string name="textoAbril01">
+    <string name="textoTituloAbril01">
         Dia 01
-        - Acontece o Primeiro Festival Mundial das Artes Negras. Dakar/Senegal (1966).
-        - Criação do Partido dos Panteras Negras. EUA (1967).
+    </string>
+    <string name="textoConteudoAbril01">
+        - Acontece o Primeiro Festival Mundial das Artes Negras. Dakar/Senegal (1966). \n
+        - Criação do Partido dos Panteras Negras. EUA (1967). \n
     </string>
 
-    <string name="textoAbril04">
+    <string name="textoTituloAbril04">
         Dia 04
+    </string>
+    <string name="textoConteudoAbril04">
         - Morre Marthin Luther King, ativista e Prêmio Nobel da Paz, assassinado minutos antes de uma marcha em favor dos direitos dos negros.
-        Memphis/EUA (1968).
+        Memphis/EUA (1968). \n
     </string>
 
-    <string name="textoAbril05">
+    <string name="textoTituloAbril05">
         Dia 05
+    </string>
+    <string name="textoConteudoAbril05">
         - Nasce Vicente Ferreira Pastinha, o “Mestre Pastinha”, capoeirista e ícone da cultura afro-brasileira.
-        Salvador/BA (1889).
+        Salvador/BA (1889). \n
     </string>
 
-    <string name="textoAbril25">
+    <string name="textoTituloAbril25">
         Dia 25
-        - Criado o bloco afro Olodum. Salvador/BA (1979).
+    </string>
+    <string name="textoConteudoAbril25">
+        - Criado o bloco afro Olodum. Salvador/BA (1979). \n
     </string>
 
-    <string name="textoAbril26">
+    <string name="textoTituloAbril26">
         Dia 26
+    </string>
+    <string name="textoConteudoAbril26">
         - Nasce Benedita Silva, primeira mulher negra a ocupar um cargo de governadora.
-        Praia do Pinto/RJ (1942).
+        Praia do Pinto/RJ (1942). \n
     </string>
 
-    <string name="textoMaio02">
+    <string name="textoTituloMaio02">
         Dia 02
-        - Nasce Ataulfo Alves, grande cantor e compositor negro. Miraí/MG (1909).
+    </string>
+    <string name="textoConteudoMaio02">
+        - Nasce Ataulfo Alves, grande cantor e compositor negro. Miraí/MG (1909). \n
     </string>
 
-    <string name="textoMaio03">
+    <string name="textoTituloMaio03">
         Dia 03
-        - Nasce Milton Santos, grande geógrafo negro. Macaúba/BA (1933).
+    </string>
+    <string name="textoConteudoMaio03">
+        - Nasce Milton Santos, grande geógrafo negro. Macaúba/BA (1933). \n
     </string>
 
-    <string name="textoMaio13">
+    <string name="textoTituloMaio13">
         Dia 13
-        - A  Lei Áurea extingue oficialmente a escravidão no Brasil.
-                Mas a data é considerada pelo Movimento Negro como uma “mentira cívica”,
-                sendo caracterizada como Dia de Reflexão e Luta contra a Discriminação (1888).
-        - Nasce Lima Barreto, escritor, jornalista e militante da causa negra. Rio de Janeiro/RJ (1881).
+    </string>
+    <string name="textoConteudoMaio13">
+        - A  Lei Áurea extingue oficialmente a escravidão no Brasil. Mas a data é considerada pelo Movimento Negro como uma “mentira cívica”, sendo caracterizada como Dia de
+        Reflexão e Luta contra a Discriminação (1888). \n
+        - Nasce Lima Barreto, escritor, jornalista e militante da causa negra. Rio de Janeiro/RJ (1881). \n
     </string>
 
-    <string name="textoMaio14">
+    <string name="textoTituloMaio14">
         Dia 14
-        - Líderes da Revolta dos Malês são fuzilados.
-        Campo da Pólvora, Salvador/BA (1835).
+    </string>
+    <string name="textoConteudoMaio14">
+        - Líderes da Revolta dos Malês são fuzilados. Campo da Pólvora, Salvador/BA (1835). \n
     </string>
 
-    <string name="textoMaio18">
+    <string name="textoTituloMaio18">
         Dia 18
-        - Criado o Conselho Nacional de Mulheres Negras. Rio de Janeiro/RJ (1950).
+    </string>
+    <string name="textoConteudoMaio18">
+        - Criado o Conselho Nacional de Mulheres Negras. Rio de Janeiro/RJ (1950). \n
     </string>
 
-    <string name="textoMaio19">
+    <string name="textoTituloMaio19">
         Dia 19
-        - Nasce Malcom X, um dos maiores defensores dos direitos dos negros nos Estados Unidos.
-        Omaha/Nebrasca (1925).
+    </string>
+    <string name="textoConteudoMaio19">
+        - Nasce Malcom X, um dos maiores defensores dos direitos dos negros nos Estados Unidos. Omaha/Nebrasca (1925). \n
     </string>
 
-    <string name="textoJunho06">
+    <string name="textoTituloJunho06">
         Dia 06
-        - Morre o jamaicano Marcus Garvey, mentor do Pan-africanismo.
-        Londres (1940).
+    </string>
+    <string name="textoConteudoJunho06">
+        - Morre o jamaicano Marcus Garvey, mentor do Pan-africanismo. Londres (1940). \n
     </string>
 
-    <string name="textoJunho21">
+    <string name="textoTituloJunho21">
          Dia 21
-        - Nasce Luiz Gonzaga Pinto da Gama, escritor, jornalista e um dos ícones da luta pela afirmação da identidade negra.
-                Salvador/BA (1830).
+    </string>
+    <string name="textoConteudoJunho21">
+        - Nasce Luiz Gonzaga Pinto da Gama, escritor, jornalista e um dos ícones da luta pela afirmação da identidade negra. Salvador/BA (1830). \n
     </string>
 
-    <string name="textoJunho24">
+    <string name="textoTituloJunho24">
         Dia 24
-        - Nasce João Candido, líder da Revolta da Chibata, conhecido como Almirante Negro.
-        Rio Pardo/RS (1880).
+    </string>
+    <string name="textoConteudoJunho24">
+        - Nasce João Candido, líder da Revolta da Chibata, conhecido como Almirante Negro. Rio Pardo/RS (1880). \n
     </string>
 
-    <string name="textoJulho01">
+    <string name="textoTituloJulho01">
         Dia 01
-        - Fundado o Clube Negro de Cultura Social. São Paulo/SP (1932).
+    </string>
+    <string name="textoConteudoJulho01">
+        - Fundado o Clube Negro de Cultura Social. São Paulo/SP (1932). \n
     </string>
 
-    <string name="textoJulho03">
+    <string name="textoTituloJulho03">
         Dia 03
-        - É aprovada a Lei Afonso Arinos (nº 1390), estabelecendo a discriminação racial como contravenção penal (1951).
+    </string>
+    <string name="textoConteudoJulho03">
+        - É aprovada a Lei Afonso Arinos (nº 1390), estabelecendo a discriminação racial como contravenção penal (1951). \n
     </string>
 
-    <string name="textoJulho07">
+    <string name="textoTituloJulho07">
         Dia 07
-        - Fundado o Movimento Negro Unificado Contra a Discriminação Racial (MNUCDR).
-        São Paulo/SP (1978).
+    </string>
+    <string name="textoConteudoJulho07">
+        - Fundado o Movimento Negro Unificado Contra a Discriminação Racial (MNUCDR). São Paulo/SP (1978). \n
     </string>
 
-    <string name="textoJulho11">
-            Dia 11
-            - Nasce Antonieta de Barros, primeira deputada negra brasileira. Florianópolis/RS (1902).
-   </string>
-
-    <string name="textoJulho15">
-    Dia 15
-    - Acontece a Primeira Conferência sobre a Mulher Negra nas Américas. Equador (1984).
+    <string name="textoTituloJulho11">
+        Dia 11
+    </string>
+    <string name="textoConteudoJulho11">
+        - Nasce Antonieta de Barros, primeira deputada negra brasileira. Florianópolis/RS (1902). \n
     </string>
 
-    <string name="textoJulho18">
-    Dia 18
-    - Nasce Nelson Mandela, líder negro que lutou conta o regime do Apartheid na África do Sul (1918).
+    <string name="textoTituloJulho15">
+        Dia 15
+    </string>
+    <string name="textoConteudoJulho15">
+        - Acontece a Primeira Conferência sobre a Mulher Negra nas Américas. Equador (1984). \n
     </string>
 
-    <string name="textoJulho21">
-    Dia 21
-    Nasce Luís Gama, o abolicionista (1830)
+    <string name="textoTituloJulho18">
+        Dia 18
+    </string>
+    <string name="textoConteudoJulho18">
+        - Nasce Nelson Mandela, líder negro que lutou conta o regime do Apartheid na África do Sul (1918). \n
     </string>
 
-    <string name="textoJulho24">
-    Dia 24
-    - Nasce Francisco Solano Trindade, poeta. Recife/PE (1908).
-</string>
-
-    <string name="textoJulho25">
-    Dia 25
-    - Dia Internacional da Mulher Negra Latino-americana e Caribenha
-</string>
-
-
-    <string name="textoAgosto03">
-    Dia 03
-    - Dia da Capoeira e do Capoeirista
-</string>
-
-    <string name="textoAgosto12">
-    Dia 12
-    Registrado o primeiro ato de escravidão por Portugal em Lagos/Nigéria (1444)
-    - Acontece a Revolta dos Alfaiates, também conhecida como Revolta dos Búzios. Manifesto dos conjurados baianos protesta contra os impostos e a escravidão e exige independência e liberdade. Bahia/BA (1798).
-</string>
-
-    <string name="textoAgosto14">
-    Dia 14
-    - Morre a Yalorixá Mãe Menininha do Gantois, ícone da luta contra a intolerância religiosa. Salvador/BA (1986).
-</string>
-
-    <string name="textoAgosto22">
-    Dia 22
-    - Criada, por meio da Lei nº 7.668, a Fundação Cultural Palmares, instituição pública vinculada ao Ministério da Cultura que tem como principal atribuição promover a valorização da cultura negra (1988).
-</string>
-
-    <string name="textoAgosto23">
-    Dia 23
-    - Nasce José Correia Leite, ativista da imprensa negra e fundador do jornal O Clarim da Alvorada. São Paulo/SP (1900).
-    - Dia Internacional da Memória do Trafico Negreiro. Escolhida pela Organização das Nações Unidas (ONU), em 1791, a data marca a primeira vitória decisiva dos escravos contra seus opressores na história da humanidade.
-</string>
-
-    <string name="textoAgosto24">
-    Dia 24
-    - Acontece o Primeiro Congresso de Cultura Negra das Américas. Colômbia (1977).
-    Dia 24
-    - Morre o abolicionista Luís Gama. São Paulo/SP (1882).
-</string>
-
-    <string name="textoAgosto28">
-    Dia 28
-    - Acontece a Primeira Marcha de Negros sobre Washington, em favor dos direitos civis. Estados Unidos da América (1963).
-</string>
-
-    <string name="textoAgosto31">
-    Dia 31
-    - Realizada a I Conferência Mundial contra o Racismo, a Discriminação Racial, a Xenofobia e Formas Correlatas de Intolerância. Durban/África do Sul (2001).
-</string>
-
-
-    <string name="textoSetembro04">
-    Dia 04
-    - Promulgada a lei Euzébio de Queiroz, extinguindo o tráfico de escravos no Brasil (1850).
-</string>
-
-    <string name="textoSetembro12">
-    Dia 12
-    - Morre o líder sul-africano, Steve Biko, idealizador do movimento pela consciência negra. Cidade do Cabo/África do Sul (1977).
-</string>
-
-    <string name="textoSetembro14">
-    Dia 14
-    - Fundado o jornal O Homem de Cor, o primeiro periódico dedicado à causa negra da imprensa brasileira (1833).
-</string>
-
-    <string name="textoSetembro16">
-    Dia 16
-    - Fundada a Frente Negra Brasileira, primeira agremiação política composta por afro-descendentes. São Paulo/SP (1931).
-</string>
-
-    <string name="textoSetembro28">
-    Dia 28
-    - Aprovada a Lei do Ventre Livre, que declarava livre os filhos das escravas que nascessem após essa data (1871).
-    - Assinada a Lei do Sexagenário, garantindo a liberdade aos escravos com mais de 60 anos de idade (1885).
-</string>
-
-    <string name="textoOutubro01">
-    Dia 01
-    - Fundado o Núcleo de Estudos Afro-Brasileiros (NEAFRO). São Paulo/SP (1980).
+    <string name="textoTituloJulho21">
+        Dia 21
+    </string>
+    <string name="textoConteudoJulho21">
+        Nasce Luís Gama, o abolicionista (1830). \n
     </string>
 
-    <string name="textoOutubro07">
-    Dia 07
-    - Dia de Nossa Senhora do Rosário, patrona dos negros.
-</string>
-
-    <string name="textoOutubro10">
-    Dia 10
-    - Morre Francisco Lucrécio, Secretário da Frente Negra Brasileira, em São Paulo (2001).
+    <string name="textoTituloJulho24">
+        Dia 24
+    </string>
+    <string name="textoConteudoJulho24">
+        - Nasce Francisco Solano Trindade, poeta. Recife/PE (1908). \n
     </string>
 
-    <string name="textoOutubro11">
-    Dia 11
-    - Nasce Agenor de Oliveira, o Cartola. Cantor e compositor negro, figura entre os maiores representantes da Música Popular Brasileira. Rio de Janeiro/RJ (1908).
+    <string name="textoTituloJulho25">
+        Dia 25
+    </string>
+    <string name="textoConteudoJulho25">
+        - Dia Internacional da Mulher Negra Latino-americana e Caribenha. \n
     </string>
 
-    <string name="textoOutubro12">
-    Dia 12
-    - Dia de Nossa Senhora Aparecida, padroeira do Brasil, considerada protetora dos negros. São Paulo/SP (1717).
+    <!-- Inicio Agosto -->
+    <string name="textoTituloAgosto03">
+        Dia 03
+    </string>
+    <string name="textoConteudoAgosto03">
+        - Dia da Capoeira e do Capoeirista
     </string>
 
-    <string name="textoOutubro13">
-    Dia 13
-    -Criação do Teatro Experimental  do Negro (TEN). Rio de Janeiro /RJ (1944)
+    <string name="textoTituloAgosto12">
+        Dia 12
+    </string>
+    <string name="textoConteudoAgosto12">
+        Registrado o primeiro ato de escravidão por Portugal em Lagos/Nigéria (1444). \n
+        - Acontece a Revolta dos Alfaiates, também conhecida como Revolta dos Búzios. Manifesto dos conjurados baianos protesta contra os impostos e a escravidão e
+        exige independência e liberdade. Bahia/BA (1798). \n
     </string>
 
-    <string name="textoOutubro15">
-    Dia 15
-    - Nasce Grande Otelo, ator de cinema e TV e um dos ícones da cultura negra. Rio de Janeiro/RJ (1915).
+    <string name="textoTituloAgosto14">
+        Dia 14
+    </string>
+    <string name="textoConteudoAgosto14">
+        - Morre a Yalorixá Mãe Menininha do Gantois, ícone da luta contra a intolerância religiosa. Salvador/BA (1986). \n
     </string>
 
-    <string name="textoOutubro24">
-    Dia 24
-    - Morre Rosa Parks, líder do Movimento dos Direitos Humanos. América do Norte/EUA (2005).
+    <string name="textoTituloAgosto22">
+        Dia 22
+    </string>
+    <string name="textoConteudoAgosto22">
+        - Criada, por meio da Lei nº 7.668, a Fundação Cultural Palmares, instituição pública vinculada ao Ministério da Cultura que tem como principal atribuição promover a
+        valorização da cultura negra (1988). \n
     </string>
 
-    <string name="textoNovembro01">
-    Dia 01
-    - Criado o bloco afro Ilê Aiyê, uma das primeiras agremiações carnavalescas a agregar negros no Brasil. Salvador/BA (1974).
+    <string name="textoTituloAgosto23">
+        Dia 23
+    </string>
+    <string name="textoConteudoAgosto23">
+        - Nasce José Correia Leite, ativista da imprensa negra e fundador do jornal O Clarim da Alvorada. São Paulo/SP (1900). \n
+        - Dia Internacional da Memória do Trafico Negreiro. Escolhida pela Organização das Nações Unidas (ONU), em 1791, a data marca a primeira vitória decisiva dos
+        escravos contra seus opressores na história da humanidade. \n
     </string>
 
-    <string name="textoNovembro10">
-    Dia 10
-    - Retrocesso: Governo Médici proíbe a imprensa de publicar notícias sobre índios, Esquadrão da Morte, guerrilha, movimento negro e discriminação racial (1969).
-</string>
-
-    <string name="textoNovembro19">
-    Dia 19
-    - Nasce Paulo Lauro, que viria a ser o primeiro prefeito negro de São Paulo/SP (1907).
-    - Retrocesso: Rui Barbosa manda queimar todos os papéis, livros de matrícula e registros fiscais relativos à escravidão existentes no Ministério da Fazenda (1890).
-    - Lançado o primeiro volume de Cadernos Negros. São Paulo/SP (1978).
-</string>
-
-    <string name="textoNovembro20">
-    Dia 20
-        - Dia Nacional da Consciência Negra.
-    - Morre Zumbi dos Palmares, principal representante da resistência negra à escravidão e líder do Quilombo dos Palmares. Alagoas/AL (1695).
-</string>
-
-    <string name="textoNovembro22">
-    Dia 22
-    - Revolta da Chibata. Rebelião liderada por João Candido, o “Almirante Negro”, contra os maltratos sofridos na Marinha Mercante. Rio de Janeiro/RJ (1910).
-</string>
-
-    <string name="textoNovembro24">
-    Dia 24
-    - A Organização das Nações Unidas para Educação Ciência e Cultura (Unesco) reconhece o Samba do Recôncavo Baiano como Patrimônio da Humanidade. (2005).
-</string>
-
-    <string name="textoNovembro25">
-    Dia 25
-    - Dia Nacional das Baianas.
-</string>
-
-    <string name="textoDezembro01">
-    Dia 01
-    - O ofício da Baiana do Acarajé é tombado pelo Instituto de Patrimônio Histórico e Artístico Nacional (IPHAN) como Patrimônio Nacional (2004).
+    <string name="textoTituloAgosto24">
+        Dia 24
+    </string>
+    <string name="textoConteudoAgosto24">
+        - Acontece o Primeiro Congresso de Cultura Negra das Américas. Colômbia (1977). \n
+        - Morre o abolicionista Luís Gama. São Paulo/SP (1882). \n
     </string>
 
-    <string name="textoDezembro02">
-    Dia 02
-    - Dia Nacional do Samba, uma das principais vertentes artísticas da cultura negra.
-</string>
+    <string name="textoTituloAgosto28">
+        Dia 28
+    </string>
+    <string name="textoConteudoAgosto28">
+        - Acontece a Primeira Marcha de Negros sobre Washington, em favor dos direitos civis. Estados Unidos da América (1963). \n
+    </string>
 
-    <string name="textoDezembro05">
-    Dia 05
-    - Retrocesso: Constituição proíbe negros e leprosos de freqüentar escolas públicas no Brasil (1824).
-</string>
+    <string name="textoTituloAgosto31">
+        Dia 31
+    </string>
+    <string name="textoConteudoAgosto31">
+        - Realizada a I Conferência Mundial contra o Racismo, a Discriminação Racial, a Xenofobia e Formas Correlatas de Intolerância. Durban/África do Sul (2001). \n
+    </string>
 
-    <string name="textoDezembro10">
-    Dia 10
-    - Aprovada pela Organização das Nações Unidas (ONU) a Declaração Universal dos Direitos Humanos (1948).
-</string>
+    <string name="textoTituloSetembro04">
+        Dia 04
+    </string>
+    <string name="textoConteudoSetembro04">
+        - Promulgada a lei Euzébio de Queiroz, extinguindo o tráfico de escravos no Brasil (1850). \n
+    </string>
 
-    <string name="textoDezembro20">
-    Dia 20
-    - Lei nº 7437/85 Estabelece como contravenção penal o tratamento discriminatório no mercado de trabalho, por motivo de raça/cor (1985).
-</string>
+    <string name="textoTituloSetembro12">
+        Dia 12
+    </string>
+    <string name="textoConteudoSetembro12">
+        - Morre o líder sul-africano, Steve Biko, idealizador do movimento pela consciência negra. Cidade do Cabo/África do Sul (1977).  \n
+    </string>
+
+    <string name="textoTituloSetembro14">
+        Dia 14
+    </string>
+    <string name="textoConteudoSetembro14">
+        - Fundado o jornal O Homem de Cor, o primeiro periódico dedicado à causa negra da imprensa brasileira (1833).  \n
+    </string>
+
+    <string name="textoTituloSetembro16">
+        Dia 16
+    </string>
+    <string name="textoConteudoSetembro16">
+        - Fundada a Frente Negra Brasileira, primeira agremiação política composta por afro-descendentes. São Paulo/SP (1931). \n
+    </string>
+
+    <string name="textoTituloSetembro28">
+        Dia 28
+    </string>
+    <string name="textoConteudoSetembro28">
+        - Aprovada a Lei do Ventre Livre, que declarava livre os filhos das escravas que nascessem após essa data (1871). \n
+        - Assinada a Lei do Sexagenário, garantindo a liberdade aos escravos com mais de 60 anos de idade (1885). \n
+    </string>
+
+    <string name="textoTituloOutubro01">
+        Dia 01
+    </string>
+    <string name="textoConteudoOutubro01">
+        - Fundado o Núcleo de Estudos Afro-Brasileiros (NEAFRO). São Paulo/SP (1980). \n
+    </string>
+
+    <string name="textoTituloOutubro07">
+        Dia 07
+    </string>
+    <string name="textoConteudoOutubro07">
+        - Dia de Nossa Senhora do Rosário, patrona dos negros. \n
+    </string>
+
+    <string name="textoTituloOutubro10">
+        Dia 10
+    </string>
+    <string name="textoConteudoOutubro10">
+        - Morre Francisco Lucrécio, Secretário da Frente Negra Brasileira, em São Paulo (2001). \n
+    </string>
+
+    <string name="textoTituloOutubro11">
+        Dia 11
+    </string>
+    <string name="textoConteudoOutubro11">
+        - Nasce Agenor de Oliveira, o Cartola. Cantor e compositor negro, figura entre os maiores representantes da Música Popular Brasileira. Rio de Janeiro/RJ (1908). \n
+    </string>
+
+    <string name="textoTituloOutubro12">
+        Dia 12
+    </string>
+    <string name="textoConteudoOutubro12">
+        - Dia de Nossa Senhora Aparecida, padroeira do Brasil, considerada protetora dos negros. São Paulo/SP (1717). \n
+    </string>
+
+    <string name="textoTituloOutubro13">
+        Dia 13
+    </string>
+    <string name="textoConteudoOutubro13">
+        - Criação do Teatro Experimental  do Negro (TEN). Rio de Janeiro /RJ (1944). \n
+    </string>
+
+    <string name="textoTituloOutubro15">
+        Dia 15
+    </string>
+    <string name="textoConteudoOutubro15">
+        - Nasce Grande Otelo, ator de cinema e TV e um dos ícones da cultura negra. Rio de Janeiro/RJ (1915). \n
+    </string>
+
+    <string name="textoTituloOutubro24">
+        Dia 24
+    </string>
+    <string name="textoConteudoOutubro24">
+        - Morre Rosa Parks, líder do Movimento dos Direitos Humanos. América do Norte/EUA (2005). \n
+    </string>
+
+    <string name="textoTituloNovembro01">
+        Dia 01
+    </string>
+    <string name="textoConteudoNovembro01">
+        - Criado o bloco afro Ilê Aiyê, uma das primeiras agremiações carnavalescas a agregar negros no Brasil. Salvador/BA (1974). \n
+    </string>
+
+    <string name="textoTituloNovembro10">
+        Dia 10
+    </string>
+    <string name="textoConteudoNovembro10">
+        - Retrocesso: Governo Médici proíbe a imprensa de publicar notícias sobre índios, Esquadrão da Morte, guerrilha, movimento negro e discriminação racial (1969). \n
+    </string>
+
+    <string name="textoTituloNovembro19">
+        Dia 19
+    </string>
+    <string name="textoConteudoNovembro19">
+        - Nasce Paulo Lauro, que viria a ser o primeiro prefeito negro de São Paulo/SP (1907). \n
+        - Retrocesso: Rui Barbosa manda queimar todos os papéis, livros de matrícula e registros fiscais relativos à escravidão existentes no Ministério da Fazenda (1890). \n
+        - Lançado o primeiro volume de Cadernos Negros. São Paulo/SP (1978). \n
+    </string>
+
+    <string name="textoTituloNovembro20">
+        Dia 20
+    </string>
+    <string name="textoConteudoNovembro20">
+        - Dia Nacional da Consciência Negra. \n
+        - Morre Zumbi dos Palmares, principal representante da resistência negra à escravidão e líder do Quilombo dos Palmares. Alagoas/AL (1695). \n
+    </string>
+
+    <string name="textoTituloNovembro22">
+        Dia 22
+    </string>
+    <string name="textoConteudoNovembro22">
+        - Revolta da Chibata. Rebelião liderada por João Candido, o “Almirante Negro”, contra os maltratos sofridos na Marinha Mercante. Rio de Janeiro/RJ (1910). \n
+    </string>
+
+    <string name="textoTituloNovembro24">
+        Dia 24
+    </string>
+    <string name="textoConteudoNovembro24">
+        - A Organização das Nações Unidas para Educação Ciência e Cultura (Unesco) reconhece o Samba do Recôncavo Baiano como Patrimônio da Humanidade. (2005). \n
+    </string>
+
+    <string name="textoTituloNovembro25">
+        Dia 25
+    </string>
+    <string name="textoConteudoNovembro25">
+        - Dia Nacional das Baianas. \n
+    </string>
+
+    <string name="textoTituloDezembro01">
+        Dia 01
+    </string>
+    <string name="textoConteudoDezembro01">
+        - O ofício da Baiana do Acarajé é tombado pelo Instituto de Patrimônio Histórico e Artístico Nacional (IPHAN) como Patrimônio Nacional (2004). \n
+    </string>
+
+    <string name="textoTituloDezembro02">
+        Dia 02
+    </string>
+    <string name="textoConteudoDezembro02">
+        - Dia Nacional do Samba, uma das principais vertentes artísticas da cultura negra. \n
+    </string>
+
+    <string name="textoTituloDezembro05">
+        Dia 05
+    </string>
+    <string name="textoConteudoDezembro05">
+        - Retrocesso: Constituição proíbe negros e leprosos de freqüentar escolas públicas no Brasil (1824). \n
+    </string>
+
+    <string name="textoTituloDezembro10">
+        Dia 10
+    </string>
+    <string name="textoConteudoDezembro10">
+        - Aprovada pela Organização das Nações Unidas (ONU) a Declaração Universal dos Direitos Humanos (1948). \n
+    </string>
+
+    <string name="textoTituloDezembro20">
+        Dia 20
+    </string>
+    <string name="textoConteudoDezembro20">
+        - Lei nº 7437/85 Estabelece como contravenção penal o tratamento discriminatório no mercado de trabalho, por motivo de raça/cor (1985). \n
+    </string>
 
 
 
@@ -1255,6 +1403,7 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
 
     <string name="texto_assitencial01">
         São espaços de participação aberta, constituídos por organizações governamentais e não governamentais
+        \n\n
     </string>
     <string name="texto_assitencial02">
         As principais portas de entrada são as entidades e organizações de assistência social vinculadas ao
@@ -1321,7 +1470,8 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         Valorizar a cultura de famílias e comunidades locais pelo resgate de suas culturas;\n\n
         Desenvolver o sentimento de pertença e de identidade;\n\n
         Promover socialização e convivência;\n\n
-        O SCFV está organizado nas seguintes faixas etárias: crianças e adolescentes de 6 a 14 anos, adolescentes e jovens de 15 a 17 anos, adultos de 18 a 59 anos e pessoas idosas.
+        O SCFV está organizado nas seguintes faixas etárias: crianças e adolescentes de 6 a 14 anos, adolescentes e jovens de 15 a 17 anos, adultos de 18 a 59 anos e
+        pessoas idosas. \n\n
 </string>
     <!-- REDE ASSISTENCIAL -->
 
@@ -1373,10 +1523,9 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name="textoIntroducaoMulheresQuilombola">
-        As mulheres que foram escravizadas no Brasil contribuiram, e muito, para acabar com escravidão no país.
-        Engana-se quem acha que a Princesa Isabel foi a responsável pela libertação dos escravizados,
-        como diria a cantora Yzalú,” a Lei Áurea não passa de um texto morto”, afinal após o 13 de maio de 1888, mulheres lutaram,
-        e ainda lutam contra a racismo e machismo.
+        As mulheres que foram escravizadas no Brasil contribuiram, e muito, para acabar com escravidão no país. Engana-se quem acha que a Princesa Isabel foi a responsável
+        pela libertação dos escravizados, como diria a cantora Yzalú,” a Lei Áurea não passa de um texto morto”, afinal após o 13 de maio de 1888, mulheres lutaram, e ainda
+        lutam contra a racismo e machismo. \n
     </string>
 
     <string name="textoByPatriciaGonçalves">
@@ -1384,9 +1533,9 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name="textoIntroducaoDoisMulheresQuilombola">
-        Os passos das mulheres negras vêm de longe, mesmo.  Por isso, separamos 17 mulheres negras que fizeram parte de quilombos brasileiros e
-        foram fundamentais em algum momento para a comunidade negra. As histórias são relatadas nos cordéis de Jarid Arraes e do Mural Memória
-        das Mulheres Negras, acervo do Instituto Políticas Alternativas para o Cone Sul, Rio de Janeiro.
+        Os passos das mulheres negras vêm de longe, mesmo.  Por isso, separamos 17 mulheres negras que fizeram parte de quilombos brasileiros e foram fundamentais em algum
+        momento para a comunidade negra. As histórias são relatadas nos cordéis de Jarid Arraes e do Mural Memória das Mulheres Negras, acervo do Instituto Políticas
+        Alternativas para o Cone Sul, Rio de Janeiro. \n
     </string>
 
     <string name="textoTituloUmDadara">
@@ -1394,10 +1543,8 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name="textoUmDadara">
-        É uma das líderes mais conhecidas no Brasil. Lutou contra a escravidão em Palmares.
-        Foi contra a proposta da Coroa Portuguesa em condicionar as reivindicações dos quilombolas.
-        A guerreira morreu durante a disputa no Quilombo dos Macacos pertencente ao Quilombo de Palmares, onde vivia também seu marido,
-        Zumbi dos Palmares.
+        É uma das líderes mais conhecidas no Brasil. Lutou contra a escravidão em Palmares. Foi contra a proposta da Coroa Portuguesa em condicionar as reivindicações dos
+        quilombolas. A guerreira morreu durante a disputa no Quilombo dos Macacos pertencente ao Quilombo de Palmares, onde vivia também seu marido, Zumbi dos Palmares. \n
     </string>
 
     <string name="textoTituloDoisAnastacia">
@@ -1405,11 +1552,9 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name="textoDoisAnastacia">
-        Ajudou escravos quando eram castigados, ou facilitando a fuga.
-        Certa vez, lutou contra a violência física e sexual de um homem branco, por isso,
-        recebeu o castigo de usar um mordaça de folha de flandres e uma gargantilha de ferro.
-        Apesar de viver na Bahia e em Minas Gerais foi levada para o Rio de Janeiro no fim da vida, lá atribuíram vários milagres
-        durante sua estadia.
+        Ajudou escravos quando eram castigados, ou facilitando a fuga. Certa vez, lutou contra a violência física e sexual de um homem branco, por isso, recebeu o castigo de
+        usar um mordaça de folha de flandres e uma gargantilha de ferro. Apesar de viver na Bahia e em Minas Gerais foi levada para o Rio de Janeiro no fim da vida, lá
+        atribuíram vários milagres durante sua estadia. \n
     </string>
 
     <string name="textoTituloTresLuizaMahin">
@@ -1417,8 +1562,7 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name="textoTresLuizaMahin">
-        Passou muito tempo na Bahia e participou do levante na Revolta dos Malês, em 1835 e a Sabinada, em 1837.
-        Trabalhava como ganhadeira (no comércio de rua).
+        Passou muito tempo na Bahia e participou do levante na Revolta dos Malês, em 1835 e a Sabinada, em 1837. Trabalhava como ganhadeira (no comércio de rua). \n
     </string>
 
     <string name="textoTituloQuatroTereza">
@@ -1426,10 +1570,9 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name="textoQuatroTereza">
-        No Brasil, dia 25 de julho é comemorado o Dia de Tereza de Benguela em homenagem a líder quilombola.
-        Era mulher do líder do Quilombo de Quarterê ou do Piolho, no Mato Grosso.
-        Por lá, foram abrigados até índios bolivianos incomodando autoridades das Coroas espanhola e portuguesa.
-        Tereza foi presa em um dos confrontos e como não aceitou a condição de escravizada suicidou-se.
+        No Brasil, dia 25 de julho é comemorado o Dia de Tereza de Benguela em homenagem a líder quilombola. Era mulher do líder do Quilombo de Quarterê ou do Piolho, no
+        Mato Grosso. Por lá, foram abrigados até índios bolivianos incomodando autoridades das Coroas espanhola e portuguesa. Tereza foi presa em um dos confrontos e como
+        não aceitou a condição de escravizada suicidou-se. \n
     </string>
 
     <string name="textoTituloCincoAqualtune">
@@ -1437,8 +1580,8 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name="textoCincoAqualtune">
-        Era filha do Rei do Congo e foi vendida para o Brasil. Grávida no Quilombo dos Palmares organizou sua primeira fuga.
-        Ficou conhecida por ficar ao lado de Ganga Zumba, antecessor de Zumbi, seu neto.  A guerreira morreu queimada.
+        Era filha do Rei do Congo e foi vendida para o Brasil. Grávida no Quilombo dos Palmares organizou sua primeira fuga. Ficou conhecida por ficar ao lado de Ganga Zumba,
+        antecessor de Zumbi, seu neto.  A guerreira morreu queimada. \n
     </string>
 
     <string name="textoTituloSeisZeferina">
@@ -1446,8 +1589,8 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name="textoSeisZeferina">
-        Líder no quilombo de Urubu, na Bahia. Era angolana e foi trazida ainda criança para o Brasil.
-        As histórias relatam que ela confrontava os capitães do mato com arco e flecha.
+        Líder no quilombo de Urubu, na Bahia. Era angolana e foi trazida ainda criança para o Brasil. As histórias relatam que ela confrontava os capitães do mato com arco e
+        flecha. \n
     </string>
 
     <string name="textoTituloSeteMariaFelipa">
@@ -1455,11 +1598,9 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name="textoSeteMariaFelipa">
-        Foi líder na Ilha de Itaparica, Bahia. Aprendeu a jogar capoeira para se defender.
-        Tinha como missão principalmente libertar seus descendentes e avós.
-        Ficava escondida na Fazenda 27, em Gameleira (Itaparica), para acompanhar, durante a noite,
-        a movimentação das caravelas lusitanas. Em seguida, tomava uma jangada e ia para Salvador, passar as informações para o
-        Comando do Movimento de Libertação.
+        Foi líder na Ilha de Itaparica, Bahia. Aprendeu a jogar capoeira para se defender. Tinha como missão principalmente libertar seus descendentes e avós. Ficava escondida
+        na Fazenda 27, em Gameleira (Itaparica), para acompanhar, durante a noite, a movimentação das caravelas lusitanas. Em seguida, tomava uma jangada e ia para Salvador,
+        passar as informações para o Comando do Movimento de Libertação. \n
     </string>
 
     <string name="textoTituloOitoAcotirene">
@@ -1467,8 +1608,8 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name="textoOitoAcotirene">
-        Era considerada matriarca no Quilombo dos Palmares e conselheira dos primeiros negros refugiados na Cerca Real dos Macacos.
-        Um dos mocambos (casa) foi batizado com o seu nome.
+        Era considerada matriarca no Quilombo dos Palmares e conselheira dos primeiros negros refugiados na Cerca Real dos Macacos. Um dos mocambos (casa) foi batizado com o
+        seu nome. \n
     </string>
 
     <string name="textoTituloNoveAdelina">
@@ -1476,10 +1617,9 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name="textoNoveAdelina">
-        Era uma das líderes no Maranhão. Era filha de uma escravizada com um senhor, por isso, sabia ler e escrever.
-        Apesar do pai, não foi libertada aos 17 anos, mas era ativamente parte da sociedade abolicionista de rapazes, o
-        Clube dos Mortos. Para arrecadar dinheiro vendia charutos fabricados pelo pai, com essa articulação descobria vários
-        planos de perseguição aos escravos.
+        Era uma das líderes no Maranhão. Era filha de uma escravizada com um senhor, por isso, sabia ler e escrever. Apesar do pai, não foi libertada aos 17 anos, mas era
+        ativamente parte da sociedade abolicionista de rapazes, o Clube dos Mortos. Para arrecadar dinheiro vendia charutos fabricados pelo pai, com essa articulação
+        descobria vários planos de perseguição aos escravos. \n
     </string>
 
     <string name="textoTituloDezRainha">
@@ -1487,8 +1627,8 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name="textoDezRainha">
-        Foi guerreira no Quilombo do Quariterê, em Cuiabá. Comandou toda a estrutura política, econômica e administrativa do
-        quilombo. Mantinha até um sistema de defesa com armas trocadas com homens brancos ou resgatadas pelos escravizados.
+        Foi guerreira no Quilombo do Quariterê, em Cuiabá. Comandou toda a estrutura política, econômica e administrativa do quilombo. Mantinha até um sistema de defesa com
+        armas trocadas com homens brancos ou resgatadas pelos escravizados. \n
     </string>
 
     <string name="textoTituloOnzeMariana">
@@ -1496,8 +1636,8 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name="textoOnzeMariana">
-        Era mucama em Vila das Vassouras, Rio de Janeiro. Se juntou com escravizados na maior fuga de escravos da história
-        fluminense em 5 de novembro de 1838. Liderou a fuga e um quilombo com Manuel Congo.
+        Era mucama em Vila das Vassouras, Rio de Janeiro. Se juntou com escravizados na maior fuga de escravos da história fluminense em 5 de novembro de 1838. Liderou a fuga
+        e um quilombo com Manuel Congo. \n
     </string>
 
     <string name="textoTituloDozeEsperanca">
@@ -1505,8 +1645,8 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name="textoDozeEsperanca">
-        Ousou a escrever uma carta para o presidente da Província de São José do Piauí, Gonçalo Lourenço Botelho de Castro,
-        denunciando os maus-tratos físicos de que era vítima, ela e seu filho, por parte do feitor da Fazenda Algodões.
+        Ousou a escrever uma carta para o presidente da Província de São José do Piauí, Gonçalo Lourenço Botelho de Castro, denunciando os maus-tratos físicos de que era
+        vítima, ela e seu filho, por parte do feitor da Fazenda Algodões. \n
     </string>
 
     <string name="textoTituloTrezeMariaFirmina">
@@ -1514,8 +1654,8 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name="textoTrezeMariaFirmina">
-        Foi considerada a primeira romancista brasileira, além de escrever o primeiro romance abolicionista, Úrsula,
-        que narra a condição da população negra no Brasil com elementos da tradição africana. Dedicou sua vida a leitura e escrita.
+        Foi considerada a primeira romancista brasileira, além de escrever o primeiro romance abolicionista, Úrsula, que narra a condição da população negra no Brasil com
+        elementos da tradição africana. Dedicou sua vida a leitura e escrita. \n
     </string>
 
     <string name="textoTituloQuatorzeEvaMaria">
@@ -1523,8 +1663,8 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name="textoQuatorzeEvaMaria">
-        Era uma escrava alforriada que vendia frutas e verduras no Rio de Janeiro. Foi agredida por um homem branco e conseguiu
-        que ele fosse preso, e condenado pela agressão
+        Era uma escrava alforriada que vendia frutas e verduras no Rio de Janeiro. Foi agredida por um homem branco e conseguiu que ele fosse preso, e condenado pela
+        agressão. \n
     </string>
 
     <string name="textoTituloQuinzeMariaAranha">
@@ -1532,7 +1672,7 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name="textoQuinzeMariaAranha">
-        Foi líder do Quilombo de Mola, no Tocantins. Venceu todos os ataques escravistas e organizou toda a sociedade do local.
+        Foi líder do Quilombo de Mola, no Tocantins. Venceu todos os ataques escravistas e organizou toda a sociedade do local. \n
     </string>
 
     <string name="textoTituloDezeseisNaAgontime">
@@ -1540,7 +1680,8 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name="textoDezeseisNaAgontime">
-        Era rainha do Benim e foi vendida como escrava para o Maranhão, até ganhou um novo nome, Maria Jesuína. Ela fundou a Casa das Minas e reconstruiu o culto aos ancestrais.
+        Era rainha do Benim e foi vendida como escrava para o Maranhão, até ganhou um novo nome, Maria Jesuína. Ela fundou a Casa das Minas e reconstruiu o culto aos
+        ancestrais. \n
     </string>
 
     <string name="textoTituloDezeseteTiaSimoa">
@@ -1548,7 +1689,7 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name="textoDezeseteTiaSimoa">
-        Liderou a luta contra a escravidão no Ceará. Foi do Grupo de Mulheres Negras do Cariri, o Pretas Simoa.
+        Liderou a luta contra a escravidão no Ceará. Foi do Grupo de Mulheres Negras do Cariri, o Pretas Simoa. \n
     </string>
 
     <string name="textoTituloDezoitoZacimba">
@@ -1556,15 +1697,15 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name="textoDezoitoZacimba">
-        Era princesa angolana e acabou no Espírito Santo. Provocou uma revolta das pessoas escravizadas contra a Casa Grande
-        e liderou um quilombo onde foi rainha.  Comandou durante anos ataques aos navios, surgindo no meio da noite em canos
-        precárias para resgatar os negros escravos, a referência à sua morte seja em um desses enfrentamentos.
+        Era princesa angolana e acabou no Espírito Santo. Provocou uma revolta das pessoas escravizadas contra a Casa Grande e liderou um quilombo onde foi rainha. Comandou
+        durante anos ataques aos navios, surgindo no meio da noite em canos precárias para resgatar os negros escravos, a referência à sua morte seja em um desses
+        enfrentamentos. \n
     </string>
 
     <string name="textoDireitosAutoraisGeledesOrg">
         "Este conteúdo está disponível no blog (geledes.org); Encontre estas e outras informações através do link:
         <a href="https://www.geledes.org.br/17-mulheres-negras-brasileiras-que-lutaram-contra-escravidao/">Site:
-            https://www.geledes.org.br/17-mulheres-negras-brasileiras-que-lutaram-contra-escravidao/</a>".
+            https://www.geledes.org.br/17-mulheres-negras-brasileiras-que-lutaram-contra-escravidao/</a>". \n
     </string>
     <!-- Mulheres Quilombola -->
 

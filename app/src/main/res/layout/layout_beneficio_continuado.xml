@@ -8,32 +8,27 @@
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
+
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
             <TextView
                 android:id="@+id/textView3"
+                android:text="@string/titulo_beneficios02"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_centerHorizontal="true"
-                android:textAlignment="center"
-                android:text="@string/titulo_beneficios02"
-                android:textSize="25sp" />
+                style="@style/estiloTextoTitulo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textView4"
+                android:layout_below="@id/textView3"
+                android:text="@string/texto_beneficios02"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_below="@id/textView3"
-                android:textSize="20sp"
-                android:layout_marginTop="20sp"
-                android:textAlignment="center"
                 android:autoLink="web"
                 android:linksClickable="true"
-                android:text="@string/texto_beneficios02"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
         </RelativeLayout>
     </ScrollView>
 </LinearLayout>

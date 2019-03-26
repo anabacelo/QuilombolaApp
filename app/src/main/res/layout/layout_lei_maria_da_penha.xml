@@ -14,61 +14,49 @@
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/title_titulo_lei_maria_da_penha"
             android:text="@string/titulo_lei_maria_da_penha"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textAlignment="center"
-            android:textSize="16sp" />
+            style="@style/estiloTextoTitulo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/title_autoria_lei_maria_da_penha"
             android:text="@string/autoria_lei_maria_da_penha"
             android:layout_below="@+id/title_titulo_lei_maria_da_penha"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textAlignment="center"
-            android:textSize="16sp" />
+            style="@style/estiloTextoTituloNormal" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/title_texto_lei_maria_da_penha"
             android:text="@string/texto_lei_maria_da_penha"
             android:layout_below="@+id/title_autoria_lei_maria_da_penha"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textAlignment="center"
-            android:textSize="16sp" />
+            style="@style/estiloTextoComplemento" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/title_texto_artigos_lei_maria_da_penha"
             android:text="@string/texto_artigos_lei_maria_da_penha"
             android:layout_below="@+id/title_texto_lei_maria_da_penha"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textAlignment="center"
-            android:textSize="16sp" />
+            style="@style/estiloTextoComplemento" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/title_texto_artigo_data_lei_maria_da_penha"
             android:text="@string/texto_artigo_data_lei_maria_da_penha"
             android:layout_below="@+id/title_texto_artigos_lei_maria_da_penha"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textAlignment="center"
-            android:textSize="16sp" />
+            style="@style/estiloTextoComplemento" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/title_texto_artigo_commplemento_lei_maria_da_penha"
             android:text="@string/texto_artigo_commplemento_lei_maria_da_penha"
             android:layout_below="@+id/title_texto_artigo_data_lei_maria_da_penha"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textAlignment="center"
-            android:textSize="16sp" />
+            style="@style/estiloTextoComplemento" />
 
     </RelativeLayout>
 </LinearLayout>

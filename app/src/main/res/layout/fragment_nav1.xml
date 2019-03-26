@@ -10,26 +10,30 @@
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
+
             <TextView
-                android:id="@+id/textView"
+                android:id="@+id/textViewTitulo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="24dp"
-                android:textSize="30sp"
                 android:text="@string/titulo_oqeh01"
-                android:layout_alignParentTop="true"
-                android:layout_centerHorizontal="true" />
+                style="@style/estiloTextoTitulo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textView2"
+                android:id="@+id/textViewTexto"
+                android:layout_below="@+id/textViewTitulo"
+                android:text="@string/texto_oqeh01"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="21dp"
-                android:layout_below="@+id/textView"
-                android:textSize="20sp"
-                android:text="@string/texto_oqeh01"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp" />
+                style="@style/estiloTextoConteudo" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewTextoDireitos"
+                android:layout_below="@+id/textViewTexto"
+                android:text="@string/textoDireitos"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoComplemento" />
+
         </RelativeLayout>
     </ScrollView>
 </RelativeLayout>

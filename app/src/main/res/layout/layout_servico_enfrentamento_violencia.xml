@@ -11,52 +11,37 @@
 
         <TextView
             android:id="@+id/textViewTituloRedeEnfrentamento"
+            android:text="Rede de Enfrentamento à violência"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignParentTop="true"
-            android:layout_centerHorizontal="true"
-            android:layout_marginTop="13dp"
-            android:textSize="26sp"
-            android:text="Rede de Enfrentamento à violência" />
+            style="@style/estiloTextoTitulo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoTituloPoliciaCivil"
             android:layout_below="@id/textViewTituloRedeEnfrentamento"
             android:text="@string/textoTituloPoliciaCivil"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:textStyle="bold" />
+            style="@style/estiloTextoTituloNormal" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoPoliciaCivil"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
             android:layout_below="@id/textViewTextoTituloPoliciaCivil"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:accessibilityLiveRegion="polite"
+            android:text="@string/textoLinkPoliciaCivil"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:autoLink="web"
             android:clickable="true"
-            android:cursorVisible="true"
             android:linksClickable="true"
-            android:text="@string/textoLinkPoliciaCivil"
-            android:textSize="16sp" />
+            style="@style/estiloTextoComplemento" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoTituloSecretariaNacional"
             android:layout_below="@id/textViewTextoPoliciaCivil"
             android:text="@string/textoTituloSecretariaNacionalDePoliticasParaMulheres"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:textStyle="bold" />
+            style="@style/estiloTextoTituloNormal" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoLinkSecretariaNacional"
@@ -64,37 +49,27 @@
             android:text="@string/textoLinkSecretariaNacionalDePoliticasParaMulheres"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
             android:autoLink="web"
             android:linksClickable="true"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoComplemento" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoTituloPatrulhaMariaDaPenhaDaBrigadaMilitarRS"
             android:layout_below="@id/textViewTextoLinkSecretariaNacional"
             android:text="@string/textoTituloPatrulhaMariaDaPenhaDaBrigadaMilitarRS"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:textStyle="bold" />
+            style="@style/estiloTextoTituloNormal" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoLinkPatrulhaMariaDaPenhaDaBrigadaMilitarRS"
             android:layout_below="@id/textViewTextoTituloPatrulhaMariaDaPenhaDaBrigadaMilitarRS"
             android:text="@string/textoLinkPatrulhaMariaDaPenhaDaBrigadaMilitarRS"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
             android:autoLink="web"
             android:linksClickable="true"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoComplemento" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoPatrulhaMariaDaPenhaDaBrigadaMilitarRS"
@@ -102,10 +77,7 @@
             android:text="@string/textoPatrulhaMariaDaPenhaDaBrigadaMilitarRS"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoTituloInstitutoGeralPericias"
@@ -113,11 +85,7 @@
             android:text="@string/textoTituloInstitutoGeralPericias"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:textStyle="bold" />
+            style="@style/estiloTextoTituloNormal" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoLinkInstitutoGeralPericias"
@@ -125,12 +93,9 @@
             android:text="@string/textoLinkInstitutoGeralPericias"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
             android:autoLink="web"
             android:linksClickable="true"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoComplemento" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoInstitutoGeralPericias"
@@ -138,10 +103,7 @@
             android:text="@string/textoInstitutoGeralPericias"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoTituloSempreMulher"
@@ -149,11 +111,7 @@
             android:text="@string/textoTituloSempreMulher"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:textStyle="bold" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoLinkSempreMulher"
@@ -161,12 +119,9 @@
             android:text="@string/textoLinkSempreMulher"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
             android:autoLink="web"
             android:linksClickable="true"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoComplemento" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoSempreMulher"
@@ -174,10 +129,7 @@
             android:text="@string/textoSempreMulher"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoTituloOngMariaMulher"
@@ -185,11 +137,7 @@
             android:text="@string/textoTituloOngMariaMulher"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:textStyle="bold" />
+            style="@style/estiloTextoTituloNormal" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoLinkOngMariaMulher"
@@ -197,12 +145,9 @@
             android:text="@string/textoLinkOngMariaMulher"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
             android:autoLink="web"
             android:linksClickable="true"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoComplemento" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoOngMariaMulher"
@@ -210,10 +155,7 @@
             android:text="@string/textoOngMariaMulher"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoTituloACMUN"
@@ -221,11 +163,7 @@
             android:text="@string/textoTituloACMUN"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:textStyle="bold" />
+            style="@style/estiloTextoTituloNormal" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoLinkACMUN"
@@ -233,12 +171,9 @@
             android:text="@string/textoLinkACMUN"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
             android:autoLink="web"
             android:linksClickable="true"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoComplemento" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoACMUN"
@@ -246,10 +181,7 @@
             android:text="@string/textoACMUN"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoTituloThemisGenero"
@@ -257,11 +189,7 @@
             android:text="@string/textoTituloThemisGenero"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:textStyle="bold" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoThemisGenero"
@@ -269,10 +197,7 @@
             android:text="@string/textoThemisGenero"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoTituloPromotorasLegaisPopulares"
@@ -280,11 +205,7 @@
             android:text="@string/textoTituloPromotorasLegaisPopulares"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:textStyle="bold" />
+            style="@style/estiloTextoTituloNormal" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoPromotorasLegaisPopulares"
@@ -292,10 +213,7 @@
             android:text="@string/textoPromotorasLegaisPopulares"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoTituloDefensoriaPublica"
@@ -303,11 +221,7 @@
             android:text="@string/textoTituloDefensoriaPublica"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:textStyle="bold" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoLinkDefensoriaPublica"
@@ -315,12 +229,9 @@
             android:text="@string/textoLinkDefensoriaPublica"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
             android:autoLink="web"
             android:linksClickable="true"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoComplemento" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoDefensoriaPublica"
@@ -328,10 +239,7 @@
             android:text="@string/textoDefensoriaPublica"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoComplemento" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoTituloJuizadosEspecializadosEmViolencia"
@@ -339,11 +247,7 @@
             android:text="@string/textoTituloJuizadosEspecializadosEmViolencia"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:textStyle="bold" />
+            style="@style/estiloTextoTituloNormal" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoLinkJuizadosEspecializadosEmViolencia"
@@ -351,12 +255,9 @@
             android:text="@string/textoLinkJuizadosEspecializadosEmViolencia"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
             android:autoLink="web"
             android:linksClickable="true"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoComplemento" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoJuizadosEspecializadosEmViolencia"
@@ -364,10 +265,7 @@
             android:text="@string/textoJuizadosEspecializadosEmViolencia"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoTituloNormal" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoTituloCentroReferenciaDeAtendimento"
@@ -375,11 +273,7 @@
             android:text="@string/textoTituloCentroReferenciaDeAtendimento"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:textStyle="bold" />
+            style="@style/estiloTextoTituloNormal"/>
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoLinkCentroReferenciaDeAtendimento"
@@ -387,12 +281,9 @@
             android:text="@string/textoLinkCentroReferenciaDeAtendimento"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
             android:autoLink="web"
             android:linksClickable="true"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoComplemento" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoCentroReferenciaDeAtendimento"
@@ -400,10 +291,7 @@
             android:text="@string/textoJuizadosCentroReferenciaDeAtendimento"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoTituloCentroDeReferenciaEmDireitosHumanos"
@@ -411,11 +299,7 @@
             android:text="@string/textoTituloCentroDeReferenciaEmDireitosHumanos"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:textStyle="bold" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoLinkCentroDeReferenciaEmDireitosHumanos"
@@ -423,12 +307,9 @@
             android:text="@string/textoLinkCentroDeReferenciaEmDireitosHumanos"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
             android:autoLink="web"
             android:linksClickable="true"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoComplemento" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoCentroDeReferenciaEmDireitosHumanos"
@@ -436,10 +317,7 @@
             android:text="@string/textoCentroDeReferenciaEmDireitosHumanos"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoTituloCentroDeReferenciaAsVitimasDeViolencia"
@@ -447,11 +325,7 @@
             android:text="@string/textoTituloCentroDeReferenciaAsVitimasDeViolencia"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:textStyle="bold" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoLinkCentroDeReferenciaAsVitimasDeViolencia"
@@ -459,12 +333,10 @@
             android:text="@string/textoLinkCentroDeReferenciaAsVitimasDeViolencia"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
             android:autoLink="web"
             android:linksClickable="true"
             android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoComplemento" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoCentroDeReferenciaAsVitimasDeViolencia"
@@ -472,10 +344,7 @@
             android:text="@string/textoCentroDeReferenciaAsVitimasDeViolencia"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoComplemento" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoTituloEscutaLilas"
@@ -483,11 +352,7 @@
             android:text="@string/textoTituloEscutaLilas"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:textStyle="bold" />
+            style="@style/estiloTextoTituloNormal" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoLinkEscutaLilas"
@@ -495,12 +360,9 @@
             android:text="@string/textoLinkEscutaLilas"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
             android:autoLink="web"
             android:linksClickable="true"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoComplemento" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoEscutaLilas"
@@ -508,10 +370,7 @@
             android:text="@string/textoEscutaLilas"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoConteudo"/>
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoTituloILEMulher"
@@ -519,11 +378,7 @@
             android:text="@string/textoTituloILEMulher"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:textStyle="bold" />
+            style="@style/estiloTextoTituloNormal" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoLinkILEMulher"
@@ -531,12 +386,9 @@
             android:text="@string/textoLinkILEMulher"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
             android:autoLink="web"
             android:linksClickable="true"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoComplemento" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoContatoILEMulher"
@@ -544,10 +396,7 @@
             android:text="@string/textoContatoILEMulher"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoTituloSAJUGPUCRS"
@@ -555,11 +404,7 @@
             android:text="@string/textoTituloSAJUGPUCRS"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:textStyle="bold" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoLinkSAJUGPUCRS"
@@ -567,12 +412,9 @@
             android:text="@string/textoLinkSAJUGPUCRS"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
             android:autoLink="web"
             android:linksClickable="true"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoComplemento" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoSAJUGPUCRS"
@@ -580,10 +422,7 @@
             android:text="@string/textoSAJUGPUCRS"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoComplementoSAJUGPUCRS"
@@ -591,10 +430,7 @@
             android:text="@string/textoComplementoSAJUGPUCRS"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoContatoSAJUGPUCRS"
@@ -602,10 +438,7 @@
             android:text="@string/textoContatoSAJUGPUCRS"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoTituloSAJUUFRGS"
@@ -613,11 +446,7 @@
             android:text="@string/textoTituloSAJUUFRGS"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:textStyle="bold" />
+            style="@style/estiloTextoTituloNormal" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoLinkSAJUUFRGS"
@@ -625,12 +454,9 @@
             android:text="@string/textoLinkSAJUUFRGS"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
             android:autoLink="web"
             android:linksClickable="true"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoComplemento" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoSAJUUFRGS"
@@ -638,10 +464,7 @@
             android:text="@string/textoSAJUUFRGS"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoContatoSAJUUFRGS"
@@ -649,10 +472,7 @@
             android:text="@string/textoContatoSAJUUFRGS"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoTituloDelegaciaEspecializadanoAtendimentoAMulher"
@@ -660,11 +480,7 @@
             android:text="@string/textoTituloDelegaciaEspecializadanoAtendimentoAMulher"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:textStyle="bold" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoDelegaciaEspecializadanoAtendimentoAMulher"
@@ -672,10 +488,7 @@
             android:text="@string/textoDelegaciaEspecializadanoAtendimentoAMulher"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoContatoDelegaciaEspecializadanoAtendimentoAMulher"
@@ -683,10 +496,7 @@
             android:text="@string/textoContatoDelegaciaEspecializadanoAtendimentoAMulher"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoTituloServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher"
@@ -694,11 +504,7 @@
             android:text="@string/textoTituloServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:textStyle="bold" />
+            style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoLinkServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher"
@@ -706,10 +512,7 @@
             android:text="@string/textoLinkServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoComplemento" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoContatoServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher"
@@ -717,9 +520,7 @@
             android:text="@string/textoContatoServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="21dp"
-            android:textSize="16sp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" />
+            style="@style/estiloTextoConteudo" />
+
     </RelativeLayout>
 </LinearLayout>
