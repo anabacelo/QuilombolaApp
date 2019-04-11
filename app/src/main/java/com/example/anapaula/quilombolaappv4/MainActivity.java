@@ -85,6 +85,10 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             return true;
         }
         else if (id == R.id.sobre_nos){ //ABA SOBRE NÓS.
+            setTitle("Sobre nós");
+            NavAboutUs navAboutUs = new NavAboutUs();
+            android.support.v4.app.FragmentManager fragmentManager = getSupportFragmentManager();
+            fragmentManager.beginTransaction().replace(R.id.fragment, navAboutUs).commit();
             return true;
         }
         else {

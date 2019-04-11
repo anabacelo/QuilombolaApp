@@ -2137,4 +2137,84 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         E-mail: hfe@ghc.com.br \n
     </string>
     <!-- Fim: Rede de enfrentamento a Violência contra a mulher -->
+
+    <!-- SOBRE NOS -->
+    <string name="texto_sobre_nos_coordenadores_titulo">
+    Coordenadoras:
+    </string>
+
+    <string name="texto_sobre_nos_coordenador1">
+    Dra. Patrícia Krieger Grossi - Professora da Escola de Humanidade/PUCRS
+    </string>
+
+    <string name="texto_sobre_nos_coordenador2">
+    Dra. Ana Paula Terra Bacelo - Professora da Escola Politécnica /PUCRS
+    </string>
+
+    <string name="texto_sobre_nos_bolsistas_titulo">
+    Bolsistas:
+    </string>
+
+    <string name="texto_sobre_nos_bolsista1">
+    Alexandre Luís Rigotti –Graduando em Engenharia de Computação/PUCRS – BOLSISTA PROBITI CNPq
+    </string>
+
+    <string name="texto_sobre_nos_bolsista2">
+    Thiago Gomes Roly – Graduando em Sistemas de Informação/PUCRS – Bolsista BPA PRAIAS PUCRS
+    </string>
+
+    <string name="texto_sobre_nos_bolsista3">
+    Rafaela Silva Ripoll- Graduanda em Serviço Social/PUCRS – Bolsista BPA PRAIAS PUCRS
+    </string>
+
+    <string name="texto_sobre_nos_bolsista4">
+    Pâmela Mendonça Barreto – Graduanda em Engenharia de Software/PUCRS – Bolsista BPA PRAIAS PUCRS
+    </string>
+
+    <string name="texto_sobre_nos_colaboradores_titulo">
+    Colaboradores:
+    </string>
+
+    <string name="texto_sobre_nos_colaborador1">
+    Simone Barros de Oliveira - Doutora em Serviço Social/PUCRS
+    </string>
+
+    <string name="texto_sobre_nos_colaborador2">
+    Maria Inês Nunes Barcelos - Mestra em Serviço Social/PUCRS
+
+    </string>
+
+    <string name="texto_sobre_nos_colaborador3">
+    Joao Vitor Bitencourt - Mestre em Serviço Social/PUCRS
+    </string>
+
+    <string name="texto_sobre_nos_colaborador4">
+    Mariana Marques Sebastiany - Mestranda em Serviço Social/PUCRS – Bolsista CNPq
+    </string>
+
+    <string name="texto_sobre_nos_colaborador5">
+    Eliane Moreira de Almeida - Mestranda em Serviço Social/PUCRS – Bolsista CNPq
+    </string>
+
+    <string name="texto_sobre_nos_colaborador6">
+    Ana Caroline dos Santos Ferreira - Graduada em Serviço Social/UFPA –Bolsista Apoio Técnico CNPq
+    </string>
+
+    <string name="texto_sobre_nos_colaborador7">
+    Ariane Medeiros Severo - Graduanda em Serviço Social/PUCRS – Bolsista PROBIC FAPERGS
+    </string>
+
+    <string name="texto_sobre_nos_colaborador8">
+    Jully Vicente Américo Gravina - Graduanda em Serviço Social/PUCRS- Bolsista IC BPA PUCRS
+    </string>
+
+    <string name="texto_sobre_nos_colaborador9">
+    Cassia Aline Bulsing Maia - Bacharela em Serviço Social/PUCRS
+    </string>
+
+    <string name="texto_sobre_nos_colaborador10">
+    Renata Alencar Póvoas - Graduanda em Serviço Social/PUCRS – Bolsista PIBIC CNPq
+    </string>
+
+    <!-- Fim: SOBRE NOS -->
 </resources>

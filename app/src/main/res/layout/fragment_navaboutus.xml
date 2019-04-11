@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.anapaula.quilombolaappv4.Nav4">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <TextView
+                android:id="@+id/textViewTituloPagina"
+                android:text="Equipe do Aplicativo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                style="@style/estiloTextoTitulo" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewCoodenadoresTitulo"
+                android:layout_below="@+id/textViewTituloPagina"
+                android:text="@string/texto_sobre_nos_coordenadores_titulo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoTituloNormal" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewCoodenador1"
+                android:layout_below="@+id/textViewCoodenadoresTitulo"
+                android:text="@string/texto_sobre_nos_coordenador1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoConteudo" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewCoodenador2"
+                android:layout_below="@+id/textViewCoodenador1"
+                android:text="@string/texto_sobre_nos_coordenador2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoConteudo" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewBolsistasTitulo"
+                android:layout_below="@+id/textViewCoodenador2"
+                android:text="@string/texto_sobre_nos_bolsistas_titulo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoTituloNormal" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewBolsista1"
+                android:layout_below="@+id/textViewBolsistasTitulo"
+                android:text="@string/texto_sobre_nos_bolsista1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoConteudo" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewBolsista2"
+                android:layout_below="@+id/textViewBolsista1"
+                android:text="@string/texto_sobre_nos_bolsista2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoConteudo" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewBolsista3"
+                android:layout_below="@+id/textViewBolsista2"
+                android:text="@string/texto_sobre_nos_bolsista3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoConteudo" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewBolsista4"
+                android:layout_below="@+id/textViewBolsista3"
+                android:text="@string/texto_sobre_nos_bolsista4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoConteudo" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewColaboradoresTitulo"
+                android:layout_below="@+id/textViewBolsista4"
+                android:text="@string/texto_sobre_nos_colaboradores_titulo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoTituloNormal" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewColaborador1"
+                android:layout_below="@+id/textViewColaboradoresTitulo"
+                android:text="@string/texto_sobre_nos_colaborador1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoConteudo" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewColaborador2"
+                android:layout_below="@+id/textViewColaborador1"
+                android:text="@string/texto_sobre_nos_colaborador2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoConteudo" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewColaborador3"
+                android:layout_below="@+id/textViewColaborador2"
+                android:text="@string/texto_sobre_nos_colaborador3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoConteudo" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewColaborador4"
+                android:layout_below="@+id/textViewColaborador3"
+                android:text="@string/texto_sobre_nos_colaborador4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoConteudo" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewColaborador5"
+                android:layout_below="@+id/textViewColaborador4"
+                android:text="@string/texto_sobre_nos_colaborador5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoConteudo" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewColaborador6"
+                android:layout_below="@+id/textViewColaborador5"
+                android:text="@string/texto_sobre_nos_colaborador6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoConteudo" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewColaborador7"
+                android:layout_below="@+id/textViewColaborador6"
+                android:text="@string/texto_sobre_nos_colaborador7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoConteudo" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewColaborador8"
+                android:layout_below="@+id/textViewColaborador7"
+                android:text="@string/texto_sobre_nos_colaborador8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoConteudo" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewColaborador9"
+                android:layout_below="@+id/textViewColaborador8"
+                android:text="@string/texto_sobre_nos_colaborador9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoConteudo" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewColaborador10"
+                android:layout_below="@+id/textViewColaborador9"
+                android:text="@string/texto_sobre_nos_colaborador10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoConteudo" />
+
+        </RelativeLayout>
+    </ScrollView>
+</LinearLayout>
