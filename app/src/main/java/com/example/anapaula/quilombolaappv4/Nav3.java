@@ -60,7 +60,7 @@ public class Nav3 extends Fragment {
         listDataHeader.add("Estatuto da Juventude");
         listDataHeader.add("Estatuto de Igualdade Racial (LEI 12.888) ");
         listDataHeader.add("Politica Nacional de Assistencia Social");
-        listDataHeader.add("Programa Brasil Quilombola (PBQ): ");
+        listDataHeader.add("Programa Brasil Quilombola");
         listDataHeader.add("Lei Maria da Penha");
 
 
