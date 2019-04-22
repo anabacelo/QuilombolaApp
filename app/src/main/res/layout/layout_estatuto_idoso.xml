@@ -6,21 +6,43 @@
     android:layout_height="wrap_content"
     tools:context="com.example.anapaula.quilombolaappv4.Nav3">
 
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
         <RelativeLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content">
 
             <ImageView
-                android:id="@+id/list_item_icon"
-                android:src="@drawable/estatutodoidoso"
+                android:id="@+id/imageViewEstatudoDoIdoso"
+                android:src="@drawable/estatudoidosos"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 style="@style/estiloImagem" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/lblListItem_text_layout_estatudo_idoso"
-                android:text="@string/texto_lei_estatudo_idoso"
-                android:layout_below="@+id/list_item_icon"
+                android:id="@+id/textViewLayoutTituloEstatutoDoIdoso"
+                android:layout_below="@+id/imageViewEstatudoDoIdoso"
+                android:text="@string/tituloLeiEstatutoDoIdoso"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoTituloNormal" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewLayoutTextoEstatutoDoIdoso"
+                android:layout_below="@+id/textViewLayoutTituloEstatutoDoIdoso"
+                android:text="@string/textoLeiEstatutoDoIdoso"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:linksClickable="true"
+                style="@style/estiloTextoConteudo" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewLayoutTextoReferenciaEstatutoDoIdoso"
+                android:layout_below="@+id/textViewLayoutTextoEstatutoDoIdoso"
+                android:text="@string/textoReferenciaLeiEstatutoDoIdoso"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:autoLink="web"
@@ -28,4 +50,5 @@
                 style="@style/estiloTextoConteudo" />
 
         </RelativeLayout>
+    </ScrollView>
 </LinearLayout>
