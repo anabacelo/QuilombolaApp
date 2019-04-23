@@ -451,6 +451,14 @@ Navegue à vontade!!!
         \t O Estatuto da Juventude busca promover o bem estar e desenvolvimento dos jovens reconhecendo juridicamente seus direitos.  \n
 
     </string>
+    <string name="textoReferenciaLeiEstatutoDaJuventude">
+        \t REFERÊNCIA \n\n
+
+        \t BRASIL. Lei nº 10.741 de 1º de outubro de 2013. Disponível em:
+        &lt;http://www.planalto.gov.br/ccivil_03/LEIS/2003/L10.741.htm&gt;
+        \n Acesso em: 08 abr.
+        2019.
+    </string>
 
     <string name="texto_lei_legislacao_conselho_tutelar">
         É um órgão da municipalização do atendimento, pois trata-se de uma equipe autônoma e independente, que cobrará dos
