@@ -7,11 +7,13 @@
     android:layout_height="wrap_content"
     tools:context="com.example.anapaula.quilombolaappv4.Nav3">
 
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
         <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="vertical">
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
 
             <TextView
                 android:id="@+id/title_estatuto_igualdade_racial"
@@ -22,8 +24,8 @@
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/text_estatuto_igualdade_racial"
-                android:text="@string/texto_estatuto_igualdade_racial"
                 android:layout_below="@id/title_estatuto_igualdade_racial"
+                android:text="@string/texto_estatuto_igualdade_racial"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:autoLink="web"
@@ -32,11 +34,12 @@
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/text_estatuto_igualdade_racial_complemento"
-                android:text="@string/texto_estatuto_igualdade_racial_complemento"
                 android:layout_below="@id/text_estatuto_igualdade_racial"
+                android:text="@string/texto_estatuto_igualdade_racial_complemento"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                style="@style/estiloTextoComplemento" />
+                style="@style/estiloTextoConteudo" />
 
         </RelativeLayout>
+    </ScrollView>
 </LinearLayout>

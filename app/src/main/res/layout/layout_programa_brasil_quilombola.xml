@@ -8,6 +8,14 @@
     android:orientation="vertical"
     tools:context="com.example.anapaula.quilombolaappv4.Nav3">
 
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
             <TextView
                 android:id="@+id/title_programa_brasil_quilombola"
                 android:text="@string/titulo_programa_brasil_quilombola"
@@ -22,4 +30,6 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoComplemento" />
+        </RelativeLayout>
+    </ScrollView>
 </LinearLayout>

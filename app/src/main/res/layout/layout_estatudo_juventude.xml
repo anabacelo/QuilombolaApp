@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/layout_estatudo_juventude"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    tools:context="com.example.anapaula.quilombolaappv4.HomePage">
+    tools:context="com.example.anapaula.quilombolaappv4.Nav3">
 
 
     <ScrollView
@@ -13,32 +14,30 @@
 
         <RelativeLayout
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:orientation="vertical" >
+            android:layout_height="wrap_content">
 
             <TextView
-                android:id="@+id/textViewTituloEstatutoDaJuventude"
+                android:id="@+id/titleEestatutoIgualdadeRacial"
                 android:text="@string/titulo_estatuto_juventude"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTitulo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textViewEstatutoDaJuventude"
+                android:id="@+id/textEstatutoIgualdadeRacial"
+                android:layout_below="@id/titleEestatutoIgualdadeRacial"
                 android:text="@string/texto_estatuto_juventude"
-                android:layout_below="@+id/textViewTituloEstatutoDaJuventude"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                style="@style/estiloTextoComplemento" />
+                android:paddingBottom="25dp"
+                style="@style/estiloTextoConteudo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textViewLayoutTextoReferenciaEstatutoDaJuventude"
-                android:layout_below="@+id/textViewLayoutextoReferenciaEstatutoDaJuventude"
-                android:text="@string/textoReferenciaLeiEstatutoDoIdoso"
+                android:id="@+id/textEstatutoIgualdadeRacialComplemento"
+                android:layout_below="@id/textEstatutoIgualdadeRacial"
+                android:text="@string/textoReferenciaLeiEstatutoDaJuventude"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:autoLink="web"
-                android:linksClickable="true"
                 style="@style/estiloTextoConteudo" />
 
         </RelativeLayout>

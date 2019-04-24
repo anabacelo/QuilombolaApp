@@ -380,7 +380,7 @@ Navegue à vontade!!!
        \t Fica instituído também que “Nenhum idoso será objeto de qualquer tipo de negligência,
         discriminação, violência, crueldade ou opressão, e todo atentado aos seus direitos, por
         ação ou omissão, será punido na forma da lei” (Art. 4).\n
-       \t  § 1 º É dever de todos prevenir a ameaça ou violação aos direitos do idoso\n\n\n
+       \t  § 1 º É dever de todos prevenir a ameaça ou violação aos direitos do idoso. \n\n\n
 
     </string>
 
@@ -448,16 +448,16 @@ Navegue à vontade!!!
         Cotas para jovens de baixa renda, indígenas, negros e quilombolas em Universidades Públicas; \n
         Liberdade de expressão; \n
         Livre orientação sexual, sem discriminação; \n
-        \t O Estatuto da Juventude busca promover o bem estar e desenvolvimento dos jovens reconhecendo juridicamente seus direitos.  \n
+        \t O Estatuto da Juventude busca promover o bem estar e desenvolvimento dos jovens reconhecendo juridicamente seus direitos. \n
 
     </string>
-    <string name="textoReferenciaLeiEstatutoDaJuventude">
-        \t REFERÊNCIA \n\n
 
-        \t BRASIL. Lei nº 10.741 de 1º de outubro de 2013. Disponível em:
-        &lt;http://www.planalto.gov.br/ccivil_03/LEIS/2003/L10.741.htm&gt;
-        \n Acesso em: 08 abr.
-        2019.
+    <string name="textoReferenciaLeiEstatutoDaJuventude">
+       \t REFERÊNCIA \n
+        BRASIL. Lei nº 12.852 de 5 de agosto de 2013. Disponível em: \n
+         &lt;http://www.planalto.gov.br/CCIVIL_03/_Ato2011-2014/2013/Lei/L12852.htm&gt; Acesso em: 09 abr. 2019.
+        ESTATUTO da Juventude. Publicado por Canal Juventude. [S. l.: s. n.],5 de ago. de 2013 . 1 vídeo (2min 37seg)\n.
+        Disponível em: &lt;https://www.youtube.com/watch?v=ZJj6kG4XX4w&gt; Acesso em: 09 abr. 2019. \n
     </string>
 
     <string name="texto_lei_legislacao_conselho_tutelar">
@@ -614,117 +614,60 @@ Navegue à vontade!!!
     </string>
 
     <string name="texto_estatuto_igualdade_racial">
-            Visa “garantir à população negra a efetivação da igualdade de oportunidades, a defesa dos direitos étnicos individuais,
-            coletivos e difusos e o combate à discriminação e às demais formas de intolerância étnica” (art. 1 º), ou seja, coibir práticas
-            de discriminação racial e estabelecer políticas públicas para diminuir a desigualdade social existente entre os diferentes grupos
-            raciais no Brasil.
+                \t O Estatuto da Igualdade Racial, instituído pela Lei 12.888, de 20 de julho de 2010, visa “garantir à população negra a efetivação da igualdade de oportunidades, a defesa dos direitos étnicos individuais, coletivos e difusos e o combate à discriminação e às demais formas de intolerância étnica” (art. 1 º), ou seja, coibir práticas de discriminação racial e estabelecer políticas públicas para diminuir a desigualdade social existente entre os diferentes grupos raciais no Brasil.  \n
+        \t De acordo com o Instituto Identidades do Brasil, o Estatuto da Igualdade Racial (Lei nº 12.288/10) destinado a garantir à população negra a efetivação da igualdade de oportunidades, a defesa dos direitos étnicos individuais, coletivos e difusos e o combate à discriminação e às demais formas de intolerância étnica, tais como: \n
+        \t I –Discriminação racial ou étnico-racial: toda distinção, exclusão, restrição ou preferência baseada em raça, cor, descendência ou origem nacional ou étnica que tenha por objeto anular ou restringir o reconhecimento, gozo ou exercício, em igualdade de condições, de direitos humanos e liberdades fundamentais nos campos político, econômico, social, cultural ou em qualquer outro campo da vida pública ou privada; \n
+        \t  II – Desigualdade racial: toda situação injustificada de diferenciação de acesso e fruição de bens, serviços e oportunidades, nas esferas pública e privada, em virtude de raça, cor, descendência ou origem nacional ou étnica;  \n
+        \t III – Desigualdade de gênero e raça: assimetria existente no âmbito da sociedade que acentua a distância social entre mulheres negras e os demais segmentos sociais; \n
+        \t  IV – População negra: o conjunto de pessoas que se autodeclaram pretas e pardas, conforme o quesito cor ou raça usado pela Fundação Instituto Brasileiro de Geografia e Estatística (IBGE), ou que adotam autodefinição análoga; \n
+        \t  V – Políticas públicas: as ações, iniciativas e programas adotados pelo Estado no cumprimento de suas atribuições institucionais; \n
+        \t  VI – Ações afirmativas: os programas e medidas especiais adotados pelo Estado e pela iniciativa privada para a correção das desigualdades raciais e para a promoção da igualdade de oportunidades.(INSTITUTO IDENTIDADES DO BRASIL).  \n
+        \t A Lei 12.888/10 é bem abrangente e trata dos direitos fundamentais para igualdade racial, dentre eles o direito à saúde, à educação, cultura, esporte e lazer, liberdade de consciência, de crença e religiosa, acesso à moradia e trabalho. A Lei determina também a instituição do Sistema Nacional de Promoção da Igualdade Racial (SINAPIR), “como forma de organização e de articulação voltadas à implementação do conjunto de políticas e serviços destinados a superar as desigualdades étnicas existentes no País” (art. 47º).  \n \n
 
-           <i> Leia mais em: http://www.portalconscienciapolitica.com.br/products/estatuto-da-igualdade-racial/ </i> \n\n
-
-            <b>Estatudo de Igualdade Racial (Povo Negro/Município de Porto Alegre) \n\n
-            FIPIR </b> \n\n
-
-            O Fórum Intergovernamental de Promoção da Igualdade Racial (Fipir) foi instituído, visando à implementação de estratégias para a incorporação
-            da PNPIR nas ações governamentais de Estados e Municípios. Atua na articulação, capacitação, planejamento, execução e monitoramento das
-            ações de implementação da Política de Igualdade Racial (PIR) no país
-
-            <b>Coordenação </b> \n\n
-            Ligada à Secretaria Executiva da Seppir, a Coordenação do Fipir atua em Brasília, estabelecendo interface com as Coordenações Regionais Sul,
-            Sudeste, Norte, Nordeste e Centro-Oeste. Também estabelece diálogo permanente com os órgãos de promoção da igualdade racial que representam
-            Municípios e Estados. Atualmente, contabilizamos 669 Municípios Aderentes e Organismos de PIR nos 26 Estados e no Distrito Federal.\n\n
-
-            <b>Vantagem</b>\n\n
-            Estados e Municípios Aderentes poderão, através do Pacto Federativo, estabelecer Termos de Cooperação Técnica, específicos para o desenvolvimento
-            das Políticas Públicas de Ações Afirmativas e da Agenda Social Quilombola.
-            A execução das políticas públicas de PIR pelos Estados e Municípios, com vistas ao Combate do Racismo, será regulamentada pelo Sistema Nacional de
-            Promoção da Igualdade Racial (Sinapir), previsto no Título III, artigos 47 a 57 da Lei 12.288/10, que cria o Estatuto da Igualdade Racial,
-            e em fase de implantação. \n\n
-
-            <b>Objeticos do FIPIR</b> \n\n
-            - Ampliar e construir formas de capilaridade da Política Nacional de Promoção da igualdade Racial.
-            - Promover o fortalecimento da transversalidade da promoção da igualdade racial nas políticas públicas
-            - Incorporação da Política Nacional de Promoção da Igualdade Racial nas ações governamentais de estados e municípios.
-            - Promover a troca de experiências e a articulação entre organismos e identificar experiências comuns.
-            - Contribuir para o debate sobre a promoção da igualdade étnica e racial na sociedade brasileira. \n\n
-
-            <b>Contatos Equipe FIPIR </b>\n\n
-            <b>Coordenadora - Maria do Carmo Ferreira da Silva “Cacá”</b>\n\n
-            E-mail: maria.silva@planalto.gov.br Tel.: (61) 2025- 7050 \n\n
-            <b>João Elcio dos Santos</b>\n\n
-            E-mail: joao.santos@planalto.gov.br Tel: (61) 2025-7051 \n\n
-            <b>Rosilene Maria Costa</b>\n\n
-            E-mail: rosilene.maria@planalto.gov.br Tel:(61) 2025-7052 \n\n
-            <b>Lea Barroso de Souza Gomes</b>\n\n
-            E-mail: Lea.gomes@planalto.gov.br Tel:(61) 2025-7049 \n\n
-            Institucional: seppir.fipir@planalto.gov.br
-            Fax: (61) 2025-7088\n\n
-</string>
+    </string>
 
     <string name="texto_estatuto_igualdade_racial_complemento">
-        <i>
-        “BRASIL. Estatuto da igualdade racial: Lei nº 12.288, de 20 de julho de 2010, e legislação correlata. 4. ed.
-            Brasília: Câmara dos Deputados, Edições Câmara, 2015. (Série legislação, 171).”
-        “BRASIL. Consciência Política Ciência Política → Políticas Públicas → Políticas Públicas de
-            Igualdade Racial → Estatuto da Igualdade Racial.
-        Leia mais: http://www.portalconscienciapolitica.com.br/products/estatuto-da-igualdade-racial/. 2015.
-            Acessado em 06 de julho de 2017.”
-        “PREFEITURA MUNICIPAL DE PORTO ALEGRE (PMPA). Povo Negro. Disponível em:
-            http://www2.portoalegre.rs.gov.br/gpn/default.php?p_secao=63. Acessado em 06 de julho de 2017.”</i>
+                <i>
+                \t REFERÊNCIA: \n
+        \tBRASIL. Lei nº 12.288, de 20 de julho de 2010. Disponível em: \nhttp://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2010/Lei/L12288.htm
+        \n  Acesso em 05 abril 2019. \n \n
+
+        ______. Decreto nº 8.136, de 05 de novembro de 2013 . Aprova o Regulamento do SINAPIR, instituído pela Lei 12.288/2010. Disponível em:\n
+         http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Decreto/D8136.htm \n
+        Acesso em 05 abril 2019.  \n \n
+
+        INSTITUTO IDENTIDADES DO BRASIL. Estatuto da Igualdade Racial . Disponível em: \n
+        http://simaigualdaderacial.com.br/site/?mergulhe_no_tema=lorem-ipsum-dolor-sitamet-teste-de-nova-area \n
+         Acesso em 05 abril 2019.\n \n
+
+         SABEDORIA POLÍTICA. Estatuto da Igualdade Racial . Disponível em: \n
+        https://www.sabedoriapolitica.com.br/products/estatuto-da-igualdade-racial
+        \n Acesso em 05 abril 2019.\n
+        </i>
+
 </string>
-
-
-    <string name="titulo_lei_maria_da_penha">
-        Resumo Lei Maria da Penha
-    </string>
-    <string name="autoria_lei_maria_da_penha">
-        Feito por Renata Póvoas
-    </string>
-    <string name="texto_lei_maria_da_penha">
-        A lei tem como objetivo proteger às mulheres contra violência doméstica e
-        familiar. \n \n
-        A lei N° 11.340 tem o nome de Lei Maria da Penha em decorrência à
-        agressão física sofrida por esta mulher e a sua luta para a punição de seu
-        agressor. \n \n
-        A lei objetiva preservar as mulheres assim como todas as pessoas que se
-        identifiquem com o sexo feminino, dentre elas às mulheres transexuais.
-        Além da agressão física, há também a punição por violência psicológica,
-        como exemplo, afastamento de amizades e familiares, calúnia, ofensas,
-        destruição de objetos, entre outros. \n \n
-        Com a denúncia da agressão, há a prisão do suspeito de agressão e o
-        caso passará ao judiciário. Não sendo possível, nas situações que se aplica a
-        lei, a substituição da pena por doação de cestas básicas ou multas. \n \n
-    </string>
-    <string name="texto_artigos_lei_maria_da_penha">
-        “Art. 1°   Esta Lei cria mecanismos para coibir e prevenir a violência doméstica e
-        familiar contra a mulher, nos termos do § 8 o  do art. 226 da Constituição Federal, da
-        Convenção sobre a Eliminação de Todas as Formas de Violência contra a Mulher, da
-        Convenção Interamericana para Prevenir, Punir e Erradicar a Violência contra a
-        Mulher e de outros tratados internacionais ratificados pela República Federativa do
-        Brasil; dispõe sobre a criação dos Juizados de Violência Doméstica e Familiar contra a
-        Mulher; e estabelece medidas de assistência e proteção às mulheres em situação de
-        violência doméstica e familiar. \n \n
-
-        Art. 2°   Toda mulher, independentemente de classe, raça, etnia, orientação
-        sexual, renda, cultura, nível educacional, idade e religião, goza dos direitos
-        fundamentais inerentes à pessoa humana, sendo-lhe asseguradas as oportunidades e
-        facilidades para viver sem violência, preservar sua saúde física e mental e seu
-        aperfeiçoamento moral, intelectual e social. \n \n
-
-        Art. 3°   Serão asseguradas às mulheres as condições para o exercício efetivo
-        dos direitos à vida, à segurança, à saúde, à alimentação, à educação, à cultura, à
-        moradia, ao acesso à justiça, ao esporte, ao lazer, ao trabalho, à cidadania, à
-        liberdade, à dignidade, ao respeito e à convivência familiar e comunitária.” \n\n
-
-        Fonte:
-        \n http://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm \n
-    </string>
     <string name="texto_artigo_data_lei_maria_da_penha">
-        (Brasília, .LEI Nº 11.340, DE 7 DE AGOSTO DE 2006.) \n
+                \t A Lei n. 11.340, sancionada em 7 de agosto de 2006, tem como objetivo proteger às mulheres contra violência doméstica e familiar. A Lei passou a ser chamada de Maria da Penha em homenagem à mulher cujo marido tentou matá-la duas vezes e que desde então se dedica à causa do combate à violência contra as mulheres. O objetivo é preservar as mulheres assim como todas as pessoas que se identifiquem com o sexo feminino, dentre elas às mulheres transexuais. Além da agressão física, há também a punição por violência psicológica, como exemplo, afastamento de amizades e familiares, calúnia, ofensas, destruição de objetos, entre outros. \n
+\t “Art. 1 o Esta Lei cria mecanismos para coibir e prevenir a violência doméstica e familiar contra a mulher, nos termos do § 8 o do art. 226 da Constituição Federal , da Convenção sobre a Eliminação de Todas as Formas de Violência contra a Mulher, da Convenção Interamericana para Prevenir, Punir e Erradicar a Violência contra a Mulher e de outros tratados internacionais ratificados pela República Federativa do Brasil; dispõe sobre a criação dos Juizados de Violência Doméstica e Familiar contra a Mulher; e estabelece medidas de assistência e proteção às mulheres em situação de violência doméstica e familiar. \n
+\t Art. 2 o Toda mulher, independentemente de classe, raça, etnia, orientação sexual, renda, cultura, nível educacional, idade e religião, goza dos direitos fundamentais inerentes à pessoa humana, sendo-lhe asseguradas as oportunidades e facilidades para viver sem violência, preservar sua saúde física e mental e seu aperfeiçoamento moral, intelectual e social. \n
+\t Art. 3 o Serão asseguradas às mulheres as condições para o exercício efetivo dos direitos à vida, à segurança, à saúde, à alimentação, à educação, à cultura, à moradia, ao acesso à justiça, ao esporte, ao lazer, ao trabalho, à cidadania, à liberdade, à dignidade, ao respeito e à convivência familiar e comunitária.”(BRASÍLIA, . LEI Nº 11.340, DE 7 DE AGOSTO DE 2006 ). \n \n
+
+\t De acordo com o Conselho Nacional de Justiça (CNJ), as principais inovações da Lei Maria da Penha: \n \n
     </string>
+
+    <string name="title_texto_os_mecanismos_da_lei">
+        \t Os mecanismos da Lei: \n
+    </string>
+
     <string name="texto_artigo_commplemento_lei_maria_da_penha">
-        Para mais informações: \n
-        www.planalto.g.ov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11340.htm
-        \n (acesso em 08.03.2019).
+                \t REFERENCIA:  \n
+        \t BRASIL. Lei nº 11.340, de 7 de agosto de 2006 . Disponível em: http://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11340.htm  \n
+        Acesso em 08 abril 2019.  \n
+        \t CONSELHO NACIONAL DE JUSTIÇA. Lei Maria da Penha . Disponível em: http://www.cnj.jus.br/sistema-carcerario-e-execucao-penal/263-acoes-programas/p rogramas-de-a-a-z/lei-maria-da-penha/13085-lei-maria-da-penha \n
+        Acesso em 05 abril 2019. \n
+        \t TODAMATERIA. Lei Maria da Penha . Disponível em: https://www.todamateria.com.br/lei-maria-da-penha  \n
+         Acesso em 05 abril 2019.\n
+
     </string>
 
     <!-- LEGISLAÇÃO -->

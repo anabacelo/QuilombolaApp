@@ -6,37 +6,42 @@
     android:layout_height="wrap_content"
     tools:context="com.example.anapaula.quilombolaappv4.Nav3">
 
-        <RelativeLayout
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:orientation="vertical">
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/lblListItem_title_layout_estatudo_idoso"
-                android:text="@string/politica_nacional_de_assistencia_social"
+    <ScrollView
+        android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <RelativeLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:autoLink="web"
-                android:linksClickable="true"
-                style="@style/estiloTextoComplemento" />
+                android:orientation="vertical">
 
-            <ImageView
-                android:id="@+id/list_item_icon"
-                android:src="@drawable/assistenciasocial"
-                android:layout_below="@id/lblListItem_title_layout_estatudo_idoso"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                style="@style/estiloImagem" />
+                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                    android:id="@+id/lblListItem_title_layout_estatudo_idoso"
+                    android:text="@string/politica_nacional_de_assistencia_social"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:autoLink="web"
+                    android:linksClickable="true"
+                    style="@style/estiloTextoComplemento" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/lblListItem_text_layout_estatudo_idoso"
-                android:text="@string/texto_lei_legislacao_conselho_tutelar"
-                android:layout_below="@id/list_item_icon"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:autoLink="web"
-                android:linksClickable="true"
-                style="@style/estiloTextoComplemento" />
+                <ImageView
+                    android:id="@+id/list_item_icon"
+                    android:src="@drawable/assistenciasocial"
+                    android:layout_below="@id/lblListItem_title_layout_estatudo_idoso"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/estiloImagem" />
 
-        </RelativeLayout>
+                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                    android:id="@+id/lblListItem_text_layout_estatudo_idoso"
+                    android:text="@string/texto_lei_legislacao_conselho_tutelar"
+                    android:layout_below="@id/list_item_icon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:autoLink="web"
+                    android:linksClickable="true"
+                    style="@style/estiloTextoComplemento" />
+
+            </RelativeLayout>
+    </ScrollView>
 </LinearLayout>
