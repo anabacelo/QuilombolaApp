@@ -17,24 +17,84 @@
             android:layout_height="wrap_content">
 
             <TextView
-                android:id="@+id/titleEestatutoIgualdadeRacial"
+                android:id="@+id/titleEestatutoDaJuventude"
                 android:text="@string/titulo_estatuto_juventude"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTitulo" />
 
+            <ImageView
+                android:id="@+id/imageViewEstatudoDaJuventude"
+                android:layout_below="@id/titleEestatutoDaJuventude"
+                android:src="@drawable/estatutojuventude"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloImagem" />
+
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textEstatutoIgualdadeRacial"
-                android:layout_below="@id/titleEestatutoIgualdadeRacial"
+                android:id="@+id/texto_estatuto_juventude"
+                android:layout_below="@id/imageViewEstatudoDaJuventude"
                 android:text="@string/texto_estatuto_juventude"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:paddingBottom="25dp"
                 style="@style/estiloTextoConteudo" />
 
+            <!--Titulo Sobre o Direito a Educação-->
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/text_view_title_texto_sobre_o_direito_a_educacao"
+                android:layout_below="@+id/texto_estatuto_juventude"
+                android:text="@string/text_view_title_texto_sobre_o_direito_a_educacao"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoTituloNormal" />
+            <!--Texto Sobre o Direito a Educação-->
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/texto_sobre_o_direto_a_educacao"
+                android:layout_below="@+id/text_view_title_texto_sobre_o_direito_a_educacao"
+                android:text="@string/texto_sobre_o_direto_a_educacao"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoComplemento" />
+
+            <!--Titulo Sobre o Direito a Diversidade e Igualdade-->
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/text_view_title_texto_sobre_o_diretito_a_diversidade_e_igualdade"
+                android:layout_below="@+id/texto_sobre_o_direto_a_educacao"
+                android:text="@string/text_view_title_texto_sobre_o_diretito_a_diversidade_e_igualdade"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoTituloNormal" />
+            <!--Texto Sobre o Direito a Diversidade e Igualdade-->
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/texto_sobre_o_diretito_a_diversidade_e_igualdade"
+                android:layout_below="@+id/text_view_title_texto_sobre_o_diretito_a_diversidade_e_igualdade"
+                android:text="@string/texto_sobre_o_diretito_a_diversidade_e_igualdade"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoComplemento" />
+
+            <!--Titulo Sobre o Direito Saúde-->
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/text_view_title_texto_sobre_o_diretito_a_saude"
+                android:layout_below="@+id/texto_sobre_o_diretito_a_diversidade_e_igualdade"
+                android:text="@string/text_view_title_texto_sobre_o_diretito_a_saude"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoTituloNormal" />
+            <!--Texto Sobre o Direito a Saúde-->
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/texto_sobre_o_diretito_a_saude"
+                android:layout_below="@+id/text_view_title_texto_sobre_o_diretito_a_saude"
+                android:text="@string/texto_sobre_o_diretito_a_saude"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoComplemento" />
+
+            <!--Refrencia-->
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textEstatutoIgualdadeRacialComplemento"
-                android:layout_below="@id/textEstatutoIgualdadeRacial"
+                android:layout_below="@id/texto_sobre_o_diretito_a_saude"
                 android:text="@string/textoReferenciaLeiEstatutoDaJuventude"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

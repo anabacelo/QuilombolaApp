@@ -381,11 +381,10 @@ Navegue à vontade!!!
         discriminação, violência, crueldade ou opressão, e todo atentado aos seus direitos, por
         ação ou omissão, será punido na forma da lei” (Art. 4).\n
        \t  § 1 º É dever de todos prevenir a ameaça ou violação aos direitos do idoso. \n\n\n
-
     </string>
 
     <string name="textoReferenciaLeiEstatutoDoIdoso">
-        \t REFERÊNCIA \n\n
+      \n  \t REFERÊNCIA \n\n
 
         \t BRASIL. Lei nº 10.741 de 1º de outubro de 2013. Disponível em:
         &lt;http://www.planalto.gov.br/ccivil_03/LEIS/2003/L10.741.htm&gt;
@@ -394,52 +393,70 @@ Navegue à vontade!!!
     </string>
 
     <string name="texto_estatuto_juventude">
-               \t O Estatuto da Juventude foi instituído em 5 de agosto de 2013,  destinado a determinar, regular e garantir os direitos dos jovens, os princípios e diretrizes das políticas públicas de juventude e o Sistema Nacional de Juventude - SINAJUVE. O Estatuto foi construído com os movimentos juvenis.\n
+        \t O Estatuto da Juventude foi instituído em 5 de agosto de 2013,  destinado a determinar, regular e garantir os direitos dos jovens, os princípios e diretrizes das políticas públicas de juventude e o Sistema Nacional de Juventude - SINAJUVE. O Estatuto foi construído com os movimentos juvenis.\n
         § 1º  Para os efeitos desta Lei, são consideradas jovens as pessoas com idade entre 15 (quinze) e 29 (vinte e nove) anos de idade.\n
         As políticas públicas de Juventude são regidas pelos seguintes princípios (Art. 2º):
         \t  I - promoção da autonomia e emancipação dos jovens; \n
         \t II - valorização e promoção da participação social e política, de forma direta e por meio de suas representações; \n
-         \t III - promoção da criatividade e da participação no desenvolvimento do País; \n
+        \t III - promoção da criatividade e da participação no desenvolvimento do País; \n
         \t IV - reconhecimento do jovem como sujeito de direitos universais, geracionais e singulares; \n
         \t V - promoção do bem-estar, da experimentação e do desenvolvimento integral do jovem;\n
         \t VI - respeito à identidade e à diversidade individual e coletiva da juventude; \n
-         \t VII - promoção da vida segura, da cultura da paz, da solidariedade e da não discriminação; \n
+        \t VII - promoção da vida segura, da cultura da paz, da solidariedade e da não discriminação; \n
         \t VIII - valorização do diálogo e convívio do jovem com as demais gerações. \n
-        Sobre o Direito à educação: \n
-        \t Art. 7º  O jovem tem direito à educação de qualidade, com a garantia de educação básica, obrigatória e gratuita, inclusive para os que a ela não tiveram acesso na idade adequada. \n
+    </string>
+
+    <string name="text_view_title_texto_sobre_o_direito_a_educacao">
+       \t Sobre o Direito à educação: \n
+    </string>
+
+    <string name="texto_sobre_o_direto_a_educacao">
+               \t Art. 7º  O jovem tem direito à educação de qualidade, com a garantia de educação básica, obrigatória e gratuita, inclusive para os que a ela não tiveram acesso na idade adequada. \n
         \t § 1º  A educação básica será ministrada em língua portuguesa, assegurada aos jovens indígenas e de povos e comunidades tradicionais a utilização de suas línguas maternas e de processos próprios de aprendizagem. \n
-         \t § 3º  São assegurados aos jovens com surdez o uso e o ensino da Língua Brasileira de Sinais - LIBRAS, em todas as etapas e modalidades educacionais. \n
+        \t § 3º  São assegurados aos jovens com surdez o uso e o ensino da Língua Brasileira de Sinais - LIBRAS, em todas as etapas e modalidades educacionais. \n
         \t § 4º  É assegurada aos jovens com deficiência a inclusão no ensino regular em todos os níveis e modalidades educacionais, incluindo o atendimento educacional especializado, observada a acessibilidade a edificações, transportes, espaços, mobiliários, equipamentos, sistemas e meios de comunicação e assegurados os recursos de tecnologia assistiva e adaptações necessárias a cada pessoa. \n
         \t § 5º  A Política Nacional de Educação no Campo contemplará a ampliação da oferta de educação para os jovens do campo, em todos os níveis e modalidades educacionais. \n
         \t § 1º  É assegurado aos jovens negros, indígenas e alunos oriundos da escola pública o acesso ao ensino superior nas instituições públicas por meio de políticas afirmativas, nos termos da lei. \n
         \t § 2º  O poder público promoverá programas de expansão da oferta de educação superior nas instituições públicas, de financiamento estudantil e de bolsas de estudos nas instituições privadas, em especial para jovens com deficiência, negros, indígenas e alunos oriundos da escola pública. \n
         \t  Art. 10.  É dever do Estado assegurar ao jovem com deficiência o atendimento educacional especializado gratuito, preferencialmente, na rede regular de ensino. \n
-        Sobre o Direito à Diversidade e à Igualdade\n
-        \t  Art. 17.  O jovem tem direito à diversidade e à igualdade de direitos e de oportunidades e não será discriminado por motivo de: \n
-         I - etnia, raça, cor da pele, cultura, origem, idade e sexo;\n
-         II - orientação sexual, idioma ou religião; \n
-         III - opinião, deficiência e condição social ou econômica.\n
+    </string>
+
+    <string name="text_view_title_texto_sobre_o_diretito_a_diversidade_e_igualdade">
+       \t Sobre o Direito à Diversidade e à Igualdade\n
+    </string>
+
+    <string name="texto_sobre_o_diretito_a_diversidade_e_igualdade">
+       \t  Art. 17.  O jovem tem direito à diversidade e à igualdade de direitos e de oportunidades e não será discriminado por motivo de: \n
+        I - etnia, raça, cor da pele, cultura, origem, idade e sexo;\n
+        II - orientação sexual, idioma ou religião; \n
+        III - opinião, deficiência e condição social ou econômica.\n
         \t Art. 18.  A ação do poder público na efetivação do direito do jovem à diversidade e à igualdade contempla a adoção das seguintes medidas: \n
-         I - adoção, nos âmbitos federal, estadual, municipal e do Distrito Federal, de programas governamentais destinados a assegurar a igualdade de direitos aos jovens de todas as raças e etnias, independentemente de sua origem, relativamente à educação, à profissionalização, ao trabalho e renda, à cultura, à saúde, à segurança, à cidadania e ao acesso à justiça; \n
-         II - capacitação dos professores dos ensinos fundamental e médio para a aplicação das diretrizes curriculares nacionais no que se refere ao enfrentamento de todas as formas de discriminação; \n
-         III - inclusão de temas sobre questões étnicas, raciais, de deficiência, de orientação sexual, de gênero e de violência doméstica e sexual praticada contra a mulher na formação dos profissionais de educação, de saúde e de segurança pública e dos operadores do direito; \n
-         IV - observância das diretrizes curriculares para a educação indígena como forma de preservação dessa cultura; \n
-         V - inclusão, nos conteúdos curriculares, de informações sobre a discriminação na sociedade brasileira e sobre o direito de todos os grupos e indivíduos a tratamento igualitário perante a lei; \n
-         VI - inclusão, nos conteúdos curriculares, de temas relacionados à sexualidade, respeitando a diversidade de valores e crenças. \n \n
-        Sobre o Direito à saúde \n
-        \t Art. 19.  O jovem tem direito à saúde e à qualidade de vida, considerando suas especificidades na dimensão da prevenção, promoção, proteção e recuperação da saúde de forma integral. \n
+        I - adoção, nos âmbitos federal, estadual, municipal e do Distrito Federal, de programas governamentais destinados a assegurar a igualdade de direitos aos jovens de todas as raças e etnias, independentemente de sua origem, relativamente à educação, à profissionalização, ao trabalho e renda, à cultura, à saúde, à segurança, à cidadania e ao acesso à justiça; \n
+        II - capacitação dos professores dos ensinos fundamental e médio para a aplicação das diretrizes curriculares nacionais no que se refere ao enfrentamento de todas as formas de discriminação; \n
+        III - inclusão de temas sobre questões étnicas, raciais, de deficiência, de orientação sexual, de gênero e de violência doméstica e sexual praticada contra a mulher na formação dos profissionais de educação, de saúde e de segurança pública e dos operadores do direito; \n
+        IV - observância das diretrizes curriculares para a educação indígena como forma de preservação dessa cultura; \n
+        V - inclusão, nos conteúdos curriculares, de informações sobre a discriminação na sociedade brasileira e sobre o direito de todos os grupos e indivíduos a tratamento igualitário perante a lei; \n
+        VI - inclusão, nos conteúdos curriculares, de temas relacionados à sexualidade, respeitando a diversidade de valores e crenças. \n \n
+    </string>
+
+    <string name="text_view_title_texto_sobre_o_diretito_a_saude">
+       \t Sobre o Direito à Saúde\n
+    </string>
+
+    <string name="texto_sobre_o_diretito_a_saude">
+                \t Art. 19.  O jovem tem direito à saúde e à qualidade de vida, considerando suas especificidades na dimensão da prevenção, promoção, proteção e recuperação da saúde de forma integral. \n
         rt. 20.  A política pública de atenção à saúde do jovem será desenvolvida em consonância com as seguintes diretrizes: \n
-         I - acesso universal e gratuito ao Sistema Único de Saúde - SUS e a serviços de saúde humanizados e de qualidade, que respeitem as especificidades do jovem; \n
-         II - atenção integral à saúde, com especial ênfase ao atendimento e à prevenção dos agravos mais prevalentes nos jovens; \n
-         III - desenvolvimento de ações articuladas entre os serviços de saúde e os estabelecimentos de ensino, a sociedade e a família, com vistas à prevenção de agravos; \n
-         IV - garantia da inclusão de temas relativos ao consumo de álcool, tabaco e outras drogas, à saúde sexual e reprodutiva, com enfoque de gênero e dos direitos sexuais e reprodutivos nos projetos pedagógicos dos diversos níveis de ensino; \n
-         V - reconhecimento do impacto da gravidez planejada ou não, sob os aspectos médico, psicológico, social e econômico; \n
-         VI - capacitação dos profissionais de saúde, em uma perspectiva multiprofissional, para lidar com temas relativos à saúde sexual e reprodutiva dos jovens, inclusive com deficiência, e ao abuso de álcool, tabaco e outras drogas pelos jovens; \n
-         VII - habilitação dos professores e profissionais de saúde e de assistência social para a identificação dos problemas relacionados ao uso abusivo e à dependência de álcool, tabaco e outras drogas e o devido encaminhamento aos serviços assistenciais e de saúde; \n
-         VIII - valorização das parcerias com instituições da sociedade civil na abordagem das questões de prevenção, tratamento e reinserção social dos usuários e dependentes de álcool, tabaco e outras drogas; \n
-         IX - proibição de propagandas de bebidas contendo qualquer teor alcoólico com a participação de pessoa com menos de 18 (dezoito) anos de idade; \n
-         X - veiculação de campanhas educativas relativas ao álcool, ao tabaco e a outras drogas como causadores de dependência; \n
-         XI - articulação das instâncias de saúde e justiça na prevenção do uso e abuso de álcool, tabaco e outras drogas, inclusive esteróides anabolizantes e, especialmente, crack. \n \n
+        I - acesso universal e gratuito ao Sistema Único de Saúde - SUS e a serviços de saúde humanizados e de qualidade, que respeitem as especificidades do jovem; \n
+        II - atenção integral à saúde, com especial ênfase ao atendimento e à prevenção dos agravos mais prevalentes nos jovens; \n
+        III - desenvolvimento de ações articuladas entre os serviços de saúde e os estabelecimentos de ensino, a sociedade e a família, com vistas à prevenção de agravos; \n
+        IV - garantia da inclusão de temas relativos ao consumo de álcool, tabaco e outras drogas, à saúde sexual e reprodutiva, com enfoque de gênero e dos direitos sexuais e reprodutivos nos projetos pedagógicos dos diversos níveis de ensino; \n
+        V - reconhecimento do impacto da gravidez planejada ou não, sob os aspectos médico, psicológico, social e econômico; \n
+        VI - capacitação dos profissionais de saúde, em uma perspectiva multiprofissional, para lidar com temas relativos à saúde sexual e reprodutiva dos jovens, inclusive com deficiência, e ao abuso de álcool, tabaco e outras drogas pelos jovens; \n
+        VII - habilitação dos professores e profissionais de saúde e de assistência social para a identificação dos problemas relacionados ao uso abusivo e à dependência de álcool, tabaco e outras drogas e o devido encaminhamento aos serviços assistenciais e de saúde; \n
+        VIII - valorização das parcerias com instituições da sociedade civil na abordagem das questões de prevenção, tratamento e reinserção social dos usuários e dependentes de álcool, tabaco e outras drogas; \n
+        IX - proibição de propagandas de bebidas contendo qualquer teor alcoólico com a participação de pessoa com menos de 18 (dezoito) anos de idade; \n
+        X - veiculação de campanhas educativas relativas ao álcool, ao tabaco e a outras drogas como causadores de dependência; \n
+        XI - articulação das instâncias de saúde e justiça na prevenção do uso e abuso de álcool, tabaco e outras drogas, inclusive esteróides anabolizantes e, especialmente, crack. \n \n
 
         O Estatuto institui normas como:\n
         Participação na comunidade; \n
@@ -448,8 +465,7 @@ Navegue à vontade!!!
         Cotas para jovens de baixa renda, indígenas, negros e quilombolas em Universidades Públicas; \n
         Liberdade de expressão; \n
         Livre orientação sexual, sem discriminação; \n
-        \t O Estatuto da Juventude busca promover o bem estar e desenvolvimento dos jovens reconhecendo juridicamente seus direitos. \n
-
+        \t O Estatuto da Juventude busca promover o bem estar e desenvolvimento dos jovens reconhecendo juridicamente seus direitos.  \n
     </string>
 
     <string name="textoReferenciaLeiEstatutoDaJuventude">
@@ -659,8 +675,45 @@ Navegue à vontade!!!
         \t Os mecanismos da Lei: \n
     </string>
 
+    <string name="texto_os_mecanismos_da_lei">
+               \t •Tipifica e define a violência doméstica e familiar contra a mulher; \n
+        \t  • Estabelece as formas da violência doméstica contra a mulher como física, psicológica, sexual, patrimonial e moral; \n
+        \t • Determina que a violência doméstica contra a mulher independe de sua orientação sexual; \n
+         \t  • Determina que a mulher somente poderá renunciar à denúncia perante o juiz; \n
+        \t  • Ficam proibidas as penas pecuniárias (pagamento de multas ou cestas básicas); \n
+        \t • Retira dos juizados especiais criminais (Lei n. 9.099/95) a competência para julgar os crimes de violência doméstica contra a mulher; \n
+        \t  • Altera o Código de Processo Penal para possibilitar ao juiz a decretação da prisão preventiva quando houver riscos à integridade física ou psicológica da mulher; \n
+         \t • Altera a lei de execuções penais para permitir ao juiz que determine o comparecimento obrigatório do agressor a programas de recuperação e reeducação; \n
+        \t • Determina a criação de juizados especiais de violência doméstica e familiar contra a mulher com competência cível e criminal para abranger as questões de família decorrentes da violência contra a mulher; \n
+        \t  • Caso a violência doméstica seja cometida contra mulher com deficiência, a pena será aumentada em um terço. \n \n
+    </string>
+
+    <string name="title_texto_a_autoridade_policial">
+                \t A Autoridade Policial: \n
+    </string>
+
+    <string name="texto_a_autoridade_policial">
+                    \t • A lei prevê um capítulo específico para o atendimento pela autoridade policial para os casos de violência doméstica contra a mulher; \n
+        \t  • Permite prender o agressor em flagrante sempre que houver qualquer das formas de violência doméstica contra a mulher;  \n
+        \t • À autoridade policial compete registrar o boletim de ocorrência e instaurar o inquérito policial (composto pelos depoimentos da vítima, do agressor, das testemunhas e de provas documentais e periciais), bem como remeter o inquérito policial ao Ministério Público; \n
+        \t • Pode requerer ao juiz, em quarenta e oito horas, que sejam concedidas diversas medidas protetivas de urgência para a mulher em situação de violência;  \n
+        \t • Solicita ao juiz a decretação da prisão preventiva.  \n \n
+    </string>
+
+    <string name="title_texto_o_processo_judicial">
+                \t O Processo Judicial: \n
+    </string>
+
+    <string name="texto_o_processo_judicial">
+         \t • O juiz poderá conceder, no prazo de quarenta e oito horas, medidas protetivas de urgência (suspensão do porte de armas do agressor, afastamento do agressor do lar, distanciamento da vítima, dentre outras), dependendo da situação; \n
+         \t • O juiz do juizado de violência doméstica e familiar contra a mulher terá competência para apreciar o crime e os casos que envolverem questões de família (pensão, separação, guarda de filhos etc.); \n
+         \t • O Ministério Público apresentará denúncia ao juiz e poderá propor penas de três meses a três anos de detenção, cabendo ao juiz a decisão e a sentença final. \n \n
+    </string>
+
+    <string name="title_referencias">
+        \t REFERENCIA:  \n
+    </string>
     <string name="texto_artigo_commplemento_lei_maria_da_penha">
-                \t REFERENCIA:  \n
         \t BRASIL. Lei nº 11.340, de 7 de agosto de 2006 . Disponível em: http://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11340.htm  \n
         Acesso em 08 abril 2019.  \n
         \t CONSELHO NACIONAL DE JUSTIÇA. Lei Maria da Penha . Disponível em: http://www.cnj.jus.br/sistema-carcerario-e-execucao-penal/263-acoes-programas/p rogramas-de-a-a-z/lei-maria-da-penha/13085-lei-maria-da-penha \n
