@@ -1,46 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/layout_politica_nacional_de_assistencia_social"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     tools:context="com.example.anapaula.quilombolaappv4.Nav3">
 
-
     <ScrollView
-        android:layout_width="match_parent"
-            android:layout_height="match_parent">
+        android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
             <RelativeLayout
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:orientation="vertical">
+                android:layout_height="wrap_content">
 
                 <com.example.anapaula.quilombolaappv4.JustifyTextView
-                    android:id="@+id/lblListItem_title_layout_estatudo_idoso"
-                    android:text="@string/politica_nacional_de_assistencia_social"
+                    android:id="@+id/textViewTituloPoliticaNacionalDeAssistenciaSocial"
+                    android:text="@string/titlePoliticaNacionalDeAssistenciaSocial"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:autoLink="web"
-                    android:linksClickable="true"
-                    style="@style/estiloTextoComplemento" />
+                    style="@style/estiloTextoTitulo" />
 
                 <ImageView
-                    android:id="@+id/list_item_icon"
-                    android:src="@drawable/assistenciasocial"
-                    android:layout_below="@id/lblListItem_title_layout_estatudo_idoso"
+                    android:id="@+id/imageViewPoliticaNacionalDeAssistenciaSocial"
+                    android:layout_below="@id/textViewTituloPoliticaNacionalDeAssistenciaSocial"
+                    android:src="@drawable/leidaassistenciasocial"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     style="@style/estiloImagem" />
 
                 <com.example.anapaula.quilombolaappv4.JustifyTextView
-                    android:id="@+id/lblListItem_text_layout_estatudo_idoso"
-                    android:text="@string/texto_lei_legislacao_conselho_tutelar"
-                    android:layout_below="@id/list_item_icon"
+                    android:id="@+id/textViewTextoDireitosPoliticaNacionalDeAssistenciaSocial"
+                    android:layout_below="@id/imageViewPoliticaNacionalDeAssistenciaSocial"
+                    android:text="@string/textoDireitosPoliticaNacionalDeAssistenciaSocial"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/estiloTextoDireitosReservados" />
+
+                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                    android:id="@+id/textViewSubTituloSobreBeneficioPrestacaoContinuada"
+                    android:layout_below="@id/textViewTextoDireitosPoliticaNacionalDeAssistenciaSocial"
+                    android:text="@string/textoPoliticaNacionalDeAssistenciaSocial"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:autoLink="web"
                     android:linksClickable="true"
-                    style="@style/estiloTextoComplemento" />
+                    style="@style/estiloTextoConteudo" />
+
+                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                    android:id="@+id/textViewTextoSubTituloSobreBeneficioPrestacaoContinuada"
+                    android:layout_below="@id/textViewSubTituloSobreBeneficioPrestacaoContinuada"
+                    android:text="@string/textoSubTituloSobreBeneficioPrestacaoContinuada"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/estiloTextoTituloNormal" />
+
+                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                    android:id="@+id/textViewTextoReferenteSubTituloSobreBeneficioPrestacaoContinuada"
+                    android:layout_below="@id/textViewTextoSubTituloSobreBeneficioPrestacaoContinuada"
+                    android:text="@string/textoReferernteSubTituloSobreBeneficioPrestacaoContinuada"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/estiloTextoConteudo" />
+
+                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                    android:id="@+id/textViewTextoReferencia"
+                    android:layout_below="@id/textViewTextoReferenteSubTituloSobreBeneficioPrestacaoContinuada"
+                    android:text="@string/textoReferencia"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/estiloTextoConteudo" />
 
             </RelativeLayout>
     </ScrollView>

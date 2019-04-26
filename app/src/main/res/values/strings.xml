@@ -492,42 +492,161 @@ Navegue à vontade!!!
     </string>
 
 
-    <string name="politica_nacional_de_assistencia_social">
-        A proteção social básica (CRAS E SAFs) tem como objetivos prevenir situações de risco por meio do desenvolvimento de
-        potencialidades e aquisições, e o fortalecimento de vínculos familiares e comunitários. As situações de risco demandarão
-        intervenções em problemas específicos e, ou, abrangentes pela proteção social especial (CREAS) (MDS, p.33-36). \n\n
+    <string name="titlePoliticaNacionalDeAssistenciaSocial">
+        \t LEI ORGÂNICA DA ASSISTÊNCIA SOCIAL \n
+    </string>
 
-        <b>
-            NOB-RH (SUAS): \n\n
-        Funções essenciais para a gestão do suas:</b> \n\n
+    <string name="textoDireitosPoliticaNacionalDeAssistenciaSocial">
+        Fonte: Reprodução/Agência Senado.
+    </string>
 
-        Para a adequada gestão do Sistema Único de Assistência Social - SUAS em cada esfera de governo, é fundamental a garantia de
-        um quadro de referência de profissionais designados para o exercício das funções essenciais de gestão. A composição das
-        equipes de referência dos Estados para apoio a Municípios com presença de povos e
-        comunidades tradicionais (indígenas, quilombolas, seringueiros, etc.)
-        deve contar com profissionais com curso superior, em nível de graduação
-        concluído em ciências sociais com habilitação em antropologia ou graduação
-        concluída em qualquer formação, acompanhada de especialização, mestrado
-        e/ou doutorado em antropologia.\n\n
+    <string name="textoPoliticaNacionalDeAssistenciaSocial">
+           \t A Lei Orgânica da Assistência Social (LOAS) foi instituída em 7 de dezembro de 1993,
+        a partir da Constituição de 1988, baseada nas necessidades da política e sociedade
+        brasileira. \n \n
 
-        <i>  Fonte: \n http://www.assistenciasocial.al.gov.br/sala-de-imprensa/arquivos/NOB-RH.pdf. (p.17-18) \n\n </i>
-        \n ————————————————————————— \n
-            <b>NOB-RH (SUAS): </b> \n\n
+        Art. 1º A assistência social, direito do cidadão e dever do Estado, é Política de
+        Seguridade Social não contributiva, que provê os mínimos sociais, realizada através de
+        um conjunto integrado de ações de iniciativa pública e da sociedade, para garantir o
+        atendimento às necessidades básicas. \n \n
 
-            V – Diretrizes para a política nacional de capacitação:
-            e) a especificidade dos trabalhos desenvolvidos com comunidades remanescentes de quilombos, povos indígenas e outras (…) \n\n
-            <i>Fonte: http://www.assistenciasocial.al.gov.br/sala-de-imprensa/arquivos/NOB-RH.pdf. (p.19)</i> \n\n
+        Art. 2º A assistência social tem por objetivos: \n \n
 
-            \n ————————————————————————— \n
+        I - a proteção social, que visa à garantia da vida, à redução de danos e à prevenção da
+        incidência de riscos, especialmente: \n \n
 
-            <b>MDS-CNAS: \n\n
-            RELATÓRIO GT POPULAÇÃO QUILOMBOLA (2007):</b> \n\n
-            <i>(LINK ERRADO) Fonte: file:///C:/Users/17190052.PORTOALEGRE/Downloads/Relat%C3%B3rio%20%20GT%20Popula%C3%A7%C3%A3o%20Quilombola.pdf</i> \n\n
-            \n ————————————————————————— \n
-            <b>GUIA DE POLÍTICAS SOCIAIS QUILOMBOLAS – MDS (2009):</b> \n\n
-            <i> Fonte: \n
-                http://www.rcdh.es.gov.br/sites/default/files/2009%20Guia%20de%20Politicas%20Sociais%20Quilombolas.pdf </i> \n\n
-           \n ————————————————————————— \n
+        a) a proteção à família, à maternidade, à infância, à adolescência e à velhice; (Incluído
+        pela Lei nº 12.435, de 2011) \n \n
+
+        b) o amparo às crianças e aos adolescentes carentes; (Incluído pela Lei nº 12.435, de
+        2011) \n \n
+
+        c) a promoção da integração ao mercado de trabalho; (Incluído pela Lei nº 12.435, de
+        2011) \n\n
+
+        d) a habilitação e reabilitação das pessoas com deficiência e a promoção de sua
+        integração à vida comunitária; (Incluído pela Lei nº 12.435, de 2011) \n\n
+
+        e) a garantia de 1 (um) salário-mínimo de benefício mensal à pessoa com deficiência e
+        ao idoso que comprovem não possuir meios de prover a própria manutenção ou de tê-la
+        provida por sua família; (Incluído pela Lei nº 12.435, de 2011) \n \n
+
+        II - a vigilância socioassistencial, que visa a analisar territorialmente a capacidade
+        protetiva das famílias e nela a ocorrência de vulnerabilidades, de ameaças, de
+        vitimizações e danos; (Redação dada pela Lei nº 12.435, de 2011) \n \n
+
+        III - a defesa de direitos, que visa a garantir o pleno acesso aos direitos no conjunto das
+        provisões socioassistenciais. \n \n
+
+        É a partir da LOAS que os direitos sociais são concretizados, a fim de assegurar as
+        condições mínimas para o exercício da dignidade humana e diminuir as desigualdades. \n \n
+
+    </string>
+
+    <string name="textoSubTituloSobreBeneficioPrestacaoContinuada">
+        Sobre o Do Benefício de Prestação Continuada
+    </string>
+
+    <string name="textoReferernteSubTituloSobreBeneficioPrestacaoContinuada">
+        Art. 20. O benefício de prestação continuada é a garantia de um salário-mínimo mensal
+        à pessoa com deficiência e ao idoso com 65 (sessenta e cinco) anos ou mais que
+        comprovem não possuir meios de prover a própria manutenção nem de tê-la provida por
+        sua família. \n \n
+
+        § 1º Para os efeitos do disposto no caput, a família é composta pelo requerente, o
+        cônjuge ou companheiro, os pais e, na ausência de um deles, a madrasta ou o padrasto,
+        os irmãos solteiros, os filhos e enteados solteiros e os menores tutelados, desde que
+        vivam sob o mesmo teto. \n \n
+
+        § 2º Para efeito de concessão do benefício de prestação continuada, considera-se pessoa
+        com deficiência aquela que tem impedimento de longo prazo de natureza física, mental,
+        intelectual ou sensorial, o qual, em interação com uma ou mais barreiras, pode obstruir
+        sua participação plena e efetiva na sociedade em igualdade de condições com as demais
+        pessoas. \n \n
+
+        § 3º Considera-se incapaz de prover a manutenção da pessoa com deficiência ou idosa a
+        família cuja renda mensal per capita seja inferior a 1/4 (um quarto) do salário-mínimo. \n \n
+
+        § 4º O benefício de que trata este artigo não pode ser acumulado pelo beneficiário com
+        qualquer outro no âmbito da seguridade social ou de outro regime, salvo os da
+        assistência médica e da pensão especial de natureza indenizatória. \n \n
+
+        § 5º A condição de acolhimento em instituições de longa permanência não prejudica o
+        direito do idoso ou da pessoa com deficiência ao benefício de prestação continuada.
+        § 6º A concessão do benefício ficará sujeita à avaliação da deficiência e do grau de
+        impedimento de que trata o § 2º composta por avaliação médica e avaliação social
+        realizadas por médicos peritos e por assistentes sociais do Instituto Nacional de Seguro
+        Social - INSS. \n \n
+
+        § 7º Na hipótese de não existirem serviços no município de residência do beneficiário,
+        fica assegurado, na forma prevista em regulamento, o seu encaminhamento ao
+        município mais próximo que contar com tal estrutura. (Incluído pela Lei nº 9.720, de
+        30.11.1998) \n \n
+
+        § 8º A renda familiar mensal a que se refere o § 3º deverá ser declarada pelo requerente
+        ou seu representante legal, sujeitando-se aos demais procedimentos previstos no
+        regulamento para o deferimento do pedido. Incluído pela Lei nº 9.720, de 30.11.1998)
+         \n \n
+        § 9º Os rendimentos decorrentes de estágio supervisionado e de aprendizagem não serão
+        computados para os fins de cálculo da renda familiar per capita a que se refere o § 3º
+        deste artigo. \n \n
+
+        § 10. Considera-se impedimento de longo prazo, para os fins do § 2º deste artigo,
+        aquele que produza efeitos pelo prazo mínimo de 2 (dois) anos. (Incluído pela Lei nº
+        12.470, de 2011) \n \n
+
+        § 11. Para concessão do benefício de que trata o caput deste artigo, poderão ser
+        utilizados outros elementos probatórios da condição de miserabilidade do grupo familiar
+        e da situação de vulnerabilidade, conforme regulamento. (Incluído pela Lei nº 13.146,
+        de 2015) \n \n
+
+        § 12. São requisitos para a concessão, a manutenção e a revisão do benefício as
+        inscrições no Cadastro de Pessoas Físicas - CPF e no Cadastro Único para Programas
+        Sociais do Governo Federal - Cadastro Único, conforme previsto em regulamento.
+        (Incluído pela Medida Provisória nº 871, de 2019) \n \n
+
+        Art. 21. O benefício de prestação continuada deve ser revisto a cada 2 (dois) anos para
+        avaliação da continuidade das condições que lhe deram origem. \n \n
+
+        § 1º O pagamento do benefício cessa no momento em que forem superadas as condições
+        referidas no caput, ou em caso de morte do beneficiário. \n \n
+
+        § 2º O benefício será cancelado quando se constatar irregularidade na sua concessão ou
+        utilização. \n \n
+
+        § 3º O desenvolvimento das capacidades cognitivas, motoras ou educacionais e a
+        realização de atividades não remuneradas de habilitação e reabilitação, entre outras, não
+        constituem motivo de suspensão ou cessação do benefício da pessoa com deficiência.
+        (Incluído pela Lei nº 12.435, de 2011) \n \n
+
+        § 4º A cessação do benefício de prestação continuada concedido à pessoa com
+        deficiência não impede nova concessão do benefício, desde que atendidos os requisitos
+        definidos em regulamento. \n \n
+
+        Art. 21-A. O benefício de prestação continuada será suspenso pelo órgão concedente
+        quando a pessoa com deficiência exercer atividade remunerada, inclusive na condição
+        de microempreendedor individual. (Incluído pela Lei nº 12.470, de 2011) \n \n
+
+        § 1º Extinta a relação trabalhista ou a atividade empreendedora de que trata o caput
+        deste artigo e, quando for o caso, encerrado o prazo de pagamento do
+        seguro-desemprego e não tendo o beneficiário adquirido direito a qualquer benefício
+        previdenciário, poderá ser requerida a continuidade do pagamento do benefício
+        suspenso, sem necessidade de realização de perícia médica ou reavaliação da deficiência
+        e do grau de incapacidade para esse fim, respeitado o período de revisão previsto no
+        caput do art. 21. (Incluído pela Lei nº 12.470, de 2011)\n \n
+
+        § 2º A contratação de pessoa com deficiência como aprendiz não acarreta a suspensão
+        do benefício de prestação continuada, limitado a 2 (dois) anos o recebimento
+        concomitante da remuneração e do benefício. (Incluído pela Lei nº 12.470, de 2011)
+        É a partir da LOAS (Lei Orgânica da Assistência Social) que se consegue acessar o BPC
+        (Benefício de Prestação Continuada). Porém, o LOAS é muito mais que o BPC. \n \n
+
+    </string>
+
+    <string name="textoReferencia">
+        REFERÊNCIA \n
+        BRASIL. Lei nº 8.742 de 7 de dezembro de 1993. Disponível em:
+        &lt;http://www.planalto.gov.br/ccivil_03/LEIS/L8742compilado.htm&gt; Acesso em: 09 abr. 2019. \n
     </string>
 
     <string name="titulo_programa_brasil_quilombola">
