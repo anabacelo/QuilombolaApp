@@ -22,9 +22,27 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTitulo" />
 
+            <ImageView
+                android:id="@+id/imageEstatutoDaIgualdadeRacial"
+                android:layout_below="@id/title_estatuto_igualdade_racial"
+                android:src="@drawable/estatutoigualdaderacial"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloImagem" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewDireitosImagemEstatutoDaIgualdadeRacial"
+                android:layout_below="@id/imageEstatutoDaIgualdadeRacial"
+                android:text="@string/textoDireitosImagemEstatutoDaIgualdadeRacial"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:linksClickable="true"
+                style="@style/estiloTextoDireitosReservados" />
+
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/text_estatuto_igualdade_racial"
-                android:layout_below="@id/title_estatuto_igualdade_racial"
+                android:layout_below="@id/textViewDireitosImagemEstatutoDaIgualdadeRacial"
                 android:text="@string/texto_estatuto_igualdade_racial"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

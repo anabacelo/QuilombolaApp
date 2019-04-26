@@ -32,7 +32,7 @@
                     style="@style/estiloImagem" />
 
                 <com.example.anapaula.quilombolaappv4.JustifyTextView
-                    android:id="@+id/lblListItem_text_layout_estatudo_idoso"
+                    android:id="@+id/lblListItem_text_layout_estatudo_da_crianca"
                     android:text="@string/texto_lei_legislacao_conselho_tutelar"
                     android:layout_below="@id/list_item_icon"
                     android:layout_width="wrap_content"
@@ -41,6 +41,19 @@
                     android:linksClickable="true"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     style="@style/estiloTextoComplemento" />
+
+                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                    android:id="@+id/textViewLayoutTextoReferenciaEstatutoDoIdoso"
+                    android:layout_below="@+id/lblListItem_text_layout_estatudo_da_crianca"
+                    android:text="@string/texto_sobre_o_direto_a_vida_e_a_saude"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:autoLink="web"
+                    android:linksClickable="true"
+                    style="@style/estiloTextoConteudo" />
+
+
+
             </RelativeLayout>
     </ScrollView>
 </LinearLayout>

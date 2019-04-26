@@ -319,7 +319,7 @@ Navegue à vontade!!!
 
     <!-- LEGISLAÇÃO -->
     <string name="titulo_lei_estatudo_idoso">Legislação 1 Estatuto do Idoso</string>
-    <string name="titulo_lei_legislacao_conselho_tutelar"> Conselho Tutelar/Estatuto da criança e do adolescente (ECA)</string>
+    <string name="titulo_lei_legislacao_conselho_tutelar"> ESTATUTO DA CRIANÇA E DO ADOLESCENTE – ( LEI N. 8.069/1990 )</string>
     <string name="titulo_politica_nacional_de_assistencia_social"> Política Nacional de Assistência Social</string>
     <string name="titulo_estatuto_juventude">Estatuto da Juventude</string>
 
@@ -474,94 +474,21 @@ Navegue à vontade!!!
     </string>
 
     <string name="texto_lei_legislacao_conselho_tutelar">
-        É um órgão da municipalização do atendimento, pois trata-se de uma equipe autônoma e independente, que cobrará dos
-        responsáveis pela efetivação dos direitos elencados no ECA, encaminhando, quando necessário, práticas de atos ilegais ou
-        criminosos à Justiça. \n\n
+           \t  Antes da Constituição de 1988, as leis destinadas às crianças e adolescentes, possuíam caráter punitivos que visavam proteger a sociedade do menor infrator. A partir da Constituição, foram criadas leis para proteção e desenvolvimento de crianças e adolescentes.  \n
+    \t O Estatuto da Criança e do Adolescente (ECA) foi instituído em 13 de julho de 1990 destinado a garantia de direitos e proteção integral à criança e ao adolescente (Art 1º). \n
+    \t Considera-se criança, para os efeitos desta Lei, a pessoa até doze anos de idade incompletos, e adolescente aquela entre doze e dezoito anos de idade (Art 2º). \n
+    \t De acordo com o Art. 3º, a criança e o adolescente gozam de todos os direitos fundamentais inerentes à pessoa humana, sem prejuízo da proteção integral de que trata esta Lei, assegurando-se-lhes, por lei ou por outros meios, todas as oportunidades e facilidades, a fim de lhes facultar o desenvolvimento físico, mental, moral, espiritual e social, em condições de liberdade e de dignidade. \n
+    \t Os direitos enunciados nesta Lei aplicam-se a todas as crianças e adolescentes, sem discriminação de nascimento, situação familiar, idade, sexo, raça, etnia ou cor, religião ou crença, deficiência, condição pessoal de desenvolvimento e aprendizagem, condição econômica, ambiente social, região e local de moradia ou outra condição que diferencie as pessoas, as famílias ou a comunidade em que vivem. (incluído pela Lei nº 13.257, de 2016) \n
+    \t Art. 4º É dever da família, da comunidade, da sociedade em geral e do poder público assegurar, com absoluta prioridade, a efetivação dos direitos referentes à vida, à saúde, à alimentação, à educação, ao esporte, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade e à convivência familiar e comunitária. Todos devemos respeitar e assegurar à criança e ao adolescente o exercício de seus direitos fundamentais.  \n
+    \t A garantia de prioridade compreende: \n
+     a) primazia de receber proteção e socorro em quaisquer circunstâncias; \n
+    b) precedência de atendimento nos serviços públicos ou de relevância pública; \n
+     c) preferência na formulação e na execução das políticas sociais públicas; \n
+     d) destinação privilegiada de recursos públicos nas áreas relacionadas com a proteção à infância e à juventude.  \n
+    </string>
 
-      \n   ————————————————————————— \n
-        Constituição Federal de 1988.
-      \n   —————————————————————————\n
-    Artigo 68 do ADCT – Direito à propriedade das terras de comunidades remanescentes de quilombos.\n\n
-    <b> Disponível em:
-        \n https://www2.senado.leg.br/bdsf/bitstream/handle/id/518231/CF88_Livro_EC91_2016.pdf?sequence=1?concurso=CFS%202%202018 </b>
-            \n —————————————————————————\n
-            Convenção 169 da OIT (Dec. 5051/2004) – Direito à autodeterminação de
-    Povos e Comunidades Tradicionais.\n\n
-    <b> Disponível em:
-        \n http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5051.htm </b>
-   \n ————————————————————————— \n
-    Lei nº 12.288, de 20 de julho de 2010 — Estatuto da Igualdade Racial. \n\n
-    <b> Disponível em:
-         \n http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12288.htm </b>
-    \n  ————————————————————————— \n
-    Decreto nº 4.887, de 20 novembro de 2003 — Trata da regularização fundiária de terras de quilombos e define
-            as responsabilidades dos órgãos governamentais. \n\n
-    <b> Disponível em:
-         \n http://www.planalto.gov.br/ccivil_03/decreto/2003/d4887.htm </b>
-  \n   ————————————————————————— \n
-    Decreto nº 6040, de 7 de fevereiro de 2007 — Institui a Política Nacional de Desenvolvimento Sustentável dos Povos e Comunidades Tradicionais. \n\n
-    <b> Disponível em:
-         \n http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6040.htm </b>
-    \n  ————————————————————————— \n
-    Decreto nº 6261, de 20 de novembro de 2007 — Dispõe sobre a gestão integrada
-            para o desenvolvimento da Agenda Social Quilombola no âmbito do Programa Brasil Quilombola. \n\n
-    <b> Disponível em:
-         \n  http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6261.htm </b>
-    \n  ————————————————————————— \n
-    Portaria Fundação Cultural Palmares nº 98 de 26 de novembro de 2007 — Institui o Cadastro Geral
-            de Remanescentes das Comunidades dos Quilombos da Fundação Cultural Palmares, também
-            autodenominadas Terras de Preto, Comunidades Negras, Mocambos, Quilombos, dentre outras denominações congêneres. \n\n
-    <b> Disponível em:
-         \n http://www.palmares.gov.br/wp-content/uploads/2010/11/legis21.pdf </b>
-    \n  ————————————————————————— \n
-    Instrução Normativa INCRA nº 57, de 20 de outubro de 2009 — Regulamenta o procedimento para
-            identificação, reconhecimento, delimitação, demarcaçã
-        o, desintrusão, titulação e registro das
-            terras ocupadas por remanescentes das comunidades dos quilombos. \n\n
-    <b> Disponível em:
-         \n  http://www.incra.gov.br/institucionall/legislacao--/atos-internos/instrucoes/file/243-instrucao-normativa-n-57-20102009 </b>
-   \n  ————————————————————————— \n
-    Lei nº 7.716, de 5 de janeiro de 1989. — Define os crimes resultantes de preconceito de raça ou de cor. \n\n
-    <b> Disponível em:
-         \n http://www.planalto.gov.br/ccivil_03/leis/L7716.htm </b>
-   \n  ————————————————————————— \n
-    Lei nº 12.711, de 29 de agosto de 2012. — Lei de Cotas. \n\n
-    <b> Disponível em:
-         \n http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12711.htm </b>
-    \n ————————————————————————— \n
-    Lei nº 10.639, de 9 de janeiro de 2003. — Lei que inclui no currículo oficial da Rede de Ensino a obrigatoriedade da
-            temática "História e Cultura Afro-Brasileira". \n\n
-    <b> Disponível em:
-         \n http://www.planalto.gov.br/ccivil_03/leis/2003/L10.639.htm </b>
-   \n  —————————————————————————  \n
-    Lei nº 8.069, de 13 de julho de 1990. — Estatuto da Criança e do Adolescente. \n\n
-    <b> Disponível em:
-         \n http://www.planalto.gov.br/ccivil_03/leis/L8069.htm </b>
-   \n  —————————————————————————  \n
-    Lei nº 12.852, de 5 de agosto de 2013. — Estatuto da Juventude e Sistema Nacional de Juventude. \n\n
-    <b> Disponível em:
-         \n http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12852.htm </b>
-   \n  ————————————————————————— \n
-    Lei nº 10.741, de 1º de outubro de 2003. — Estatuto do Idoso. \n\n
-   <b> Disponível em:
-        \n http://www.planalto.gov.br/ccivil_03/leis/2003/L10.741.htm </b>
-   \n  ————————————————————————— \n
-    Lei nº 11.340, de 7 de agosto de 2006. — Lei Maria da Penha. \n\n
-    <b> Disponível em:
-         \n http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm </b>
-   \n  ————————————————————————— \n
-    Lei nº 8.080, de 19 de setembro 1990. Lei orgânica da Saúde. \n\n
-    <b> Disponível em:
-         \n http://www.planalto.gov.br/ccivil_03/leis/L8080.htm </b>
-    \n ————————————————————————— \n
-    Lei nº 8.742, de 7 de dezembro de 1993. — Lei orgânica da Assistência Social. \n\n
-    <b> Disponível em:
-         \n http://www.planalto.gov.br/ccivil_03/leis/L8742.htm </b>
-     \n ————————————————————————— \n
-    Lei nº 3.807, de 26 de agosto de 1960. — Lei Orgânica da Previdência Social. \n\n
-    <b> Disponível em:
-         \n http://www.planalto.gov.br/ccivil_03/leis/1950-1969/L3807.htm </b>
-     \n ————————————————————————— \n\n\n\n
+    <string name="texto_sobre_o_direto_a_vida_e_a_saude">
+        \t Sobre o Direito à vida e à saúde: \n
     </string>
 
 
@@ -623,7 +550,11 @@ Navegue à vontade!!!
 
     <string name="titulo_estatuto_igualdade_racial">
 
-            <b>Estatuto de Igualdade Racial (LEI 12.888)</b>
+            <b>Estatuto de Igualdade Racial</b>
+    </string>
+
+    <string name="textoDireitosImagemEstatutoDaIgualdadeRacial">
+            Fonte: Reprodução/Ministério da Cultura.
     </string>
 
     <string name="texto_estatuto_igualdade_racial">
