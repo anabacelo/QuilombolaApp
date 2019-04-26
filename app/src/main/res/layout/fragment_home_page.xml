@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/fragmentHomePage"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.example.anapaula.quilombolaappv4.HomePage">
+
+
 
     <ScrollView
         android:layout_width="match_parent"
@@ -53,6 +56,116 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoComplemento" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textViewTextoLayoutPaginaInicialRodape"
+                android:layout_marginBottom="100dp">
+
+                <ImageView
+                    android:id="@+id/imageView9"
+                    android:layout_width="103dp"
+                    android:layout_height="120dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="-10dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_weight="50"
+                    android:src="@drawable/pucrs2" />
+
+                <ImageView
+                    android:id="@+id/imageView10"
+                    android:layout_width="171dp"
+                    android:layout_height="75dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginStart="90dp"
+                    android:layout_marginBottom="0dp"
+                    android:src="@drawable/cnpq" />
+
+                <ImageView
+                    android:id="@+id/imageView11"
+                    android:layout_width="99dp"
+                    android:layout_height="81dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginEnd="15dp"
+                    android:layout_marginBottom="0dp"
+                    android:src="@drawable/fapergs" />
+            </RelativeLayout>
         </RelativeLayout>
     </ScrollView>
 </LinearLayout>
+
+
+
+
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<LinearLayout-->
+<!--xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--xmlns:tools="http://schemas.android.com/tools"-->
+<!--android:id="@+id/fragmentHomePage"-->
+<!--android:layout_width="match_parent"-->
+<!--android:layout_height="match_parent"-->
+<!--tools:context="com.example.anapaula.quilombolaappv4.HomePage">-->
+
+<!--<ScrollView-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent">-->
+
+    <!--<RelativeLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content">-->
+
+        <!--<TextView-->
+            <!--android:id="@+id/textViewTituloLayoutPaginaInicial"-->
+            <!--android:text="@string/tituloLayoutPaginaInicial"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--style="@style/estiloTextoTitulo" />-->
+
+        <!--<ImageView-->
+            <!--android:id="@+id/imageViewLogoResistenciaNegra"-->
+            <!--android:layout_below="@+id/textViewTituloLayoutPaginaInicial"-->
+            <!--android:src="@drawable/img_capa_resitencia"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--style="@style/estiloImagem" />-->
+
+        <!--<com.example.anapaula.quilombolaappv4.JustifyTextView-->
+            <!--android:id="@+id/textViewTextoDireitoAutoralDaImagem"-->
+            <!--android:text="@string/textoDireitoAutoralDaImagemDoAdalbertoReisDosSantos"-->
+            <!--android:layout_below="@+id/imageViewLogoResistenciaNegra"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--style="@style/estiloTextoDireitosReservados" />-->
+
+        <!--<com.example.anapaula.quilombolaappv4.JustifyTextView-->
+            <!--android:id="@+id/textViewTextoLayoutPaginaInicial"-->
+            <!--android:layout_below="@+id/textViewTextoDireitoAutoralDaImagem"-->
+            <!--android:text="@string/textoLayoutPaginaInicial"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--style="@style/estiloTextoConteudo" />-->
+
+        <!--<com.example.anapaula.quilombolaappv4.JustifyTextView-->
+            <!--android:id="@+id/textViewTextoLayoutPaginaInicialRodape"-->
+            <!--android:layout_below="@+id/textViewTextoLayoutPaginaInicial"-->
+            <!--android:text="@string/textoLayoutPaginaInicialRodape"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--style="@style/estiloTextoComplemento" />-->
+
+        <!--<ImageView android:id="@+id/numberDays"-->
+            <!--android:layout_below="@+id/textViewTextoLayoutPaginaInicialRodape"-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="fill_parent"-->
+            <!--android:layout_centerInParent="true"-->
+            <!--android:scaleType="fitStart"-->
+            <!--android:src="@drawable/logos"-->
+            <!--style="@style/estiloImagem" />-->
+
+    <!--</RelativeLayout>-->
+<!--</ScrollView>-->
+<!--</LinearLayout>-->

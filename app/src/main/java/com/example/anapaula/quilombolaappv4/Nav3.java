@@ -35,20 +35,22 @@ public class Nav3 extends Fragment {
     }
 
     @Override
-    public void onViewCreated(View view, Bundle savedInstanceState) {
+    public void onViewCreated(View view, Bundle savedInstanceState)
+    {
         listView = (ExpandableListView)getView().findViewById(R.id.lvExp);
         iniData();
         listAdapter = new ExpandableListAdapter(getActivity(), listDataHeader, listHash);
         listView.setAdapter(listAdapter);
     }
 
-    private void iniData() {
+    private void iniData()
+    {
         Integer layoutEstatutoIdoso = R.layout.layout_estatuto_idoso;
         Integer layoutEstatutoCrianca = R.layout.layout_estatuto_crianca;
+        Integer layoutEstatutoIgualdadeRacial = R.layout.layout_estatuto_igualdade_racial;
         Integer layoutEstatutoJuventude = R.layout.layout_estatudo_juventude;
         Integer layoutPoliticaNacionalDeAssistenciaSocial = R.layout.layout_politica_nacional_de_assistencia_social;
         Integer layoutProgramaBrasilQuilombola = R.layout.layout_programa_brasil_quilombola;
-        Integer layoutEstatutoIgualdadeRacial = R.layout.layout_estatuto_igualdade_racial;
         Integer layoutLeiMariaDaPenha = R.layout.layout_lei_maria_da_penha;
 
 
@@ -57,10 +59,10 @@ public class Nav3 extends Fragment {
 
         listDataHeader.add("Estatuto do Idoso");
         listDataHeader.add("Estatuto da Criança e do Adolescente");
+        listDataHeader.add("Estatuto de Igualdade Racial");
         listDataHeader.add("Estatuto da Juventude");
         listDataHeader.add("Politica Nacional de Assistencia Social");
-        listDataHeader.add("Programa Brasil Quilombola (PBQ): ");
-        listDataHeader.add("Estatuto de Igualdade Racial (LEI 12.888) ");
+        listDataHeader.add("Programa Brasil Quilombola");
         listDataHeader.add("Lei Maria da Penha");
 
 
@@ -71,16 +73,16 @@ public class Nav3 extends Fragment {
         layoutList1.add(layoutEstatutoCrianca);
 
         List<Integer> layoutList2 = new ArrayList<>();
-        layoutList2.add(layoutEstatutoJuventude);
+        layoutList2.add(layoutEstatutoIgualdadeRacial);
 
         List<Integer> layoutList3 = new ArrayList<>();
-        layoutList3.add(layoutPoliticaNacionalDeAssistenciaSocial);
+        layoutList3.add(layoutEstatutoJuventude);
 
         List<Integer> layoutList4 = new ArrayList<>();
-        layoutList4.add(layoutProgramaBrasilQuilombola);
+        layoutList4.add(layoutPoliticaNacionalDeAssistenciaSocial);
 
         List<Integer> layoutList5 = new ArrayList<>();
-        layoutList5.add(layoutEstatutoIgualdadeRacial);
+        layoutList5.add(layoutProgramaBrasilQuilombola);
 
         List<Integer> layoutList6 = new ArrayList<>();
         layoutList6.add(layoutLeiMariaDaPenha);
