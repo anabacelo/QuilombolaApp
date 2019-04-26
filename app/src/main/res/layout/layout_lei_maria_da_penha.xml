@@ -13,15 +13,30 @@
         <RelativeLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content">
-            <!--Texto 1-->
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewTituloLeiMariaDaPenha"
+                android:text="@string/textoTituloLeiMariaDaPenha"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoTitulo" />
+
+            <ImageView
+                android:id="@+id/imageViewLeiMariaDaPenha"
+                android:layout_below="@id/textViewTituloLeiMariaDaPenha"
+                android:src="@drawable/leimariadapenha"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloImagem" />
+
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/texto_artigo_data_lei_maria_da_penha"
+                android:layout_below="@+id/imageViewLeiMariaDaPenha"
                 android:text="@string/texto_artigo_data_lei_maria_da_penha"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoComplemento" />
 
-            <!--Titulo Os Mecanismos da Lei-->
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/text_view_title_texto_os_mecanismos_da_lei"
                 android:layout_below="@+id/texto_artigo_data_lei_maria_da_penha"
@@ -29,7 +44,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
-            <!--Texto Os Mecanismos da Lei-->
+
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/texto_os_mecanismos_da_lei"
                 android:layout_below="@+id/text_view_title_texto_os_mecanismos_da_lei"
@@ -38,7 +53,6 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoComplemento" />
 
-            <!--Título A Autoridade Policial-->
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/title_texto_a_autoridade_policial"
                 android:layout_below="@+id/texto_os_mecanismos_da_lei"
@@ -46,7 +60,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
-            <!--Texto A Autoridade Policial-->
+
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/texto_a_autoridade_policial"
                 android:layout_below="@+id/title_texto_a_autoridade_policial"
@@ -55,7 +69,6 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoComplemento" />
 
-            <!--Título O Processo Judicial-->
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/title_texto_o_processo_judicial"
                 android:layout_below="@+id/texto_a_autoridade_policial"
@@ -63,7 +76,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
-            <!--Texto A Autoridade Policial-->
+
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/texto_o_processo_judicial"
                 android:layout_below="@+id/title_texto_o_processo_judicial"
@@ -71,8 +84,6 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoComplemento" />
-
-            <!--Referencias-->
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/title_referencias"

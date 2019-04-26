@@ -589,7 +589,13 @@ Navegue à vontade!!!
         \n Acesso em 05 abril 2019.\n
         </i>
 
-</string>
+    </string>
+
+
+    <string name="textoTituloLeiMariaDaPenha">
+        \t Lei Maria da Penha \n
+    </string>
+
     <string name="texto_artigo_data_lei_maria_da_penha">
                 \t A Lei n. 11.340, sancionada em 7 de agosto de 2006, tem como objetivo proteger às mulheres contra violência doméstica e familiar. A Lei passou a ser chamada de Maria da Penha em homenagem à mulher cujo marido tentou matá-la duas vezes e que desde então se dedica à causa do combate à violência contra as mulheres. O objetivo é preservar as mulheres assim como todas as pessoas que se identifiquem com o sexo feminino, dentre elas às mulheres transexuais. Além da agressão física, há também a punição por violência psicológica, como exemplo, afastamento de amizades e familiares, calúnia, ofensas, destruição de objetos, entre outros. \n
 \t “Art. 1 o Esta Lei cria mecanismos para coibir e prevenir a violência doméstica e familiar contra a mulher, nos termos do § 8 o do art. 226 da Constituição Federal , da Convenção sobre a Eliminação de Todas as Formas de Violência contra a Mulher, da Convenção Interamericana para Prevenir, Punir e Erradicar a Violência contra a Mulher e de outros tratados internacionais ratificados pela República Federativa do Brasil; dispõe sobre a criação dos Juizados de Violência Doméstica e Familiar contra a Mulher; e estabelece medidas de assistência e proteção às mulheres em situação de violência doméstica e familiar. \n
