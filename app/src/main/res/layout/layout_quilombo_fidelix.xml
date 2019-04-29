@@ -28,7 +28,6 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloImagem" />
 
-
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoDireitosLayoutQuilomboFidelix"
                 android:layout_below="@id/imageViewLayoutQuilomboFidelix"

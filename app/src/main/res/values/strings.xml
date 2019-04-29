@@ -260,8 +260,11 @@ Navegue à vontade!!!
         \nPorto Alegre: Century, 2008. 280p. </b>
     </string>
 
-    <string name="texto_quilopoa03">
+    <string name="textoDireitosLayoutQuilomboSilva">
+        FOTO CLICRBS, POR NESTOR TIPA JÚNIOR
+    </string>
 
+    <string name="texto_quilopoa03">
         O bairro Três Figueiras abriga há mais de 60 anos os descendentes da Família Silva,
         que moram no final da rua projetada João Caetano, entre a Avenida Carlos Gomes e Nilo Peçanha. Formada por 15 famílias,
         esta população habita um dos espaços mais valorizados de Porto Alegre. \n\n Com o avanço dos condomínios de luxo no seu entorno,
@@ -276,7 +279,7 @@ Navegue à vontade!!!
 
 
     <string name="textoDireitosLayoutQuilomboFidelix">
-        QUILOMBO DA F. FIDÉLIX – FOTO CLICRBS, POR NESTOR TIPA JÚNIOR
+        FOTO CLICRBS, POR NESTOR TIPA JÚNIOR
     </string>
 
     <string name="texto_quilopoa04">
