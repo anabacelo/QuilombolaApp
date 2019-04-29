@@ -36,7 +36,7 @@
                 style="@style/estiloTextoDireitosReservados" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textquilosilva"
+                android:id="@+id/textViewTextoLayoutQuilomboSilva"
                 android:layout_below="@+id/textViewTextoDireitosLayoutQuilomboSilva"
                 android:text="@string/texto_quilopoa03"
                 android:layout_width="match_parent"
