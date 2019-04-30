@@ -43,9 +43,96 @@
                     style="@style/estiloTextoComplemento" />
 
                 <com.example.anapaula.quilombolaappv4.JustifyTextView
+                    android:id="@+id/lblListItem_titulo_direito_a_vida_e_a_saude"
+                    android:text="@string/titulo_direito_a_vida_e_a_saude"
+                    android:layout_below="@id/lblListItem_text_layout_estatudo_da_crianca"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:autoLink="web"
+                    android:linksClickable="true"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    style="@style/estiloTextoTituloNormal" />
+
+                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                    android:id="@+id/lblListItem_tesxto_direito_a_vida_e_a_saude"
+                    android:text="@string/texto_direito_a_vida_e_a_saude"
+                    android:layout_below="@id/lblListItem_titulo_direito_a_vida_e_a_saude"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:autoLink="web"
+                    android:linksClickable="true"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    style="@style/estiloTextoComplemento" />
+
+                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                    android:id="@+id/lblListItem_titulo_direito_a_liberdade"
+                    android:text="@string/lblListItem_titulo_direito_a_liberdade"
+                    android:layout_below="@id/lblListItem_tesxto_direito_a_vida_e_a_saude"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:autoLink="web"
+                    android:linksClickable="true"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    style="@style/estiloTextoTituloNormal" />
+
+                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                    android:id="@+id/lblListItem_tesxto_direito_a_liberdade"
+                    android:text="@string/texto_direito_a_liberdade"
+                    android:layout_below="@id/lblListItem_titulo_direito_a_liberdade"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:autoLink="web"
+                    android:linksClickable="true"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    style="@style/estiloTextoComplemento" />
+
+                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                    android:id="@+id/lblListItem_titulo_direito_a_convivencia"
+                    android:text="@string/lblListItem_titulo_direito_a_convivencia"
+                    android:layout_below="@id/lblListItem_tesxto_direito_a_liberdade"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:autoLink="web"
+                    android:linksClickable="true"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    style="@style/estiloTextoTituloNormal" />
+                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                    android:id="@+id/lblListItem_tesxto_direito_a_convivencia"
+                    android:text="@string/texto_direito_a_convivencia"
+                    android:layout_below="@id/lblListItem_titulo_direito_a_convivencia"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:autoLink="web"
+                    android:linksClickable="true"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    style="@style/estiloTextoComplemento" />
+
+
+                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                    android:id="@+id/lblListItem_titulo_medidas_de_protecao"
+                    android:text="@string/lblListItem_titulo_medidas_de_protecao"
+                    android:layout_below="@id/lblListItem_tesxto_direito_a_convivencia"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:autoLink="web"
+                    android:linksClickable="true"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    style="@style/estiloTextoTituloNormal" />
+                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                    android:id="@+id/lblListItem_tesxto__medidas_de_protecao"
+                    android:text="@string/lblListItem_tesxto__medidas_de_protecao"
+                    android:layout_below="@id/lblListItem_titulo_medidas_de_protecao"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:autoLink="web"
+                    android:linksClickable="true"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    style="@style/estiloTextoComplemento" />
+
+                <com.example.anapaula.quilombolaappv4.JustifyTextView
                     android:id="@+id/textViewLayoutTextoReferenciaEstatutoDoIdoso"
-                    android:layout_below="@+id/lblListItem_text_layout_estatudo_da_crianca"
-                    android:text="@string/texto_sobre_o_direto_a_vida_e_a_saude"
+                    android:layout_below="@+id/lblListItem_tesxto__medidas_de_protecao"
+                    android:text="@string/texto_referencia"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:autoLink="web"
