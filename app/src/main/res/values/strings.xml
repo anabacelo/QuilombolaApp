@@ -738,21 +738,74 @@ Navegue à vontade!!!
     </string>
 
     <string name="titulo_programa_brasil_quilombola">
-        <b>Programa brasil quilombola (PBQ): \n\n
-                Item 3: (Desenvolvimento Local e Inclusão Produtiva) </b>\n\n
+        PROGRAMA BRASIL QUILOMBOLA
+    </string>
+
+    <string name="textoDireitosProgramaBrasilQuilombola">
+        Fonte: Reprodução/ Fundação Cultural Palmares.
     </string>
 
     <string name="texto_programa_brasil_quilombola">
-        <b>3.2:</b> Programa Cisternas:  Iniciativa do Ministério Social e Combate à Fome – MDS, o acesso à água potável, como componente fundamental
-        da garantia da segurança alimentar e nutricional, para as famílias de baixa renda do sertão nordestino (p.34)
-        Quem pode participar: Famílias de baixa renda, enquadradas nos critérios de elegibilidade do Programa
-        Bolsa Família que não disponham de acesso à fonte de água potável localizadas na zona rural do Semi-Árido Brasileiro.
-        O processo de seleção das famílias será realizado com a participação da sociedade civil organizada, a partir de uma comissão
-        formada por Sindicatos, Igrejas, Movimentos Sociais, Pastorais, Clubes de Serviço, Entidades de Classe e outros, que podem receber
-        apoio de prefeituras ou outros órgãos públicos ou por conselho municipal formalmente instituído. Etapa de seleção dos beneficiários:
-        2º. Os conselhos municipais de assistência social, desenvolvimento rural ou segurança alimentar e nutricional ajudam a definir as famílias a serem beneficiadas. \n\n
+        \t O Programa Brasil Quilombola (PBQ) foi criado em 12 de março de 2004, com o intuito de consolidar os marcos da política de Estado para as áreas quilombolas. A coordenação geral do Programa é de responsabilidade do MDH, por meio da Secretaria de Políticas de Promoção da Igualdade Racial (SEPPIR). O PBQ tem como finalidade de coordenar as ações governamentais para as comunidades remanescentes de quilombo por meio de articulações transversais, setoriais e interinstitucionais, com ênfase na participação da sociedade civil. \n
+        \t O Programa segue a orientação dos princípios que norteiam a Política Nacional de Promoção da Igualdade Racial (Decreto Nº 4.886 de 20 de novembro de 2003) na formulação, execução e monitoramento das ações planejadas, nos quais estão a: \n
+    </string>
 
-        <i>Fonte: Guia Programa Brasil Quilombola http://www.seppir.gov.br/portal-antigo/arquivos-pdf/guia-pbq. 2012. Página 33-34.</i>\n\n
+    <string name="text_layout_titulo_transversalidade">
+        \t • Transversalidade –
+    </string>
+    <string name="text_layout_texto_transversalidade">
+         implica no envolvimento de vários órgãos responsáveis pela execução e gestão das ações voltadas para combate às desigualdades raciais e de gênero, mas também a preservação da diversidade cultural;  \n
+    </string>
+
+    <string name="text_layout_titulo_gestao_descentralizada">
+        \t • Gestão Descentralizada –
+    </string>
+    <string name="text_layout_texto_gestao_descentralizada">
+        implica na articulação com os entes federativos, conforme o enunciado do artigo 23, inciso X, da Constituição Federal: “É da competência comum da União, dos Estados, do Distrito Federal e dos Municípios, combater os fatores de marginalização e promover a integração social dos setores desfavorecidos, com ênfase no fortalecimento da esfera pública; \n
+    </string>
+
+    <string name="text_layout_titulo_gestao_democratica">
+        \t • Gestão Democrática –
+    </string>
+    <string name="text_layout_texto_gestao_democratica">
+        implica em estabelecer interlocução com as Associações representativas das comunidades quilombolas e demais parceiros não governamentais, considerando-os agentes ativos na formulação e monitoramento da política. (BRASIL, 2004).  \n
+        \t O Plano é base da Agenda Social Quilombola (Decreto 6261/2007) agrupa as ações voltadas às comunidades em quatro eixos: \n
+    </string>
+
+    <string name="text_layout_titulo_acesso_a_terra">
+        \t Eixo 1: Acesso a Terra –
+    </string>
+    <string name="text_layout_texto__acesso_a_terra">
+        execução e acompanhamento dos trâmites necessários para a regularização fundiária das áreas de quilombo, que constituem título coletivo de posse das terras tradicionalmente ocupadas. O processo se inicia com a certificação das comunidades e se encerra na titulação, que é a base para a implementação de alternativas de desenvolvimento para as comunidades, além de garantir a sua reprodução física, social e cultural; \n
+    </string>
+
+    <string name="text_layout_titulo_infraestrutura_e_qualidade_de_vida">
+        \t Eixo 2: Infraestrutura e Qualidade de Vida –
+    </string>
+    <string name="text_layout_texto__infraestrutura_e_qualidade_de_vida">
+        consolidação de mecanismos efetivos para destinação de obras de infraestrutura (habitação, saneamento, eletrificação, comunicação e vias de acesso) e construção de equipamentos sociais destinados a atender as demandas, notadamente as de saúde, educação e assistência social; \n
+    </string>
+
+    <string name="text_layout_titulo_inclusao_produtiva">
+        \t Eixo 3: Inclusão Produtiva e Desenvolvimento Local -
+    </string>
+    <string name="text_layout_texto__inclusao_produtiva">
+        apoio ao desenvolvimento produtivo local e autonomia econômica, baseado na identidade cultural e nos recursos naturais presentes no território, visando a sustentabilidade ambiental, social, cultural, econômica e política das comunidades; \n
+    </string>
+    <string name="text_layout_titulo_diretos_e_cidadania">
+        \t Eixo 4: Direitos e Cidadania -
+    </string>
+    <string name="text_layout_texto_diretos_e_cidadania">
+                 fomento de iniciativas de garantia de direitos promovidas por diferentes órgãos públicos e organizações da sociedade civil, estimulando a participação ativa dos representantes quilombolas nos espaços coletivos de controle e participação social, como os conselhos e fóruns locais e nacionais de políticas públicas, de modo a promover o acesso das comunidades ao conjunto das ações definidas pelo governo e seu envolvimento no monitoramento daquelas que são implementadas em cada município onde houver comunidades remanescentes de quilombos. \n
+        \t Apesar da coordenação centralizada, as ações do plano são mais amplas que a atuação destas instituições e, frequentemente, incluem parcerias com outros órgãos do Governo Federal. A Gestão Descentralizada do PBQ ocorre com a articulação dos entes federados, a partir da estruturação de comitês estaduais. Sua gestão estabelece interlocução com órgãos estaduais e municipais de promoção da igualdade racial (PIR), associações representativas das comunidades quilombolas e outros parceiros não-governamentais. \n
+    </string>
+
+    <string name="text_brasil_quilombola_complemento">
+        \t REFERENCIA: \n
+        \t  BRASIL. MINISTÉRIO DOS DIREITOS HUMANOS. Programa Brasil Quilombola promove a cidadania das comunidades . Disponível em:  https://www.mdh.gov.br/todas-as-noticias/2018/julho/programa-brasil-quilombola-pro move-a-cidadania-das-comunidades-no-brasil  Acesso em 04 abril 2019.  \n
+        \t ______. MINISTÉRIO DOS DIREITOS HUMANOS. Povos e Comunidades tradicionais . Disponível em: https://www.mdh.gov.br/navegue-por-temas/igualdade-racial/povos-e-comunidades-tra dicionais  Acesso em 04 abril 2019.  \n
+        \t BRASIL. Programa Brasil Quilombola . Brasília: Secretaria Especial de Políticas de Promoção da Igualdade Racial – Seppir, 2004. \n
+        \t Fundação Cultural Palmares. Lançado Relatório de Gestão 2012 do Programa Brasil Quilombola . Disponível em:  http://www.palmares.gov.br/?p=28163 Acesso em 04 abril 2019. \n
     </string>
 
     <string name="titulo_estatuto_igualdade_racial">

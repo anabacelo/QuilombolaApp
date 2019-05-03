@@ -23,13 +23,151 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTitulo" />
 
+            <ImageView
+                android:id="@+id/imageViewProgramaBrasilQuilombola"
+                android:layout_below="@id/title_programa_brasil_quilombola"
+                android:src="@drawable/programabrasilquilombola"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloImagem" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewDireitosProgramaBrasilQuilombola"
+                android:layout_below="@+id/imageViewProgramaBrasilQuilombola"
+                android:text="@string/textoDireitosProgramaBrasilQuilombola"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoDireitosReservados" />
+
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/text_layout_texto_programa_brasil_quilombola"
+                android:layout_below="@id/textViewDireitosProgramaBrasilQuilombola"
                 android:text="@string/texto_programa_brasil_quilombola"
-                android:layout_below="@id/title_programa_brasil_quilombola"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoComplemento" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/text_layout_titulo_transversalidade"
+                android:text="@string/text_layout_titulo_transversalidade"
+                android:layout_below="@id/text_layout_texto_programa_brasil_quilombola"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoTituloNormal" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/text_layout_texto_transversalidade"
+                android:text="@string/text_layout_texto_transversalidade"
+                android:layout_below="@id/text_layout_titulo_transversalidade"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoComplemento" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/text_layout_titulo_gestao_descentralizada"
+                android:text="@string/text_layout_titulo_gestao_descentralizada"
+                android:layout_below="@id/text_layout_texto_transversalidade"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoTituloNormal" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/text_layout_texto_gestao_descentralizada"
+                android:text="@string/text_layout_texto_gestao_descentralizada"
+                android:layout_below="@id/text_layout_titulo_gestao_descentralizada"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoComplemento" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/text_layout_titulo_gestao_democratica"
+                android:text="@string/text_layout_titulo_gestao_democratica"
+                android:layout_below="@id/text_layout_texto_gestao_descentralizada"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoTituloNormal" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/text_layout_texto_gestao_democratica"
+                android:text="@string/text_layout_texto_gestao_democratica"
+                android:layout_below="@id/text_layout_titulo_gestao_democratica"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoComplemento" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/text_layout_titulo_acesso_a_terra"
+                android:text="@string/text_layout_titulo_acesso_a_terra"
+                android:layout_below="@id/text_layout_texto_gestao_democratica"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoTituloNormal" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/text_layout_texto__acesso_a_terra"
+                android:text="@string/text_layout_texto__acesso_a_terra"
+                android:layout_below="@id/text_layout_titulo_acesso_a_terra"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoComplemento" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/text_layout_titulo_infraestrutura_e_qualidade_de_vida"
+                android:text="@string/text_layout_titulo_infraestrutura_e_qualidade_de_vida"
+                android:layout_below="@id/text_layout_texto__acesso_a_terra"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoTituloNormal" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/text_layout_texto__infraestrutura_e_qualidade_de_vida"
+                android:text="@string/text_layout_texto__infraestrutura_e_qualidade_de_vida"
+                android:layout_below="@id/text_layout_titulo_infraestrutura_e_qualidade_de_vida"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoComplemento" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/text_layout_titulo_inclusao_produtiva"
+                android:text="@string/text_layout_titulo_inclusao_produtiva"
+                android:layout_below="@id/text_layout_texto__infraestrutura_e_qualidade_de_vida"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoTituloNormal" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/text_layout_texto__inclusao_produtiva"
+                android:text="@string/text_layout_texto__inclusao_produtiva"
+                android:layout_below="@id/text_layout_titulo_inclusao_produtiva"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoComplemento" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/text_layout_titulo_diretos_e_cidadania"
+                android:text="@string/text_layout_titulo_diretos_e_cidadania"
+                android:layout_below="@id/text_layout_texto__inclusao_produtiva"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoTituloNormal" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/text_layout_texto_diretos_e_cidadania"
+                android:text="@string/text_layout_texto_diretos_e_cidadania"
+                android:layout_below="@id/text_layout_titulo_diretos_e_cidadania"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoComplemento" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/text_brasil_quilombola_complemento"
+                android:layout_below="@id/text_layout_texto_diretos_e_cidadania"
+                android:text="@string/text_brasil_quilombola_complemento"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:linksClickable="true"
+                style="@style/estiloTextoConteudo" />
         </RelativeLayout>
     </ScrollView>
 </LinearLayout>
