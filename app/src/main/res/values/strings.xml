@@ -53,10 +53,32 @@ Navegue à vontade!!!
     <!-- O QUE É SER QUILOMBOLA -->
     <string name="titulo_oqeh01"> O que é ser Quilombola? </string>
 
-    <string name="texto_oqeh01"> <b> “Ser quilombola é pertencer a uma comunidade negra, assumir sua cor,
-        sentir orgulho, lutar contra o racismo, pela liberdade, pelos ideais, pelos objetivos.
-        Ser quilombola é ter orgulho de sua comunidade e de seu povo. Ser quilombola é ter a “consciência limpa,
-        isto é, sem preconceito”. </b>
+
+    <string name="textoDireitosImagemOqueESerQuilombola">
+    Fonte: Adalberto Dos Santos
+    </string>
+
+    <string name="textViewOqueESerQuilombola">
+        <b>
+            “Então ser quilombola, que nem eu vivo dizendo pro pessoal, é tudo de bom, ser negra
+é muito orgulho, muito bom, apesar da gente saber que têm as dificuldades e as portas
+fechadas, mas a gente dá um jeito. E com a resistência que nós temos e que a gente já
+herdou dos nossos antepassados, né, essa força a gente consegue atravessar essas
+portas, sim. Acho que é isso, pra mim ser quilombola é isso. É desistir jamais.” \n
+- Moradora do Quilombo dos Alpes
+            \n \n
+Procurar cultivar a cultura dos escravizados, que por um bom tempo foram tratados
+como escravos no Brasil. Acho muito importante ser quilombola, e o porquê ser
+quilombola acho que é um direito nosso, a onde foi tratado os escravos aqui na Barão
+de Gravataí, que procuramos sempre valorizar e retratar a nossa história, e procurar
+os benefícios adequados para a nossa comunidade. \n
+Morador do Quilombo Areal da Baronesa \n \n
+“Ser Quilombola, são os negros oriundos dos fugitivos dos senhores de engenho,
+escravizaram eles, então o Quilombo é só um negro, tinha muito branco no meio dos
+crioulos também, era só os fugitivos né, são os negros que iam para lá ser acolhidos
+pelos zumbis.” \n
+- Morador do Quilombo Fidélix
+        </b>
     </string>
 
     <string name="textoDireitos">
@@ -197,8 +219,21 @@ Navegue à vontade!!!
     <string name="titulo_quilomboFidelix"> Quilombo da Família Fidélix</string>
     <string name="titulo_video_quilopoa01"> VÍDEO: Quilombos Urbanos - Capítulo 4:</string>
     <string name="titulo_video_quilopoa02"> VÍDEO: Areal da Baronesa, berço do samba em Porto Alegre:</string>
-    <string name="titulo_video_quilopoa03"> VÍDEO: Quilombo do Areal - Entrevista com Denis Luiz Alves:</string>
-    <string name="titulo_video_quilopoa04"> VÍDEO: Areal da Baronesa - Samba Enredo 1997:</string>
+
+
+
+    <string name="titulo_video_quilopoa03">
+    No link abaixo você encontra um vídeo da reportagem especial realizada pelo jornalista Nestor Tipa Júnior em 2011 sobre os Quilombos Urbanos de Porto Alegre e Região
+Metropolitana. O Quilombo Alpes é o quinto dessa reportagem especial.
+    </string>
+
+    <string name="video_quilopoa03">
+        https://www.youtube.com/watch?v=CXKGZfYNCxI
+    </string>
+
+    <string name="textoDireitosLayoutQuilomboDosAlpes">
+        FOTO POR NEPEVI/PUCRS
+    </string>
 
     <string name="texto_quilopoa01">
         Segundo dados da Prefeitura Municipal de Porto Alegre, aproximadamente 62 famílias fazem parte da Comunidade Quilombola dos
@@ -227,10 +262,12 @@ Navegue à vontade!!!
 
     </string>
 
+    <string name="textoDireitosLayoutQuilomboArealDaBaronesa">
+        FOTO POR NEPEVI/PUCRS
+    </string>
+
     <string name="texto_quilopoa02">
-
         Abriga pelo menos 70 famílias, segundo o Instituto Nacional de Colonização e Reforma Agrária (INCRA). \n\n
-
         <b>
             Fonte: \n
         </b>
@@ -260,8 +297,11 @@ Navegue à vontade!!!
         \nPorto Alegre: Century, 2008. 280p. </b>
     </string>
 
-    <string name="texto_quilopoa03">
+    <string name="textoDireitosLayoutQuilomboSilva">
+        FOTO CLICRBS, POR NESTOR TIPA JÚNIOR
+    </string>
 
+    <string name="texto_quilopoa03">
         O bairro Três Figueiras abriga há mais de 60 anos os descendentes da Família Silva,
         que moram no final da rua projetada João Caetano, entre a Avenida Carlos Gomes e Nilo Peçanha. Formada por 15 famílias,
         esta população habita um dos espaços mais valorizados de Porto Alegre. \n\n Com o avanço dos condomínios de luxo no seu entorno,
@@ -271,8 +311,13 @@ Navegue à vontade!!!
         referiam ao lugar onde haveria vivência religiosa ligada aos cultos de matriz afro-brasileira. \n\n Alguns dos filhos exercem a
         profissão dos seus pais como a de jardineiro; os demais membros trabalham em casas do entorno como auxiliares de limpeza,
         cozinheiras e de carregador de tacos de golfe no Country Club. Seus integrantes preservam os conhecimentos ancestrais
-        de ervas medicinais para o preparo de uma garrafada que alivia dores musculares. Vivem em pequenas casas de madeira. \n\n </string>
+        de ervas medicinais para o preparo de uma garrafada que alivia dores musculares. Vivem em pequenas casas de madeira. \n\n
+    </string>
 
+
+    <string name="textoDireitosLayoutQuilomboFidelix">
+        FOTO CLICRBS, POR NESTOR TIPA JÚNIOR
+    </string>
 
     <string name="texto_quilopoa04">
         A Família Fidélix é como se denomina a comunidade localizada na região do bairro Cidade Baixa, na Rua Otto Ernest Maier,
@@ -304,16 +349,36 @@ Navegue à vontade!!!
         <b> Vídeo: https://www.youtube.com/watch?v=10etFH6UTRU </b> \n\n
     </string>
 
-    <string name="video_quilopoa03">
-         29 de novembro de 2016. Vídeo gravado em 26/11 em visita ao Quilombo do Areal, em Porto Alegre/RS. \n\n
-        <b>Vídeo: https://www.youtube.com/watch?v=Bdz9uoRa_WQ</b> \n\n
+    <string name="textoEntrevistaArealDaBaronesa">
+ No link abaixo você encontra um vídeo da reportagem especial realizada pelo jornalista
+Nestor Tipa Júnior em 2011 sobre os Quilombos Urbanos de Porto Alegre e Região
+Metropolitana. O Quilombo Areal da Baronesa é quarto dessa reportagem especial.
+ \n\n
     </string>
 
-    <string name="video_quilopoa04">
-        29 de junho de 2015. Enredo: João Candido, o Almirante Negro. Interprete: Wanderlei do Areal. Resultado: 3º Lugar \n\n
-        <b>Vídeo: https://www.youtube.com/watch?v=u0Qvhtl_E1M</b> \n\n
+    <string name="linkTextoEntrevistaArealDaBaronesa">
+        https://www.youtube.com/watch?v=DKHGd6YMYiY
     </string>
 
+    <string name="textoEntrevistaQuilomboFidelix">
+        No link abaixo você encontra um vídeo da reportagem especial realizada pelo jornalista
+Nestor Tipa Júnior em 2011 sobre os Quilombos Urbanos de Porto Alegre e Região
+Metropolitana. O Quilombo Fidélix é terceiro dessa reportagem especial.
+    </string>
+
+    <string name="linkEntrevistaQuilomboFidelix">
+        https://www.youtube.com/watch?v=9QKHWAjrVIg
+    </string>
+
+    <string name="textoEntrevistaQuilomboSilva">
+No link abaixo você encontra um vídeo da reportagem especial realizada pelo jornalista
+Nestor Tipa Júnior em 2011 sobre os Quilombos Urbanos de Porto Alegre e Região
+Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
+    </string>
+
+    <string name="linkEntrevistaQuilomboSilva">
+        https://www.youtube.com/watch?v=KKrqs_sNjvA
+    </string>
 
     <!-- QUILOMBOS DE PORTO ALEGRE -->
 
@@ -322,6 +387,11 @@ Navegue à vontade!!!
     <string name="titulo_lei_legislacao_conselho_tutelar"> ESTATUTO DA CRIANÇA E DO ADOLESCENTE – ( LEI N. 8.069/1990 )</string>
     <string name="titulo_politica_nacional_de_assistencia_social"> Política Nacional de Assistência Social</string>
     <string name="titulo_estatuto_juventude">Estatuto da Juventude</string>
+
+    <string name="textoDireitosImagemEstatudoDoIdoso">
+      \t  Fonte: Reprodução/Jornal O São Paulo. \n\n
+    </string>
+
 
     <string name="tituloLeiEstatutoDoIdoso">
       \t  Estatuto do Idoso – (LEI N.10.741/2003) \n\n
@@ -474,78 +544,324 @@ Navegue à vontade!!!
     </string>
 
     <string name="texto_lei_legislacao_conselho_tutelar">
-           \t  Antes da Constituição de 1988, as leis destinadas às crianças e adolescentes, possuíam caráter punitivos que visavam proteger a sociedade do menor infrator. A partir da Constituição, foram criadas leis para proteção e desenvolvimento de crianças e adolescentes.  \n
-    \t O Estatuto da Criança e do Adolescente (ECA) foi instituído em 13 de julho de 1990 destinado a garantia de direitos e proteção integral à criança e ao adolescente (Art 1º). \n
-    \t Considera-se criança, para os efeitos desta Lei, a pessoa até doze anos de idade incompletos, e adolescente aquela entre doze e dezoito anos de idade (Art 2º). \n
-    \t De acordo com o Art. 3º, a criança e o adolescente gozam de todos os direitos fundamentais inerentes à pessoa humana, sem prejuízo da proteção integral de que trata esta Lei, assegurando-se-lhes, por lei ou por outros meios, todas as oportunidades e facilidades, a fim de lhes facultar o desenvolvimento físico, mental, moral, espiritual e social, em condições de liberdade e de dignidade. \n
-    \t Os direitos enunciados nesta Lei aplicam-se a todas as crianças e adolescentes, sem discriminação de nascimento, situação familiar, idade, sexo, raça, etnia ou cor, religião ou crença, deficiência, condição pessoal de desenvolvimento e aprendizagem, condição econômica, ambiente social, região e local de moradia ou outra condição que diferencie as pessoas, as famílias ou a comunidade em que vivem. (incluído pela Lei nº 13.257, de 2016) \n
-    \t Art. 4º É dever da família, da comunidade, da sociedade em geral e do poder público assegurar, com absoluta prioridade, a efetivação dos direitos referentes à vida, à saúde, à alimentação, à educação, ao esporte, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade e à convivência familiar e comunitária. Todos devemos respeitar e assegurar à criança e ao adolescente o exercício de seus direitos fundamentais.  \n
-    \t A garantia de prioridade compreende: \n
-     a) primazia de receber proteção e socorro em quaisquer circunstâncias; \n
-    b) precedência de atendimento nos serviços públicos ou de relevância pública; \n
-     c) preferência na formulação e na execução das políticas sociais públicas; \n
-     d) destinação privilegiada de recursos públicos nas áreas relacionadas com a proteção à infância e à juventude.  \n
+                  \t  Antes da Constituição de 1988, as leis destinadas às crianças e adolescentes, possuíam caráter punitivos que visavam proteger a sociedade do menor infrator. A partir da Constituição, foram criadas leis para proteção e desenvolvimento de crianças e adolescentes.  \n
+        \t O Estatuto da Criança e do Adolescente (ECA) foi instituído em 13 de julho de 1990 destinado a garantia de direitos e proteção integral à criança e ao adolescente (Art 1º). \n
+        \t Considera-se criança, para os efeitos desta Lei, a pessoa até doze anos de idade incompletos, e adolescente aquela entre doze e dezoito anos de idade (Art 2º). \n
+        \t De acordo com o Art. 3º, a criança e o adolescente gozam de todos os direitos fundamentais inerentes à pessoa humana, sem prejuízo da proteção integral de que trata esta Lei, assegurando-se-lhes, por lei ou por outros meios, todas as oportunidades e facilidades, a fim de lhes facultar o desenvolvimento físico, mental, moral, espiritual e social, em condições de liberdade e de dignidade. \n
+        \t Os direitos enunciados nesta Lei aplicam-se a todas as crianças e adolescentes, sem discriminação de nascimento, situação familiar, idade, sexo, raça, etnia ou cor, religião ou crença, deficiência, condição pessoal de desenvolvimento e aprendizagem, condição econômica, ambiente social, região e local de moradia ou outra condição que diferencie as pessoas, as famílias ou a comunidade em que vivem. (incluído pela Lei nº 13.257, de 2016) \n
+        \t Art. 4º É dever da família, da comunidade, da sociedade em geral e do poder público assegurar, com absoluta prioridade, a efetivação dos direitos referentes à vida, à saúde, à alimentação, à educação, ao esporte, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade e à convivência familiar e comunitária. Todos devemos respeitar e assegurar à criança e ao adolescente o exercício de seus direitos fundamentais.  \n
+        \t A garantia de prioridade compreende: \n
+         a) primazia de receber proteção e socorro em quaisquer circunstâncias; \n
+        b) precedência de atendimento nos serviços públicos ou de relevância pública; \n
+         c) preferência na formulação e na execução das políticas sociais públicas; \n
+         d) destinação privilegiada de recursos públicos nas áreas relacionadas com a proteção à infância e à juventude.  \n
     </string>
 
-    <string name="texto_sobre_o_direto_a_vida_e_a_saude">
-        \t Sobre o Direito à vida e à saúde: \n
+    <string name="titulo_direito_a_vida_e_a_saude">
+      \n  \t Sobre o Direito à vida e à saúde:
+    </string>
+
+    <string name="texto_direito_a_vida_e_a_saude">
+                \t Art. 7º A criança e o adolescente têm direito a proteção à vida e à saúde, mediante a efetivação de políticas sociais públicas que permitam o nascimento e o desenvolvimento sadio e harmonioso, em condições dignas de existência. \n
+        \t Art. 8º É assegurado a todas as mulheres o acesso aos programas e às políticas de saúde da mulher e de planejamento reprodutivo e, às gestantes, nutrição adequada, atenção humanizada à gravidez, ao parto e ao puerpério e atendimento pré-natal, perinatal e pós-natal integral no âmbito do Sistema Único de Saúde. \n
+        \t § 2º Os profissionais de saúde de referência da gestante garantirão sua vinculação, no último trimestre da gestação, ao estabelecimento em que será realizado o parto, garantido o direito de opção da mulher. \n
+        \t § 4º Incumbe ao poder público proporcionar assistência psicológica à gestante e à mãe, no período pré e pós-natal, inclusive como forma de prevenir ou minorar as consequências do estado puerperal. (Incluído pela Lei nº 12.010, de 2009) \n
+        \t § 5º A assistência referida no § 4o deste artigo deverá ser prestada também a gestantes e mães que manifestem interesse em entregar seus filhos para adoção, bem como a gestantes e mães que se encontrem em situação de privação de liberdade. \n
+        \t § 6º A gestante e a parturiente têm direito a 1 (um) acompanhante de sua preferência durante o período do pré-natal, do trabalho de parto e do pós-parto imediato. (Incluído pela Lei nº 13.257, de 2016) \n
+        \t É dever do Estado, assistir à mãe e a criança por meio do Sistema Único de Saúde.  \n
+    </string>
+
+    <string name="lblListItem_titulo_direito_a_liberdade">
+      \n  \t Sobre o Direito à Liberdade, ao Respeito e à Dignidade
+    </string>
+
+    <string name="texto_direito_a_liberdade">
+        \t Art. 18 - A criança e o adolescente têm o direito de ser educados e cuidados sem o uso de castigo físico ou de tratamento cruel ou degradante, como formas de correção, disciplina, educação ou qualquer outro pretexto, pelos pais, pelos integrantes da família ampliada, pelos responsáveis, pelos agentes públicos executores de medidas socioeducativas ou por qualquer pessoa encarregada de cuidar deles, tratá-los, educá-los ou protegê-los. (Incluído pela Lei nº 13.010, de 2014) . É competência do Conselho Tutelar fiscalizar casos de maus tratos às crianças e adolescentes. \n
+    </string>
+
+    <string name="lblListItem_titulo_direito_a_convivencia">
+            \n  \t Sobre o Direito à Convivência Familiar e Comunitária
+    </string>
+    <string name="texto_direito_a_convivencia">
+                \t Art. 19. É direito da criança e do adolescente ser criado e educado no seio de sua família e, excepcionalmente, em família substituta, assegurada a convivência familiar e comunitária, em ambiente que garanta seu desenvolvimento integral. \n
+        \t Art. 28. A colocação em família substituta far-se-á mediante guarda, tutela ou adoção, independentemente da situação jurídica da criança ou adolescente, nos termos desta Lei. \n
+        \t § 6º Em se tratando de criança ou adolescente indígena ou proveniente de comunidade remanescente de quilombo, é ainda obrigatório: \n
+        \t I - que sejam consideradas e respeitadas sua identidade social e cultural, os seus costumes e tradições, bem como suas instituições, desde que não sejam incompatíveis com os direitos fundamentais reconhecidos por esta Lei e pela Constituição Federal; (Incluído pela Lei nº 12.010, de 2009) \n
+        \t II - que a colocação familiar ocorra prioritariamente no seio de sua comunidade ou junto a membros da mesma etnia; (Incluído pela Lei nº 12.010, de 2009) \n
+        \t III - a intervenção e oitiva de representantes do órgão federal responsável pela política indigenista, no caso de crianças e adolescentes indígenas, e de antropólogos, perante a equipe interprofissional ou multidisciplinar que irá acompanhar o caso. (Incluído pela Lei nº 12.010, de 2009) . \n
+        \t É responsabilidade da Justiça da Infância e Juventude acompanhar casos de adoção. \n
+        \t O ECA instituiu normas como: \n
+        \t ● Direito de brincar, praticar esportes e divertir-se;  \n
+        \t ● Direito de ir, vir e estar nos logradouros públicos e espaços comunitários, ressalvadas as restrições legais; \n
+        \t ● Acesso à escola pública e gratuita próxima de sua residência; \n
+        \t ● Atendimento educacional especializado aos portadores de deficiência, preferencialmente na rede regular de ensino; \n
+        \t ● Direito de organização e participação em entidades estudantis; \n
+        \t ● Classificação indicativa de faixa etária, para que crianças e adolescentes consumam conteúdos próprios à sua idade; \n
+        \t ● Respeito aos valores culturais, artísticos e históricos próprios do contexto social da criança e do adolescente, garantindo-se a estes a liberdade da criação e o acesso às fontes de cultura; \n
+        \t  ● A Semana Nacional de Prevenção da Gravidez na Adolescência, realizada anualmente na semana que incluir o dia 1º de fevereiro, com o objetivo de disseminar informações sobre medidas preventivas e educativas que contribuam para a redução da incidência da gravidez na adolescência; \n
+        \t  ● A vacinação obrigatória das crianças nos casos recomendados pelas autoridades sanitárias;  \n
+        \t ● A proibição do trabalho do infantil (até 14 anos), exceto na condição de aprendiz; \n
+        \t ● A proibição de venda de bebidas alcoólicas, cigarro, armas, munições, explosivos, fogos de estampido e de artifício à criança ou ao adolescente. \n
+    </string>
+
+    <string name="lblListItem_titulo_medidas_de_protecao">
+       \n \t Sobre as Medidas de Proteção:
+    </string>
+    <string name="lblListItem_tesxto__medidas_de_protecao">
+                \t Art. 98. As medidas de proteção à criança e ao adolescente são aplicáveis sempre que os direitos reconhecidos nesta Lei forem ameaçados ou violados: \n
+        \t I - por ação ou omissão da sociedade ou do Estado; \n
+        \t II - por falta, omissão ou abuso dos pais ou responsável; \n
+        \t III - em razão de sua conduta. \n
+        \t Art. 101. Verificada qualquer das hipóteses previstas no art. 98, a autoridade competente poderá determinar, dentre outras, as seguintes medidas: \n
+        \t I - encaminhamento aos pais ou responsável, mediante termo de responsabilidade;  \n
+        \t II - orientação, apoio e acompanhamento temporários; \n
+        \t III - matrícula e freqüência obrigatórias em estabelecimento oficial de ensino fundamental; \n
+        \t IV - inclusão em serviços e programas oficiais ou comunitários de proteção, apoio e promoção da família, da criança e do adolescente; \n
+        \t  V - requisição de tratamento médico, psicológico ou psiquiátrico, em regime hospitalar ou ambulatorial; \n
+        \t VI - inclusão em programa oficial ou comunitário de auxílio, orientação e tratamento a alcoólatras e toxicômanos; \n
+        \t VII - acolhimento institucional; \n
+        \t VIII - inclusão em programa de acolhimento familiar; \n
+        \t IX - colocação em família substituta. (Incluído pela Lei nº 12.010, de 2009) \n
+        \t A partir deste Estatuto, crianças e adolescentes têm seus direitos assegurados em uma lei que os protege, para tenham seus direitos respeitados em casa, na escola, na rua, no abrigo e em casos de infração, para que não haja abuso de autoridade. \n
+        \t Art. 70. É dever de todos prevenir a ocorrência de ameaça ou violação dos direitos da criança e do adolescente. \n
+    </string>
+
+    <string name="texto_referencia">
+               \n\n
+                \t REFERÊNCIA
+         BRASIL. Lei nº 8.069 de 13 de julho de 1990. Disponível em: http://www.planalto.gov.br/ccivil_03/LEIS/L8069.htm \n
+         Acesso em: 08 abr. 2019. \n
+         ESTATUTO da criança e do adolescente. Publicado por Centro Integrado de Aprendizagem em Rede. Universidade Federal de Goiás, 14 de jun. de 2011 . 1 vídeo (6min 45seg). Disponível em: https://www.youtube.com/watch?v=y5r6vThH_XU \n
+         Acesso em: 08 abr. 2019. \n
     </string>
 
 
-    <string name="politica_nacional_de_assistencia_social">
-        A proteção social básica (CRAS E SAFs) tem como objetivos prevenir situações de risco por meio do desenvolvimento de
-        potencialidades e aquisições, e o fortalecimento de vínculos familiares e comunitários. As situações de risco demandarão
-        intervenções em problemas específicos e, ou, abrangentes pela proteção social especial (CREAS) (MDS, p.33-36). \n\n
+    <string name="titlePoliticaNacionalDeAssistenciaSocial">
+        \t LEI ORGÂNICA DA ASSISTÊNCIA SOCIAL \n
+    </string>
 
-        <b>
-            NOB-RH (SUAS): \n\n
-        Funções essenciais para a gestão do suas:</b> \n\n
+    <string name="textoDireitosPoliticaNacionalDeAssistenciaSocial">
+        Fonte: Reprodução/Agência Senado.
+    </string>
 
-        Para a adequada gestão do Sistema Único de Assistência Social - SUAS em cada esfera de governo, é fundamental a garantia de
-        um quadro de referência de profissionais designados para o exercício das funções essenciais de gestão. A composição das
-        equipes de referência dos Estados para apoio a Municípios com presença de povos e
-        comunidades tradicionais (indígenas, quilombolas, seringueiros, etc.)
-        deve contar com profissionais com curso superior, em nível de graduação
-        concluído em ciências sociais com habilitação em antropologia ou graduação
-        concluída em qualquer formação, acompanhada de especialização, mestrado
-        e/ou doutorado em antropologia.\n\n
+    <string name="textoPoliticaNacionalDeAssistenciaSocial">
+           \t A Lei Orgânica da Assistência Social (LOAS) foi instituída em 7 de dezembro de 1993,
+        a partir da Constituição de 1988, baseada nas necessidades da política e sociedade
+        brasileira. \n \n
 
-        <i>  Fonte: \n http://www.assistenciasocial.al.gov.br/sala-de-imprensa/arquivos/NOB-RH.pdf. (p.17-18) \n\n </i>
-        \n ————————————————————————— \n
-            <b>NOB-RH (SUAS): </b> \n\n
+        Art. 1º A assistência social, direito do cidadão e dever do Estado, é Política de
+        Seguridade Social não contributiva, que provê os mínimos sociais, realizada através de
+        um conjunto integrado de ações de iniciativa pública e da sociedade, para garantir o
+        atendimento às necessidades básicas. \n \n
 
-            V – Diretrizes para a política nacional de capacitação:
-            e) a especificidade dos trabalhos desenvolvidos com comunidades remanescentes de quilombos, povos indígenas e outras (…) \n\n
-            <i>Fonte: http://www.assistenciasocial.al.gov.br/sala-de-imprensa/arquivos/NOB-RH.pdf. (p.19)</i> \n\n
+        Art. 2º A assistência social tem por objetivos: \n \n
 
-            \n ————————————————————————— \n
+        I - a proteção social, que visa à garantia da vida, à redução de danos e à prevenção da
+        incidência de riscos, especialmente: \n \n
 
-            <b>MDS-CNAS: \n\n
-            RELATÓRIO GT POPULAÇÃO QUILOMBOLA (2007):</b> \n\n
-            <i>(LINK ERRADO) Fonte: file:///C:/Users/17190052.PORTOALEGRE/Downloads/Relat%C3%B3rio%20%20GT%20Popula%C3%A7%C3%A3o%20Quilombola.pdf</i> \n\n
-            \n ————————————————————————— \n
-            <b>GUIA DE POLÍTICAS SOCIAIS QUILOMBOLAS – MDS (2009):</b> \n\n
-            <i> Fonte: \n
-                http://www.rcdh.es.gov.br/sites/default/files/2009%20Guia%20de%20Politicas%20Sociais%20Quilombolas.pdf </i> \n\n
-           \n ————————————————————————— \n
+        a) a proteção à família, à maternidade, à infância, à adolescência e à velhice; (Incluído
+        pela Lei nº 12.435, de 2011) \n \n
+
+        b) o amparo às crianças e aos adolescentes carentes; (Incluído pela Lei nº 12.435, de
+        2011) \n \n
+
+        c) a promoção da integração ao mercado de trabalho; (Incluído pela Lei nº 12.435, de
+        2011) \n\n
+
+        d) a habilitação e reabilitação das pessoas com deficiência e a promoção de sua
+        integração à vida comunitária; (Incluído pela Lei nº 12.435, de 2011) \n\n
+
+        e) a garantia de 1 (um) salário-mínimo de benefício mensal à pessoa com deficiência e
+        ao idoso que comprovem não possuir meios de prover a própria manutenção ou de tê-la
+        provida por sua família; (Incluído pela Lei nº 12.435, de 2011) \n \n
+
+        II - a vigilância socioassistencial, que visa a analisar territorialmente a capacidade
+        protetiva das famílias e nela a ocorrência de vulnerabilidades, de ameaças, de
+        vitimizações e danos; (Redação dada pela Lei nº 12.435, de 2011) \n \n
+
+        III - a defesa de direitos, que visa a garantir o pleno acesso aos direitos no conjunto das
+        provisões socioassistenciais. \n \n
+
+        É a partir da LOAS que os direitos sociais são concretizados, a fim de assegurar as
+        condições mínimas para o exercício da dignidade humana e diminuir as desigualdades. \n \n
+
+    </string>
+
+    <string name="textoSubTituloSobreBeneficioPrestacaoContinuada">
+        Sobre o Do Benefício de Prestação Continuada
+    </string>
+
+    <string name="textoReferernteSubTituloSobreBeneficioPrestacaoContinuada">
+        Art. 20. O benefício de prestação continuada é a garantia de um salário-mínimo mensal
+        à pessoa com deficiência e ao idoso com 65 (sessenta e cinco) anos ou mais que
+        comprovem não possuir meios de prover a própria manutenção nem de tê-la provida por
+        sua família. \n \n
+
+        § 1º Para os efeitos do disposto no caput, a família é composta pelo requerente, o
+        cônjuge ou companheiro, os pais e, na ausência de um deles, a madrasta ou o padrasto,
+        os irmãos solteiros, os filhos e enteados solteiros e os menores tutelados, desde que
+        vivam sob o mesmo teto. \n \n
+
+        § 2º Para efeito de concessão do benefício de prestação continuada, considera-se pessoa
+        com deficiência aquela que tem impedimento de longo prazo de natureza física, mental,
+        intelectual ou sensorial, o qual, em interação com uma ou mais barreiras, pode obstruir
+        sua participação plena e efetiva na sociedade em igualdade de condições com as demais
+        pessoas. \n \n
+
+        § 3º Considera-se incapaz de prover a manutenção da pessoa com deficiência ou idosa a
+        família cuja renda mensal per capita seja inferior a 1/4 (um quarto) do salário-mínimo. \n \n
+
+        § 4º O benefício de que trata este artigo não pode ser acumulado pelo beneficiário com
+        qualquer outro no âmbito da seguridade social ou de outro regime, salvo os da
+        assistência médica e da pensão especial de natureza indenizatória. \n \n
+
+        § 5º A condição de acolhimento em instituições de longa permanência não prejudica o
+        direito do idoso ou da pessoa com deficiência ao benefício de prestação continuada.
+        § 6º A concessão do benefício ficará sujeita à avaliação da deficiência e do grau de
+        impedimento de que trata o § 2º composta por avaliação médica e avaliação social
+        realizadas por médicos peritos e por assistentes sociais do Instituto Nacional de Seguro
+        Social - INSS. \n \n
+
+        § 7º Na hipótese de não existirem serviços no município de residência do beneficiário,
+        fica assegurado, na forma prevista em regulamento, o seu encaminhamento ao
+        município mais próximo que contar com tal estrutura. (Incluído pela Lei nº 9.720, de
+        30.11.1998) \n \n
+
+        § 8º A renda familiar mensal a que se refere o § 3º deverá ser declarada pelo requerente
+        ou seu representante legal, sujeitando-se aos demais procedimentos previstos no
+        regulamento para o deferimento do pedido. Incluído pela Lei nº 9.720, de 30.11.1998)
+         \n \n
+        § 9º Os rendimentos decorrentes de estágio supervisionado e de aprendizagem não serão
+        computados para os fins de cálculo da renda familiar per capita a que se refere o § 3º
+        deste artigo. \n \n
+
+        § 10. Considera-se impedimento de longo prazo, para os fins do § 2º deste artigo,
+        aquele que produza efeitos pelo prazo mínimo de 2 (dois) anos. (Incluído pela Lei nº
+        12.470, de 2011) \n \n
+
+        § 11. Para concessão do benefício de que trata o caput deste artigo, poderão ser
+        utilizados outros elementos probatórios da condição de miserabilidade do grupo familiar
+        e da situação de vulnerabilidade, conforme regulamento. (Incluído pela Lei nº 13.146,
+        de 2015) \n \n
+
+        § 12. São requisitos para a concessão, a manutenção e a revisão do benefício as
+        inscrições no Cadastro de Pessoas Físicas - CPF e no Cadastro Único para Programas
+        Sociais do Governo Federal - Cadastro Único, conforme previsto em regulamento.
+        (Incluído pela Medida Provisória nº 871, de 2019) \n \n
+
+        Art. 21. O benefício de prestação continuada deve ser revisto a cada 2 (dois) anos para
+        avaliação da continuidade das condições que lhe deram origem. \n \n
+
+        § 1º O pagamento do benefício cessa no momento em que forem superadas as condições
+        referidas no caput, ou em caso de morte do beneficiário. \n \n
+
+        § 2º O benefício será cancelado quando se constatar irregularidade na sua concessão ou
+        utilização. \n \n
+
+        § 3º O desenvolvimento das capacidades cognitivas, motoras ou educacionais e a
+        realização de atividades não remuneradas de habilitação e reabilitação, entre outras, não
+        constituem motivo de suspensão ou cessação do benefício da pessoa com deficiência.
+        (Incluído pela Lei nº 12.435, de 2011) \n \n
+
+        § 4º A cessação do benefício de prestação continuada concedido à pessoa com
+        deficiência não impede nova concessão do benefício, desde que atendidos os requisitos
+        definidos em regulamento. \n \n
+
+        Art. 21-A. O benefício de prestação continuada será suspenso pelo órgão concedente
+        quando a pessoa com deficiência exercer atividade remunerada, inclusive na condição
+        de microempreendedor individual. (Incluído pela Lei nº 12.470, de 2011) \n \n
+
+        § 1º Extinta a relação trabalhista ou a atividade empreendedora de que trata o caput
+        deste artigo e, quando for o caso, encerrado o prazo de pagamento do
+        seguro-desemprego e não tendo o beneficiário adquirido direito a qualquer benefício
+        previdenciário, poderá ser requerida a continuidade do pagamento do benefício
+        suspenso, sem necessidade de realização de perícia médica ou reavaliação da deficiência
+        e do grau de incapacidade para esse fim, respeitado o período de revisão previsto no
+        caput do art. 21. (Incluído pela Lei nº 12.470, de 2011)\n \n
+
+        § 2º A contratação de pessoa com deficiência como aprendiz não acarreta a suspensão
+        do benefício de prestação continuada, limitado a 2 (dois) anos o recebimento
+        concomitante da remuneração e do benefício. (Incluído pela Lei nº 12.470, de 2011)
+        É a partir da LOAS (Lei Orgânica da Assistência Social) que se consegue acessar o BPC
+        (Benefício de Prestação Continuada). Porém, o LOAS é muito mais que o BPC. \n \n
+
+    </string>
+
+    <string name="textoReferencia">
+        REFERÊNCIA \n
+        BRASIL. Lei nº 8.742 de 7 de dezembro de 1993. Disponível em:
+        &lt;http://www.planalto.gov.br/ccivil_03/LEIS/L8742compilado.htm&gt; Acesso em: 09 abr. 2019. \n
     </string>
 
     <string name="titulo_programa_brasil_quilombola">
-        <b>Programa brasil quilombola (PBQ): \n\n
-                Item 3: (Desenvolvimento Local e Inclusão Produtiva) </b>\n\n
+        PROGRAMA BRASIL QUILOMBOLA
+    </string>
+
+    <string name="textoDireitosProgramaBrasilQuilombola">
+        Fonte: Reprodução/ Fundação Cultural Palmares.
     </string>
 
     <string name="texto_programa_brasil_quilombola">
-        <b>3.2:</b> Programa Cisternas:  Iniciativa do Ministério Social e Combate à Fome – MDS, o acesso à água potável, como componente fundamental
-        da garantia da segurança alimentar e nutricional, para as famílias de baixa renda do sertão nordestino (p.34)
-        Quem pode participar: Famílias de baixa renda, enquadradas nos critérios de elegibilidade do Programa
-        Bolsa Família que não disponham de acesso à fonte de água potável localizadas na zona rural do Semi-Árido Brasileiro.
-        O processo de seleção das famílias será realizado com a participação da sociedade civil organizada, a partir de uma comissão
-        formada por Sindicatos, Igrejas, Movimentos Sociais, Pastorais, Clubes de Serviço, Entidades de Classe e outros, que podem receber
-        apoio de prefeituras ou outros órgãos públicos ou por conselho municipal formalmente instituído. Etapa de seleção dos beneficiários:
-        2º. Os conselhos municipais de assistência social, desenvolvimento rural ou segurança alimentar e nutricional ajudam a definir as famílias a serem beneficiadas. \n\n
+        \t O Programa Brasil Quilombola (PBQ) foi criado em 12 de março de 2004, com o intuito de consolidar os marcos da política de Estado para as áreas quilombolas. A coordenação geral do Programa é de responsabilidade do MDH, por meio da Secretaria de Políticas de Promoção da Igualdade Racial (SEPPIR). O PBQ tem como finalidade de coordenar as ações governamentais para as comunidades remanescentes de quilombo por meio de articulações transversais, setoriais e interinstitucionais, com ênfase na participação da sociedade civil. \n
+        \t O Programa segue a orientação dos princípios que norteiam a Política Nacional de Promoção da Igualdade Racial (Decreto Nº 4.886 de 20 de novembro de 2003) na formulação, execução e monitoramento das ações planejadas, nos quais estão a: \n
+    </string>
 
-        <i>Fonte: Guia Programa Brasil Quilombola http://www.seppir.gov.br/portal-antigo/arquivos-pdf/guia-pbq. 2012. Página 33-34.</i>\n\n
+    <string name="text_layout_titulo_transversalidade">
+        \t • Transversalidade –
+    </string>
+    <string name="text_layout_texto_transversalidade">
+         implica no envolvimento de vários órgãos responsáveis pela execução e gestão das ações voltadas para combate às desigualdades raciais e de gênero, mas também a preservação da diversidade cultural;  \n
+    </string>
+
+    <string name="text_layout_titulo_gestao_descentralizada">
+        \t • Gestão Descentralizada –
+    </string>
+    <string name="text_layout_texto_gestao_descentralizada">
+        implica na articulação com os entes federativos, conforme o enunciado do artigo 23, inciso X, da Constituição Federal: “É da competência comum da União, dos Estados, do Distrito Federal e dos Municípios, combater os fatores de marginalização e promover a integração social dos setores desfavorecidos, com ênfase no fortalecimento da esfera pública; \n
+    </string>
+
+    <string name="text_layout_titulo_gestao_democratica">
+        \t • Gestão Democrática –
+    </string>
+    <string name="text_layout_texto_gestao_democratica">
+        implica em estabelecer interlocução com as Associações representativas das comunidades quilombolas e demais parceiros não governamentais, considerando-os agentes ativos na formulação e monitoramento da política. (BRASIL, 2004).  \n
+        \t O Plano é base da Agenda Social Quilombola (Decreto 6261/2007) agrupa as ações voltadas às comunidades em quatro eixos: \n
+    </string>
+
+    <string name="text_layout_titulo_acesso_a_terra">
+        \t Eixo 1: Acesso a Terra –
+    </string>
+    <string name="text_layout_texto__acesso_a_terra">
+        execução e acompanhamento dos trâmites necessários para a regularização fundiária das áreas de quilombo, que constituem título coletivo de posse das terras tradicionalmente ocupadas. O processo se inicia com a certificação das comunidades e se encerra na titulação, que é a base para a implementação de alternativas de desenvolvimento para as comunidades, além de garantir a sua reprodução física, social e cultural; \n
+    </string>
+
+    <string name="text_layout_titulo_infraestrutura_e_qualidade_de_vida">
+        \t Eixo 2: Infraestrutura e Qualidade de Vida –
+    </string>
+    <string name="text_layout_texto__infraestrutura_e_qualidade_de_vida">
+        consolidação de mecanismos efetivos para destinação de obras de infraestrutura (habitação, saneamento, eletrificação, comunicação e vias de acesso) e construção de equipamentos sociais destinados a atender as demandas, notadamente as de saúde, educação e assistência social; \n
+    </string>
+
+    <string name="text_layout_titulo_inclusao_produtiva">
+        \t Eixo 3: Inclusão Produtiva e Desenvolvimento Local -
+    </string>
+    <string name="text_layout_texto__inclusao_produtiva">
+        apoio ao desenvolvimento produtivo local e autonomia econômica, baseado na identidade cultural e nos recursos naturais presentes no território, visando a sustentabilidade ambiental, social, cultural, econômica e política das comunidades; \n
+    </string>
+    <string name="text_layout_titulo_diretos_e_cidadania">
+        \t Eixo 4: Direitos e Cidadania -
+    </string>
+    <string name="text_layout_texto_diretos_e_cidadania">
+                 fomento de iniciativas de garantia de direitos promovidas por diferentes órgãos públicos e organizações da sociedade civil, estimulando a participação ativa dos representantes quilombolas nos espaços coletivos de controle e participação social, como os conselhos e fóruns locais e nacionais de políticas públicas, de modo a promover o acesso das comunidades ao conjunto das ações definidas pelo governo e seu envolvimento no monitoramento daquelas que são implementadas em cada município onde houver comunidades remanescentes de quilombos. \n
+        \t Apesar da coordenação centralizada, as ações do plano são mais amplas que a atuação destas instituições e, frequentemente, incluem parcerias com outros órgãos do Governo Federal. A Gestão Descentralizada do PBQ ocorre com a articulação dos entes federados, a partir da estruturação de comitês estaduais. Sua gestão estabelece interlocução com órgãos estaduais e municipais de promoção da igualdade racial (PIR), associações representativas das comunidades quilombolas e outros parceiros não-governamentais. \n
+    </string>
+
+    <string name="text_brasil_quilombola_complemento">
+        \t REFERENCIA: \n
+        \t  BRASIL. MINISTÉRIO DOS DIREITOS HUMANOS. Programa Brasil Quilombola promove a cidadania das comunidades . Disponível em:  https://www.mdh.gov.br/todas-as-noticias/2018/julho/programa-brasil-quilombola-pro move-a-cidadania-das-comunidades-no-brasil  Acesso em 04 abril 2019.  \n
+        \t ______. MINISTÉRIO DOS DIREITOS HUMANOS. Povos e Comunidades tradicionais . Disponível em: https://www.mdh.gov.br/navegue-por-temas/igualdade-racial/povos-e-comunidades-tra dicionais  Acesso em 04 abril 2019.  \n
+        \t BRASIL. Programa Brasil Quilombola . Brasília: Secretaria Especial de Políticas de Promoção da Igualdade Racial – Seppir, 2004. \n
+        \t Fundação Cultural Palmares. Lançado Relatório de Gestão 2012 do Programa Brasil Quilombola . Disponível em:  http://www.palmares.gov.br/?p=28163 Acesso em 04 abril 2019. \n
     </string>
 
     <string name="titulo_estatuto_igualdade_racial">
@@ -554,7 +870,7 @@ Navegue à vontade!!!
     </string>
 
     <string name="textoDireitosImagemEstatutoDaIgualdadeRacial">
-            Fonte: Reprodução/Ministério da Cultura.
+            Fonte: Reprodução/Fundação Abrinq.
     </string>
 
     <string name="texto_estatuto_igualdade_racial">
@@ -1423,7 +1739,7 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     <string name="titulo_assistencial02">O que é? Onde? e Como Acessar?</string>
     <string name="titulo_assistencial03">Telefones úteis em Porto Alegre</string>
     <string name="titulo_assistencial04"> Micro Regiões</string>
-    <string name="titulo_assistencial05">Serviço de convivência e fortalecimento de veículos (SCFV)</string>
+    <string name="titulo_assistencial05">Serviço de convivência e fortalecimento de vínculos (SCFV)</string>
 
 
     <string name="texto_assitencial01">
@@ -2241,4 +2557,7 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     Renata Alencar Póvoas - Graduanda em Serviço Social/PUCRS – Bolsista PIBIC CNPq
     </string>
     <!-- Fim: SOBRE NOS -->
+
+    
+
 </resources>

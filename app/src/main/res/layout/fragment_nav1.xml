@@ -12,27 +12,35 @@
             android:layout_height="wrap_content">
 
             <TextView
-                android:id="@+id/textViewTitulo"
+                android:id="@+id/textViewTituloOqueESerQuilombola"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/titulo_oqeh01"
                 style="@style/estiloTextoTitulo" />
 
+            <ImageView
+                android:id="@+id/imageViewLayouOqueESerQuilombola"
+                android:layout_below="@id/textViewTituloOqueESerQuilombola"
+                android:src="@drawable/oqueeserquilombola"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloImagem" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewTextoDireitosLayoutOqueESerQuilombola"
+                android:layout_below="@id/imageViewLayouOqueESerQuilombola"
+                android:text="@string/textoDireitosImagemOqueESerQuilombola"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoDireitosReservados" />
+
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTexto"
-                android:layout_below="@+id/textViewTitulo"
-                android:text="@string/texto_oqeh01"
+                android:layout_below="@+id/textViewTextoDireitosLayoutOqueESerQuilombola"
+                android:text="@string/textViewOqueESerQuilombola"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoConteudo" />
-
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textViewTextoDireitos"
-                android:layout_below="@+id/textViewTexto"
-                android:text="@string/textoDireitos"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                style="@style/estiloTextoComplemento" />
 
         </RelativeLayout>
     </ScrollView>

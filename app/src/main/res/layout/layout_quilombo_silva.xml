@@ -13,16 +13,31 @@
             android:layout_height="wrap_content">
 
             <TextView
-                android:id="@+id/textViewquilo"
+                android:id="@+id/textViewLayoutQuilomboSilva"
                 android:text="@string/titulo_quilomboSilva"
-                android:layout_below="@+id/imageView4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTitulo" />
 
+            <ImageView
+                android:id="@+id/imageViewLayoutQuilomboSilva"
+                android:layout_below="@id/textViewLayoutQuilomboSilva"
+                android:src="@drawable/quilombosilva"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloImagem" />
+
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textquilosilva"
-                android:layout_below="@+id/textViewquilo"
+                android:id="@+id/textViewTextoDireitosLayoutQuilomboSilva"
+                android:layout_below="@id/imageViewLayoutQuilomboSilva"
+                android:text="@string/textoDireitosLayoutQuilomboSilva"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoDireitosReservados" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewTextoLayoutQuilomboSilva"
+                android:layout_below="@+id/textViewTextoDireitosLayoutQuilomboSilva"
                 android:text="@string/texto_quilopoa03"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
