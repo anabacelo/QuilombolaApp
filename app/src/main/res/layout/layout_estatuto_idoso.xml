@@ -22,8 +22,18 @@
                 style="@style/estiloImagem" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewDireitosImagemEstatudoDoIdoso"
+                android:layout_below="@id/imageViewEstatudoDoIdoso"
+                android:text="@string/textoDireitosImagemEstatudoDoIdoso"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:linksClickable="true"
+                style="@style/estiloTextoDireitosReservados" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewLayoutTituloEstatutoDoIdoso"
-                android:layout_below="@+id/imageViewEstatudoDoIdoso"
+                android:layout_below="@+id/textViewDireitosImagemEstatudoDoIdoso"
                 android:text="@string/tituloLeiEstatutoDoIdoso"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

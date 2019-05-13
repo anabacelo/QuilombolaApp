@@ -53,10 +53,32 @@ Navegue à vontade!!!
     <!-- O QUE É SER QUILOMBOLA -->
     <string name="titulo_oqeh01"> O que é ser Quilombola? </string>
 
-    <string name="texto_oqeh01"> <b> “Ser quilombola é pertencer a uma comunidade negra, assumir sua cor,
-        sentir orgulho, lutar contra o racismo, pela liberdade, pelos ideais, pelos objetivos.
-        Ser quilombola é ter orgulho de sua comunidade e de seu povo. Ser quilombola é ter a “consciência limpa,
-        isto é, sem preconceito”. </b>
+
+    <string name="textoDireitosImagemOqueESerQuilombola">
+    Fonte: Adalberto Dos Santos
+    </string>
+
+    <string name="textViewOqueESerQuilombola">
+        <b>
+            “Então ser quilombola, que nem eu vivo dizendo pro pessoal, é tudo de bom, ser negra
+é muito orgulho, muito bom, apesar da gente saber que têm as dificuldades e as portas
+fechadas, mas a gente dá um jeito. E com a resistência que nós temos e que a gente já
+herdou dos nossos antepassados, né, essa força a gente consegue atravessar essas
+portas, sim. Acho que é isso, pra mim ser quilombola é isso. É desistir jamais.” \n
+- Moradora do Quilombo dos Alpes
+            \n \n
+Procurar cultivar a cultura dos escravizados, que por um bom tempo foram tratados
+como escravos no Brasil. Acho muito importante ser quilombola, e o porquê ser
+quilombola acho que é um direito nosso, a onde foi tratado os escravos aqui na Barão
+de Gravataí, que procuramos sempre valorizar e retratar a nossa história, e procurar
+os benefícios adequados para a nossa comunidade. \n
+Morador do Quilombo Areal da Baronesa \n \n
+“Ser Quilombola, são os negros oriundos dos fugitivos dos senhores de engenho,
+escravizaram eles, então o Quilombo é só um negro, tinha muito branco no meio dos
+crioulos também, era só os fugitivos né, são os negros que iam para lá ser acolhidos
+pelos zumbis.” \n
+- Morador do Quilombo Fidélix
+        </b>
     </string>
 
     <string name="textoDireitos">
@@ -197,8 +219,17 @@ Navegue à vontade!!!
     <string name="titulo_quilomboFidelix"> Quilombo da Família Fidélix</string>
     <string name="titulo_video_quilopoa01"> VÍDEO: Quilombos Urbanos - Capítulo 4:</string>
     <string name="titulo_video_quilopoa02"> VÍDEO: Areal da Baronesa, berço do samba em Porto Alegre:</string>
-    <string name="titulo_video_quilopoa03"> VÍDEO: Quilombo do Areal - Entrevista com Denis Luiz Alves:</string>
-    <string name="titulo_video_quilopoa04"> VÍDEO: Areal da Baronesa - Samba Enredo 1997:</string>
+
+
+
+    <string name="titulo_video_quilopoa03">
+    No link abaixo você encontra um vídeo da reportagem especial realizada pelo jornalista Nestor Tipa Júnior em 2011 sobre os Quilombos Urbanos de Porto Alegre e Região
+Metropolitana. O Quilombo Alpes é o quinto dessa reportagem especial.
+    </string>
+
+    <string name="video_quilopoa03">
+        https://www.youtube.com/watch?v=CXKGZfYNCxI
+    </string>
 
     <string name="textoDireitosLayoutQuilomboDosAlpes">
         FOTO POR NEPEVI/PUCRS
@@ -318,16 +349,36 @@ Navegue à vontade!!!
         <b> Vídeo: https://www.youtube.com/watch?v=10etFH6UTRU </b> \n\n
     </string>
 
-    <string name="video_quilopoa03">
-         29 de novembro de 2016. Vídeo gravado em 26/11 em visita ao Quilombo do Areal, em Porto Alegre/RS. \n\n
-        <b>Vídeo: https://www.youtube.com/watch?v=Bdz9uoRa_WQ</b> \n\n
+    <string name="textoEntrevistaArealDaBaronesa">
+ No link abaixo você encontra um vídeo da reportagem especial realizada pelo jornalista
+Nestor Tipa Júnior em 2011 sobre os Quilombos Urbanos de Porto Alegre e Região
+Metropolitana. O Quilombo Areal da Baronesa é quarto dessa reportagem especial.
+ \n\n
     </string>
 
-    <string name="video_quilopoa04">
-        29 de junho de 2015. Enredo: João Candido, o Almirante Negro. Interprete: Wanderlei do Areal. Resultado: 3º Lugar \n\n
-        <b>Vídeo: https://www.youtube.com/watch?v=u0Qvhtl_E1M</b> \n\n
+    <string name="linkTextoEntrevistaArealDaBaronesa">
+        https://www.youtube.com/watch?v=DKHGd6YMYiY
     </string>
 
+    <string name="textoEntrevistaQuilomboFidelix">
+        No link abaixo você encontra um vídeo da reportagem especial realizada pelo jornalista
+Nestor Tipa Júnior em 2011 sobre os Quilombos Urbanos de Porto Alegre e Região
+Metropolitana. O Quilombo Fidélix é terceiro dessa reportagem especial.
+    </string>
+
+    <string name="linkEntrevistaQuilomboFidelix">
+        https://www.youtube.com/watch?v=9QKHWAjrVIg
+    </string>
+
+    <string name="textoEntrevistaQuilomboSilva">
+No link abaixo você encontra um vídeo da reportagem especial realizada pelo jornalista
+Nestor Tipa Júnior em 2011 sobre os Quilombos Urbanos de Porto Alegre e Região
+Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
+    </string>
+
+    <string name="linkEntrevistaQuilomboSilva">
+        https://www.youtube.com/watch?v=KKrqs_sNjvA
+    </string>
 
     <!-- QUILOMBOS DE PORTO ALEGRE -->
 
@@ -336,6 +387,11 @@ Navegue à vontade!!!
     <string name="titulo_lei_legislacao_conselho_tutelar"> ESTATUTO DA CRIANÇA E DO ADOLESCENTE – ( LEI N. 8.069/1990 )</string>
     <string name="titulo_politica_nacional_de_assistencia_social"> Política Nacional de Assistência Social</string>
     <string name="titulo_estatuto_juventude">Estatuto da Juventude</string>
+
+    <string name="textoDireitosImagemEstatudoDoIdoso">
+      \t  Fonte: Reprodução/Jornal O São Paulo. \n\n
+    </string>
+
 
     <string name="tituloLeiEstatutoDoIdoso">
       \t  Estatuto do Idoso – (LEI N.10.741/2003) \n\n
@@ -1683,7 +1739,7 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     <string name="titulo_assistencial02">O que é? Onde? e Como Acessar?</string>
     <string name="titulo_assistencial03">Telefones úteis em Porto Alegre</string>
     <string name="titulo_assistencial04"> Micro Regiões</string>
-    <string name="titulo_assistencial05">Serviço de convivência e fortalecimento de veículos (SCFV)</string>
+    <string name="titulo_assistencial05">Serviço de convivência e fortalecimento de vínculos (SCFV)</string>
 
 
     <string name="texto_assitencial01">
@@ -2501,4 +2557,7 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     Renata Alencar Póvoas - Graduanda em Serviço Social/PUCRS – Bolsista PIBIC CNPq
     </string>
     <!-- Fim: SOBRE NOS -->
+
+    
+
 </resources>
