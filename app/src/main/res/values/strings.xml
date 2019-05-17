@@ -1840,23 +1840,15 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         http://www.editorialj.eusoufamecos.net/site/acontece/frente-quilombola-reforca-mobilizacao-para-garantir-posse-de-seus-territorios/
     </string>
 
-
-
-
     <!-- Representações Quilombola -->
 
-    <string name="direitoAutoral_quilombosPortoAlegre">
-        meubairropoa
+    <string name="direitoAutoralQuilombosPortoAlegre">
+        Catracalivre
     </string>
 
     <string name="direitoAutoral_quilombosAreal">
         wikimapia.org - Quilombo-do-Areal
     </string>
-
-
-
-
-
 
     <!-- Mulheres Quilombola -->
     <string name="textoTituloMulheresQuilombola">
