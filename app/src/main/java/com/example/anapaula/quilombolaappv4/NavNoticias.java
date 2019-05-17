@@ -36,8 +36,9 @@ public class NavNoticias extends Fragment implements IOnBackPressed{
         mWebView.setWebViewClient(new WebViewClientOverride());
 
         // Load remote site
+        mWebView.loadUrl("http://app-quilombola.epizy.com/noticias.html");
         //mWebView.loadUrl("http://www.html5rocks.com/");
-        mWebView.loadUrl("file:///android_asset/www/noticias.html");
+        //mWebView.loadUrl("file:///android_asset/www/noticias.html");
         return view;
     }
 

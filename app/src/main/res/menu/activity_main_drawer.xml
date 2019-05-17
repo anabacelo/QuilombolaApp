@@ -60,10 +60,7 @@
             android:id="@+id/nav_10"
             android:title="Mulheres Negras Quilombolas"
             android:icon="@drawable/ic_person"/>
-        <item
-            android:id="@+id/nav_noticias"
-            android:title="Notícias"
-            android:icon="@drawable/ic_person"/>
+
 
     </group>
 
