@@ -1,30 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:id="@+id/layout_mioma_uterino"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layout_politica_Nacional_integral"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
 
 
     <ScrollView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
         <RelativeLayout
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical" >
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textViewTituloMiomaUterino"
-                android:text="@string/textoTituloMiomaUterino"
+                android:id="@+id/textViewTituloPopulacaoNegra"
+                android:text="@string/textoTituloPoliticaNacionalIntegral"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:linksClickable="true"
                 style="@style/estiloTextoTitulo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textViewTextoMiomaUterino"
-                android:layout_below="@+id/textViewTitulo"
-                android:text="@string/textoMiomaUterino"
+                android:id="@+id/textViewTextoPopulacaoNegra"
+                android:layout_below="@+id/textViewTituloPopulacaoNegra"
+                android:text="@string/textoPoliticaNacionalIntegral"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:autoLink="web"
@@ -32,9 +35,9 @@
                 style="@style/estiloTextoComplemento" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textViewTextoComplementoMiomaUterino"
-                android:layout_below="@+id/textViewTextoMiomaUterino"
-                android:text="@string/textoComplementoMiomaUterino"
+                android:id="@+id/textViewTextoComplementoPopulacaoNegra"
+                android:layout_below="@+id/textViewTextoPopulacaoNegra"
+                android:text="@string/textoComplementoPoliticaNacionalIntegral"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:autoLink="web"

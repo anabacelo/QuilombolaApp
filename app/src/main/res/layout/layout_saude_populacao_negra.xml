@@ -15,25 +15,25 @@
             android:layout_height="wrap_content"
             android:orientation="vertical" >
 
-            <TextView
-                android:id="@+id/textViewTituloPopulacaoNegra"
-                android:text="@string/titulo_popnegra01"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                style="@style/estiloTextoTitulo" />
-
             <ImageView
                 android:id="@+id/imageViewPopulacaoNegra"
-                android:src="@drawable/saudedapopnegra"
-                android:layout_below="@+id/textViewTituloPopulacaoNegra"
+                android:src="@drawable/saudepopulacaonegra"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 style="@style/estiloImagem"/>
 
+            <TextView
+                android:id="@+id/textViewTituloPopulacaoNegra"
+                android:layout_below="@+id/imageViewPopulacaoNegra"
+                android:text="@string/titulo_popnegra01"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoDireitosReservados" />
+
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoPopulacaoNegra"
+                android:layout_below="@+id/textViewTituloPopulacaoNegra"
                 android:text="@string/texto_popnegra01"
-                android:layout_below="@+id/imageViewPopulacaoNegra"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:autoLink="web"

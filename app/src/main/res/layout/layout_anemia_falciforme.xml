@@ -31,6 +31,16 @@
                 android:linksClickable="true"
                 style="@style/estiloTextoComplemento" />
 
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewTextoTextoComplementoAnemiaFalciforme"
+                android:layout_below="@+id/textViewTextoTextoAnemiaFalciforme"
+                android:text="@string/textoComplementoAnemiaFalciforme"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:autoLink="web"
+                android:linksClickable="true"
+                style="@style/estiloTextoComplemento" />
+
         </RelativeLayout>
     </ScrollView>
 </LinearLayout>

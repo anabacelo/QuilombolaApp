@@ -47,6 +47,7 @@ public class Nav5 extends Fragment {
     private void initializeData()
     {
         Integer layoutSaudePopulacaoNegra = R.layout.layout_saude_populacao_negra;
+        Integer layoutPoliticaNacionalDeSaudeIntegral = R.layout.layout_politica_nacional_integral;
         Integer layoutDoencasPrevalecenteNegra = R.layout.layout_doencas_prevalecente_negra;
         Integer layoutAnemiaFalciforme = R.layout.layout_anemia_falciforme;
         Integer layoutDiabeteMellitus = R.layout.layout_diabete_mellitus;
@@ -58,10 +59,11 @@ public class Nav5 extends Fragment {
         listHash = new HashMap<>();
 
         listDataHeader.add("Saúde da População Negra");
+        listDataHeader.add("Política Nacional de Saúde Integral da População Negra: Uma política para o SUS");
         listDataHeader.add("Doenças Prevalecentes na População Negra");
         listDataHeader.add("Anemia Falciforme");
         listDataHeader.add("Diabetes Mellitus");
-        listDataHeader.add("Hipertensão Arterial");
+        listDataHeader.add("Hipertensão Arterial Sistêmica");
         listDataHeader.add("Mioma Uterino");
         listDataHeader.add("Atendimento SUS para os Quilombos");
 
@@ -69,22 +71,25 @@ public class Nav5 extends Fragment {
         layoutList0.add(layoutSaudePopulacaoNegra);
 
         List<Integer> layoutList1 = new ArrayList<>();
-        layoutList1.add(layoutDoencasPrevalecenteNegra);
+        layoutList1.add(layoutPoliticaNacionalDeSaudeIntegral);
 
         List<Integer> layoutList2 = new ArrayList<>();
-        layoutList2.add(layoutAnemiaFalciforme);
+        layoutList2.add(layoutDoencasPrevalecenteNegra);
 
         List<Integer> layoutList3 = new ArrayList<>();
-        layoutList3.add(layoutDiabeteMellitus);
+        layoutList3.add(layoutAnemiaFalciforme);
 
         List<Integer> layoutList4 = new ArrayList<>();
-        layoutList4.add(layoutHipertensaoArterial);
+        layoutList4.add(layoutDiabeteMellitus);
 
         List<Integer> layoutList5 = new ArrayList<>();
-        layoutList5.add(layoutMiomaUterino);
+        layoutList5.add(layoutHipertensaoArterial);
 
         List<Integer> layoutList6 = new ArrayList<>();
-        layoutList6.add(layoutQuilombosAtendidosSUS);
+        layoutList6.add(layoutMiomaUterino);
+
+        List<Integer> layoutList7 = new ArrayList<>();
+        layoutList7.add(layoutQuilombosAtendidosSUS);
 
         listHash.put(listDataHeader.get(0), layoutList0);
         listHash.put(listDataHeader.get(1), layoutList1);
@@ -93,5 +98,6 @@ public class Nav5 extends Fragment {
         listHash.put(listDataHeader.get(4), layoutList4);
         listHash.put(listDataHeader.get(5), layoutList5);
         listHash.put(listDataHeader.get(6), layoutList6);
+        listHash.put(listDataHeader.get(7), layoutList7);
     }
 }

@@ -983,14 +983,35 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
 
 
     <string name="texto_popnegra01">
-        A história brasileira – considerando o período da escravatura, já abolida,mas ainda não
-        superada – deixou importantes marcas no modo de vida da população negra no Brasil,
-        trazendo consequências para a saúde desta população que devem ser observadas a partir de suas características próprias. \n\n
-        A Política Nacional de Saúde Integral da População Negra define a forma como o Governo, Estado e Municípios devem pensar
-        estratégias para a melhoria das condições de saúde da população negra.\n\n
+        A população autodeclarada negra (pretos e pardos) do Rio Grande do Sul totaliza 1.725.166 pessoas, segundo o censo
+        demográfico de 2010 realizado pelo IBGE, o que representa 16,13% dos habitantes do estado. Parte significativa dessa
+        população, especialmente as residentes em comunidades remanescentes de quilombos ou nas periferias, apresentam condições de
+        alta vulnerabilidade social e econômica resultantes do processo de escravidão, que durante mais de 300 anos no Brasil,
+        exclui essa parcela da sociedade, negando-lhe o direito à cidadania, entre outros direitos fundamentais (emprego, moradia,
+        educação, acesso à saúde). Soma-se a isso as consequências do racismo institucional, o que dificulta ainda mais o acesso a
+        serviços de saúde de forma qualificada. \n
 
-        <i>Conheça a Política: http://bvsms.saude.gov.br/bvs/publicacoes/politica_nacional_saude_integral_populacao.pdf</i>
+        Disponível em: Secretaria de Saúde do Estado do Rio Grande do Sul. Saúde da População Negra. Disponível em: \n
+        https://saude.rs.gov.br/saude-da-populacao-negra
  </string>
+
+    <string name="textoTituloPoliticaNacionalIntegral">
+        Política Nacional de Saúde Integral da População Negra: Uma política para o SUS
+    </string>
+
+    <string name="textoPoliticaNacionalIntegral">
+        O Ministério da Saúde institui em 13 de maio de 2009, pela Portaria nº 992, a Política Nacional de Saúde Integral da População Negra, que visa garantir a equidade e a
+         efetivação do direito à saúde para a população negra, o reconhecimento do racismo, das desigualdades étnico-raciais e do racismo institucional. Entre suas diretrizes
+        e objetivos inclui ações de cuidado, atenção, promoção à saúde e prevenção de doenças, bem como de gestão participativa, participação popular e controle social,
+        produção de conhecimento, formação e educação permanente para profissionais da saúde, visando à promoção da saúde da população negra, levando em consideração suas
+        diferentes condições de vida e saúde.
+    </string>
+
+    <string name="textoComplementoPoliticaNacionalIntegral">
+        Disponível em: \n
+        Política Nacional de Saúde Integral da População Negra: Uma política do SUS. Ministério da Saúde,2009. Disponível em: \n
+        http://bvsms.saude.gov.br/bvs/publicacoes/politica_nacional_saude_populacao_negra_3d.pdf
+    </string>
 
     <string name="texto_popnegra02">
         <b>Doenças Prevalecentes na População Negra</b> \n\n
@@ -1007,63 +1028,52 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
     </string>
 
     <string name="textoAnemiaFalciforme">
-        A Anemia Falciforme é causada pela ausência da hemoglobina A.
-        No lugar dela, ocorpo produz outra, a hemoglobina S, o
-        que faz com que essa anemia seja mais persistente que o tipo de anemia mais conhecido.
-        Vamos entender melhor: O sangue é formado por hemácias, células vermelhas redondas
-        cheias de um pigmento chamado de hemoglobina A que, junto com o ferro, é responsável por transportar o
-        oxigênio pelo corpo. A hemoglobina S não leva oxigênio pelo corpo da forma necessária, pois ao invés de serem
-        células redondas, elas têm o formato de meia lua, tendo dificuldade de passar pelas veias para oxigenar os órgãos.
-        Essa dificuldade pode causar entupimento e dores, principalmente nos ossos. \n\n
+        Doença hereditária (passa dos pais para os filhos), decorrente de uma mutação genética ocorrida há milhares de anos, no continente africano. A doença, que chegou ao
+        Brasil pelo tráfico de escravos, tem como característica a alteração dos glóbulos vermelhos do sangue, tornando-os parecidos com uma foice, daí o nome falciforme.
+        \n Essa condição é mais comum na população negra, representando 6% a 10% dos casos, porém devido a miscigenação, outras populações (branca/parda/indígena) também
+        apresentam a doença, variando de 2% a 6% dos casos. \n\n
+    </string>
 
-        <b>Mais Informações em: </b>
-        <i> Manual da Anemia Falciforme para a População, 2007.   \n\n
-        http://www.saude.sp.gov.br/resources/ses/perfil/cidadao/orientacao/manual_da_anemia_falciforme_para_a_populacao.pdf \n\n
-        Doença Falciforme: Condutas Básicas Para Tratamento, 2012. \n\n
-        http://bvsms.saude.gov.br/bvs/publicacoes/doenca_falciforme_condutas_basicas.pdf </i>  \n\n
+    <string name="textoComplementoAnemiaFalciforme">
+        Disponível em: \n
+        Associação Brasileira de Hematologia, Hemoterapia e Terapia Celular. 7 verdades sobre anemia falciforme. Disponível em: \n
+        http://www.abhh.org.br/imprensa/7-verdades-sobre-anemia-falciforme/
     </string>
 
     <string name="textoTituloDiabetesMellitus">
-        <b> Diabetes Mellitus</b>
+        <b> Diabetes mellitus (II) </b>
     </string>
 
     <string name="textoDiabetesMellitus">
-        \n\n
-            Diabetes é uma doença crônica em que a produção do hormônio insulina pelo corpo apresenta alteração de forma duradoura.
-        Este hormônio (insulina) é responsável por controlar a quantidade e a utilização da glicose no sangue.
-        Como o corpo da pessoa com Diabetes Mellitus tem dificuldade em produzir esse hormônio, acontece a alteração
-        da glicose – chamada de hiperglicemia – e, sem o tratamento adequado, essa alteração pode causar
-        danos a órgãos,vasos sanguíneos e nervos. \n\n
+        \n\n Esse tipo de diabetes se desenvolve na fase adulta e evolui causando danos em todo o organismo, apresenta relação importante com a obesidade e o sedentarismo.
+        É uma doença crônica que afeta a forma como o corpo processa o nível de ‘’açúcar do sangue’’ (glicose). Na maioria das vezes o corpo não produz insulina
+        (responsável pelo nível de ‘’açúcar do sangue’’) ou não reconhece que produziu. Essa doença atinge com mais frequência os homens negros (9% a mais que os homens
+        brancos) e as mulheres negras (em torno de 50% a mais do que as mulheres brancas). \n\n
+    </string>
 
-        <b> Mais informações em: </b>
-        <i>Sociedade Brasileira de Diabetes, site. \n\n
-        http://www.diabetes.org.br/publico/ \n\n
-        CAB: Estratégias para o cuidado da pessoa com doença crônica: diabetes mellitus, 2013.\n\n
-        http://189.28.128.100/dab/docs/portaldab/publicacoes/caderno_36.pdf\n\n
-        CAB: Diabetes Mellitus, 2006.\n\n
-        http://bvsms.saude.gov.br/bvs/publicacoes/diabetes_mellitus.PDF </i> \n\n
+    <string name="textoComplementoDiabetesMellitus">
+        \n\n Disponível em: Sociedade Brasileira de Diabetes. O que é diabetes? Disponível em: https://www.diabetes.org.br/publico/ \n\n
     </string>
 
     <string name="textoTituloHipertensao">
-       Hipertensão Arterial
+       Hipertensão Arterial Sistêmica
     </string>
 
     <string name="textoHipertensao">
-        A Hipertensão, conhecida como pressão alta, é uma alteração persistente no fluxo sanguíneo
-        dentro das artérias, o que pode acontecer, principalmente, porque os vasos pelos quais circula o
-        sangue se contraem, ficando mais estreitos.
-        Pra entendermos melhor, a Sociedade Brasileira de Hipertensão compara o coração e os vasos sanguíneos
-        a uma torneira aberta ligada: se a saída da torneira é estreitada ou trancada, a pressão dentro dela aumenta,
-        causando danos a todo o sistema. O mesmo acontece com o corpo quando o fluxo sanguíneo não ocorre
-        corretamente: sem o tratamento adequado, a Hipertensão Arterial pode causar danos ao coração, aos rins e ao cérebro. \n\n
+        A hipertensão arterial ou pressão alta é uma doença crônica caracterizada pelos níveis elevados da pressão sanguínea nas artérias. Ela acontece quando os valores
+        das pressões máxima e mínima são iguais ou ultrapassam os 140/90 mmHg (ou 14 por 9). A pressão alta faz com que o coração tenha que exercer um esforço maior do que
+        o normal para fazer com que o sangue seja distribuído corretamente no corpo.  A pressão alta é um dos principais fatores de risco para a ocorrência de acidente
+        vascular cerebral, enfarte, aneurisma arterial e insuficiência renal e cardíaca. O problema é herdado dos pais em 90% dos casos, mas há vários fatores que
+        influenciam nos níveis de pressão arterial, como os hábitos de vida do indivíduo. Na população negra a prevalência e a gravidade da hipertensão são maiores, o que
+        pode estar relacionado a fatores étnicos e/ou socioeconômicos. \n\n
+    </string>
 
-        <b>Mais informações em: </b>
-        <i>Sociedade Brasileira de Hipertensão, site: \n\n
-        http://www.sbh.org.br/geral/oque-e-hipertensao.asp \n\n
-        Tratar a Pressão Alta é um ato e Fé na Vida, cartilha: \n\n
-        http://www.saude.ba.gov.br/novoportal/images/stories/acoeseprogramas/arquivos/cartilha_hipertensao.pdf \n\n
-        CAB: Estratégias para o cuidado da pessoa com doença crônica: hipertensão arterial sistêmica, 2013. \n\n
-            http://189.28.128.100/dab/docs/portaldab/publicacoes/caderno_37.pdf </i> \n\n
+    <string name="textoComplementoHipertensao">
+        Disponível em: Ministério da Saúde. Hipertensão (pressão alta): causas, sintomas, diagnóstico, tratamento e prevenção. Disponível em:
+        \n http://portalms.saude.gov.br/saude-de-a-z/hipertensao \n\n
+        BRASIL. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Atenção Básica. Cadernos de
+        Atenção Básica 15: hipertensão arterial sistêmica para o Sistema Único de Saúde. Brasília, DF, 2006. Disponível em: \n
+        http://bvsms.saude.gov.br/bvs/publicacoes/caderno_atencao_basica15.pdf \n\n
     </string>
 
     <string name="textoTituloMiomaUterino">
@@ -1071,18 +1081,23 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
     </string>
     <string name="textoMiomaUterino">
         \n\n
-        O mioma uterino é um tipo de tumor benigno de causa desconhecida, que seapresenta como uma espécie de nódulo dentro ou
-        fora do útero em uma parte conhecida como músculo uterino.
-        Segundo a Associação de Obstetrícia e Ginecologia do Estado de São Paulo,
-        é mais frequente em mulheres dos 40 aos 50 anos e atinge mais as mulheres negras, portanto, a idade,
-        o histórico familiar, a origem étnica e a obesidade aparecem como fatores
-        de risco para o surgimento dos miomas. As mulheres com mioma podem ter sintomas
-        como menstruação irregular, anemia, cólicas, sangramento fora de hora, dores
-        abdominais, pélvicas e na relação sexual e problemas urinários. \n\n
+        O mioma uterino é um tipo de tumor benigno de causa desconhecida, que seapresenta como uma espécie de nódulo dentro ou fora do útero em uma parte conhecida como
+        músculo uterino. Segundo a Associação de Obstetrícia e Ginecologia do Estado de São Paulo, é mais frequente em mulheres dos 40 aos 50 anos e atinge mais as mulheres
+        negras, portanto, a idade, o histórico familiar, a origem étnica e a obesidade aparecem como fatores de risco para o surgimento dos miomas. As mulheres com mioma
+        podem ter sintomas como menstruação irregular, anemia, cólicas, sangramento fora de hora, dores abdominais, pélvicas e na relação sexual e problemas urinários. \n\n
 
         <b>Mais informações em:</b>
         <b>Associação de Obstetrícia e Ginecologia do Estado de São Paulo, 2017. \n\n
         http://www.sogesp.com.br/canal-saude-mulher/guia-de-saude-e-bem-estar/mioma-causas-principais-sintomas-e-sinais-diagnostico-e-tratamentos </b> \n\n
+    </string>
+
+    <string name="textoComplementoMiomaUterino">
+        \n Disponível em: \n
+        Diretrizes para Acolhimento e Assistência à Saúde das Mulheres Negras. Prefeitura Municipal de Porto Alegre. Secretaria Municipal de Saúde, 2014. Disponível em: \n
+        http://lproweb.procempa.com.br/pmpa/prefpoa/sms/usu_doc/diretriz_de_acol_e_assist_saude_mu_negras.pdf \n\n
+
+        Sociedade Brasileira de Radiologia Intervencionista e Cirurgia Endovascular. Mioma Uterino. Disponível em: \n
+        http://www.sobrice.org.br/paciente/condicoes-clinicas/mioma-uterino \n\n
     </string>
 
     <!-- SAUDE POPULAÇÃO NEGRA -->
