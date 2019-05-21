@@ -46,11 +46,11 @@
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewConteudoOutubro07"
-                android:layout_below="@+id/textViewConteudoOutubro01"
+                android:layout_below="@+id/textViewTituloOutubro07"
                 android:text="@string/textoConteudoOutubro07"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                style="@style/estiloTextoTituloNormal" />
+                style="@style/estiloTextoConteudo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTituloOutubro10"
@@ -82,7 +82,7 @@
                 android:text="@string/textoConteudoOutubro11"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                style="@style/estiloTextoTituloNormal" />
+                style="@style/estiloTextoConteudo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTituloOutubro12"
@@ -126,7 +126,7 @@
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewConteudoOutubro15"
-                android:layout_below="@+id/textViewConteudoOutubro13"
+                android:layout_below="@+id/textViewTituloOutubro15"
                 android:text="@string/textoConteudoOutubro15"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -142,7 +142,7 @@
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewConteudoOutubro24"
-                android:layout_below="@+id/textViewConteudoOutubro15"
+                android:layout_below="@+id/textViewTituloOutubro24"
                 android:text="@string/textoConteudoOutubro24"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

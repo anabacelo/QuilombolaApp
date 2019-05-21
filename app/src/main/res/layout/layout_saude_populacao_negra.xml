@@ -28,7 +28,7 @@
                 android:text="@string/titulo_popnegra01"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                style="@style/estiloTextoDireitosReservados" />
+                style="@style/estiloTextoLayoutDireitaDireitosReservados" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoPopulacaoNegra"

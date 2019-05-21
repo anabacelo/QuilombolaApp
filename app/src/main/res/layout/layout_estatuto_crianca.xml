@@ -31,21 +31,17 @@
                     android:id="@+id/imageViewEstatutoDaCriancaAdolescente"
                     android:layout_below="@id/textViewTituloEstatudoDaCriancaAdolescente"
                     android:src="@drawable/estatutodacriancaedoadolescente"
-                    android:layout_width="212dp"
-                    android:layout_height="114dp"
-                    android:adjustViewBounds="true"
-                    android:scaleType="fitXY"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
                     style="@style/estiloImagem" />
 
-                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                <TextView
                     android:id="@+id/textViewDireitosImagemEstatutoDaIgualdadeRacial"
                     android:layout_below="@id/imageViewEstatutoDaCriancaAdolescente"
                     android:text="@string/textoDireitosImagemEstatutoDaIgualdadeRacial"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:autoLink="web"
-                    android:linksClickable="true"
-                    style="@style/estiloTextoDireitosReservados" />
+                    style="@style/estiloTextoLayoutDireitaDireitosReservados" />
 
                 <com.example.anapaula.quilombolaappv4.JustifyTextView
                     android:id="@+id/lblListItem_text_layout_estatudo_da_crianca"

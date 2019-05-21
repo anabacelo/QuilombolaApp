@@ -95,7 +95,7 @@
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewConteudoNovembro22"
                 android:layout_below="@+id/textViewTituloNovembro22"
-                android:text="@string/textoTituloNovembro22"
+                android:text="@string/textoConteudoNovembro22"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoConteudo" />
@@ -111,7 +111,7 @@
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewConteudoNovembro24"
                 android:layout_below="@+id/textViewTituloNovembro24"
-                android:text="@string/textoTituloNovembro24"
+                android:text="@string/textoConteudoNovembro24"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoConteudo" />
@@ -126,7 +126,7 @@
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewConteudoNovembro25"
-                android:layout_below="@+id/textViewConteudoNovembro24"
+                android:layout_below="@+id/textViewTituloNovembro25"
                 android:text="@string/textoConteudoNovembro25"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

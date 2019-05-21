@@ -26,17 +26,17 @@
                     android:id="@+id/imageViewPoliticaNacionalDeAssistenciaSocial"
                     android:layout_below="@id/textViewTituloPoliticaNacionalDeAssistenciaSocial"
                     android:src="@drawable/leidaassistenciasocial"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    style="@style/estiloImagem" />
+                    style="@style/estiloImagem"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
 
-                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                <TextView
                     android:id="@+id/textViewTextoDireitosPoliticaNacionalDeAssistenciaSocial"
                     android:layout_below="@id/imageViewPoliticaNacionalDeAssistenciaSocial"
                     android:text="@string/textoDireitosPoliticaNacionalDeAssistenciaSocial"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    style="@style/estiloTextoDireitosReservados" />
+                    style="@style/estiloTextoLayoutDireitaDireitosReservados" />
 
                 <com.example.anapaula.quilombolaappv4.JustifyTextView
                     android:id="@+id/textViewSubTituloSobreBeneficioPrestacaoContinuada"

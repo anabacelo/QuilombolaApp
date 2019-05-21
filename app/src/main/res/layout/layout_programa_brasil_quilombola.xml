@@ -31,13 +31,13 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloImagem" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <TextView
                 android:id="@+id/textViewDireitosProgramaBrasilQuilombola"
                 android:layout_below="@+id/imageViewProgramaBrasilQuilombola"
                 android:text="@string/textoDireitosProgramaBrasilQuilombola"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                style="@style/estiloTextoDireitosReservados" />
+                style="@style/estiloTextoLayoutDireitaDireitosReservados" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/text_layout_texto_programa_brasil_quilombola"

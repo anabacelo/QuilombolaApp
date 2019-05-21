@@ -45,7 +45,7 @@ Navegue à vontade!!!
     </string>
 
     <string name="textoDireitoAutoralDaImagemDoAdalbertoReisDosSantos">
-        Imagem: Adalberto Reis dos Santos \n
+        Imagens: Adalberto Reis dos Santos \n
     </string>
     <!-- Fim - Pagina Inicial -->
 
@@ -184,8 +184,7 @@ pelos zumbis.” \n
 
 
     <string name="textoDireitosImageA">
-        FOTO POR NEPEVI/PUCRS \n
-        FOTO E DESENHO POR ADALBERTO DO SANTOS
+        FOTO POR NEPEVI/PUCRS
     </string>
 
     <string name="texto_histcult01_part02">
@@ -457,6 +456,10 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
         &lt;http://www.planalto.gov.br/ccivil_03/LEIS/2003/L10.741.htm&gt;
         \n Acesso em: 08 abr.
         2019.
+    </string>
+
+    <string name="textoDireitosLayoutEstatutoDaJuventude">
+        Fonte: Reprodução/Olma
     </string>
 
     <string name="texto_estatuto_juventude">
@@ -910,6 +913,10 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
 
     <string name="textoTituloLeiMariaDaPenha">
         \t Lei Maria da Penha \n
+    </string>
+
+    <string name="textoDireitosLayoutLeiMariaDaPenha">
+        \t Fonte: Reprodução/AgoraSul. \n
     </string>
 
     <string name="texto_artigo_data_lei_maria_da_penha">

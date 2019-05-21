@@ -25,13 +25,21 @@
                 android:id="@+id/imageViewLeiMariaDaPenha"
                 android:layout_below="@id/textViewTituloLeiMariaDaPenha"
                 android:src="@drawable/leimariadapenha"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 style="@style/estiloImagem" />
 
+            <TextView
+                android:id="@+id/textViewTextoDireitosLayoutLeiMariaDaPenha"
+                android:layout_below="@id/imageViewLeiMariaDaPenha"
+                android:text="@string/textoDireitosLayoutLeiMariaDaPenha"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoLayoutDireitaDireitosReservados" />
+
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/texto_artigo_data_lei_maria_da_penha"
-                android:layout_below="@+id/imageViewLeiMariaDaPenha"
+                android:layout_below="@+id/textViewTextoDireitosLayoutLeiMariaDaPenha"
                 android:text="@string/texto_artigo_data_lei_maria_da_penha"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

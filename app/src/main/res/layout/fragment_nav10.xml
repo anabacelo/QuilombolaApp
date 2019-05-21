@@ -34,7 +34,7 @@
                 android:text="@string/textoByPatriciaGonçalves"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                style="@style/estiloTextoDireitosReservados" />
+                style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoIntroducaoDoisMulheresQuilombola"
@@ -160,7 +160,7 @@
                 android:id="@+id/imageViewMariaFelipadeOliveira"
                 android:layout_below="@+id/textViewTextoSeteMariaFelipa"
                 android:src="@drawable/maria_felipa_de_oliveira"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 style="@style/estiloImagem" />
 
@@ -170,7 +170,7 @@
                 android:text="@string/textoTituloSeteMariaFelipa"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                style="@style/estiloTextoDireitosReservados" />
+                style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoTituloOitoAcotirene"
@@ -224,7 +224,7 @@
                 android:id="@+id/imageViewRainhaTereza"
                 android:layout_below="@+id/textViewTextoDezRainha"
                 android:src="@drawable/rainha_tereza"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 style="@style/estiloImagem" />
 
@@ -362,7 +362,7 @@
                 android:text="@string/textoDireitosAutoraisGeledesOrg"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                style="@style/estiloTextoDireitosReservados" />
+                style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
 
         </RelativeLayout>
     </ScrollView>

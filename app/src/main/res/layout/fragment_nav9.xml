@@ -83,7 +83,7 @@
                 android:id="@+id/imageViewAbaomi"
                 android:layout_below="@+id/textViewtextViewAbayomiLink"
                 android:src="@drawable/abayomi"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 style="@style/estiloImagem" />
 
@@ -117,7 +117,7 @@
                 android:id="@+id/imageViewTrancasNago"
                 android:layout_below="@+id/textViewtextViewPalmasLink"
                 android:src="@drawable/montagem_nago"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 style="@style/estiloImagem" />
 
@@ -162,7 +162,7 @@
                 android:id="@+id/imageViewDesenhosGrafite1546872699578"
                 android:layout_below="@+id/textViewTextoFimTrancasNago"
                 android:src="@drawable/fb_img_1546872699578"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 style="@style/estiloImagem" />
 
@@ -170,7 +170,7 @@
                 android:id="@+id/imageViewDesenhosGrafite1546872710595"
                 android:layout_below="@+id/imageViewDesenhosGrafite1546872699578"
                 android:src="@drawable/fb_img_1546872710595"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 style="@style/estiloImagem" />
 
@@ -178,7 +178,7 @@
                 android:id="@+id/imageViewDesenhosGrafite1546872739748"
                 android:layout_below="@+id/imageViewDesenhosGrafite1546872710595"
                 android:src="@drawable/fb_img_1546872739748"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 style="@style/estiloImagem" />
 
@@ -186,7 +186,7 @@
                 android:id="@+id/imageViewDesenhosGrafite1546873013431"
                 android:layout_below="@+id/imageViewDesenhosGrafite1546872739748"
                 android:src="@drawable/fb_img_1546873013431"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 style="@style/estiloImagem" />
 
@@ -194,7 +194,7 @@
                 android:id="@+id/imageViewDesenhosGrafite1546873106888"
                 android:layout_below="@+id/imageViewDesenhosGrafite1546873013431"
                 android:src="@drawable/fb_img_1546873106888"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 style="@style/estiloImagem" />
 
@@ -202,7 +202,7 @@
                 android:id="@+id/imageViewDesenhosGrafite1546873356857"
                 android:layout_below="@+id/imageViewDesenhosGrafite1546873106888"
                 android:src="@drawable/fb_img_1546873356857"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 style="@style/estiloImagem" />
 
@@ -210,7 +210,7 @@
                 android:id="@+id/imageViewDesenhosGrafite1546873365584"
                 android:layout_below="@+id/imageViewDesenhosGrafite1546873356857"
                 android:src="@drawable/fb_img_1546873365584"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 style="@style/estiloImagem" />
 
@@ -218,7 +218,7 @@
                 android:id="@+id/imageViewDesenhosGrafite1546873383437"
                 android:layout_below="@+id/imageViewDesenhosGrafite1546873365584"
                 android:src="@drawable/fb_img_1546873383437"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 style="@style/estiloImagem" />
 
@@ -228,7 +228,7 @@
                 android:text="@string/textoDireitoAutoralDaImagemDoAdalbertoReisDosSantos"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                style="@style/estiloTextoDireitosReservados" />
+                style="@style/estiloTextoLayoutDireitaDireitosReservados" />
 
         </RelativeLayout>
     </ScrollView>
