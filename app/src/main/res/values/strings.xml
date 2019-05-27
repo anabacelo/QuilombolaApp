@@ -59,26 +59,23 @@ Navegue à vontade!!!
     </string>
 
     <string name="textViewOqueESerQuilombola">
-        <b>
-            “Então ser quilombola, que nem eu vivo dizendo pro pessoal, é tudo de bom, ser negra
-é muito orgulho, muito bom, apesar da gente saber que têm as dificuldades e as portas
-fechadas, mas a gente dá um jeito. E com a resistência que nós temos e que a gente já
-herdou dos nossos antepassados, né, essa força a gente consegue atravessar essas
-portas, sim. Acho que é isso, pra mim ser quilombola é isso. É desistir jamais.” \n
-- Moradora do Quilombo dos Alpes
-            \n \n
-Procurar cultivar a cultura dos escravizados, que por um bom tempo foram tratados
-como escravos no Brasil. Acho muito importante ser quilombola, e o porquê ser
-quilombola acho que é um direito nosso, a onde foi tratado os escravos aqui na Barão
-de Gravataí, que procuramos sempre valorizar e retratar a nossa história, e procurar
-os benefícios adequados para a nossa comunidade. \n
-Morador do Quilombo Areal da Baronesa \n \n
-“Ser Quilombola, são os negros oriundos dos fugitivos dos senhores de engenho,
-escravizaram eles, então o Quilombo é só um negro, tinha muito branco no meio dos
-crioulos também, era só os fugitivos né, são os negros que iam para lá ser acolhidos
-pelos zumbis.” \n
-- Morador do Quilombo Fidélix
-        </b>
+        \t “Então ser quilombola, que nem eu vivo dizendo pro pessoal, é tudo de bom, ser negra é muito orgulho, muito bom,
+        apesar da gente saber que têm as dificuldades e as portas fechadas, mas a gente dá um jeito. E com a resistência que nós
+        temos e que a gente já herdou dos nossos antepassados, né, essa força a gente consegue atravessar essas portas, sim. Acho
+        que é isso, pra mim ser quilombola é isso. É desistir jamais.” \n
+        \t - Moradora do Quilombo dos Alpes \n \n
+
+        Procurar cultivar a cultura dos escravizados, que por um bom tempo foram tratados como escravos no Brasil. Acho muito
+        importante ser quilombola, e o porquê ser quilombola acho que é um direito nosso, a onde foi tratado os escravos aqui
+        na Barão de Gravataí, que procuramos sempre valorizar e retratar a nossa história, e procurar os benefícios adequados
+        para a nossa comunidade. \n
+        \t - Morador do Quilombo Areal da Baronesa \n \n
+
+        “Ser Quilombola, são os negros oriundos dos fugitivos dos senhores de engenho,
+        escravizaram eles, então o Quilombo é só um negro, tinha muito branco no meio dos
+        crioulos também, era só os fugitivos né, são os negros que iam para lá ser acolhidos
+        pelos zumbis.” \n
+        \t - Morador do Quilombo Fidélix
     </string>
 
     <string name="textoDireitos">
@@ -97,22 +94,22 @@ pelos zumbis.” \n
 
 
     <string name="texto_beneficios01">
-        É um programa de transferência direta de renda que beneficia, em todo País,famílias em situação de pobreza (renda familiar per capita de
-        R$ 70,01 a R$ 140,00) e de extrema pobreza (renda familiar per capita de até R$ 70,00). O Bolsa Família integra o A gestão do Bolsa Família é
-        descentralizada e compartilhada entre a União, estados, Distrito Federal e municípios. \n\n Podem fazer parte do Programa Bolsa Família as famílias
-        com renda mensal de até R$ 140 (cento e quarenta reais) por pessoa devidamente cadastradas no Cadastro Único para Programas Sociais (CadÚnico).
-        A renda da família é calculada a partir da soma do dinheiro que todas as pessoas da casa ganham por mês (como salários e aposentadorias).
-        Esse valor deve ser dividido pelo número de pessoas que vivem na casa, obtendo assim a renda por pessoa da família.  As famílias que possuem
-        renda mensal entre R$ 70,01 e R$ 140,00, só ingressam no Programa se possuírem crianças ou adolescentes de 0 a 17 anos. Já as famílias com renda mensal
-        de até R$ 70,00 por pessoa, podem participar do Bolsa Família ‐ qualquer que seja a idade dos membros da família. \n\n
+        É um programa de transferência direta de renda que beneficia, em todo País, famílias em situação de pobreza (renda familiar per capita de
+R$ 70,01 a R$ 140,00) e de extrema pobreza (renda familiar per capita de até R$ 70,00). O Bolsa Família integra o A gestão do Bolsa Família é
+descentralizada e compartilhada entre a União, estados, Distrito Federal e municípios. \n\n Podem fazer parte do Programa Bolsa Família as famílias
+com renda mensal de até R$ 140 (cento e quarenta reais) por pessoa devidamente cadastradas no Cadastro Único para Programas Sociais (CadÚnico).
+A renda da família é calculada a partir da soma do dinheiro que todas as pessoas da casa ganham por mês (como salários e aposentadorias).
+Esse valor deve ser dividido pelo número de pessoas que vivem na casa, obtendo assim a renda por pessoa da família. As famílias que possuem
+renda mensal entre R$ 70,01 e R$ 140,00, só ingressam no Programa se possuírem crianças ou adolescentes de 0 a 17 anos. Já as famílias com renda mensal
+de até R$ 70,00 por pessoa, podem participar do Bolsa Família ‐ qualquer que seja a idade dos membros da família. \n\n
 
-        <b>Quem pode participar:</b> Os Estados, os Municípios e Distrito Federal (como gestores locais) e famílias em situação de pobreza ou extrema pobreza (como beneficiários).
-        Famílias quilombolas são priorizadas no processo de inserção do cadastro. \n\n
+<b>Quem pode participar:</b> Os Estados, os Municípios e Distrito Federal (como gestores locais) e famílias em situação de pobreza ou extrema pobreza (como beneficiários).
+Famílias quilombolas são priorizadas no processo de inserção do cadastro. \n\n
 
-        <b>Como participar: </b> A seleção das famílias para o Programa bolsa Família  ‐  PBF é feita com base nas informações registradas pelo município no Cadastro Único para
-        Programas Sociais do Governo Federal ‐  Cadúnico, instrumento de coleta de dados que tem como objetivo identificar todas as famílias de baixa renda existentes no Brasil. \n\n
+<b>Como participar: </b> A seleção das famílias para o Programa bolsa Família ‐ PBF é feita com base nas informações registradas pelo município no Cadastro Único para
+Programas Sociais do Governo Federal ‐ CadÚnico, instrumento de coleta de dados que tem como objetivo identificar todas as famílias de baixa renda existentes no Brasil. \n\n
 
-        <b>Fonte: Guia de Políticas Públicas para Comunidades Quilombolas. Disponível em: http://www.seppir.gov.br/portal-antigo/arquivos-pdf/guia-pbq> </b> \n\n
+<b>Fonte: Guia de Políticas Públicas para Comunidades Quilombolas. Disponível em: http://www.seppir.gov.br/portal-antigo/arquivos-pdf/guia-pbq> </b> \n\n
 
     </string>
 
@@ -196,7 +193,7 @@ pelos zumbis.” \n
 
         Com o tempo, surgiram diversas comunidades de refúgio e preservação da cultura africana.
         Mesmo tendo sofrido muitas violências, por representarem uma ameaça ao sistema escravagista, a resistência
-        continua sendo a marca do povo quilombola, hoje apre em mais de duas mil comunidades quilombolas já certificadas.
+        continua sendo a marca do povo quilombola, hoje manifesta-se em mais de duas mil comunidades quilombolas já certificadas.
     </string>
 
     <string name="texto_histcult01_part03">
@@ -267,19 +264,17 @@ Metropolitana. O Quilombo Alpes é o quinto dessa reportagem especial.
 
     <string name="texto_quilopoa02">
         Abriga pelo menos 70 famílias, segundo o Instituto Nacional de Colonização e Reforma Agrária (INCRA). \n\n
-        <b>
-            Fonte: \n
-        </b>
-        <b>
-            http://www.canalrural.com.br/noticias/agricultura/quilombo-areal-resgata-historia-cultural-desde-epoca-escravidao-14187
-            \n\n
-        </b>
+        <b> Fonte: \n </b>
+        <b> http://www.canalrural.com.br/noticias/agricultura/quilombo-areal-resgata-historia-cultural-desde-epoca-escravidao-14187
+            \n\n </b>
 
-        Situado no limite entre os bairros Cidade Baixa e Menino \n Deus, o Areal da Baronesa é um dos espaços de cultura negra mais tradicionais de Porto Alegre.
-        Teve origem no século XIX, quando passou a ser reduto de ex-escravos e seus descendentes, que ocupavam a chácara da Baronesa do Gravataí. Ela deixou as terras
-        para seus escravos. A área de 4,5 mil metros quadrados fica na avenida Luiz Guaranha, rua sem saída, onde vivem 80 famílias. A comunidade é legatária da área
-        conhecida por ter uma das primeiras ruas de Porto Alegre, pelas casas de religião, pelo Carnaval de Rua e por seus músicos populares. Ocupa um beco, a que chamam de
-        avenida – uma pequena rua com casas geminadas. As fachadas de antigas casas são preservadas, por seu caráter histórico. (PMPA, 2015)
+        \t Situado no limite entre os bairros Cidade Baixa e Menino Deus, o Areal da Baronesa é um dos espaços de cultura negra
+        tradicionais de Porto Alegre. Teve origem no século XIX, quando passou a ser reduto de ex-escravos e seus descendentes,
+        que ocupavam a chácara da Baronesa do Gravataí. Ela deixou as terras para seus escravos. A área de 4,5 mil metros
+        quadrados fica na avenida Luiz Guaranha, rua sem saída, onde vivem 80 famílias. A comunidade é legatária da área conhecida
+        por ter uma das primeiras ruas de Porto Alegre, pelas casas de religião, pelo Carnaval de Rua e por seus músicos populares.
+        Ocupa um beco, a que chamam de avenida – uma pequena rua com casas geminadas. As fachadas de antigas casas são preservadas,
+        por seu caráter histórico. (PMPA, 2015)
 
         \n\n As sociabilidades de rua e as relações de auxílio mútuo, caracterizam o “morar em casa de avenida” - modo de vida que é um dos elementos centrais na identidade
         dessa comunidade. São aproximadamente 80 famílias que vivem em uma das últimas “avenidas” da região, a Luís Guaranha, historicamente ocupada por famílias negras.
@@ -321,18 +316,23 @@ Metropolitana. O Quilombo Alpes é o quinto dessa reportagem especial.
     <string name="texto_quilopoa04">
         A Família Fidélix é como se denomina a comunidade localizada na região do bairro Cidade Baixa, na Rua Otto Ernest Maier,
         limitada por um lado pela Rua Sebastião Leão e pelo outro lado pelo Hospital de Porto Alegre. Com 32 famílias, na sua maioria
-        egressa da cidade de Santana do Livramento, a comunidade foi fundada há cerca de 25 anos, na década de 1980. \n\n Os fundadores Sérgio
-        Ivan Fidélix, Milton Waldir Teixeira Santana e Hamilton Correa Lemos vieram para Porto Alegre nesta mesma década. Encontravam-se
+        egressa da cidade de Santana do Livramento, a comunidade foi fundada há cerca de 25 anos, na década de 1980. \n\n
+        Os fundadores Sérgio Ivan Fidélix, Milton Waldir Teixeira Santana e Hamilton Correa Lemos vieram para Porto Alegre nesta mesma década. Encontravam-se
         nos mesmos lugares de lazer, um bar situado na Rua Lima e Silva, e acabaram ocupando o espaço que, segundo seus relatos, era um
         “mato só”. Quando referem-se a este espaço e seu entorno no passado, remetem-se a outro território na memória da cidade de Porto
-        Alegre, a Ilhota do qual se dizem legatários. \n\n Seu crescimento deu-se na década de 1940. \n\n O Projeto Renascença (que propunha um
-        renascimento de um novo lugar apagando sua desorganização e pobreza), executado na década de 1970, canalizou o Arroio Dilúvio,
-        formando a Avenida Ipiranga, e parcelando a área em lotes comercializados pela especulação imobiliária. Sua população na maioria
-        foi retirada para a área da Restinga Velha.. \n\n Parte desta área, no final da década de 1970, foi cedida para a construção do Hospital
-        de Porto Alegre, vinculado inicialmente ao funcionalismo municipal. O entorno foi então ocupado pelos integrantes da
-        Comunidade Família Fidélix, que paulatinamente construíam suas moradias, nas décadas posteriores 1980 e 1990 , constituindo
-        lugares de lazer como o campo de futebol. Fortaleceram os laços de compadrio e de vizinhança, ampliando o espaço de atuação
-        política com a fundação da associação de moradores e quilombola para as demandas sociais e o pleito de regularização da terra. \n\n
+        Alegre, a Ilhota do qual se dizem legatários. \n\n
+
+        Seu crescimento deu-se na década de 1940. \n\n
+
+        O Projeto Renascença (que propunha um renascimento de um novo lugar apagando sua desorganização e pobreza), executado na
+        década de 1970, canalizou o Arroio Dilúvio, formando a Avenida Ipiranga, e parcelando a área em lotes comercializados pela
+        especulação imobiliária. Sua população na maioria foi retirada para a área da Restinga Velha. \n\n
+
+        Parte desta área, no final da década de 1970, foi cedida para a construção do Hospital de Porto Alegre, vinculado
+        inicialmente ao funcionalismo municipal. O entorno foi então ocupado pelos integrantes da Comunidade Família Fidélix,
+        que paulatinamente construíam suas moradias, nas décadas posteriores 1980 e 1990 , constituindo lugares de lazer como o
+        campo de futebol. Fortaleceram os laços de compadrio e de vizinhança, ampliando o espaço de atuação política com a fundação
+        da associação de moradores e quilombola para as demandas sociais e o pleito de regularização da terra. \n\n
  </string>
 
     <string name="video_quilopoa01">
@@ -601,8 +601,8 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
         \t ● Direito de organização e participação em entidades estudantis; \n
         \t ● Classificação indicativa de faixa etária, para que crianças e adolescentes consumam conteúdos próprios à sua idade; \n
         \t ● Respeito aos valores culturais, artísticos e históricos próprios do contexto social da criança e do adolescente, garantindo-se a estes a liberdade da criação e o acesso às fontes de cultura; \n
-        \t  ● A Semana Nacional de Prevenção da Gravidez na Adolescência, realizada anualmente na semana que incluir o dia 1º de fevereiro, com o objetivo de disseminar informações sobre medidas preventivas e educativas que contribuam para a redução da incidência da gravidez na adolescência; \n
-        \t  ● A vacinação obrigatória das crianças nos casos recomendados pelas autoridades sanitárias;  \n
+        \t ● A Semana Nacional de Prevenção da Gravidez na Adolescência, realizada anualmente na semana que incluir o dia 1º de Fevereiro, com o objetivo de disseminar informações sobre medidas preventivas e educativas que contribuam para a redução da incidência da gravidez na adolescência; \n
+        \t ● A vacinação obrigatória das crianças nos casos recomendados pelas autoridades sanitárias;  \n
         \t ● A proibição do trabalho do infantil (até 14 anos), exceto na condição de aprendiz; \n
         \t ● A proibição de venda de bebidas alcoólicas, cigarro, armas, munições, explosivos, fogos de estampido e de artifício à criança ou ao adolescente. \n
     </string>
@@ -1088,7 +1088,7 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
     </string>
     <string name="textoMiomaUterino">
         \n\n
-        O mioma uterino é um tipo de tumor benigno de causa desconhecida, que seapresenta como uma espécie de nódulo dentro ou fora do útero em uma parte conhecida como
+        O mioma uterino é um tipo de tumor benigno de causa desconhecida, que se apresenta como uma espécie de nódulo dentro ou fora do útero em uma parte conhecida como
         músculo uterino. Segundo a Associação de Obstetrícia e Ginecologia do Estado de São Paulo, é mais frequente em mulheres dos 40 aos 50 anos e atinge mais as mulheres
         negras, portanto, a idade, o histórico familiar, a origem étnica e a obesidade aparecem como fatores de risco para o surgimento dos miomas. As mulheres com mioma
         podem ter sintomas como menstruação irregular, anemia, cólicas, sangramento fora de hora, dores abdominais, pélvicas e na relação sexual e problemas urinários. \n\n
@@ -1146,8 +1146,8 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
         Dia 15
     </string>
     <string name="textoConteudoJaneiro15">
-        - Nasce Marthin Luther King, pastor norte-americano que lutou pela igualdade racial. Atlanta/Georgia (1929). \n
-        - Acontece a Revolta dos Malês, rebelião contra o escravismo e a imposição da religião católica. Salvador/BA (1835). \n
+     - Nasce Martin Luther King, pastor norte-americano que lutou pela igualdade racial. Atlanta/Georgia (1929). \n
+- Acontece a Revolta dos Malês, rebelião contra o escravismo e a imposição da religião católica. Salvador/BA (1835). \n
     </string>
 
     <string name="textoTituloJaneiro29">
@@ -1390,7 +1390,7 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
         Dia 21
     </string>
     <string name="textoConteudoJulho21">
-        Nasce Luís Gama, o abolicionista (1830). \n
+        - Nasce Luís Gama, o abolicionista (1830). \n
     </string>
 
     <string name="textoTituloJulho24">
@@ -1419,7 +1419,7 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
         Dia 12
     </string>
     <string name="textoConteudoAgosto12">
-        Registrado o primeiro ato de escravidão por Portugal em Lagos/Nigéria (1444). \n
+        - Registrado o primeiro ato de escravidão por Portugal em Lagos/Nigéria (1444). \n
         - Acontece a Revolta dos Alfaiates, também conhecida como Revolta dos Búzios. Manifesto dos conjurados baianos protesta contra os impostos e a escravidão e
         exige independência e liberdade. Bahia/BA (1798). \n
     </string>
@@ -1765,8 +1765,7 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
 
 
     <string name="texto_assitencial01">
-        São espaços de participação aberta, constituídos por organizações governamentais e não governamentais
-        \n\n
+        São espaços de participação aberta, constituídos por organizações governamentais e não governamentais. \n\n
     </string>
     <string name="texto_assitencial02">
         As principais portas de entrada são as entidades e organizações de assistência social vinculadas ao
@@ -1800,34 +1799,36 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         SAMU
         192 \n\n
         Secretaria Adjunta do Idoso
-        (51) 3289 5109 \n\n</string>
+        (51) 3289 5109 \n\n
+    </string>
 
 
     <string name="texto_assitencial04">
-                Microrregião 3 (Leste)
-        Bairros contidos total ou parcialmente na Microrregião 3: Bom Jesus, Chácara das Pedras, Jardim Carvalho, Jardim do Salso, Jardim Itu Sabará, Morro Santana, Três Figueiras e Vila Jardim.
-        SEDE: \n\n
-        Rua São Felipe, 140 - Bom Jesus
-        CEP: 91420-280  Porto Alegre/RS
-        Fones:
-        Recepção: (51) 3289-8461 / Fax: 3381- 5430
-        e-mail: ct3@smgl.prefpoa.com.br \n\n
+         Microrregião 3 (Leste)
+Bairros contidos total ou parcialmente na Microrregião 3: Bom Jesus, Chácara das Pedras, Jardim Carvalho, Jardim do Salso, Jardim Itu Sabará, Morro Santana, Três Figueiras e Vila Jardim.
+SEDE: \n\n
+Rua São Felipe, 140 - Bom Jesus
+CEP: 91420-280 Porto Alegre/RS
+Fones:
+Recepção: (51) 3289-8461 / Fax: 3381- 5430
+e-mail: ct3@smgl.prefpoa.com.br \n\n
 
-        Microrregião 5  (Glória, Cruzeiro e Cristal)
-        Bairros contidos total ou parcialmente na Microrregião 5: Belém Velho, Cascata, Cristal, Glória,Medianeira e Santa Tereza.
-        SEDE: \n\n
-        Av. Professor Oscar
-        Pereira, 2603 - Glória
-        CEP: 90660-080 -  Porto Alegre/RS
-        Fones: 3289.8488 / 3289.8489 / 3331.6620 (fax)
-        e-mail: ct5@smgl.prefpoa.com.br \n\n
+Microrregião 5 (Glória, Cruzeiro e Cristal)
+Bairros contidos total ou parcialmente na Microrregião 5: Belém Velho, Cascata, Cristal, Glória, Medianeira e Santa Tereza.
+SEDE: \n\n
+Av. Professor Oscar
+Pereira, 2603 - Glória
+CEP: 90660-080 - Porto Alegre/RS
+Fones: 3289.8488 / 3289.8489 / 3331.6620 (fax)
+e-mail: ct5@smgl.prefpoa.com.br \n\n
 
-        Microrregião 8 (Centro)
-        Bairros contidos total ou parcialmente na Microrregião 8: \n\n Auxiliadora, Azenha, Bela Vista, Bom Fim, Centro Histórico,Cidade Baixa, Farroupilha, Floresta, Independência, Jardim Botânico, Marcílio Dias, Menino Deus, Moinhos de Vento, Mont’ Serrat, Petrópolis, Praia de Belas, Rio Branco, Santa Cecília e Santana.
-        SEDE: \n\n
-        Rua: Jerônimo de Ornelas, 161 - Bairro Santana (Próximo ao Posto Modelo)
-        Telefones: (51)  3289 8484/  3221 4508
-        e-mail: ct8@smgl.prefpoa.com.br \n\n    </string>
+Microrregião 8 (Centro)
+Bairros contidos total ou parcialmente na Microrregião 8: \n\n Auxiliadora, Azenha, Bela Vista, Bom Fim, Centro Histórico, Cidade Baixa, Farroupilha, Floresta, Independência, Jardim Botânico, Marcílio Dias, Menino Deus, Moinhos de Vento, Mont'Serrat, Petrópolis, Praia de Belas, Rio Branco, Santa Cecília e Santana.
+SEDE: \n\n
+Rua: Jerônimo de Ornelas, 161 - Bairro Santana (Próximo ao Posto Modelo)
+Telefones: (51) 3289 8484/ 3221 4508
+e-mail: ct8@smgl.prefpoa.com.br \n\n
+    </string>
     <string name="texto_assitencial05">Desenvolve atividades voltadas à prevenção de situações de vulnerabilidade e risco social. É um serviço realizado em grupos, com o objetivo de:\n\n
         Assegurar espaços de convívio familiar e comunitário;\n\n
         Valorizar a cultura de famílias e comunidades locais pelo resgate de suas culturas;\n\n
@@ -2166,9 +2167,9 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
 
     <string name = "textoOngMariaMulher">
         Nossa missão é a defesa dos direitos humanos das populações marginalizadas excluídas, principalmente de afrodescendentes e o combate às discriminações.
-        \n\n
-        Endereço: Av. Moab Caldas, 2035 - Santa Teresa, Porto Alegre, 90880-310 \n
-        Telefone: (51) 3219-0180 \n
+\n\n
+Endereço: Av. Moab Caldas, 2035 - Santa Tereza, Porto Alegre, 90880-310 \n
+Telefone: (51) 3219-0180 \n
     </string>
 
     <string name = "textoTituloACMUN">
@@ -2302,11 +2303,11 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name = "textoCentroDeReferenciaEmDireitosHumanos">
-        Destina-se às vítimas de preconceito, discriminação, intolerância, abusos e maus-tratos, negligência e abandono,
-        especialmente às mulheres em situação de violência e às vítimas de violência estatal (do sistema de justiça e de segurança pública). Indiretamente,
-        aos familiares, lideranças comunitárias e cidadãos (ãs) em geral. \n
-        Endereço:  Rua Caldas Júnior, nº 352, no Centro Histórico, de Porto Alegre/RS \n
-        DISQUE-ACOLHIMENTO 0800 644 5556 - Ligação Gratuita \n
+       Destina-se às vítimas de preconceito, discriminação, intolerância, abusos e maus-tratos, negligência e abandono,
+especialmente às mulheres em situação de violência e às vítimas de violência estatal (do sistema de justiça e de segurança pública). Indiretamente,
+aos familiares, lideranças comunitárias e cidadãos(ãs) em geral. \n
+Endereço: Rua Caldas Júnior, nº 352, no Centro Histórico, de Porto Alegre/RS \n
+DISQUE-ACOLHIMENTO 0800 644 5556 - Ligação Gratuita \n
     </string>
 
     <string name = "textoTituloCentroDeReferenciaAsVitimasDeViolencia">
@@ -2350,11 +2351,11 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
 
     <string name = "textoEscutaLilas">
         <b>A Escuta Lilás</b> é uma central de atendimento à mulher da Secretaria de Políticas para as Mulheres do RS,
-                acessada pelo telefone gratuíto 0800.541.0803, junto ao Centro de Referência da Mulher Vânia Araújo Machado (CRM). \n
-        Escuta Lilás - 0800.541.0803 \n
-        Atendimento: de segunda a sexta das 8h30min às 18 horas \n
-        Porto Alegre/RS - Brasil \n
-        Para a Central de Atendimento à Mulher, 24 horas: ligue:180 \n
+acessada pelo telefone gratuito 0800.541.0803, junto ao Centro de Referência da Mulher Vânia Araújo Machado (CRM). \n
+Escuta Lilás - 0800.541.0803 \n
+Atendimento: de segunda a sexta das 8h30min às 18 horas \n
+Porto Alegre/RS - Brasil \n
+Para a Central de Atendimento à Mulher, 24 horas: ligue:180 \n
     </string>
 
     <string name = "textoTituloILEMulher">
@@ -2366,11 +2367,11 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name = "textoContatoILEMulher">
-        Endereço: Rua Gaspar Martins, 216  \n
-        Bairro: Floresta, Porto Alegre - RS, CEP.: 90220-160 \n
-        Telefone: (51) 3225-3828 – 51 3574 0591 \n
-        Email: comunicacao@ilemulher.org.br \n
-        Email: ilemulher@ilemulher.org.br \n
+        Endereço: Rua Gaspar Martins, 216 \n
+Bairro: Floresta, Porto Alegre - RS, CEP.: 90220-160 \n
+Telefone: (51) 3225-3828 – 51 3574 0591 \n
+E-mail: comunicacao@ilemulher.org.br \n
+E-mail: ilemulher@ilemulher.org.br \n
     </string>
 
     <string name = "textoTituloSAJUGPUCRS">
@@ -2383,8 +2384,8 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
 
     <string name = "textoSAJUGPUCRS">
         O Serviço de Assistência Jurídica Gratuita – SAJUG – é órgão da Escola de Direito da Pontifícia Universidade Católica do Rio Grande do Sul,
-        vinculado ao Departamento de Prática Jurídica, que tem por a prestação de atividades filantrópicas, através do atendimento jurídico gratuito à comunidade carente de
-        Porto Alegre. \n
+vinculado ao Departamento de Prática Jurídica, que tem por a prestação de atividades filantrópicas, através do atendimento jurídico gratuito à comunidade carente de
+Porto Alegre. \n
     </string>
 
     <string name = "textoComplementoSAJUGPUCRS">
@@ -2404,7 +2405,7 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
             Av. Ipiranga, 6681 – Prédio 08 – Sala 140 \n
             Fone: (51) 3320-3532 \n
             CEP: 90619-900 – Porto Alegre – RS – Brasil \n
-            Email: sajug@pucrs.br \n
+            E-mail: sajug@pucrs.br \n
         Centro de Extensão Universitária Vila Fátima: \n
             Rua 14, n° 227 – Vila Fátima/Mato Sampaio \n
             Fone (51) 3320-3536 \n
@@ -2474,22 +2475,22 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
 
     <string name = "textoContatoServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher">
     Hospital Nossa Senhora Conceição - Porto Alegre \n
-        Endereço: Avenida Francisco Trein, 596 - Bairro Cristo Redentor \n
-        Cep: 91350-240 \n
-        Município: Porto Alegre \n
-        Telefone: (51)3357-2161 \n
+Endereço: Avenida Francisco Trein, 596 - Bairro Cristo Redentor \n
+Cep: 91350-240 \n
+Município: Porto Alegre \n
+Telefone: (51)3357-2161 \n
 
-    Hospital Pronto Socorro de Porto Alegre \n
-        Endereço: Largo Teodoro Herzl, s/n - Bairro Bom Fim \n
-        Cep: 90040-192 \n
-        Fone:(51)3289-7999 \n
+Hospital Pronto Socorro de Porto Alegre \n
+Endereço: Largo Teodoro Herzl, s/n - Bairro Bom Fim \n
+Cep: 90040-192 \n
+Fone:(51)3289-7999 \n
 
-    Hospital Femina - Porto Alegre \n
-        Endereço:  Rua Mostardeiro,  17 - Bairro: Moinhos do Vento \n
-        Cep: 90430-001 \n
-        Município: Porto Alegre \n
-        Telefone: (51)3314-5200 \n
-        E-mail: hfe@ghc.com.br \n
+Hospital Fêmina - Porto Alegre \n
+Endereço: Rua Mostardeiro, 17 - Bairro: Moinhos do Vento \n
+Cep: 90430-001 \n
+Município: Porto Alegre \n
+Telefone: (51)3314-5200 \n
+E-mail: hfe@ghc.com.br \n
     </string>
     <!-- Fim: Rede de enfrentamento a Violência contra a mulher -->
 

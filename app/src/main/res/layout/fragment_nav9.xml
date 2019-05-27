@@ -39,8 +39,8 @@
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewUbuntuComplemento"
-                android:text="@string/texto_curiosidade_ubuntu_complemento"
                 android:layout_below="@+id/textViewUbuntuIntroducao"
+                android:text="@string/texto_curiosidade_ubuntu_complemento"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoConteudo" />
