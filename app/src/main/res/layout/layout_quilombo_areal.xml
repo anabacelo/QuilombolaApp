@@ -43,6 +43,7 @@
                     android:layout_height="match_parent"
                     android:autoLink="web"
                     android:linksClickable="true"
+                    android:paddingBottom="60dp"
                     style="@style/estiloTextoConteudo" />
 
                 <ImageView
@@ -51,7 +52,8 @@
                     android:src="@drawable/quiloareal02"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="21dp" />
+
+                    style="@style/estiloImagem" />
 
         </RelativeLayout>
     </ScrollView>
