@@ -37,7 +37,7 @@
                 android:text="@string/textoDireitosLayoutEstatutoDaJuventude"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                style="@style/estiloTextoLayoutDireitaDireitosReservados" />
+                style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/texto_estatuto_juventude"

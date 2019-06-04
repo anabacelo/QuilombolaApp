@@ -11,9 +11,8 @@
 
 
     <ScrollView
-        android:layout_width="wrap_content"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content">
-
             <RelativeLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" >
@@ -41,7 +40,7 @@
                     android:text="@string/textoDireitosImagemEstatutoDaIgualdadeRacial"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    style="@style/estiloTextoLayoutDireitaDireitosReservados" />
+                    style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
 
                 <com.example.anapaula.quilombolaappv4.JustifyTextView
                     android:id="@+id/lblListItem_text_layout_estatudo_da_crianca"
