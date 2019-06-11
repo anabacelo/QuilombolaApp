@@ -16,10 +16,12 @@ import static com.example.anapaula.quilombolaappv4.R.id.fab;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class Nav_Login extends Fragment {
+public class Nav_Login extends Fragment
+{
 
 
-    public Nav_Login() {
+    public Nav_Login()
+    {
         // Required empty public constructor
     }
 

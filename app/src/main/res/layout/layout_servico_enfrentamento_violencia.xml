@@ -239,6 +239,8 @@
             android:text="@string/textoDefensoriaPublica"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:autoLink="web"
+            android:linksClickable="true"
             style="@style/estiloTextoComplemento" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
@@ -404,7 +406,7 @@
             android:text="@string/textoTituloSAJUGPUCRS"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            style="@style/estiloTextoConteudo" />
+            style="@style/estiloTextoTituloNormal" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoLinkSAJUGPUCRS"
@@ -512,6 +514,8 @@
             android:text="@string/textoLinkServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:autoLink="web"
+            android:linksClickable="true"
             style="@style/estiloTextoComplemento" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView

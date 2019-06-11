@@ -99,20 +99,28 @@ pelos zumbis.” \n
     <string name="texto_beneficios01">
         É um programa de transferência direta de renda que beneficia, em todo País,famílias em situação de pobreza (renda familiar per capita de
         R$ 70,01 a R$ 140,00) e de extrema pobreza (renda familiar per capita de até R$ 70,00). O Bolsa Família integra o A gestão do Bolsa Família é
-        descentralizada e compartilhada entre a União, estados, Distrito Federal e municípios. \n\n Podem fazer parte do Programa Bolsa Família as famílias
+        descentralizada e compartilhada entre a União, estados, Distrito Federal e municípios. \n \n Podem fazer parte do Programa Bolsa Família as famílias
         com renda mensal de até R$ 140 (cento e quarenta reais) por pessoa devidamente cadastradas no Cadastro Único para Programas Sociais (CadÚnico).
         A renda da família é calculada a partir da soma do dinheiro que todas as pessoas da casa ganham por mês (como salários e aposentadorias).
         Esse valor deve ser dividido pelo número de pessoas que vivem na casa, obtendo assim a renda por pessoa da família.  As famílias que possuem
         renda mensal entre R$ 70,01 e R$ 140,00, só ingressam no Programa se possuírem crianças ou adolescentes de 0 a 17 anos. Já as famílias com renda mensal
         de até R$ 70,00 por pessoa, podem participar do Bolsa Família ‐ qualquer que seja a idade dos membros da família. \n\n
 
-        <b>Quem pode participar:</b> Os Estados, os Municípios e Distrito Federal (como gestores locais) e famílias em situação de pobreza ou extrema pobreza (como beneficiários).
-        Famílias quilombolas são priorizadas no processo de inserção do cadastro. \n\n
+        <b>Quem pode participar:</b> Os Estados, os Municípios e Distrito Federal (como gestores locais) e famílias em situação de pobreza ou extrema pobreza
+        (como beneficiários).
+        Famílias quilombolas são priorizadas no processo de inserção do cadastro. \n \n
 
-        <b>Como participar: </b> A seleção das famílias para o Programa bolsa Família  ‐  PBF é feita com base nas informações registradas pelo município no Cadastro Único para
-        Programas Sociais do Governo Federal ‐  Cadúnico, instrumento de coleta de dados que tem como objetivo identificar todas as famílias de baixa renda existentes no Brasil. \n\n
+        <b>Como participar: </b>
+        A seleção das famílias para o Programa bolsa Família  ‐  PBF é feita com base nas informações registradas pelo município no Cadastro Único para
+        Programas Sociais do Governo Federal ‐  Cadúnico, instrumento de coleta de dados que tem como objetivo identificar todas as famílias de baixa renda existentes
+        no Brasil. \n \n
 
-        <b>Fonte: Guia de Políticas Públicas para Comunidades Quilombolas. Disponível em: http://www.seppir.gov.br/portal-antigo/arquivos-pdf/guia-pbq> </b> \n\n
+        <b>Fonte: Guia de Políticas Públicas para Comunidades Quilombolas. Disponível em:
+
+            &lt;http://mds.gov.br/assuntos/bolsa-familia&gt;
+
+
+        </b> \n \n
 
     </string>
 
@@ -1095,7 +1103,8 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
 
         <b>Mais informações em:</b>
         <b>Associação de Obstetrícia e Ginecologia do Estado de São Paulo, 2017. \n\n
-        http://www.sogesp.com.br/canal-saude-mulher/guia-de-saude-e-bem-estar/mioma-causas-principais-sintomas-e-sinais-diagnostico-e-tratamentos </b> \n\n
+            https://www.geledes.org.br/mulheres-negras-sao-mais-vulneraveis-ao-desenvolvimento-de-miomas/
+         </b> \n\n
     </string>
 
     <string name="textoComplementoMiomaUterino">
@@ -1986,6 +1995,10 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         armas trocadas com homens brancos ou resgatadas pelos escravizados. \n
     </string>
 
+    <string name="direitoAutoralRainhaTereza">
+        qual o criador?
+    </string>
+
     <string name="textoTituloOnzeMariana">
         Mariana Crioula
     </string>
@@ -2071,7 +2084,7 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name = "textoLinkPoliciaCivil">
-        http://www.policiacivil.rs.gov.br/conteudo/29823/como-identificar-a-violencia-contra-a-mulher/
+        https://www12.senado.leg.br/institucional/omv/acoes-contra-violencia/servicos-especializados-de-atendimento-a-mulher
     </string>
 
 
@@ -2103,7 +2116,7 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name = "textoLinkInstitutoGeralPericias">
-        http://www.igp.rs.gov.br/index.php?option=com_content&amp;task=view&amp;id=24&amp;Itemid=37
+        https://igp.rs.gov.br/inicial
     </string>
 
     <string name = "textoInstitutoGeralPericias">
@@ -2126,7 +2139,7 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name = "textoLinkSempreMulher">
-        http://ong.portoweb.com.br/sempremulher/default.php?p_secao=3&amp;PHPSESSID=2b76a9d7f3116524b46db766ddc1df27
+        https://sempremulher.org.br/
     </string>
 
     <string name = "textoSempreMulher">
@@ -2253,7 +2266,8 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         Administrativo Interno \n
         Das 9:00 às 12:00 - 13:00 às 18:00 \n
         Link útil: \n
-        http://www.defensoria.rs.def.br/lista/413/links-uteis \n
+        http://themis.org.br/fazemos/promotoras-legais-populares/
+        \n
     </string>
 
     <string name = "textoTituloJuizadosEspecializadosEmViolencia">
@@ -2298,7 +2312,9 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name = "textoLinkCentroDeReferenciaEmDireitosHumanos">
-        <b>http://www.defensoria.rs.def.br/conteudo/21218</b> \n\n
+        <b>
+            http://www2.portoalegre.rs.gov.br/smdh/default.php?p_secao=41
+        </b> \n\n
     </string>
 
     <string name = "textoCentroDeReferenciaEmDireitosHumanos">
@@ -2345,7 +2361,9 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name = "textoLinkEscutaLilas">
-        <b>http://www2.spm.rs.gov.br/conteudo.php?cod_menu=37</b> \n\n
+        <b>
+            https://estado.rs.gov.br/escuta-lilas-quadriplic-a-atendiment-os-as-mulheres-no-rs
+        </b> \n \n
     </string>
 
     <string name = "textoEscutaLilas">
@@ -2362,7 +2380,9 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name = "textoLinkILEMulher">
-        <b>http://ilemulher.org.br/site/quem-somos</b> \n\n
+        <b>
+            https://www.ilemulher.org.br/
+        </b> \n \n
     </string>
 
     <string name = "textoContatoILEMulher">

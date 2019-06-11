@@ -229,8 +229,16 @@
                 style="@style/estiloImagem" />
 
             <TextView
-                android:id="@+id/textViewTextoTituloOnzeMariana"
+                android:id="@+id/textViewDireitoAutoralRainhaTereza"
                 android:layout_below="@+id/imageViewRainhaTereza"
+                android:text="@string/direitoAutoralRainhaTereza"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
+
+            <TextView
+                android:id="@+id/textViewTextoTituloOnzeMariana"
+                android:layout_below="@+id/textViewDireitoAutoralRainhaTereza"
                 android:text="@string/textoTituloOnzeMariana"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
