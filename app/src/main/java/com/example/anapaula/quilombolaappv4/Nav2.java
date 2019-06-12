@@ -52,7 +52,12 @@ public class Nav2 extends Fragment
         Integer layoutQuilomboAreal = R.layout.layout_quilombo_areal;
         Integer layoutQuilomboSilva = R.layout.layout_quilombo_silva;
         Integer layoutQuilomboFidelix = R.layout.layout_quilombo_fidelix;
+        Integer layoutQuilomboLemos = R.layout.layout_quilombo_lemos;
+
+        Integer layoutQuilomboAnastacia = R.layout.layout_quilombo_anastacia;
+
         Integer layoutEntrevistas = R.layout.layout_entrevistas;
+
 
         listDataHeader = new ArrayList<String>();
         listHash = new HashMap<>();
@@ -62,6 +67,10 @@ public class Nav2 extends Fragment
         listDataHeader.add("Quilombo Areal da Baronesa");
         listDataHeader.add("Quilombo da Família Silva");
         listDataHeader.add("Quilombo da Família Fidélix");
+        listDataHeader.add("Quilombo da Família Lemos");
+
+        listDataHeader.add("Quilombo da Família Anastácia");
+
         listDataHeader.add("Entrevistas");
 
 
@@ -81,7 +90,13 @@ public class Nav2 extends Fragment
         layoutList4.add(layoutQuilomboFidelix);
 
         List<Integer> layoutList5 = new ArrayList<>();
-        layoutList5.add(layoutEntrevistas);
+        layoutList5.add(layoutQuilomboLemos);
+
+        List<Integer> layoutList6 = new ArrayList<>();
+        layoutList6.add(layoutQuilomboAnastacia);
+
+        List<Integer> layoutList7 = new ArrayList<>();
+        layoutList7.add(layoutEntrevistas);
 
 
         listHash.put(listDataHeader.get(0), layoutList0);
@@ -90,5 +105,7 @@ public class Nav2 extends Fragment
         listHash.put(listDataHeader.get(3), layoutList3);
         listHash.put(listDataHeader.get(4), layoutList4);
         listHash.put(listDataHeader.get(5), layoutList5);
+        listHash.put(listDataHeader.get(6), layoutList6);
+        listHash.put(listDataHeader.get(7), layoutList7);
     }
 }

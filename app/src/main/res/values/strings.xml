@@ -351,6 +351,43 @@ Metropolitana. O Quilombo Alpes é o quinto dessa reportagem especial.
         \n\n
     </string>
 
+    <string name="titulo_quilomboAnastacia">
+        Quilombo Anastácia
+    </string>
+
+    <string name="textoDireitosLayoutQuilomboAnastacia">
+        Foto/Reprodução: Página no Facebook Quilombo Anastácia
+    </string>
+
+    <string name="textoComplementoQuilomboAnastacia">
+        Localizado no município de Viamão, o Quilombo Anastácia o território identificado tem 64,1264 hectares, beneficiando 16 famílias.
+        A ocupação da área remonta ao início do século XX, com a formação do núcleo familiar de Anastácia e Olímpio Gomes, que foram
+        para a região morar em terras de parentes libertos da escravidão. A área legitimamente herdada por Anastácia foi sendo reduzida
+        ao longo do tempo por várias ocorrências - entre as quais, a construção de uma barragem na década de 50 do século passado.
+        O Quilombo da Anastácia integra um contingente historicamente relevante – embora sem visibilidade - da presença negra na região
+        de Viamão, iniciada no século XVIII com a vinda do primeiro casal de escravos para uma sesmaria.
+    </string>
+
+    <string name="titulo_quilomboLemos">
+       Quilombo Lemos
+    </string>
+
+    <string name="textoDireitosLayoutQuilomboLemos">
+       Foto/Reprodução: NEPEVI
+    </string>
+
+    <string name="textoComplementoQuilomboLemos">
+        O Quilombo Lemos é o sétimo quilombo urbano de Porto Alegre. Localizado nos fundos da Av. Padre Cacique, desde o ínicio de 1960,
+        foi lá onde se assentaram o casal Jorge Alberto Rocha de Lemos e Delzia Gonçalves de Lemos, em razão da proximidade com seu
+        local de trabalho, o Asilo Padre Cacique. Com profunda relação com Quilombo de Maçambique no munícipio de Canguçu, esses
+        descendentes diretos de escravizados, em área verde, que se mantém até hoje, criaram roças e constituíram familia, construiram
+        casas, formaram raízes e estabeleceram profundas relações com a comunidade negra de Porto Alegre. Hoje conta com aproximadamente
+        40 pessoas, e com o passar do tempo e com a morte dos mais velhos a família se aglutinou num processo de constante
+        desterritorialização, já sendo certificado pela Fundação Palmares e com processo aberto no Incra, hoje o Quilombo Lemos resiste
+        e luta, sendo apoiado por várias entidades e pela comunidade quilombola, contra o risco de despejo por um processo de
+        integração de posse iniciado em 2009.
+    </string>
+
     <string name="video_quilopoa02">
         8 de dez de 2015. Matéria para o Porto A (tvcomrs) de agosto de 2014 sobre o Areal da Baronesa, quilombo urbano que é o berço do samba em Porto Alegre. \n\n
         <b> Vídeo: https://www.youtube.com/watch?v=10etFH6UTRU </b> \n\n

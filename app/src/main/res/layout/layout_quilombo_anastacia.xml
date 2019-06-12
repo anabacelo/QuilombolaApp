@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_quilombo_anastacia"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/textViewLayoutQuilomboAnastacia"
+                android:text="@string/titulo_quilomboAnastacia"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoTitulo" />
+
+            <ImageView
+                android:id="@+id/imageViewLayoutQuilomboAnastacia"
+                android:layout_below="@id/textViewLayoutQuilomboAnastacia"
+                android:src="@drawable/quilombo_anastacia"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloImagem" />
+
+            <TextView
+                android:id="@+id/textViewTextoDireitosLayoutQuilomboAnastacia"
+                android:layout_below="@id/imageViewLayoutQuilomboAnastacia"
+                android:text="@string/textoDireitosLayoutQuilomboAnastacia"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textquiloAnastacia"
+                android:layout_below="@+id/textViewTextoDireitosLayoutQuilomboAnastacia"
+                android:text="@string/textoComplementoQuilomboAnastacia"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:linksClickable="true"
+                style="@style/estiloTextoConteudo" />
+
+        </RelativeLayout>
+    </ScrollView>
+
+</LinearLayout>
