@@ -1,0 +1,34 @@
+#wrapper {
+  max-width: 1050px;
+  margin: 60px auto 60px auto;
+  /*background-color: #DDD*/
+}
+#outer {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+.itemwrapper {
+  display: table-cell;
+  /*vertical-align: top;*/
+  /*text-align: center;*/
+  /*vertical-align: middle;*/
+  width: 100%;
+}
+.imagecentered {
+  text-align: center;
+  vertical-align: middle;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+.description{
+  text-align: justify;
+  padding: 0 12px 20px;
+}
+
+.teste{
+    max-width: 1050px;
+    width: 33.3%;
+}
