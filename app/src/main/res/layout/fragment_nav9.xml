@@ -82,14 +82,22 @@
             <ImageView
                 android:id="@+id/imageViewAbaomi"
                 android:layout_below="@+id/textViewtextViewAbayomiLink"
-                android:src="@drawable/abayomi"
+                android:src="@drawable/abayomia"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 style="@style/estiloImagem" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textViewtextViewPalmasTitulo"
+                android:id="@+id/textViewTextoDireitoAutoralDaImagemAbaomi"
                 android:layout_below="@+id/imageViewAbaomi"
+                android:text="Direitos: NEPEVI"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewtextViewPalmasTitulo"
+                android:layout_below="@+id/textViewTextoDireitoAutoralDaImagemAbaomi"
                 android:text="@string/texto_curiosidade_palmas_titulo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
