@@ -20,7 +20,7 @@
                     android:text="@string/titlePoliticaNacionalDeAssistenciaSocial"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    style="@style/estiloTextoTitulo" />
+                    style="@style/estiloTextoTituloNormal" />
 
                 <ImageView
                     android:id="@+id/imageViewPoliticaNacionalDeAssistenciaSocial"

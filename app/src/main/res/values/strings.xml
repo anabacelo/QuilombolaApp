@@ -442,27 +442,27 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
 
     <!-- LEGISLAÇÃO -->
     <string name="titulo_lei_estatudo_idoso">Legislação 1 Estatuto do Idoso</string>
-    <string name="titulo_lei_legislacao_conselho_tutelar"> ESTATUTO DA CRIANÇA E DO ADOLESCENTE – ( LEI N. 8.069/1990 )</string>
+    <string name="titulo_lei_legislacao_conselho_tutelar"> ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI 8.069, de 13 de junho de 1990)\n</string>
     <string name="titulo_politica_nacional_de_assistencia_social"> Política Nacional de Assistência Social</string>
-    <string name="titulo_estatuto_juventude">Estatuto da Juventude</string>
+    <string name="titulo_estatuto_juventude">ESTATUTO DA JUVENTUDE (LEI 12852, de 05 de agosto de 2013)\n</string>
 
     <string name="textoDireitosImagemEstatudoDoIdoso">
-      \t  Fonte: Reprodução/Jornal O São Paulo. \n\n
+      \t  Fonte: Reprodução/Jornal O São Paulo.
     </string>
 
 
     <string name="tituloLeiEstatutoDoIdoso">
-      \t  Estatuto do Idoso – (LEI N.10.741/2003) \n\n
+        ESTATUTO DO IDOSO (LEI 10.741, de 1 de outubro de 2003) \n
     </string>
 
     <string name="textoLeiEstatutoDoIdoso">
-            \t  O Estatuto do Idoso foi instituído em 1º de outubro 2003, destinado a regular os direitos
-        assegurados às pessoas com idade igual ou superior a 60 (sessenta) anos. (Art 1º)
-        O idoso goza de todos os direitos fundamentais inerentes à pessoa humana, sem prejuízo
+            \t O Estatuto do Idoso foi instituído em 1º de outubro 2003, destinado a regular os direitos
+        assegurados às pessoas com idade igual ou superior a 60 (sessenta) anos.
+        \n(Art 1º) O idoso goza de todos os direitos fundamentais inerentes à pessoa humana, sem prejuízo
         da proteção integral de que trata esta Lei, assegurando-se-lhe, por lei ou por outros
         meios, todas as oportunidades e facilidades, para preservação de sua saúde física e
         mental e seu aperfeiçoamento moral, intelectual, espiritual e social, em condições de
-        liberdade e dignidade. (Art. 2º)\n
+        liberdade e dignidade. \n(Art. 2º)
         \t Segundo o Art. 3º do Estatuto, é obrigação da família, da comunidade, da sociedade e
         do Poder Público assegurar ao idoso, com absoluta prioridade, a efetivação do direito à
         vida, à saúde, à alimentação, à educação, à cultura, ao esporte, ao lazer, ao trabalho, à
@@ -699,7 +699,7 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
 
 
     <string name="titlePoliticaNacionalDeAssistenciaSocial">
-        \t LEI ORGÂNICA DA ASSISTÊNCIA SOCIAL \n
+        LEI ORGÂNICA DA ASSISTÊNCIA SOCIAL (LEI 8742, de 07 de dezembro de 1993) \n
     </string>
 
     <string name="textoDireitosPoliticaNacionalDeAssistenciaSocial">
@@ -927,8 +927,7 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
     </string>
 
     <string name="titulo_estatuto_igualdade_racial">
-
-            <b>Estatuto de Igualdade Racial</b>
+            ESTATUTO DA IGUALDADE RACIAL (LEI 12.888, de 20 de julho de 2010)\n
     </string>
 
     <string name="textoDireitosImagemEstatutoDaIgualdadeRacial">
@@ -971,7 +970,7 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
 
 
     <string name="textoTituloLeiMariaDaPenha">
-        \t Lei Maria da Penha \n
+        LEI MARIA DA PENHA (LEI 11.340, de 7 de agosto de 2006)\n
     </string>
 
     <string name="textoDireitosLayoutLeiMariaDaPenha">
