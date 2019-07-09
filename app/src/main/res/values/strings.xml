@@ -2174,9 +2174,14 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         A Sala Lilás foi criada dentro do Instituto Geral de Perícias em Porto Alegre com o objetivo de oferecer um atendimento especializado à mulher vítima de violência.
         “Antes a mulher ficava numa sala de espera geral para fazer o exame de corpo de delito, muitas vezes junto com o próprio agressor ou com outros agressores.
         Agora, ela tem uma sala de espera diferenciada para fazer o exame de lesões e a perícia psíquica,
-        onde promovemos um acolhimento mais qualificado e colocamos à disposição o atendimento com psicólogas e assistentes sociais.
-        \n\n
+        onde promovemos um acolhimento mais qualificado e colocamos à disposição o atendimento com psicólogas e assistentes sociais. \n
+    </string>
+
+    <string name = "textoTituloDepartamentoMedicoLegal">
         Departamento Médico-Legal \n
+    </string>
+
+    <string name = "textoEnderecoDepartamentoMedicoLegal">
         Endereço: Avenida Ipiranga, 1807 Bairro: Santana \n
         Cidade: Porto Alegre – RS, Cep: 90160.093 \n
         Telefones do DML: \n
@@ -2377,7 +2382,7 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name = "textoTituloCentroDeReferenciaAsVitimasDeViolencia">
-        Centro de Referência às Vítimas de Violência – CRVV \n\n
+        Centro de Referência às Vítimas de Violência – CRVV \n
     </string>
 
     <string name = "textoLinkCentroDeReferenciaAsVitimasDeViolencia">
@@ -2408,13 +2413,12 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name = "textoTituloEscutaLilas">
-        Escuta Lilás \n\n
+        Escuta Lilás
     </string>
 
     <string name = "textoLinkEscutaLilas">
-        <b>
-            https://estado.rs.gov.br/escuta-lilas-quadriplic-a-atendiment-os-as-mulheres-no-rs
-        </b> \n \n
+
+            https://estado.rs.gov.br/escuta-lilas-quadriplic-a-atendiment-os-as-mulheres-no-rs \n
     </string>
 
     <string name = "textoEscutaLilas">
@@ -2427,13 +2431,13 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name = "textoTituloILEMulher">
-        ILÊ Mulher \n\n
+        ILÊ Mulher \n
     </string>
 
     <string name = "textoLinkILEMulher">
         <b>
             https://www.ilemulher.org.br/
-        </b> \n \n
+        </b> \n
     </string>
 
     <string name = "textoContatoILEMulher">
@@ -2543,19 +2547,32 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         http://sistema3.planalto.gov.br/spmu/atendimento/atendimento_mulher.php?uf=RS \n
     </string>
 
-    <string name = "textoContatoServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher">
-    Hospital Nossa Senhora Conceição - Porto Alegre \n
+    <string name = "textoTituloHospitalNossaSenhoraDaConceicao">
+        Hospital Nossa Senhora Conceição - Porto Alegre \n
+    </string>
+
+    <string name = "textoEnderecoHospitalNossaSenhoraDaConceicao">
         Endereço: Avenida Francisco Trein, 596 - Bairro Cristo Redentor \n
         Cep: 91350-240 \n
         Município: Porto Alegre \n
         Telefone: (51)3357-2161 \n
+    </string>
 
-    Hospital Pronto Socorro de Porto Alegre \n
+    <string name = "textoTituloHospitalProntoSocorroDePortoAlegre">
+        Hospital Pronto Socorro de Porto Alegre \n
+    </string>
+
+    <string name = "textoEnderecoHospitalProntoSocorroDePortoAlegre">
         Endereço: Largo Teodoro Herzl, s/n - Bairro Bom Fim \n
         Cep: 90040-192 \n
         Fone:(51)3289-7999 \n
+    </string>
 
-    Hospital Femina - Porto Alegre \n
+    <string name = "textoTituloHospitalFemina">
+        Hospital Femina - Porto Alegre \n
+    </string>
+
+    <string name = "textoEnderecoHospitalFemina">
         Endereço:  Rua Mostardeiro,  17 - Bairro: Moinhos do Vento \n
         Cep: 90430-001 \n
         Município: Porto Alegre \n
