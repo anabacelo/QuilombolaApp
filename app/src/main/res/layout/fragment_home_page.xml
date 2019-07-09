@@ -61,37 +61,43 @@
             <ImageView
                 android:id="@+id/imageViewPUCRS"
                 android:layout_below="@+id/textViewTextoLayoutPaginaInicialRodape"
-                android:layout_width="240dp"
-                android:layout_height="263dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:layout_centerInParent="true"
                 android:layout_gravity="center_vertical"
                 android:src="@drawable/pucrs2"
-                android:layout_marginBottom="10dp"/>
+                android:layout_weight="0.33"
+                android:layout_marginTop="20dp"
+            />
 
-            <RelativeLayout
+            <LinearLayout
                 android:layout_below="@+id/imageViewPUCRS"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dp">
+                android:weightSum="2"
+
+                >
 
                 <ImageView
                     android:id="@+id/imageView5"
-                    android:layout_width="192dp"
-                    android:layout_height="94dp"
-                    android:layout_alignParentBottom="true"
-                    android:src="@drawable/cnpq" />
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/cnpq"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    />
 
                 <ImageView
                     android:id="@+id/imageView4"
-                    android:layout_width="198dp"
-                    android:layout_height="93dp"
-                    android:layout_alignParentEnd="true"
-                    android:layout_alignParentBottom="true"
-                    android:layout_marginEnd="7dp"
-                    android:src="@drawable/fapergs" />
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
 
-            </RelativeLayout>
+                    android:src="@drawable/fapergs"
+                    android:layout_weight="1"
+                    />
 
+            </LinearLayout>
         </RelativeLayout>
     </ScrollView>
 </LinearLayout>
