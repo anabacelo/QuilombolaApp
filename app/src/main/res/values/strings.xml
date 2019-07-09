@@ -653,17 +653,17 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
         \t III - a intervenção e oitiva de representantes do órgão federal responsável pela política indigenista, no caso de crianças e adolescentes indígenas, e de antropólogos, perante a equipe interprofissional ou multidisciplinar que irá acompanhar o caso. (Incluído pela Lei nº 12.010, de 2009) . \n
         \t É responsabilidade da Justiça da Infância e Juventude acompanhar casos de adoção. \n
         \t O ECA instituiu normas como: \n
-        \t ● Direito de brincar, praticar esportes e divertir-se;  \n
-        \t ● Direito de ir, vir e estar nos logradouros públicos e espaços comunitários, ressalvadas as restrições legais; \n
-        \t ● Acesso à escola pública e gratuita próxima de sua residência; \n
-        \t ● Atendimento educacional especializado aos portadores de deficiência, preferencialmente na rede regular de ensino; \n
-        \t ● Direito de organização e participação em entidades estudantis; \n
-        \t ● Classificação indicativa de faixa etária, para que crianças e adolescentes consumam conteúdos próprios à sua idade; \n
-        \t ● Respeito aos valores culturais, artísticos e históricos próprios do contexto social da criança e do adolescente, garantindo-se a estes a liberdade da criação e o acesso às fontes de cultura; \n
-        \t  ● A Semana Nacional de Prevenção da Gravidez na Adolescência, realizada anualmente na semana que incluir o dia 1º de fevereiro, com o objetivo de disseminar informações sobre medidas preventivas e educativas que contribuam para a redução da incidência da gravidez na adolescência; \n
-        \t  ● A vacinação obrigatória das crianças nos casos recomendados pelas autoridades sanitárias;  \n
-        \t ● A proibição do trabalho do infantil (até 14 anos), exceto na condição de aprendiz; \n
-        \t ● A proibição de venda de bebidas alcoólicas, cigarro, armas, munições, explosivos, fogos de estampido e de artifício à criança ou ao adolescente. \n
+        \t - Direito de brincar, praticar esportes e divertir-se;  \n
+        \t - Direito de ir, vir e estar nos logradouros públicos e espaços comunitários, ressalvadas as restrições legais; \n
+        \t - Acesso à escola pública e gratuita próxima de sua residência; \n
+        \t - Atendimento educacional especializado aos portadores de deficiência, preferencialmente na rede regular de ensino; \n
+        \t - Direito de organização e participação em entidades estudantis; \n
+        \t - Classificação indicativa de faixa etária, para que crianças e adolescentes consumam conteúdos próprios à sua idade; \n
+        \t - Respeito aos valores culturais, artísticos e históricos próprios do contexto social da criança e do adolescente, garantindo-se a estes a liberdade da criação e o acesso às fontes de cultura; \n
+        \t - A Semana Nacional de Prevenção da Gravidez na Adolescência, realizada anualmente na semana que incluir o dia 1º de fevereiro, com o objetivo de disseminar informações sobre medidas preventivas e educativas que contribuam para a redução da incidência da gravidez na adolescência; \n
+        \t - A vacinação obrigatória das crianças nos casos recomendados pelas autoridades sanitárias;  \n
+        \t - A proibição do trabalho do infantil (até 14 anos), exceto na condição de aprendiz; \n
+        \t - A proibição de venda de bebidas alcoólicas, cigarro, armas, munições, explosivos, fogos de estampido e de artifício à criança ou ao adolescente. \n
     </string>
 
     <string name="lblListItem_titulo_medidas_de_protecao">
@@ -1709,8 +1709,10 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
     </string>
 
 
-
-
+    <string name="calendarioFonte">
+        Fonte: Fundação Cultural Palmares. Calendário Internacional da Cultura Negra.
+http://www.palmares.gov.br/?p=8766, 2011.
+     </string>
 
     <!-- CURIOSIDADES -->
 
@@ -1771,7 +1773,7 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name="texto_curiosidade_palmas_link">
-        https://www.youtube.com/watch?v=NjpvaP8rIgA
+        https://www.youtube.com/watch?v=NjpvaP8rIgA \n
     </string>
 
 

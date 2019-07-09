@@ -106,7 +106,7 @@
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     style="@style/estiloTextoTituloNormal" />
 
-                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                <TextView
                     android:id="@+id/lblListItem_tesxto_direito_a_convivencia"
                     android:layout_below="@id/lblListItem_titulo_direito_a_convivencia"
                     android:text="@string/texto_direito_a_convivencia"
