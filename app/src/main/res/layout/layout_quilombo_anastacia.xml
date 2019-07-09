@@ -46,6 +46,16 @@
                 android:linksClickable="true"
                 style="@style/estiloTextoConteudo" />
 
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewReferenciaQuilomboAnastacia"
+                android:layout_below="@+id/textquiloAnastacia"
+                android:text="@string/textoReferenciaQuilomboAnastacia"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:linksClickable="true"
+                style="@style/estiloTextoComplemento" />
+
         </RelativeLayout>
     </ScrollView>
 

@@ -59,26 +59,27 @@ Navegue à vontade!!!
     </string>
 
     <string name="textViewOqueESerQuilombola">
-        <b>
-            “Então ser quilombola, que nem eu vivo dizendo pro pessoal, é tudo de bom, ser negra
-é muito orgulho, muito bom, apesar da gente saber que têm as dificuldades e as portas
-fechadas, mas a gente dá um jeito. E com a resistência que nós temos e que a gente já
-herdou dos nossos antepassados, né, essa força a gente consegue atravessar essas
-portas, sim. Acho que é isso, pra mim ser quilombola é isso. É desistir jamais.” \n
-- Moradora do Quilombo dos Alpes
-            \n \n
-Procurar cultivar a cultura dos escravizados, que por um bom tempo foram tratados
-como escravos no Brasil. Acho muito importante ser quilombola, e o porquê ser
-quilombola acho que é um direito nosso, a onde foi tratado os escravos aqui na Barão
-de Gravataí, que procuramos sempre valorizar e retratar a nossa história, e procurar
-os benefícios adequados para a nossa comunidade. \n
-Morador do Quilombo Areal da Baronesa \n \n
-“Ser Quilombola, são os negros oriundos dos fugitivos dos senhores de engenho,
-escravizaram eles, então o Quilombo é só um negro, tinha muito branco no meio dos
-crioulos também, era só os fugitivos né, são os negros que iam para lá ser acolhidos
-pelos zumbis.” \n
-- Morador do Quilombo Fidélix
-        </b>
+
+                    “Então ser quilombola, que nem eu vivo dizendo pro pessoal, é tudo de bom, ser negra
+        é muito orgulho, muito bom, apesar da gente saber que têm as dificuldades e as portas
+        fechadas, mas a gente dá um jeito. E com a resistência que nós temos e que a gente já
+        herdou dos nossos antepassados, né, essa força a gente consegue atravessar essas
+        portas, sim. Acho que é isso, pra mim ser quilombola é isso. É desistir jamais.” \n
+        - Moradora do Quilombo dos Alpes
+                    \n \n
+                “Procurar cultivar a cultura dos escravizados, que por um bom tempo foram tratados
+        como escravos no Brasil. Acho muito importante ser quilombola, e o porquê ser
+        quilombola acho que é um direito nosso, a onde foi tratado os escravos aqui na Barão
+        de Gravataí, que procuramos sempre valorizar e retratar a nossa história, e procurar
+        os benefícios adequados para a nossa comunidade.” \n
+        Morador do Quilombo Areal da Baronesa
+                    \n \n
+        “Ser Quilombola, são os negros oriundos dos fugitivos dos senhores de engenho,
+        escravizaram eles, então o Quilombo é só um negro, tinha muito branco no meio dos
+        crioulos também, era só os fugitivos né, são os negros que iam para lá ser acolhidos
+        pelos zumbis.” \n
+        - Morador do Quilombo Família Fidélix
+
     </string>
 
     <string name="textoDireitos">
@@ -204,7 +205,7 @@ pelos zumbis.” \n
 
         Com o tempo, surgiram diversas comunidades de refúgio e preservação da cultura africana.
         Mesmo tendo sofrido muitas violências, por representarem uma ameaça ao sistema escravagista, a resistência
-        continua sendo a marca do povo quilombola, hoje apre em mais de duas mil comunidades quilombolas já certificadas.
+        continua sendo a marca do povo quilombola, hoje apre em mais de duas mil comunidades quilombolas já certificadas. \n
     </string>
 
     <string name="texto_histcult01_part03">
@@ -222,8 +223,8 @@ pelos zumbis.” \n
 
     <string name="titulo_quilopoa01"> Quilombo dos Alpes</string>
     <string name="tituloQuilomboAreal02"> Quilombo Areal da Baronesa</string>
-    <string name="titulo_quilomboSilva"> Quilombo da Família Silva</string>
-    <string name="titulo_quilomboFidelix"> Quilombo da Família Fidélix</string>
+    <string name="titulo_quilomboSilva"> Quilombo Família Silva</string>
+    <string name="titulo_quilomboFidelix"> Quilombo Família Fidélix</string>
     <string name="titulo_video_quilopoa01"> VÍDEO: Quilombos Urbanos - Capítulo 4:</string>
     <string name="titulo_video_quilopoa02"> VÍDEO: Areal da Baronesa, berço do samba em Porto Alegre:</string>
 
@@ -364,12 +365,17 @@ Metropolitana. O Quilombo Alpes é o quinto dessa reportagem especial.
         A ocupação da área remonta ao início do século XX, com a formação do núcleo familiar de Anastácia e Olímpio Gomes, que foram
         para a região morar em terras de parentes libertos da escravidão. A área legitimamente herdada por Anastácia foi sendo reduzida
         ao longo do tempo por várias ocorrências - entre as quais, a construção de uma barragem na década de 50 do século passado.
-        O Quilombo da Anastácia integra um contingente historicamente relevante – embora sem visibilidade - da presença negra na região
+        O Quilombo Anastácia integra um contingente historicamente relevante – embora sem visibilidade - da presença negra na região
         de Viamão, iniciada no século XVIII com a vinda do primeiro casal de escravos para uma sesmaria.
     </string>
 
+    <string name="textoReferenciaQuilomboAnastacia">
+      SILVA, Vera.“De gente da Barragem” a “Quilombo da Anastácia” : um estudo antropológico sobre o processo de etnogênese em uma
+        comunidade quilombola no município de Viamão/RS. Dissertação. Programa de Pós-Graduação em Antropologia Social UFGRS. 2006.
+    </string>
+
     <string name="titulo_quilomboLemos">
-       Quilombo Lemos
+       Quilombo Família Lemos
     </string>
 
     <string name="textoDireitosLayoutQuilomboLemos">
@@ -377,16 +383,24 @@ Metropolitana. O Quilombo Alpes é o quinto dessa reportagem especial.
     </string>
 
     <string name="textoComplementoQuilomboLemos">
-        O Quilombo Lemos é o sétimo quilombo urbano de Porto Alegre. Localizado nos fundos da Av. Padre Cacique, desde o ínicio de 1960,
+        O Quilombo Família Lemos é o sétimo quilombo urbano de Porto Alegre. Localizado nos fundos da Av. Padre Cacique, desde o ínicio de 1960,
         foi lá onde se assentaram o casal Jorge Alberto Rocha de Lemos e Delzia Gonçalves de Lemos, em razão da proximidade com seu
         local de trabalho, o Asilo Padre Cacique. Com profunda relação com Quilombo de Maçambique no munícipio de Canguçu, esses
         descendentes diretos de escravizados, em área verde, que se mantém até hoje, criaram roças e constituíram familia, construiram
         casas, formaram raízes e estabeleceram profundas relações com a comunidade negra de Porto Alegre. Hoje conta com aproximadamente
         40 pessoas, e com o passar do tempo e com a morte dos mais velhos a família se aglutinou num processo de constante
-        desterritorialização, já sendo certificado pela Fundação Palmares e com processo aberto no Incra, hoje o Quilombo Lemos resiste
+        desterritorialização, já sendo certificado pela Fundação Palmares e com processo aberto no Incra, hoje o Quilombo Família Lemos resiste
         e luta, sendo apoiado por várias entidades e pela comunidade quilombola, contra o risco de despejo por um processo de
         integração de posse iniciado em 2009.
     </string>
+
+
+    <string name="textoReferenciaQuilomboLemos">
+        NINJA. Fundação  Cultural Palmares certifica o Quilombo Gaúcho Família Lemos. Disponível em: \n
+        &lt;http://midianinja.org/news/fundacao-cultural-palmares-certifica-quilombo-gaucho-familia-lemos/ &gt;. \n
+        Acesso em: 05 julho 2019. \n\n
+    </string>
+
 
     <string name="video_quilopoa02">
         8 de dez de 2015. Matéria para o Porto A (tvcomrs) de agosto de 2014 sobre o Areal da Baronesa, quilombo urbano que é o berço do samba em Porto Alegre. \n\n

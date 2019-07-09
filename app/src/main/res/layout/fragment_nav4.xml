@@ -23,7 +23,7 @@
             <ImageView
                 android:id="@+id/imageView1"
                 android:layout_below="@+id/textViewTitulo"
-                android:src="@drawable/aimagehistoriaculturatradicao"
+                android:src="@drawable/bonecaad"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 style="@style/estiloImagem" />
@@ -38,11 +38,12 @@
 
             <ImageView
                 android:id="@+id/imageViewB"
-                android:layout_below="@+id/textViewDireitosImageA"
-                android:src="@drawable/bimagehistoriaculturatradicao"
+                style="@style/estiloImagem"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                style="@style/estiloImagem" />
+                android:layout_below="@+id/textViewDireitosImageA"
+                android:layout_marginTop="-1dp"
+                android:src="@drawable/bonecaac" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewDireitosImageB"
@@ -62,7 +63,7 @@
             <ImageView
                 android:id="@+id/imageViewC"
                 android:layout_below="@+id/textView4"
-                android:src="@drawable/cimagehistoriaculturatradicao"
+                android:src="@drawable/bonecaaa"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 style="@style/estiloImagem"/>
