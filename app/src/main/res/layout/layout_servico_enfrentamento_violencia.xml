@@ -106,12 +106,28 @@
             style="@style/estiloTextoConteudo" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
-            android:id="@+id/textViewTextoTituloSempreMulher"
+            android:id="@+id/textViewTituloDepartamentoMedicoLegal"
             android:layout_below="@id/textViewTextoInstitutoGeralPericias"
-            android:text="@string/textoTituloSempreMulher"
+            android:text="@string/textoTituloDepartamentoMedicoLegal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/estiloTextoTituloNormal" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewEnderecoDepartamentoMedicoLegal"
+            android:layout_below="@id/textViewTituloDepartamentoMedicoLegal"
+            android:text="@string/textoEnderecoDepartamentoMedicoLegal"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             style="@style/estiloTextoConteudo" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoTituloSempreMulher"
+            android:layout_below="@id/textViewEnderecoDepartamentoMedicoLegal"
+            android:text="@string/textoTituloSempreMulher"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/estiloTextoTituloNormal" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoLinkSempreMulher"
@@ -327,7 +343,7 @@
             android:text="@string/textoTituloCentroDeReferenciaAsVitimasDeViolencia"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            style="@style/estiloTextoConteudo" />
+            style="@style/estiloTextoTituloNormal" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoLinkCentroDeReferenciaAsVitimasDeViolencia"
@@ -482,7 +498,7 @@
             android:text="@string/textoTituloDelegaciaEspecializadanoAtendimentoAMulher"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            style="@style/estiloTextoConteudo" />
+            style="@style/estiloTextoTituloNormal" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoDelegaciaEspecializadanoAtendimentoAMulher"
@@ -506,7 +522,7 @@
             android:text="@string/textoTituloServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            style="@style/estiloTextoConteudo" />
+            style="@style/estiloTextoTituloNormal" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
             android:id="@+id/textViewTextoLinkServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher"
@@ -519,9 +535,49 @@
             style="@style/estiloTextoComplemento" />
 
         <com.example.anapaula.quilombolaappv4.JustifyTextView
-            android:id="@+id/textViewTextoContatoServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher"
+            android:id="@+id/textViewTituloHospitalNossaSenhoraDaConceicao"
             android:layout_below="@id/textViewTextoLinkServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher"
-            android:text="@string/textoContatoServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher"
+            android:text="@string/textoTituloHospitalNossaSenhoraDaConceicao"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/estiloTextoTituloNormal" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoHospitalNossaSenhoraDaConceicao"
+            android:layout_below="@id/textViewTituloHospitalNossaSenhoraDaConceicao"
+            android:text="@string/textoEnderecoHospitalNossaSenhoraDaConceicao"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/estiloTextoConteudo" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTituloHospitalProntoSocorroDePortoAlegre"
+            android:layout_below="@id/textViewTextoHospitalNossaSenhoraDaConceicao"
+            android:text="@string/textoTituloHospitalProntoSocorroDePortoAlegre"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/estiloTextoTituloNormal" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoHospitalProntoSocorroDePortoAlegre"
+            android:layout_below="@id/textViewTituloHospitalProntoSocorroDePortoAlegre"
+            android:text="@string/textoEnderecoHospitalProntoSocorroDePortoAlegre"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/estiloTextoConteudo" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTituloHospitalFemina"
+            android:layout_below="@id/textViewTextoHospitalProntoSocorroDePortoAlegre"
+            android:text="@string/textoTituloHospitalFemina"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/estiloTextoTituloNormal" />
+
+        <com.example.anapaula.quilombolaappv4.JustifyTextView
+            android:id="@+id/textViewTextoEnderecoHospitalFemina"
+            android:layout_below="@id/textViewTituloHospitalFemina"
+            android:text="@string/textoEnderecoHospitalFemina"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             style="@style/estiloTextoConteudo" />
