@@ -65,11 +65,11 @@ public class Nav2 extends Fragment
         listDataHeader.add("Quilombos de Porto Alegre");
         listDataHeader.add("Quilombo dos Alpes");
         listDataHeader.add("Quilombo Areal da Baronesa");
-        listDataHeader.add("Quilombo da Família Silva");
-        listDataHeader.add("Quilombo da Família Fidélix");
-        listDataHeader.add("Quilombo da Família Lemos");
+        listDataHeader.add("Quilombo Família Silva");
+        listDataHeader.add("Quilombo Família Fidélix");
+        listDataHeader.add("Quilombo Família Lemos");
 
-        listDataHeader.add("Quilombo da Família Anastácia");
+        listDataHeader.add("Quilombo Anastácia");
 
         listDataHeader.add("Entrevistas");
 
