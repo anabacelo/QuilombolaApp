@@ -555,7 +555,7 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
     </string>
 
     <string name="texto_sobre_o_diretito_a_diversidade_e_igualdade">
-       \t  Art. 17.  O jovem tem direito à diversidade e à igualdade de direitos e de oportunidades e não será discriminado por motivo de: \n
+      \n \t  Art. 17.  O jovem tem direito à diversidade e à igualdade de direitos e de oportunidades e não será discriminado por motivo de: \n
         I - etnia, raça, cor da pele, cultura, origem, idade e sexo;\n
         II - orientação sexual, idioma ou religião; \n
         III - opinião, deficiência e condição social ou econômica.\n
@@ -663,7 +663,7 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
         \t  ● A Semana Nacional de Prevenção da Gravidez na Adolescência, realizada anualmente na semana que incluir o dia 1º de fevereiro, com o objetivo de disseminar informações sobre medidas preventivas e educativas que contribuam para a redução da incidência da gravidez na adolescência; \n
         \t  ● A vacinação obrigatória das crianças nos casos recomendados pelas autoridades sanitárias;  \n
         \t ● A proibição do trabalho do infantil (até 14 anos), exceto na condição de aprendiz; \n
-        \t ● A proibição de venda de bebidas alcoólicas, cigarro, armas, munições, explosivos, fogos de estampido e de artifício à criança ou ao adolescente. \n
+        \t ● A proibição de venda de bebidas alcoólicas, cigarro, armas, munições, explosivos, fogos de estampido e de artifício à criança ou ao adolescente.
     </string>
 
     <string name="lblListItem_titulo_medidas_de_protecao">
@@ -1049,7 +1049,7 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
 
 
     <string name="texto_popnegra01">
-        A população autodeclarada negra (pretos e pardos) do Rio Grande do Sul totaliza 1.725.166 pessoas, segundo o censo
+       \t A população autodeclarada negra (pretos e pardos) do Rio Grande do Sul totaliza 1.725.166 pessoas, segundo o censo
         demográfico de 2010 realizado pelo IBGE, o que representa 16,13% dos habitantes do estado. Parte significativa dessa
         população, especialmente as residentes em comunidades remanescentes de quilombos ou nas periferias, apresentam condições de
         alta vulnerabilidade social e econômica resultantes do processo de escravidão, que durante mais de 300 anos no Brasil,
