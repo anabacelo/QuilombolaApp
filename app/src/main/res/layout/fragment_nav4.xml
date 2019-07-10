@@ -19,7 +19,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTitulo" />
-
+            <!--
             <ImageView
                 android:id="@+id/imageView1"
                 android:layout_below="@+id/textViewTitulo"
@@ -52,14 +52,15 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
-
+            -->
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textView4"
-                android:layout_below="@+id/textViewDireitosImageB"
+                android:layout_below="@+id/textViewTitulo"
                 android:text="@string/texto_histcult01_part02"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content" />
-
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoComplemento" />
+            <!--
             <ImageView
                 android:id="@+id/imageViewC"
                 android:layout_below="@+id/textView4"
@@ -75,10 +76,10 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
-
+            -->
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textView6"
-                android:layout_below="@+id/textViewDireitosImagec"
+                android:layout_below="@+id/textView4"
                 android:text="@string/texto_histcult01_part03"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

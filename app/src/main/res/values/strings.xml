@@ -442,27 +442,27 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
 
     <!-- LEGISLAÇÃO -->
     <string name="titulo_lei_estatudo_idoso">Legislação 1 Estatuto do Idoso</string>
-    <string name="titulo_lei_legislacao_conselho_tutelar"> ESTATUTO DA CRIANÇA E DO ADOLESCENTE – ( LEI N. 8.069/1990 )</string>
+    <string name="titulo_lei_legislacao_conselho_tutelar"> ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI 8.069, de 13 de junho de 1990)\n</string>
     <string name="titulo_politica_nacional_de_assistencia_social"> Política Nacional de Assistência Social</string>
-    <string name="titulo_estatuto_juventude">Estatuto da Juventude</string>
+    <string name="titulo_estatuto_juventude">ESTATUTO DA JUVENTUDE (LEI 12852, de 05 de agosto de 2013)\n</string>
 
     <string name="textoDireitosImagemEstatudoDoIdoso">
-      \t  Fonte: Reprodução/Jornal O São Paulo. \n\n
+      \t  Fonte: Reprodução/Jornal O São Paulo.
     </string>
 
 
     <string name="tituloLeiEstatutoDoIdoso">
-      \t  Estatuto do Idoso – (LEI N.10.741/2003) \n\n
+        ESTATUTO DO IDOSO (LEI 10.741, de 1 de outubro de 2003) \n
     </string>
 
     <string name="textoLeiEstatutoDoIdoso">
-            \t  O Estatuto do Idoso foi instituído em 1º de outubro 2003, destinado a regular os direitos
-        assegurados às pessoas com idade igual ou superior a 60 (sessenta) anos. (Art 1º)
-        O idoso goza de todos os direitos fundamentais inerentes à pessoa humana, sem prejuízo
+            \t O Estatuto do Idoso foi instituído em 1º de outubro 2003, destinado a regular os direitos
+        assegurados às pessoas com idade igual ou superior a 60 (sessenta) anos.
+        \n(Art 1º) O idoso goza de todos os direitos fundamentais inerentes à pessoa humana, sem prejuízo
         da proteção integral de que trata esta Lei, assegurando-se-lhe, por lei ou por outros
         meios, todas as oportunidades e facilidades, para preservação de sua saúde física e
         mental e seu aperfeiçoamento moral, intelectual, espiritual e social, em condições de
-        liberdade e dignidade. (Art. 2º)\n
+        liberdade e dignidade. \n(Art. 2º)
         \t Segundo o Art. 3º do Estatuto, é obrigação da família, da comunidade, da sociedade e
         do Poder Público assegurar ao idoso, com absoluta prioridade, a efetivação do direito à
         vida, à saúde, à alimentação, à educação, à cultura, ao esporte, ao lazer, ao trabalho, à
@@ -653,6 +653,7 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
         \t III - a intervenção e oitiva de representantes do órgão federal responsável pela política indigenista, no caso de crianças e adolescentes indígenas, e de antropólogos, perante a equipe interprofissional ou multidisciplinar que irá acompanhar o caso. (Incluído pela Lei nº 12.010, de 2009) . \n
         \t É responsabilidade da Justiça da Infância e Juventude acompanhar casos de adoção. \n
         \t O ECA instituiu normas como: \n
+<!--//<<<<<<< HEAD-->
         \t ● Direito de brincar, praticar esportes e divertir-se;  \n
         \t ● Direito de ir, vir e estar nos logradouros públicos e espaços comunitários, ressalvadas as restrições legais; \n
         \t ● Acesso à escola pública e gratuita próxima de sua residência; \n
@@ -660,10 +661,23 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
         \t ● Direito de organização e participação em entidades estudantis; \n
         \t ● Classificação indicativa de faixa etária, para que crianças e adolescentes consumam conteúdos próprios à sua idade; \n
         \t ● Respeito aos valores culturais, artísticos e históricos próprios do contexto social da criança e do adolescente, garantindo-se a estes a liberdade da criação e o acesso às fontes de cultura; \n
-        \t  ● A Semana Nacional de Prevenção da Gravidez na Adolescência, realizada anualmente na semana que incluir o dia 1º de fevereiro, com o objetivo de disseminar informações sobre medidas preventivas e educativas que contribuam para a redução da incidência da gravidez na adolescência; \n
-        \t  ● A vacinação obrigatória das crianças nos casos recomendados pelas autoridades sanitárias;  \n
+        \t ● A Semana Nacional de Prevenção da Gravidez na Adolescência, realizada anualmente na semana que incluir o dia 1º de fevereiro, com o objetivo de disseminar informações sobre medidas preventivas e educativas que contribuam para a redução da incidência da gravidez na adolescência; \n
+        \t ● A vacinação obrigatória das crianças nos casos recomendados pelas autoridades sanitárias;  \n
         \t ● A proibição do trabalho do infantil (até 14 anos), exceto na condição de aprendiz; \n
         \t ● A proibição de venda de bebidas alcoólicas, cigarro, armas, munições, explosivos, fogos de estampido e de artifício à criança ou ao adolescente.
+=======
+        \t - Direito de brincar, praticar esportes e divertir-se;  \n
+        \t - Direito de ir, vir e estar nos logradouros públicos e espaços comunitários, ressalvadas as restrições legais; \n
+        \t - Acesso à escola pública e gratuita próxima de sua residência; \n
+        \t - Atendimento educacional especializado aos portadores de deficiência, preferencialmente na rede regular de ensino; \n
+        \t - Direito de organização e participação em entidades estudantis; \n
+        \t - Classificação indicativa de faixa etária, para que crianças e adolescentes consumam conteúdos próprios à sua idade; \n
+        \t - Respeito aos valores culturais, artísticos e históricos próprios do contexto social da criança e do adolescente, garantindo-se a estes a liberdade da criação e o acesso às fontes de cultura; \n
+        \t - A Semana Nacional de Prevenção da Gravidez na Adolescência, realizada anualmente na semana que incluir o dia 1º de fevereiro, com o objetivo de disseminar informações sobre medidas preventivas e educativas que contribuam para a redução da incidência da gravidez na adolescência; \n
+        \t - A vacinação obrigatória das crianças nos casos recomendados pelas autoridades sanitárias;  \n
+        \t - A proibição do trabalho do infantil (até 14 anos), exceto na condição de aprendiz; \n
+        \t - A proibição de venda de bebidas alcoólicas, cigarro, armas, munições, explosivos, fogos de estampido e de artifício à criança ou ao adolescente. \n
+>>>>>>> 02045e7ca44edcf0a48cb91dc639be98be328cc2
     </string>
 
     <string name="lblListItem_titulo_medidas_de_protecao">
@@ -699,7 +713,7 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
 
 
     <string name="titlePoliticaNacionalDeAssistenciaSocial">
-        \t LEI ORGÂNICA DA ASSISTÊNCIA SOCIAL \n
+        LEI ORGÂNICA DA ASSISTÊNCIA SOCIAL (LEI 8742, de 07 de dezembro de 1993) \n
     </string>
 
     <string name="textoDireitosPoliticaNacionalDeAssistenciaSocial">
@@ -927,8 +941,7 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
     </string>
 
     <string name="titulo_estatuto_igualdade_racial">
-
-            <b>Estatuto de Igualdade Racial</b>
+            ESTATUTO DA IGUALDADE RACIAL (LEI 12.888, de 20 de julho de 2010)\n
     </string>
 
     <string name="textoDireitosImagemEstatutoDaIgualdadeRacial">
@@ -971,7 +984,7 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
 
 
     <string name="textoTituloLeiMariaDaPenha">
-        \t Lei Maria da Penha \n
+        LEI MARIA DA PENHA (LEI 11.340, de 7 de agosto de 2006)\n
     </string>
 
     <string name="textoDireitosLayoutLeiMariaDaPenha">
@@ -1710,8 +1723,10 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
     </string>
 
 
-
-
+    <string name="calendarioFonte">
+        Fonte: Fundação Cultural Palmares. Calendário Internacional da Cultura Negra.
+http://www.palmares.gov.br/?p=8766, 2011.
+     </string>
 
     <!-- CURIOSIDADES -->
 
@@ -1772,7 +1787,7 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
     <string name="texto_curiosidade_palmas_link">
-        https://www.youtube.com/watch?v=NjpvaP8rIgA
+        https://www.youtube.com/watch?v=NjpvaP8rIgA \n
     </string>
 
 

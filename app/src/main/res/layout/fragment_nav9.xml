@@ -15,229 +15,229 @@
 
             <TextView
                 android:id="@+id/textViewTituloPagina"
-                android:text="Curiosidades"
+                style="@style/estiloTextoTitulo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerHorizontal="true"
-                style="@style/estiloTextoTitulo" />
+                android:text="CURIOSIDADES" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewuBuntu"
-                android:layout_below="@+id/textViewTituloPagina"
-                android:text="@string/texto_curiosidade_ubuntu_titulo"
+                style="@style/estiloTextoTituloNormal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                style="@style/estiloTextoTituloNormal" />
+                android:layout_below="@+id/textViewTituloPagina"
+                android:text="@string/texto_curiosidade_ubuntu_titulo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewUbuntuIntroducao"
-                android:layout_below="@+id/textViewuBuntu"
-                android:text="@string/texto_curiosidade_ubuntu_introducao"
+                style="@style/estiloTextoConteudo"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                style="@style/estiloTextoConteudo" />
+                android:layout_below="@+id/textViewuBuntu"
+                android:text="@string/texto_curiosidade_ubuntu_introducao" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewUbuntuComplemento"
-                android:layout_below="@+id/textViewUbuntuIntroducao"
-                android:text="@string/texto_curiosidade_ubuntu_complemento"
+                style="@style/estiloTextoConteudo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                style="@style/estiloTextoConteudo" />
+                android:layout_below="@+id/textViewUbuntuIntroducao"
+                android:text="@string/texto_curiosidade_ubuntu_complemento" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewAbayomiTitulo"
-                android:layout_below="@+id/textViewUbuntuComplemento"
-                android:text="@string/texto_curiosidade_abayomi_titulo"
+                style="@style/estiloTextoConteudo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                style="@style/estiloTextoConteudo" />
+                android:layout_below="@+id/textViewUbuntuComplemento"
+                android:text="@string/texto_curiosidade_abayomi_titulo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewAbayomiTexto"
-                android:layout_below="@+id/textViewAbayomiTitulo"
-                android:text="@string/texto_curiosidade_abayomi_texto"
+                style="@style/estiloTextoConteudo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                style="@style/estiloTextoConteudo" />
+                android:layout_below="@+id/textViewAbayomiTitulo"
+                android:text="@string/texto_curiosidade_abayomi_texto" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewtextViewAbayomiComplemento"
-                android:layout_below="@+id/textViewAbayomiTexto"
-                android:text="@string/texto_curiosidade_abayomi_complemento"
+                style="@style/estiloTextoConteudo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                style="@style/estiloTextoConteudo" />
+                android:layout_below="@+id/textViewAbayomiTexto"
+                android:text="@string/texto_curiosidade_abayomi_complemento" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewtextViewAbayomiLink"
-                android:layout_below="@+id/textViewtextViewAbayomiComplemento"
-                android:text="@string/texto_curiosidade_abayomi_link"
+                style="@style/estiloTextoComplemento"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_below="@+id/textViewtextViewAbayomiComplemento"
                 android:autoLink="web"
                 android:linksClickable="true"
-                style="@style/estiloTextoComplemento" />
+                android:text="@string/texto_curiosidade_abayomi_link" />
 
             <ImageView
                 android:id="@+id/imageViewAbaomi"
-                android:layout_below="@+id/textViewtextViewAbayomiLink"
-                android:src="@drawable/abayomia"
+                style="@style/estiloImagem"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                style="@style/estiloImagem" />
+                android:layout_below="@+id/textViewtextViewAbayomiLink"
+                android:src="@drawable/abayomia" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoDireitoAutoralDaImagemAbaomi"
-                android:layout_below="@+id/imageViewAbaomi"
-                android:text="Direitos: NEPEVI"
+                style="@style/estiloTextoLayoutEsquerdaDireitosReservados"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
+                android:layout_below="@+id/imageViewAbaomi"
+                android:text="Direitos: NEPEVI" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewtextViewPalmasTitulo"
-                android:layout_below="@+id/textViewTextoDireitoAutoralDaImagemAbaomi"
-                android:text="@string/texto_curiosidade_palmas_titulo"
+                style="@style/estiloTextoTituloNormal"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                style="@style/estiloTextoTituloNormal" />
+                android:layout_below="@+id/textViewTextoDireitoAutoralDaImagemAbaomi"
+                android:text="@string/texto_curiosidade_palmas_titulo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewtextViewPalmasTexto"
-                android:layout_below="@+id/textViewtextViewPalmasTitulo"
-                android:text="@string/texto_curiosidade_palmas_texto"
+                style="@style/estiloTextoConteudo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                style="@style/estiloTextoConteudo" />
+                android:layout_below="@+id/textViewtextViewPalmasTitulo"
+                android:text="@string/texto_curiosidade_palmas_texto" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewtextViewPalmasLink"
-                android:layout_below="@+id/textViewtextViewPalmasTexto"
-                android:text="@string/texto_curiosidade_palmas_link"
+                style="@style/estiloTextoComplemento"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_below="@+id/textViewtextViewPalmasTexto"
                 android:autoLink="web"
                 android:linksClickable="true"
-                style="@style/estiloTextoComplemento" />
-
-            <ImageView
-                android:id="@+id/imageViewTrancasNago"
-                android:layout_below="@+id/textViewtextViewPalmasLink"
-                android:src="@drawable/montagem_nago"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                style="@style/estiloImagem" />
-
+                android:text="@string/texto_curiosidade_palmas_link" />
+            <!--
+                <ImageView
+                    android:id="@+id/imageViewTrancasNago"
+                    android:layout_below="@+id/textViewtextViewPalmasLink"
+                    android:src="@drawable/montagem_nago"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    style="@style/estiloImagem" />
+            -->
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoTituloTrancasNago"
-                android:layout_below="@+id/imageViewTrancasNago"
-                android:text="@string/textoTituloTrancasNago"
+                style="@style/estiloTextoTituloNormal"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                style="@style/estiloTextoTituloNormal" />
+                android:layout_below="@+id/textViewtextViewPalmasLink"
+                android:text="@string/textoTituloTrancasNago" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoTrancasNago"
-                android:layout_below="@+id/textViewTextoTituloTrancasNago"
-                android:text="@string/textoTrancasNago"
+                style="@style/estiloTextoConteudo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                style="@style/estiloTextoConteudo" />
+                android:layout_below="@+id/textViewTextoTituloTrancasNago"
+                android:text="@string/textoTrancasNago" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoComplementoTrancasNago"
-                android:layout_below="@+id/textViewTextoTrancasNago"
-                android:text="@string/textoComplementoTrancasNago"
+                style="@style/estiloTextoConteudo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_below="@+id/textViewTextoTrancasNago"
                 android:autoLink="web"
                 android:linksClickable="true"
-                style="@style/estiloTextoConteudo" />
+                android:text="@string/textoComplementoTrancasNago" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoFimTrancasNago"
-                android:layout_below="@+id/textViewTextoComplementoTrancasNago"
-                android:text="@string/textoFimTrancasNago"
+                style="@style/estiloTextoConteudo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_below="@+id/textViewTextoComplementoTrancasNago"
                 android:layout_alignParentTop="false"
                 android:autoLink="web"
                 android:linksClickable="true"
-                style="@style/estiloTextoConteudo" />
+                android:text="@string/textoFimTrancasNago" />
 
             <ImageView
                 android:id="@+id/imageViewDesenhosGrafite1546872699578"
-                android:layout_below="@+id/textViewTextoFimTrancasNago"
-                android:src="@drawable/fb_img_1546872699578"
+                style="@style/estiloImagem"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                style="@style/estiloImagem" />
+                android:layout_below="@+id/textViewTextoFimTrancasNago"
+                android:src="@drawable/fb_img_1546872699578" />
 
             <ImageView
                 android:id="@+id/imageViewDesenhosGrafite1546872710595"
-                android:layout_below="@+id/imageViewDesenhosGrafite1546872699578"
-                android:src="@drawable/fb_img_1546872710595"
+                style="@style/estiloImagem"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                style="@style/estiloImagem" />
+                android:layout_below="@+id/imageViewDesenhosGrafite1546872699578"
+                android:src="@drawable/fb_img_1546872710595" />
 
             <ImageView
                 android:id="@+id/imageViewDesenhosGrafite1546872739748"
-                android:layout_below="@+id/imageViewDesenhosGrafite1546872710595"
-                android:src="@drawable/fb_img_1546872739748"
+                style="@style/estiloImagem"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                style="@style/estiloImagem" />
+                android:layout_below="@+id/imageViewDesenhosGrafite1546872710595"
+                android:src="@drawable/fb_img_1546872739748" />
 
             <ImageView
                 android:id="@+id/imageViewDesenhosGrafite1546873013431"
-                android:layout_below="@+id/imageViewDesenhosGrafite1546872739748"
-                android:src="@drawable/fb_img_1546873013431"
+                style="@style/estiloImagem"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                style="@style/estiloImagem" />
+                android:layout_below="@+id/imageViewDesenhosGrafite1546872739748"
+                android:src="@drawable/fb_img_1546873013431" />
 
             <ImageView
                 android:id="@+id/imageViewDesenhosGrafite1546873106888"
-                android:layout_below="@+id/imageViewDesenhosGrafite1546873013431"
-                android:src="@drawable/fb_img_1546873106888"
+                style="@style/estiloImagem"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                style="@style/estiloImagem" />
+                android:layout_below="@+id/imageViewDesenhosGrafite1546873013431"
+                android:src="@drawable/fb_img_1546873106888" />
 
             <ImageView
                 android:id="@+id/imageViewDesenhosGrafite1546873356857"
-                android:layout_below="@+id/imageViewDesenhosGrafite1546873106888"
-                android:src="@drawable/fb_img_1546873356857"
+                style="@style/estiloImagem"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                style="@style/estiloImagem" />
+                android:layout_below="@+id/imageViewDesenhosGrafite1546873106888"
+                android:src="@drawable/fb_img_1546873356857" />
 
             <ImageView
                 android:id="@+id/imageViewDesenhosGrafite1546873365584"
-                android:layout_below="@+id/imageViewDesenhosGrafite1546873356857"
-                android:src="@drawable/fb_img_1546873365584"
+                style="@style/estiloImagem"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                style="@style/estiloImagem" />
+                android:layout_below="@+id/imageViewDesenhosGrafite1546873356857"
+                android:src="@drawable/fb_img_1546873365584" />
 
             <ImageView
                 android:id="@+id/imageViewDesenhosGrafite1546873383437"
-                android:layout_below="@+id/imageViewDesenhosGrafite1546873365584"
-                android:src="@drawable/fb_img_1546873383437"
+                style="@style/estiloImagem"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                style="@style/estiloImagem" />
+                android:layout_below="@+id/imageViewDesenhosGrafite1546873365584"
+                android:src="@drawable/fb_img_1546873383437" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoDireitoAutoralDaImagemDoAdalbertoReisDosSantos"
-                android:layout_below="@+id/imageViewDesenhosGrafite1546873383437"
-                android:text="@string/textoDireitoAutoralDaImagemDoAdalbertoReisDosSantos"
+                style="@style/estiloTextoLayoutEsquerdaDireitosReservados"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
+                android:layout_below="@+id/imageViewDesenhosGrafite1546873383437"
+                android:text="@string/textoDireitoAutoralDaImagemDoAdalbertoReisDosSantos" />
 
         </RelativeLayout>
     </ScrollView>
-</LinearLayout>
+            </LinearLayout>

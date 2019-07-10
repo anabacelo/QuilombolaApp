@@ -7,6 +7,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bde780f6-ea9a-4eeb-a148-7f67b478ba88" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/anapaula/quilombolaappv4/Nav3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/anapaula/quilombolaappv4/Nav3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_home_page.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_home_page.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_nav11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_nav11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_nav4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_nav4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_nav9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_nav9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/layout_estatudo_juventude.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/layout_estatudo_juventude.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/layout_estatuto_crianca.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/layout_estatuto_crianca.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/layout_estatuto_idoso.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/layout_estatuto_idoso.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/layout_estatuto_igualdade_racial.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/layout_estatuto_igualdade_racial.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/layout_lei_maria_da_penha.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/layout_lei_maria_da_penha.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/layout_politica_nacional_de_assistencia_social.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/layout_politica_nacional_de_assistencia_social.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,11 +52,8 @@
         <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_estatuto_crianca.xml">
           <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="129" column="50" selection-start-line="129" selection-start-column="50" selection-end-line="129" selection-end-column="50" />
-              <folding>
-                <element signature="e#6891#6939#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="2159">
+              <caret line="127" column="50" selection-start-line="127" selection-start-column="50" selection-end-line="127" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -53,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_saude_populacao_negra.xml">
           <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
+            <state relative-caret-position="459">
               <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
             </state>
           </provider>
@@ -62,8 +71,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="31" column="77" selection-start-line="31" selection-start-column="77" selection-end-line="31" selection-end-column="77" />
+            <state relative-caret-position="128">
+              <caret line="656" column="10" lean-forward="true" selection-start-line="656" selection-start-column="10" selection-end-line="656" selection-end-column="10" />
+              <folding>
+                <element signature="e#31370#31374#0" expanded="true" />
+                <element signature="e#31432#31436#0" expanded="true" />
+                <element signature="e#40392#40396#0" expanded="true" />
+                <element signature="e#40466#40470#0" expanded="true" />
+                <element signature="e#40640#40644#0" expanded="true" />
+                <element signature="e#40687#40691#0" expanded="true" />
+                <element signature="e#61903#61907#0" expanded="true" />
+                <element signature="e#61967#61971#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,11 +91,8 @@
         <entry file="file://$PROJECT_DIR$/src/main/res/layout/fragment_home_page.xml">
           <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="47" column="54" lean-forward="true" selection-start-line="47" selection-start-column="54" selection-end-line="47" selection-end-column="54" />
-              <folding>
-                <element signature="e#761#796#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="799">
+              <caret line="47" column="54" selection-start-line="47" selection-start-column="54" selection-end-line="47" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -85,7 +101,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_estatudo_juventude.xml">
           <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
+            <state relative-caret-position="1326">
               <caret line="78" column="56" selection-start-line="78" selection-start-column="56" selection-end-line="78" selection-end-column="56" />
             </state>
           </provider>
@@ -149,9 +165,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -179,6 +194,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -302,7 +318,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
@@ -324,13 +340,13 @@
       <window_info anchor="bottom" id="Build" order="7" weight="0.3289689" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.3289689" />
       <window_info anchor="bottom" id="Android Profiler" order="9" />
-      <window_info anchor="right" id="Assistant" weight="0.32980332" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="right" id="Preview" order="4" weight="0.3207262" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Assistant" order="6" weight="0.32980332" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24130106" />
@@ -523,29 +539,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_estatudo_juventude.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="78" column="56" selection-start-line="78" selection-start-column="56" selection-end-line="78" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_estatuto_crianca.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="129" column="50" selection-start-line="129" selection-start-column="50" selection-end-line="129" selection-end-column="50" />
-          <folding>
-            <element signature="e#6891#6939#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="2159">
+          <caret line="127" column="50" selection-start-line="127" selection-start-column="50" selection-end-line="127" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_saude_populacao_negra.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
+        <state relative-caret-position="459">
           <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
         </state>
       </provider>
@@ -553,18 +558,33 @@
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/fragment_home_page.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="47" column="54" lean-forward="true" selection-start-line="47" selection-start-column="54" selection-end-line="47" selection-end-column="54" />
-          <folding>
-            <element signature="e#761#796#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="799">
+          <caret line="47" column="54" selection-start-line="47" selection-start-column="54" selection-end-line="47" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_estatudo_juventude.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" column="56" selection-start-line="78" selection-start-column="56" selection-end-line="78" selection-end-column="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="31" column="77" selection-start-line="31" selection-start-column="77" selection-end-line="31" selection-end-column="77" />
+        <state relative-caret-position="128">
+          <caret line="656" column="10" lean-forward="true" selection-start-line="656" selection-start-column="10" selection-end-line="656" selection-end-column="10" />
+          <folding>
+            <element signature="e#31370#31374#0" expanded="true" />
+            <element signature="e#31432#31436#0" expanded="true" />
+            <element signature="e#40392#40396#0" expanded="true" />
+            <element signature="e#40466#40470#0" expanded="true" />
+            <element signature="e#40640#40644#0" expanded="true" />
+            <element signature="e#40687#40691#0" expanded="true" />
+            <element signature="e#61903#61907#0" expanded="true" />
+            <element signature="e#61967#61971#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

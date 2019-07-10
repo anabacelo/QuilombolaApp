@@ -16,12 +16,12 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content">
 
-            <TextView
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/titleEestatutoDaJuventude"
                 android:text="@string/titulo_estatuto_juventude"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                style="@style/estiloTextoTitulo" />
+                style="@style/estiloTextoTituloNormal" />
 
             <ImageView
                 android:id="@+id/imageViewEstatudoDaJuventude"

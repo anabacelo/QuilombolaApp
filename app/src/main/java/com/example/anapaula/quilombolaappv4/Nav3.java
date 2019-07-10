@@ -59,7 +59,7 @@ public class Nav3 extends Fragment {
 
         listDataHeader.add("Estatuto do Idoso");
         listDataHeader.add("Estatuto da Criança e do Adolescente");
-        listDataHeader.add("Estatuto de Igualdade Racial");
+        listDataHeader.add("Estatuto da Igualdade Racial");
         listDataHeader.add("Estatuto da Juventude");
         listDataHeader.add("Politica Nacional de Assistencia Social");
         listDataHeader.add("Programa Brasil Quilombola");
