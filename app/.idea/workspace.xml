@@ -192,23 +192,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_estatuto_crianca.xml">
-          <provider editor-type-id="android-designer2" />
+        <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="111" column="62" selection-start-line="111" selection-start-column="62" selection-end-line="111" selection-end-column="62" />
-              <folding>
-                <element signature="e#6804#6852#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="187">
+              <caret line="2360" column="20" selection-start-line="2360" selection-start-column="20" selection-end-line="2360" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_servico_enfrentamento_violencia.xml">
+          <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="671" column="51" selection-start-line="671" selection-start-column="51" selection-end-line="671" selection-end-column="51" />
+            <state relative-caret-position="271">
+              <caret line="287" lean-forward="true" selection-start-line="287" selection-end-line="287" />
+              <folding>
+                <element signature="e#14814#14864#0" expanded="true" />
+                <element signature="e#15268#15316#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -237,6 +238,7 @@
       <find>ile</find>
       <find>escuta</find>
       <find>CURIOSIDADES</find>
+      <find>centro</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -453,7 +455,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" sideWeight="0.502455" side_tool="true" weight="0.32980332" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.497545" visible="true" weight="0.21406959" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.497545" visible="true" weight="0.21406959" />
       <window_info id="Structure" order="2" sideWeight="0.502455" side_tool="true" weight="0.32980332" />
       <window_info id="Favorites" order="3" sideWeight="0.502455" side_tool="true" weight="0.32980332" />
       <window_info id="Build Variants" order="4" sideWeight="0.5040917" side_tool="true" weight="0.24130106" />
@@ -475,7 +477,7 @@
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="right" id="Preview" order="4" sideWeight="0.49918166" weight="0.2473525" />
+      <window_info active="true" anchor="right" id="Preview" order="4" sideWeight="0.49918166" visible="true" weight="0.2473525" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="right" id="Assistant" order="6" weight="0.32980332" />
     </layout>
@@ -761,25 +763,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_servico_enfrentamento_violencia.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="431" column="21" selection-start-line="431" selection-start-column="21" selection-end-line="431" selection-end-column="21" />
-          <folding>
-            <element signature="e#913#946#0" expanded="true" />
-            <element signature="e#1313#1344#0" expanded="true" />
-            <element signature="e#1830#1892#0" expanded="true" />
-            <element signature="e#5234#5271#0" expanded="true" />
-            <element signature="e#5650#5694#0" expanded="true" />
-            <element signature="e#6504#6537#0" expanded="true" />
-            <element signature="e#6908#6939#0" expanded="true" />
-            <element signature="e#10257#10290#0" expanded="true" />
-            <element signature="e#20440#20470#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_rede_atendimento_intro.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
@@ -793,14 +776,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_doencas_prevalecente_negra.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -868,10 +843,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_doencas_prevalecente_negra.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="671" column="51" selection-start-line="671" selection-start-column="51" selection-end-line="671" selection-end-column="51" />
+        <state relative-caret-position="187">
+          <caret line="2360" column="20" selection-start-line="2360" selection-start-column="20" selection-end-line="2360" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_servico_enfrentamento_violencia.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="287" lean-forward="true" selection-start-line="287" selection-end-line="287" />
+          <folding>
+            <element signature="e#14814#14864#0" expanded="true" />
+            <element signature="e#15268#15316#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

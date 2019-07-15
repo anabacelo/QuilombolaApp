@@ -1083,9 +1083,9 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
 
     <string name="texto_popnegra02">
         Manual de doenças mais importantes, por razões étnicas, na população brasileira afro-descendente, 2001.\n\n
-        <i> http://bvsms.saude.gov.br/bvs/publicacoes/cd06_09.pdf </i> \n\n
+        <i> \t http://bvsms.saude.gov.br/bvs/publicacoes/cd06_09.pdf </i> \n\n
         Diretrizes para Acolhimento e Assistência à Saúde das Mulheres Negras, 2014. \n\n
-        <i> http://lproweb.procempa.com.br/pmpa/prefpoa/sms/usu_doc/diretriz_de_acol_e_assist_saude_mu_negras.pdf </i> \n\n
+        <i> \t http://lproweb.procempa.com.br/pmpa/prefpoa/sms/usu_doc/diretriz_de_acol_e_assist_saude_mu_negras.pdf </i> \n\n
 
         </string>
 
@@ -2363,7 +2363,7 @@ http://www.palmares.gov.br/?p=8766, 2011.
     </string>
 
     <string name = "textoLinkCentroReferenciaDeAtendimento">
-        <b> http://www2.portoalegre.rs.gov.br/smdh/default.php?p_secao=41 </b> \n\n
+        <b> \t http://www2.portoalegre.rs.gov.br/smdh/default.php?p_secao=41 </b> \n\n
     </string>
 
     <string name = "textoJuizadosCentroReferenciaDeAtendimento">
