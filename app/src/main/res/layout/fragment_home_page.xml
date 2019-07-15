@@ -67,16 +67,13 @@
                 android:layout_gravity="center_vertical"
                 android:src="@drawable/pucrs2"
                 android:layout_weight="0.33"
-                android:layout_marginTop="20dp"
-            />
+                android:layout_marginTop="20dp" />
 
             <LinearLayout
                 android:layout_below="@+id/imageViewPUCRS"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:weightSum="2"
-
-                >
+                android:weightSum="2" >
 
                 <ImageView
                     android:id="@+id/imageView5"
@@ -84,18 +81,15 @@
                     android:layout_height="wrap_content"
                     android:src="@drawable/cnpq"
                     android:layout_gravity="center"
-                    android:layout_weight="1"
-                    />
+                    android:layout_weight="1" />
 
                 <ImageView
                     android:id="@+id/imageView4"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
-
                     android:src="@drawable/fapergs"
-                    android:layout_weight="1"
-                    />
+                    android:layout_weight="1" />
 
             </LinearLayout>
         </RelativeLayout>

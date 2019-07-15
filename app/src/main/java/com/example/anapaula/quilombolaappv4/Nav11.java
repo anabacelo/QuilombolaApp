@@ -28,8 +28,8 @@ public class Nav11 extends Fragment {
     }
 
     @Override
-    public View onCreateView(LayoutInflater inflater, ViewGroup container,
-                             Bundle savedInstanceState) {
+    public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
+    {
         // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_nav11, container, false);
     }
@@ -37,7 +37,9 @@ public class Nav11 extends Fragment {
     public void onViewCreated(View view, Bundle savedInstanceState)
     {
         listView = (ExpandableListView)getView().findViewById(R.id.lvExpCalendario);
+
         dataStart();
+
         listAdapter = new ExpandableListAdapter(getActivity(), listDataHeader, listHashMap);
         listView.setAdapter(listAdapter);
     }
@@ -59,7 +61,7 @@ public class Nav11 extends Fragment {
 
 
         listDataHeader = new ArrayList<String>();
-        listHashMap = new HashMap<String,List<Integer>>();
+        listHashMap = new HashMap<String, List<Integer>>();
 
 
         listDataHeader.add("Janeiro");

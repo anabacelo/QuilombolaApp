@@ -29,7 +29,7 @@
     </string>
 
     <string name="textoLayoutPaginaInicial">
-        Esse app foi uma iniciativa de uma equipe de Serviço Social da PUCRS, NEPEV- Grupo de Estudos e Pesquisa em Violência, vinculado ao curso de Serviço Social da Escola de Humanidades, sob coordenação da professora
+        Esse app foi uma iniciativa de uma equipe do NEPEVI- Grupo de Estudos e Pesquisa em Violência, vinculado ao curso de Serviço Social da Escola de Humanidades, sob coordenação da professora
         Dra. Patrícia Krieger Grossi e da equipe de engenharia de software da Escola Politécnica,
         sob coordenação da professora Dra. Ana Paula Terra Bacelo. Tem como objetivo oferecer informações sobre os quilombos de Porto Alegre, legislação, história, cultura e tradição, saúde da população negra, redes de atendimento para a mulher, serviços e benefícios sociais, representações quilombolas e outras curiosidades.
 Tem o apoio financeiro da FAPERGS através do edital PQG Gaúcho 2017 e do CNPq edital Universal 2018.
@@ -653,7 +653,7 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
         \t III - a intervenção e oitiva de representantes do órgão federal responsável pela política indigenista, no caso de crianças e adolescentes indígenas, e de antropólogos, perante a equipe interprofissional ou multidisciplinar que irá acompanhar o caso. (Incluído pela Lei nº 12.010, de 2009) . \n
         \t É responsabilidade da Justiça da Infância e Juventude acompanhar casos de adoção. \n
         \t O ECA instituiu normas como: \n
-<!--//<<<<<<< HEAD-->
+
         \t ● Direito de brincar, praticar esportes e divertir-se;  \n
         \t ● Direito de ir, vir e estar nos logradouros públicos e espaços comunitários, ressalvadas as restrições legais; \n
         \t ● Acesso à escola pública e gratuita próxima de sua residência; \n
@@ -677,7 +677,7 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
         \t - A vacinação obrigatória das crianças nos casos recomendados pelas autoridades sanitárias;  \n
         \t - A proibição do trabalho do infantil (até 14 anos), exceto na condição de aprendiz; \n
         \t - A proibição de venda de bebidas alcoólicas, cigarro, armas, munições, explosivos, fogos de estampido e de artifício à criança ou ao adolescente. \n
->>>>>>> 02045e7ca44edcf0a48cb91dc639be98be328cc2
+
     </string>
 
     <string name="lblListItem_titulo_medidas_de_protecao">
@@ -945,7 +945,7 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
     </string>
 
     <string name="textoDireitosImagemEstatutoDaIgualdadeRacial">
-            Fonte: Reprodução/Fundação Abrinq.
+            Fonte: Reprodução/AEGEA.
     </string>
 
     <string name="texto_estatuto_igualdade_racial">
@@ -1721,6 +1721,11 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
     <string name="textoConteudoDezembro20">
         - Lei nº 7437/85 Estabelece como contravenção penal o tratamento discriminatório no mercado de trabalho, por motivo de raça/cor (1985). \n
     </string>
+    <string name="textoReferenciaCalendarioQuilombola">
+        \n \n
+        Fonte: \n Fundação Cultural Palmares. Calendário Internacional da Cultura Negra. \n
+http://www.palmares.gov.br/?p=8766, 2011.
+    </string>
 
 
     <string name="calendarioFonte">
@@ -1822,7 +1827,10 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
 
 
 
-    <string name="texto_calendario01">  </string>
+    <string name="textoDireitosDoCalendario">
+Fonte: Fundação Cultural Palmares. Calendário Internacional da Cultura Negra. \n
+http://www.palmares.gov.br/?p=8766, 2011.
+    </string>
     <string name="texto_calendario02">  </string>
     <string name="texto_calendario03">  </string>
 
