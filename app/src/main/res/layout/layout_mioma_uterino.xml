@@ -14,16 +14,9 @@
             android:layout_height="wrap_content"
             android:orientation="vertical" >
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textViewTituloMiomaUterino"
-                android:text="@string/textoTituloMiomaUterino"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                style="@style/estiloTextoTitulo" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoMiomaUterino"
-                android:layout_below="@+id/textViewTitulo"
                 android:text="@string/textoMiomaUterino"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

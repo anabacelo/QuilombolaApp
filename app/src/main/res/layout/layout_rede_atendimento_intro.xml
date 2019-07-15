@@ -15,17 +15,9 @@
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
-            <TextView
-                android:id="@+id/textViewTituloRedesDeAtendimento"
-                android:text="@string/titulo_assistencial01"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                style="@style/estiloTextoTitulo" />
-
             <ImageView
                 android:id="@+id/imageView"
                 android:src="@drawable/assistenciasocial"
-                android:layout_below="@+id/textViewTituloRedesDeAtendimento"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 style="@style/estiloImagem" />

@@ -1094,8 +1094,6 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
     </string>
 
     <string name="texto_popnegra02">
-        <b>Doenças Prevalecentes na População Negra</b> \n\n
-
         Manual de doenças mais importantes, por razões étnicas, na população brasileira afro-descendente, 2001.\n\n
         <i> http://bvsms.saude.gov.br/bvs/publicacoes/cd06_09.pdf </i> \n\n
         Diretrizes para Acolhimento e Assistência à Saúde das Mulheres Negras, 2014. \n\n
@@ -1160,7 +1158,7 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
         <b>Mioma Uterino</b> \n\n
     </string>
     <string name="textoMiomaUterino">
-        \n\n
+        \n
         O mioma uterino é um tipo de tumor benigno de causa desconhecida, que seapresenta como uma espécie de nódulo dentro ou fora do útero em uma parte conhecida como
         músculo uterino. Segundo a Associação de Obstetrícia e Ginecologia do Estado de São Paulo, é mais frequente em mulheres dos 40 aos 50 anos e atinge mais as mulheres
         negras, portanto, a idade, o histórico familiar, a origem étnica e a obesidade aparecem como fatores de risco para o surgimento dos miomas. As mulheres com mioma

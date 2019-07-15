@@ -15,15 +15,7 @@
             android:layout_height="wrap_content" >
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textViewTextoTituloAnemiaFalciforme"
-                android:text="@string/textoTituloAnemiaFalciforme"
-                android:layout_height="wrap_content"
-                android:layout_width="wrap_content"
-                style="@style/estiloTextoTitulo" />
-
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTextoTextoAnemiaFalciforme"
-                android:layout_below="@+id/textViewTextoTituloAnemiaFalciforme"
                 android:text="@string/textoAnemiaFalciforme"
                 android:layout_height="wrap_content"
                 android:layout_width="wrap_content"

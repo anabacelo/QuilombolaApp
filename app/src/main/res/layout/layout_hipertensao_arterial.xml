@@ -15,17 +15,7 @@
             android:orientation="vertical" >
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textViewTextoTituloHipertensao"
-                android:text="@string/textoTituloHipertensao"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:autoLink="web"
-                android:linksClickable="true"
-                style="@style/estiloTextoTitulo" />
-
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewTexotHipertensao"
-                android:layout_below="@+id/textViewTextoTituloHipertensao"
                 android:text="@string/textoHipertensao"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

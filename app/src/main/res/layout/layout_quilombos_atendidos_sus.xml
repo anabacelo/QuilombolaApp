@@ -15,17 +15,9 @@
             android:layout_height="wrap_content"
             android:orientation="vertical" >
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textViewTituloQuilombosAtendidosSUS"
-                android:text="@string/titulo_popnegra02"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                style="@style/estiloTextoTitulo" />
-
             <ImageView
                 android:id="@+id/imageViewQuilombosAtendidosSUS"
                 android:src="@drawable/locaispopnegra"
-                android:layout_below="@+id/textViewTituloQuilombosAtendidosSUS"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 style="@style/estiloImagem" />
