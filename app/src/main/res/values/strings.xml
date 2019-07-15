@@ -457,13 +457,14 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
 
     <string name="textoLeiEstatutoDoIdoso">
             \t O Estatuto do Idoso foi instituído em 1º de outubro 2003, destinado a regular os direitos
-        assegurados às pessoas com idade igual ou superior a 60 (sessenta) anos.
-        \n(Art 1º) O idoso goza de todos os direitos fundamentais inerentes à pessoa humana, sem prejuízo
+        assegurados às pessoas com idade igual ou superior a 60 (sessenta) anos. (Art 1º)
+        \n \t O idoso goza de todos os direitos fundamentais inerentes à pessoa humana, sem prejuízo
         da proteção integral de que trata esta Lei, assegurando-se-lhe, por lei ou por outros
         meios, todas as oportunidades e facilidades, para preservação de sua saúde física e
         mental e seu aperfeiçoamento moral, intelectual, espiritual e social, em condições de
-        liberdade e dignidade. \n(Art. 2º)
-        \t Segundo o Art. 3º do Estatuto, é obrigação da família, da comunidade, da sociedade e
+        liberdade e dignidade. (Art. 2º)
+
+        \n \t Segundo o Art. 3º do Estatuto, é obrigação da família, da comunidade, da sociedade e
         do Poder Público assegurar ao idoso, com absoluta prioridade, a efetivação do direito à
         vida, à saúde, à alimentação, à educação, à cultura, ao esporte, ao lazer, ao trabalho, à
         cidadania, à liberdade, à dignidade, ao respeito e à convivência familiar e comunitária.
