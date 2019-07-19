@@ -16,16 +16,8 @@
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
-            <TextView
-                android:id="@+id/title_programa_brasil_quilombola"
-                android:text="@string/titulo_programa_brasil_quilombola"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                style="@style/estiloTextoTitulo" />
-
             <ImageView
                 android:id="@+id/imageViewProgramaBrasilQuilombola"
-                android:layout_below="@id/title_programa_brasil_quilombola"
                 android:src="@drawable/programabrasilquilombola"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

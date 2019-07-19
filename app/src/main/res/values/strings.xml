@@ -29,7 +29,7 @@
     </string>
 
     <string name="textoLayoutPaginaInicial">
-        Esse app foi uma iniciativa de uma equipe do NEPEVI- Grupo de Estudos e Pesquisa em Violência, vinculado ao curso de Serviço Social da Escola de Humanidades, sob coordenação da professora
+        Esse app foi uma iniciativa de uma equipe de pesquisadores do NEPEVI - Grupo de Estudos e Pesquisa em Violência, vinculado ao curso de Serviço Social da Escola de Humanidades, sob coordenação da professora
         Dra. Patrícia Krieger Grossi e da equipe de engenharia de software da Escola Politécnica,
         sob coordenação da professora Dra. Ana Paula Terra Bacelo. Tem como objetivo oferecer informações sobre os quilombos de Porto Alegre, legislação, história, cultura e tradição, saúde da população negra, redes de atendimento para a mulher, serviços e benefícios sociais, representações quilombolas e outras curiosidades.
 Tem o apoio financeiro da FAPERGS através do edital PQG Gaúcho 2017 e do CNPq edital Universal 2018.
@@ -205,7 +205,7 @@ Navegue à vontade!!!
 
         Com o tempo, surgiram diversas comunidades de refúgio e preservação da cultura africana.
         Mesmo tendo sofrido muitas violências, por representarem uma ameaça ao sistema escravagista, a resistência
-        continua sendo a marca do povo quilombola, hoje apre em mais de duas mil comunidades quilombolas já certificadas. \n
+        continua sendo a marca do povo quilombola, hoje em mais de duas mil comunidades quilombolas já certificadas. \n
     </string>
 
     <string name="texto_histcult01_part03">
@@ -462,7 +462,7 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
         da proteção integral de que trata esta Lei, assegurando-se-lhe, por lei ou por outros
         meios, todas as oportunidades e facilidades, para preservação de sua saúde física e
         mental e seu aperfeiçoamento moral, intelectual, espiritual e social, em condições de
-        liberdade e dignidade. (Art. 2º)
+        liberdade e dignidade. (Art. 1º)
 
         \n \t Segundo o Art. 3º do Estatuto, é obrigação da família, da comunidade, da sociedade e
         do Poder Público assegurar ao idoso, com absoluta prioridade, a efetivação do direito à
@@ -1727,7 +1727,7 @@ http://www.palmares.gov.br/?p=8766, 2011.
     </string>
 
     <string name="texto_curiosidade_ubuntu_introducao">
-    “UBUNTU é uma antiga palavra africana e tem origem na língua Zulu (pertencente ao grupo.”
+    “UBUNTU é uma antiga palavra africana e tem origem na língua Zulu (pertencente ao grupo).”
     </string>
 
     <string name="texto_curiosidade_ubuntu_complemento">

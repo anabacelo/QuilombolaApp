@@ -15,16 +15,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
 
-                <com.example.anapaula.quilombolaappv4.JustifyTextView
-                    android:id="@+id/textViewTituloPoliticaNacionalDeAssistenciaSocial"
-                    android:text="@string/titlePoliticaNacionalDeAssistenciaSocial"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    style="@style/estiloTextoTituloNormal" />
-
                 <ImageView
                     android:id="@+id/imageViewPoliticaNacionalDeAssistenciaSocial"
-                    android:layout_below="@id/textViewTituloPoliticaNacionalDeAssistenciaSocial"
                     android:src="@drawable/leidaassistenciasocial"
                     style="@style/estiloImagem"
                     android:layout_width="match_parent"

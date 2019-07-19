@@ -15,19 +15,11 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content">
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/title_estatuto_igualdade_racial"
-                android:text="@string/titulo_estatuto_igualdade_racial"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                style="@style/estiloTextoTituloNormal" />
-
             <ImageView
                 android:id="@+id/imageEstatutoDaIgualdadeRacial"
                 style="@style/estiloImagem"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_below="@id/title_estatuto_igualdade_racial"
                 android:src="@drawable/estatudoigualdaderacial" />
 
             <TextView

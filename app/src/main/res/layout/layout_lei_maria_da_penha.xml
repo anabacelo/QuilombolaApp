@@ -14,16 +14,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content">
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textViewTituloLeiMariaDaPenha"
-                android:text="@string/textoTituloLeiMariaDaPenha"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                style="@style/estiloTextoTituloNormal" />
-
             <ImageView
                 android:id="@+id/imageViewLeiMariaDaPenha"
-                android:layout_below="@id/textViewTituloLeiMariaDaPenha"
                 android:src="@drawable/leimariadapenha"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

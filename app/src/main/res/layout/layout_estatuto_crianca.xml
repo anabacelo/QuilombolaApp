@@ -17,16 +17,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" >
 
-                <com.example.anapaula.quilombolaappv4.JustifyTextView
-                    android:id="@+id/textViewTituloEstatudoDaCriancaAdolescente"
-                    android:text="@string/titulo_lei_legislacao_conselho_tutelar"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    style="@style/estiloTextoTituloNormal" />
-
                 <ImageView
                     android:id="@+id/imageViewEstatutoDaCriancaAdolescente"
-                    android:layout_below="@id/textViewTituloEstatudoDaCriancaAdolescente"
                     android:src="@drawable/estatutodacriancaedoadolescente"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
