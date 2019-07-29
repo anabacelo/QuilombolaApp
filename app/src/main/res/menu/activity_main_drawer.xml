@@ -9,6 +9,11 @@
             android:title="Página Inicial" />
 
         <item
+            android:id="@+id/webViewQueESerQuilombola"
+            android:title="novo O que é ser"
+            android:icon="@drawable/ic_person"/>
+
+        <item
             android:id="@+id/nav_1"
             android:icon="@drawable/ic_duvida"
             android:title="O que é ser Quilombola?" />
