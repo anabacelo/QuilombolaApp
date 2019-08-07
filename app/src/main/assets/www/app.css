@@ -22,13 +22,22 @@
 img {
   max-width: 100%;
   height: auto;
+  margin: 12px 0px 12px;
 }
 .description{
   text-align: justify;
-  padding: 0 12px 20px;
+  padding: 0 12px 12px;
 }
 
-.teste{
-    max-width: 1050px;
+#puclogo{
+    margin: 0 auto;
     width: 33.3%;
+}
+
+#imagemcapa{
+    padding-left: 12px;padding-right: 12px;
+}
+
+#textotitulo{
+    font-size: 20px;
 }
