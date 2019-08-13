@@ -35,7 +35,7 @@ public class HomePage extends Fragment implements IOnBackPressed{
         // Stop local links and redirects from opening in browser instead of WebView
         mWebView.setWebViewClient(new WebViewClientOverride());
 
-        if(!CheckInternetConnection.simpleServerCheck()){
+        if(CheckInternetConnection.simpleServerCheck()){
             mWebView.loadUrl("http://app-quilombola.epizy.com/home.html");
         }
         else {
