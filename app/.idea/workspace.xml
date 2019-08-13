@@ -162,23 +162,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bde780f6-ea9a-4eeb-a148-7f67b478ba88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/assets/www/estatutodaigualdaderacial.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/assets/www/images/estatutoigualdaderacial.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/www/images/estatudoigualdaderacial.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/assets/www/bonecaaa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/www/images/bonecaaa.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/assets/www/bonecaac.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/www/images/bonecaac.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/assets/www/bonecaad.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/www/images/bonecaad.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/assets/www/cnpq.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/www/images/cnpq.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/assets/www/estatutodacriancaedoadolecente.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/www/estatutodacriancaedoadolecente.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/assets/www/estatutodacriancaedoadolescente.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/www/images/estatutodacriancaedoadolescente.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/assets/www/estatutodoidoso.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/www/estatutodoidoso.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/assets/www/estatutodoidoso.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/www/images/estatutodoidoso.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/assets/www/fapergs.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/www/images/fapergs.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/assets/www/historiaculturatradicao.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/www/historiaculturatradicao.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/assets/www/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/www/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/assets/www/img_capa_resistencia_cropped.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/www/images/img_capa_resistencia_cropped.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/assets/www/oqueeserquilombola.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/www/images/oqueeserquilombola.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/assets/www/pucrs2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/www/images/pucrs2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/assets/www/estatutodaigualdaderacial.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/www/estatutodaigualdaderacial.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/assets/www/images/estatutoigualdaderacial.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -199,28 +186,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/anapaula/quilombolaappv4/MainActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1547">
-              <caret line="108" column="64" selection-start-line="108" selection-start-column="64" selection-end-line="108" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/assets/www/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="41" column="14" lean-forward="true" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/assets/www/historiaculturatradicao.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="56" column="39" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
+            <state>
+              <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -228,17 +197,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/anapaula/quilombolaappv4/Nav3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+            <state relative-caret-position="340">
+              <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/assets/www/estatutodaigualdaderacial.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+            <state relative-caret-position="153">
+              <caret line="39" column="33" lean-forward="true" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -247,26 +216,12 @@
         <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_estatuto_igualdade_racial.xml">
           <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/assets/www/estatutodacriancaedoadolecente.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/assets/www/estatutodoidoso.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+            <state relative-caret-position="317">
+              <caret line="45" column="63" lean-forward="true" selection-start-line="45" selection-start-column="63" selection-end-line="45" selection-end-column="63" />
+              <folding>
+                <element signature="e#1109#1163#0" expanded="true" />
+                <element signature="e#1599#1640#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -275,7 +230,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="212">
-              <caret line="695" column="19" selection-start-line="695" selection-start-column="19" selection-end-line="699" selection-end-column="33" />
+              <caret line="954" column="18" lean-forward="true" selection-start-line="954" selection-start-column="18" selection-end-line="968" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -337,7 +292,6 @@
         <option value="$PROJECT_DIR$/src/main/res/layout/layout_mioma_uterino.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/layout_estatuto_idoso.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/layout_estatuto_crianca.xml" />
-        <option value="$PROJECT_DIR$/src/main/res/layout/layout_estatuto_igualdade_racial.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/layout_estatudo_juventude.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/layout_politica_nacional_de_assistencia_social.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/layout_programa_brasil_quilombola.xml" />
@@ -349,6 +303,8 @@
         <option value="$PROJECT_DIR$/src/main/assets/www/estatutodoidoso.html" />
         <option value="$PROJECT_DIR$/src/main/assets/www/historiaculturatradicao.html" />
         <option value="$PROJECT_DIR$/src/main/assets/www/home.html" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/layout_estatuto_igualdade_racial.xml" />
+        <option value="$PROJECT_DIR$/src/main/assets/www/estatutodaigualdaderacial.html" />
       </list>
     </option>
   </component>
@@ -411,12 +367,6 @@
               <item name="QuilombolaApp" type="1abcf292:AndroidViewProjectNode" />
               <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="drawable" type="ddeffd01:AndroidResFolderTypeNode" />
-            </path>
-            <path>
-              <item name="QuilombolaApp" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
               <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
             </path>
           </expand>
@@ -448,6 +398,7 @@
       <recent name="C:\QuilombolaAppV4\QuilombolaApp\app\src\main\assets\www\images" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\QuilombolaAppV4\QuilombolaApp\app\src\main\assets\www\images" />
       <recent name="C:\QuilombolaAppV4\QuilombolaApp\app\src\main\assets\www" />
       <recent name="C:\QuilombolaAppV4\QuilombolaApp\app\src\main\res\drawable-v21" />
     </key>
@@ -619,17 +570,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/captures/com.example.anapaula.quilombolaappv4_2019.07.11_15.28.li">
-      <provider selected="true" editor-type-id="capture-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/layout/fragment_nav11.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="28" column="67" selection-start-line="28" selection-start-column="67" selection-end-line="28" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/drawable/oqueeserquilombola.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -931,13 +871,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/res/drawable/estatutodacriancaedoadolescente.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="695" column="19" selection-start-line="695" selection-start-column="19" selection-end-line="699" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_estatuto_crianca.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
@@ -958,27 +891,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/anapaula/quilombolaappv4/Nav3.java">
+    <entry file="file://$PROJECT_DIR$/src/main/assets/www/historiaculturatradicao.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+        <state relative-caret-position="544">
+          <caret line="56" column="39" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/assets/www/estatutodaigualdaderacial.html">
+    <entry file="file://$PROJECT_DIR$/src/main/assets/www/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_estatuto_igualdade_racial.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/res/drawable-v21/estatudoigualdaderacial.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/drawable-xxhdpi/estatutoigualdaderacial.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/assets/www/estatutodacriancaedoadolecente.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -989,22 +920,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/assets/www/estatutodoidoso.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        <state relative-caret-position="289">
+          <caret line="47" column="103" lean-forward="true" selection-start-line="47" selection-start-column="103" selection-end-line="47" selection-end-column="108" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/assets/www/historiaculturatradicao.html">
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_estatuto_igualdade_racial.xml">
+      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="56" column="39" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
+        <state relative-caret-position="317">
+          <caret line="45" column="63" lean-forward="true" selection-start-line="45" selection-start-column="63" selection-end-line="45" selection-end-column="63" />
+          <folding>
+            <element signature="e#1109#1163#0" expanded="true" />
+            <element signature="e#1599#1640#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/assets/www/home.html">
+    <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="954" column="18" lean-forward="true" selection-start-line="954" selection-start-column="18" selection-end-line="968" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/anapaula/quilombolaappv4/Nav3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="41" column="14" lean-forward="true" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/assets/www/estatutodaigualdaderacial.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="39" column="33" lean-forward="true" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
         </state>
       </provider>
     </entry>
