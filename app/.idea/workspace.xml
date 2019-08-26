@@ -162,7 +162,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bde780f6-ea9a-4eeb-a148-7f67b478ba88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/assets/www/programabolsafamilia.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/www/beneficiodeprestacaocontinuada.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/assets/www/estatutodajuventude.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/www/estatutodajuventude.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -187,23 +188,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/assets/www/programabolsafamilia.html">
+        <entry file="file://$PROJECT_DIR$/src/main/assets/www/estatutodajuventude.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="47" column="22" lean-forward="true" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_servico_beneficio_social.xml">
-          <provider editor-type-id="android-designer2" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1">
-              <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-              <folding>
-                <element signature="e#954#982#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="162">
+              <caret line="97" column="19" lean-forward="true" selection-start-line="97" selection-start-column="19" selection-end-line="97" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -211,8 +199,30 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="120" column="60" lean-forward="true" selection-start-line="118" selection-start-column="11" selection-end-line="120" selection-end-column="60" />
+            <state relative-caret-position="255">
+              <caret line="167" column="112" selection-start-line="166" selection-start-column="12" selection-end-line="167" selection-end-column="112" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_beneficio_continuado.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+              <folding>
+                <element signature="e#571#600#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/assets/www/beneficiodeprestacaocontinuada.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="70" column="18" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -251,7 +261,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/example/anapaula/quilombolaappv4/MainActivity.java" />
         <option value="$PROJECT_DIR$/src/main/res/drawable/cimagehistoriaculturatradicao.xml" />
         <option value="$PROJECT_DIR$/src/main/res/menu/activity_main_drawer.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/layout_quilombo_areal.xml" />
@@ -285,7 +294,6 @@
         <option value="$PROJECT_DIR$/src/main/assets/www/estatutodoidoso.html" />
         <option value="$PROJECT_DIR$/src/main/assets/www/estatutodacriancaedoadolecente.html" />
         <option value="$PROJECT_DIR$/src/main/res/layout/layout_estatudo_juventude.xml" />
-        <option value="$PROJECT_DIR$/src/main/assets/www/estatutodajuventude.html" />
         <option value="$PROJECT_DIR$/src/main/assets/www/politicanacionaldeassistenciasocial.html" />
         <option value="$PROJECT_DIR$/src/main/res/layout/layout_programa_brasil_quilombola.xml" />
         <option value="$PROJECT_DIR$/src/main/assets/www/programabrasilquilombola.html" />
@@ -302,6 +310,8 @@
         <option value="$PROJECT_DIR$/src/main/assets/www/representacoesquilombolas.html" />
         <option value="$PROJECT_DIR$/src/main/assets/www/cadastrounico.html" />
         <option value="$PROJECT_DIR$/src/main/assets/www/programabolsafamilia.html" />
+        <option value="$PROJECT_DIR$/src/main/assets/www/beneficiodeprestacaocontinuada.html" />
+        <option value="$PROJECT_DIR$/src/main/assets/www/estatutodajuventude.html" />
       </list>
     </option>
   </component>
@@ -569,29 +579,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/res/drawable/estatutodacriancaedoadolescente.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_estatuto_crianca.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="136" column="50" lean-forward="true" selection-start-line="136" selection-start-column="50" selection-end-line="136" selection-end-column="50" />
-          <folding>
-            <element signature="e#1274#1328#0" expanded="true" />
-            <element signature="e#1805#1852#0" expanded="true" />
-            <element signature="e#2476#2517#0" expanded="true" />
-            <element signature="e#3051#3091#0" expanded="true" />
-            <element signature="e#3710#3758#0" expanded="true" />
-            <element signature="e#4378#4413#0" expanded="true" />
-            <element signature="e#5029#5079#0" expanded="true" />
-            <element signature="e#5740#5777#0" expanded="true" />
-            <element signature="e#6305#6353#0" expanded="true" />
-            <element signature="e#6971#7020#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/drawable-v21/estatudoigualdaderacial.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -674,13 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="906">
           <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/assets/www/estatutodajuventude.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="73" column="16" selection-start-line="73" selection-start-column="16" selection-end-line="75" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -908,13 +888,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/assets/www/cadastrounico.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/anapaula/quilombolaappv4/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -934,13 +907,6 @@
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/anapaula/quilombolaappv4/Nav7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="42" column="41" lean-forward="true" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/assets/www/diabetesmellitus.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="383">
@@ -955,28 +921,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/assets/www/programabolsafamilia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="52" column="26" lean-forward="true" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_servico_beneficio_social.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
+        <state relative-caret-position="17">
           <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/anapaula/quilombolaappv4/Nav7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="49" column="72" lean-forward="true" selection-start-line="49" selection-start-column="72" selection-end-line="49" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/assets/www/cadastrounico.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/assets/www/beneficiodeprestacaocontinuada.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="70" column="18" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_beneficio_continuado.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
           <folding>
-            <element signature="e#954#982#0" expanded="true" />
+            <element signature="e#571#600#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="120" column="60" lean-forward="true" selection-start-line="118" selection-start-column="11" selection-end-line="120" selection-end-column="60" />
+        <state relative-caret-position="255">
+          <caret line="167" column="112" selection-start-line="166" selection-start-column="12" selection-end-line="167" selection-end-column="112" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/assets/www/programabolsafamilia.html">
+    <entry file="file://$PROJECT_DIR$/src/main/assets/www/estatutodajuventude.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="47" column="22" lean-forward="true" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+        <state relative-caret-position="162">
+          <caret line="97" column="19" lean-forward="true" selection-start-line="97" selection-start-column="19" selection-end-line="97" selection-end-column="19" />
         </state>
       </provider>
     </entry>
