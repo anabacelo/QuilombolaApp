@@ -162,9 +162,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bde780f6-ea9a-4eeb-a148-7f67b478ba88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/assets/www/images/locais.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/assets/www/oqueeondecomoacessar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/www/images/convivencia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/www/servicodeconvivencia.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -175,7 +176,7 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5_API_19" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_28_x86" />
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
@@ -189,32 +190,29 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/assets/www/oqueeondecomoacessar.html">
+        <entry file="file://$PROJECT_DIR$/src/main/assets/www/servicodeconvivencia.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="26" column="62" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+            <state relative-caret-position="464">
+              <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_rede_atendimento_sobre.xml">
-          <provider editor-type-id="android-designer2" />
+        <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_rede_atendimento_servico_conveniencia.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="35" column="42" lean-forward="true" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
-              <folding>
-                <element signature="e#1000#1029#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="323">
+              <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
             </state>
           </provider>
+          <provider editor-type-id="android-designer2" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="1841" column="7" selection-start-line="1841" selection-start-column="7" selection-end-line="1844" selection-end-column="34" />
+            <state relative-caret-position="424">
+              <caret line="1908" column="23" lean-forward="true" selection-start-line="1902" selection-start-column="8" selection-end-line="1908" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -253,7 +251,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/res/layout/layout_quilombo_lemos.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/anapaula/quilombolaappv4/Nav2.java" />
         <option value="$PROJECT_DIR$/src/main/res/layout/layout_quilombo_anastacia.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/textview_direitos_calendario.xml" />
@@ -302,8 +299,9 @@
         <option value="$PROJECT_DIR$/src/main/assets/www/estatutodajuventude.html" />
         <option value="$PROJECT_DIR$/src/main/assets/www/curiosidades.html" />
         <option value="$PROJECT_DIR$/src/main/assets/www/redesdeatendimento.html" />
-        <option value="$PROJECT_DIR$/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/src/main/assets/www/oqueeondecomoacessar.html" />
+        <option value="$PROJECT_DIR$/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/src/main/assets/www/servicodeconvivencia.html" />
       </list>
     </option>
   </component>
@@ -321,50 +319,42 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <expand>
             <path>
               <item name="QuilombolaApp" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="e9137016:NonAndroidModuleNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
             </path>
             <path>
               <item name="QuilombolaApp" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="e9137016:NonAndroidModuleNode" />
-              <item name="resources" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="assets" type="edd41e36:AndroidSourceTypeNode" />
             </path>
             <path>
               <item name="QuilombolaApp" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="e9137016:NonAndroidModuleNode" />
-              <item name="resources" type="f7eae187:NonAndroidSourceTypeNode" />
-              <item name="drawable" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="assets" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="www" type="cbb59c9e:AndroidPsiDirectoryNode" />
             </path>
             <path>
               <item name="QuilombolaApp" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="e9137016:NonAndroidModuleNode" />
-              <item name="resources" type="f7eae187:NonAndroidSourceTypeNode" />
-              <item name="layout" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
             </path>
             <path>
               <item name="QuilombolaApp" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="e9137016:NonAndroidModuleNode" />
-              <item name="resources" type="f7eae187:NonAndroidSourceTypeNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QuilombolaApp" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="e9137016:NonAndroidModuleNode" />
-              <item name="resources" type="f7eae187:NonAndroidSourceTypeNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -384,14 +374,14 @@
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\QuilombolaAppV4\QuilombolaApp\app\src\main\res\drawable-anydpi" />
+      <recent name="C:\QuilombolaAppV4\QuilombolaApp\app\src\main\assets\www\images" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\QuilombolaAppV4\QuilombolaApp\app\src\main\assets\www\images" />
       <recent name="C:\QuilombolaAppV4\QuilombolaApp\app\src\main\assets\www" />
       <recent name="C:\QuilombolaAppV4\QuilombolaApp\app\src\main\res\drawable-v21" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\QuilombolaAppV4\QuilombolaApp\app\src\main\res\drawable-anydpi" />
-      <recent name="C:\QuilombolaAppV4\QuilombolaApp\app\src\main\assets\www\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -520,7 +510,7 @@
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.049099836" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.090016365" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.3289689" />
       <window_info anchor="bottom" id="Android Profiler" order="9" show_stripe_button="false" />
       <window_info anchor="right" id="Device File Explorer" order="0" sideWeight="0.5008183" side_tool="true" weight="0.3207262" />
@@ -561,28 +551,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/assets/www/politicanacionalintegral.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="64" selection-start-line="13" selection-start-column="64" selection-end-line="13" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_doencas_prevalecente_negra.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="45" lean-forward="true" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/assets/www/doencasprevalecentenegra.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/assets/www/anemiafalciforme.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -591,15 +559,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_anemia_falciforme.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
         </state>
       </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_diabete_mellitus.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="36" column="57" selection-start-line="36" selection-start-column="57" selection-end-line="36" selection-end-column="57" />
@@ -609,9 +576,9 @@
           </folding>
         </state>
       </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_hipertensao_arterial.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
@@ -620,6 +587,7 @@
           </folding>
         </state>
       </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/assets/www/hipertensaoarterial.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -629,7 +597,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_mioma_uterino.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="29" column="54" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
@@ -638,6 +605,7 @@
           </folding>
         </state>
       </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/assets/www/miomauterino.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -647,12 +615,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_quilombos_atendidos_sus.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="48" lean-forward="true" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
         </state>
       </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/drawable/locaispopnegra.png">
       <provider selected="true" editor-type-id="images" />
@@ -665,7 +633,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/fragment_nav8.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="42" column="42" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
@@ -675,6 +642,7 @@
           </folding>
         </state>
       </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/assets/www/representacoesquilombolas.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -684,7 +652,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_serv_ben_cadastro_unico.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="24" column="47" lean-forward="true" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
@@ -693,18 +660,19 @@
           </folding>
         </state>
       </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/menu/activity_main_drawer.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
         </state>
       </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/fragment_nav7.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/assets/www/diabetesmellitus.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -728,12 +696,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_servico_beneficio_social.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
         </state>
       </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/anapaula/quilombolaappv4/Nav7.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -750,12 +718,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_beneficio_continuado.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
         </state>
       </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/assets/www/beneficiodeprestacaocontinuada.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -813,7 +781,6 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/fragment_nav9.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="238" column="52" lean-forward="true" selection-start-line="238" selection-start-column="52" selection-end-line="238" selection-end-column="52" />
@@ -835,6 +802,7 @@
           </folding>
         </state>
       </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/assets/www/curiosidades.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -854,12 +822,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_rede_atendimento_intro.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
         </state>
       </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/assets/www/estatutodaigualdaderacial.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -870,13 +838,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/assets/www/images/oqueeserquilombola.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="1841" column="7" selection-start-line="1841" selection-start-column="7" selection-end-line="1844" selection-end-column="34" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/assets/www/estatutodoidoso.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -893,21 +854,43 @@
     <entry file="file://$PROJECT_DIR$/src/main/res/drawable/locais.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_rede_atendimento_sobre.xml">
-      <provider editor-type-id="android-designer2" />
+    <entry file="file://$PROJECT_DIR$/src/main/assets/www/oqueeondecomoacessar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="35" column="42" lean-forward="true" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
-          <folding>
-            <element signature="e#1000#1029#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="277">
+          <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/assets/www/oqueeondecomoacessar.html">
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_rede_atendimento_sobre.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="26" column="62" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+        <state relative-caret-position="595">
+          <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/drawable/convivencia.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_rede_atendimento_servico_conveniencia.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="1908" column="23" lean-forward="true" selection-start-line="1902" selection-start-column="8" selection-end-line="1908" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/assets/www/servicodeconvivencia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
         </state>
       </provider>
     </entry>

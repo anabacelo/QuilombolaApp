@@ -1897,15 +1897,17 @@ http://www.palmares.gov.br/?p=8766, 2011.
         SEDE: \n\n
         Rua: Jerônimo de Ornelas, 161 - Bairro Santana (Próximo ao Posto Modelo)
         Telefones: (51)  3289 8484/  3221 4508
-        e-mail: ct8@smgl.prefpoa.com.br \n\n    </string>
-    <string name="texto_assitencial05">Desenvolve atividades voltadas à prevenção de situações de vulnerabilidade e risco social. É um serviço realizado em grupos, com o objetivo de:\n\n
+        e-mail: ct8@smgl.prefpoa.com.br \n\n
+    </string>
+    <string name="texto_assitencial05">
+        Desenvolve atividades voltadas à prevenção de situações de vulnerabilidade e risco social. É um serviço realizado em grupos, com o objetivo de:\n\n
         Assegurar espaços de convívio familiar e comunitário;\n\n
         Valorizar a cultura de famílias e comunidades locais pelo resgate de suas culturas;\n\n
         Desenvolver o sentimento de pertença e de identidade;\n\n
         Promover socialização e convivência;\n\n
         O SCFV está organizado nas seguintes faixas etárias: crianças e adolescentes de 6 a 14 anos, adolescentes e jovens de 15 a 17 anos, adultos de 18 a 59 anos e
         pessoas idosas. \n\n
-</string>
+    </string>
     <!-- REDE ASSISTENCIAL -->
 
 
