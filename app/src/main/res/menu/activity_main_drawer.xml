@@ -22,6 +22,10 @@
             android:icon="@drawable/ic_law"
             android:title="Legislação" />
         <item
+            android:id="@+id/nav_acoes"
+            android:icon="@drawable/ic_thumbsup"
+            android:title="Ações Afirmativas" />
+        <item
             android:id="@+id/nav_4"
             android:icon="@drawable/ic_books"
             android:title="História, Cultura e Tradição" />

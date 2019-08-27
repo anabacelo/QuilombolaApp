@@ -30,7 +30,7 @@ img {
 
 #puclogo{
   margin: 0 auto;
-  width: 33.3%;
+  width: 25%;
 }
 
 #imagemcapa{
@@ -53,3 +53,18 @@ img {
   text-align: left;
   font-size: 8pt;
 }
+
+.masthead2{
+  background: #ffffff;
+}
+
+#containerhead{
+  padding-bottom: 12px;
+}
+
+.containerbutton{
+  padding-bottom: 8px;
+  padding-top: 8px;
+  text-align: center;
+}
+

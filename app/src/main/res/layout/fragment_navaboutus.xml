@@ -17,7 +17,7 @@
 
             <TextView
                 android:id="@+id/textViewTituloPagina"
-                android:text="Equipe do Aplicativo"
+                android:text="Equipe do Aplicativo V0.1(23/08/19)"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerHorizontal="true"
