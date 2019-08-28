@@ -130,12 +130,18 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             fragmentManager.beginTransaction().replace(R.id.fragment, nav3).commit();
         }
 
+        else if (id == R.id.nav_acoes) {
+            setTitle("Aplicativo Quilombola");  // AÇÕES AFIRMATIVAS
+            NavAcoesAfirmativas navAcoesAfirmativas = new NavAcoesAfirmativas();
+            android.support.v4.app.FragmentManager fragmentManager = getSupportFragmentManager();
+            fragmentManager.beginTransaction().replace(R.id.fragment, navAcoesAfirmativas).commit();
+        }
+
         else if (id == R.id.nav_4) {
             setTitle("Aplicativo Quilombola");  // HISTORIA CULTURA E TRADIÇÃO
             Nav4 nav4 = new Nav4();
             android.support.v4.app.FragmentManager fragmentManager = getSupportFragmentManager();
             fragmentManager.beginTransaction().replace(R.id.fragment, nav4).commit();
-
         }
 
         else if (id == R.id.nav_5) {

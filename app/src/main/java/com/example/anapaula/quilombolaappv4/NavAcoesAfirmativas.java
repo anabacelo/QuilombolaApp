@@ -1,5 +1,4 @@
 package com.example.anapaula.quilombolaappv4;
-
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
@@ -7,16 +6,12 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
-import android.widget.Toast;
-
 /**
  * A simple {@link Fragment} subclass.
  */
-public class HomePage extends Fragment implements IOnBackPressed{
-
+public class NavAcoesAfirmativas extends Fragment implements IOnBackPressed{
     private WebView mWebView;
-
-    public HomePage() {
+    public NavAcoesAfirmativas() {
         // Required empty public constructor
     }
 
@@ -24,7 +19,6 @@ public class HomePage extends Fragment implements IOnBackPressed{
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-
         View view = inflater.inflate(R.layout.fragment_web, container, false);
 
         mWebView = (WebView) view.findViewById(R.id.webViewMain);
@@ -36,19 +30,14 @@ public class HomePage extends Fragment implements IOnBackPressed{
         mWebView.setWebViewClient(new WebViewClientOverride());
 
         if(CheckInternetConnection.simpleServerCheck()){
-            mWebView.loadUrl("http://app-quilombola.epizy.com/home.html");
-            Toast.makeText(GlobalApplication.getAppContext(), "Versão web carregada!", Toast.LENGTH_LONG).show();
+            mWebView.loadUrl("http://app-quilombola.epizy.com/acoesafirmativas.html");
         }
         else {
-            mWebView.loadUrl("file:///android_asset/www/home.html");
-            Toast.makeText(GlobalApplication.getAppContext(), "Não foi possivel acessar o servidor. Versão local carregada!", Toast.LENGTH_LONG).show();
+            mWebView.loadUrl("file:///android_asset/www/acoesafirmativas.html");
         }
-
-        //Toast.makeText(GlobalApplication.getAppContext(), "Servidor remoto: " + CheckInternetConnection.simpleServerCheck(), Toast.LENGTH_LONG).show();
-        //return inflater.inflate(R.layout.fragment_home_page, container, false);
+        //return inflater.inflate(R.layout.fragment_nav1, container, false);
         return view;
     }
-
     @Override
     public boolean onBackPressed() {
         if (mWebView.canGoBack()) {
