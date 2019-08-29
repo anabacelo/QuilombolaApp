@@ -162,9 +162,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bde780f6-ea9a-4eeb-a148-7f67b478ba88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/assets/www/images/maria_felipa_de_oliveira.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/assets/www/images/rainha_tereza.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/assets/www/mulheresnegrasquilobolas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/www/images/mes_janeiro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/www/janeiro.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -190,63 +189,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/assets/www/mulheresnegrasquilobolas.html">
+        <entry file="file://$PROJECT_DIR$/src/main/assets/www/janeiro.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="164" column="130" selection-start-line="164" selection-start-column="130" selection-end-line="164" selection-end-column="130" />
+            <state relative-caret-position="358">
+              <caret line="69" column="68" selection-start-line="69" selection-start-column="68" selection-end-line="69" selection-end-column="68" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/res/layout/fragment_nav10.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_janeiro.xml">
           <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="369" column="57" selection-start-line="369" selection-start-column="57" selection-end-line="369" selection-end-column="57" />
+              <caret line="129" column="49" selection-start-line="129" selection-start-column="49" selection-end-line="129" selection-end-column="49" />
               <folding>
-                <element signature="e#620#659#0" expanded="true" />
-                <element signature="e#1072#1115#0" expanded="true" />
-                <element signature="e#1480#1514#0" expanded="true" />
-                <element signature="e#1951#1998#0" expanded="true" />
-                <element signature="e#2362#2391#0" expanded="true" />
-                <element signature="e#2780#2803#0" expanded="true" />
-                <element signature="e#3149#3183#0" expanded="true" />
-                <element signature="e#3581#3609#0" expanded="true" />
-                <element signature="e#3960#3995#0" expanded="true" />
-                <element signature="e#4395#4424#0" expanded="true" />
-                <element signature="e#4774#4807#0" expanded="true" />
-                <element signature="e#5203#5230#0" expanded="true" />
-                <element signature="e#5580#5615#0" expanded="true" />
-                <element signature="e#6015#6044#0" expanded="true" />
-                <element signature="e#6394#6427#0" expanded="true" />
-                <element signature="e#6823#6850#0" expanded="true" />
-                <element signature="e#7201#7237#0" expanded="true" />
-                <element signature="e#7639#7669#0" expanded="true" />
-                <element signature="e#8402#8438#0" expanded="true" />
-                <element signature="e#8862#8896#0" expanded="true" />
-                <element signature="e#9294#9322#0" expanded="true" />
-                <element signature="e#9670#9702#0" expanded="true" />
-                <element signature="e#10096#10122#0" expanded="true" />
-                <element signature="e#10466#10496#0" expanded="true" />
-                <element signature="e#10886#10910#0" expanded="true" />
-                <element signature="e#11610#11646#0" expanded="true" />
-                <element signature="e#12026#12058#0" expanded="true" />
-                <element signature="e#12452#12478#0" expanded="true" />
-                <element signature="e#12826#12860#0" expanded="true" />
-                <element signature="e#13258#13286#0" expanded="true" />
-                <element signature="e#13640#13678#0" expanded="true" />
-                <element signature="e#14084#14116#0" expanded="true" />
-                <element signature="e#14473#14510#0" expanded="true" />
-                <element signature="e#14914#14945#0" expanded="true" />
-                <element signature="e#15302#15340#0" expanded="true" />
-                <element signature="e#15746#15778#0" expanded="true" />
-                <element signature="e#16137#16176#0" expanded="true" />
-                <element signature="e#16584#16617#0" expanded="true" />
-                <element signature="e#16975#17012#0" expanded="true" />
-                <element signature="e#17416#17447#0" expanded="true" />
-                <element signature="e#17801#17836#0" expanded="true" />
-                <element signature="e#18236#18265#0" expanded="true" />
+                <element signature="e#962#992#0" expanded="true" />
+                <element signature="e#1380#1412#0" expanded="true" />
+                <element signature="e#1796#1826#0" expanded="true" />
+                <element signature="e#2214#2246#0" expanded="true" />
+                <element signature="e#2630#2660#0" expanded="true" />
+                <element signature="e#3048#3080#0" expanded="true" />
+                <element signature="e#3464#3494#0" expanded="true" />
+                <element signature="e#3882#3914#0" expanded="true" />
+                <element signature="e#4298#4328#0" expanded="true" />
+                <element signature="e#4716#4748#0" expanded="true" />
+                <element signature="e#5132#5162#0" expanded="true" />
+                <element signature="e#5550#5582#0" expanded="true" />
+                <element signature="e#5966#5996#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -255,8 +225,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="2139" column="106" selection-start-line="2137" selection-start-column="8" selection-end-line="2139" selection-end-column="106" />
+            <state relative-caret-position="177">
+              <caret line="1223" column="8" selection-start-line="1223" selection-start-column="8" selection-end-line="1224" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -295,7 +265,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/res/layout/fragment_home_page.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/fragment_nav11.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/layout_dezembro.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/fragment_nav4.xml" />
@@ -346,6 +315,7 @@
         <option value="$PROJECT_DIR$/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/fragment_nav10.xml" />
         <option value="$PROJECT_DIR$/src/main/assets/www/mulheresnegrasquilobolas.html" />
+        <option value="$PROJECT_DIR$/src/main/assets/www/janeiro.html" />
       </list>
     </option>
   </component>
@@ -608,29 +578,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_serv_ben_cadastro_unico.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="24" column="47" lean-forward="true" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
-          <folding>
-            <element signature="e#573#602#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/menu/activity_main_drawer.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/layout/fragment_nav7.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/anapaula/quilombolaappv4/Nav7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
@@ -664,13 +611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="172" column="58" selection-start-line="172" selection-start-column="58" selection-end-line="172" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/assets/www/politicanacionaldeassistenciasocial.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -813,13 +753,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/assets/www/programabrasilquilombola.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="100" column="18" lean-forward="true" selection-start-line="100" selection-start-column="18" selection-end-line="100" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/phrase.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
@@ -883,13 +816,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/assets/www/diabetesmellitus.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="38" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/fragment_nav10.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
@@ -942,17 +868,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/assets/www/diabetesmellitus.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="2139" column="106" selection-start-line="2137" selection-start-column="8" selection-end-line="2139" selection-end-column="106" />
+        <state relative-caret-position="315">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="38" selection-end-column="18" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/assets/www/diretrizesetinicoracial.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/assets/www/mulheresnegrasquilobolas.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="164" column="130" selection-start-line="164" selection-start-column="130" selection-end-line="164" selection-end-column="130" />
+        <state relative-caret-position="185">
+          <caret line="107" column="12" lean-forward="true" selection-start-line="107" selection-start-column="12" selection-end-line="109" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/assets/www/politicanacionaldeassistenciasocial.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="68" column="16" selection-start-line="68" selection-start-column="16" selection-end-line="70" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/assets/www/programabrasilquilombola.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="98" column="109" lean-forward="true" selection-start-line="98" selection-start-column="109" selection-end-line="98" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_janeiro.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="129" column="49" selection-start-line="129" selection-start-column="49" selection-end-line="129" selection-end-column="49" />
+          <folding>
+            <element signature="e#962#992#0" expanded="true" />
+            <element signature="e#1380#1412#0" expanded="true" />
+            <element signature="e#1796#1826#0" expanded="true" />
+            <element signature="e#2214#2246#0" expanded="true" />
+            <element signature="e#2630#2660#0" expanded="true" />
+            <element signature="e#3048#3080#0" expanded="true" />
+            <element signature="e#3464#3494#0" expanded="true" />
+            <element signature="e#3882#3914#0" expanded="true" />
+            <element signature="e#4298#4328#0" expanded="true" />
+            <element signature="e#4716#4748#0" expanded="true" />
+            <element signature="e#5132#5162#0" expanded="true" />
+            <element signature="e#5550#5582#0" expanded="true" />
+            <element signature="e#5966#5996#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="1223" column="8" selection-start-line="1223" selection-start-column="8" selection-end-line="1224" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/assets/www/janeiro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="69" column="68" selection-start-line="69" selection-start-column="68" selection-end-line="69" selection-end-column="68" />
         </state>
       </provider>
     </entry>
