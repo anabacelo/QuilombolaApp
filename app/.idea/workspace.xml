@@ -162,8 +162,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bde780f6-ea9a-4eeb-a148-7f67b478ba88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/assets/www/fevereiro.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/assets/www/images/mes_fevereiro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/www/images/mes_marco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/www/março.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -188,36 +188,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/assets/www/fevereiro.html">
+        <entry file="file://$PROJECT_DIR$/src/main/assets/www/março.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="73" column="113" selection-start-line="73" selection-start-column="113" selection-end-line="73" selection-end-column="113" />
+            <state relative-caret-position="311">
+              <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_fevereiro.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_marco.xml">
           <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="145" column="55" selection-start-line="145" selection-start-column="55" selection-end-line="145" selection-end-column="55" />
+            <state relative-caret-position="374">
+              <caret line="49" column="53" selection-start-line="49" selection-start-column="53" selection-end-line="49" selection-end-column="53" />
               <folding>
-                <element signature="e#981#1013#0" expanded="true" />
-                <element signature="e#1405#1439#0" expanded="true" />
-                <element signature="e#1827#1859#0" expanded="true" />
-                <element signature="e#2251#2285#0" expanded="true" />
-                <element signature="e#2673#2705#0" expanded="true" />
-                <element signature="e#3097#3131#0" expanded="true" />
-                <element signature="e#3519#3551#0" expanded="true" />
-                <element signature="e#3943#3977#0" expanded="true" />
-                <element signature="e#4365#4397#0" expanded="true" />
-                <element signature="e#4789#4823#0" expanded="true" />
-                <element signature="e#5211#5243#0" expanded="true" />
-                <element signature="e#5635#5669#0" expanded="true" />
-                <element signature="e#6057#6089#0" expanded="true" />
-                <element signature="e#6481#6515#0" expanded="true" />
-                <element signature="e#6903#6935#0" expanded="true" />
+                <element signature="e#949#977#0" expanded="true" />
+                <element signature="e#1361#1391#0" expanded="true" />
+                <element signature="e#1771#1799#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -226,8 +214,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="1284" column="8" lean-forward="true" selection-start-line="1284" selection-start-column="8" selection-end-line="1284" selection-end-column="101" />
+            <state relative-caret-position="195">
+              <caret line="1298" column="8" lean-forward="true" selection-start-line="1298" selection-start-column="8" selection-end-line="1299" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -266,7 +254,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/res/layout/layout_dezembro.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/fragment_nav4.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/layout_rede_atendimento_intro.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/layout_politica_nacional_integral.xml" />
@@ -317,6 +304,7 @@
         <option value="$PROJECT_DIR$/src/main/assets/www/mulheresnegrasquilobolas.html" />
         <option value="$PROJECT_DIR$/src/main/assets/www/janeiro.html" />
         <option value="$PROJECT_DIR$/src/main/assets/www/fevereiro.html" />
+        <option value="$PROJECT_DIR$/src/main/assets/www/março.html" />
       </list>
     </option>
   </component>
@@ -523,7 +511,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" sideWeight="0.502455" side_tool="true" weight="0.32980332" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.497545" visible="true" weight="0.15582451" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.497545" visible="true" weight="0.25642964" />
       <window_info id="Structure" order="2" sideWeight="0.502455" side_tool="true" weight="0.32980332" />
       <window_info id="Favorites" order="3" sideWeight="0.502455" side_tool="true" weight="0.32980332" />
       <window_info id="Build Variants" order="4" sideWeight="0.5040917" side_tool="true" weight="0.24130106" />
@@ -538,7 +526,7 @@
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.090016365" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.049099836" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.3289689" />
       <window_info anchor="bottom" id="Android Profiler" order="9" show_stripe_button="false" />
       <window_info anchor="right" id="Device File Explorer" order="0" sideWeight="0.5008183" side_tool="true" weight="0.3207262" />
@@ -551,21 +539,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_beneficio_continuado.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/assets/www/beneficiodeprestacaocontinuada.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="63" column="18" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/anapaula/quilombolaappv4/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -915,17 +888,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/assets/www/fevereiro.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="1284" column="8" lean-forward="true" selection-start-line="1284" selection-start-column="8" selection-end-line="1284" selection-end-column="101" />
+        <state relative-caret-position="236">
+          <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/assets/www/fevereiro.html">
+    <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="73" column="113" selection-start-line="73" selection-start-column="113" selection-end-line="73" selection-end-column="113" />
+        <state relative-caret-position="195">
+          <caret line="1298" column="8" lean-forward="true" selection-start-line="1298" selection-start-column="8" selection-end-line="1299" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_marco.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="49" column="53" selection-start-line="49" selection-start-column="53" selection-end-line="49" selection-end-column="53" />
+          <folding>
+            <element signature="e#949#977#0" expanded="true" />
+            <element signature="e#1361#1391#0" expanded="true" />
+            <element signature="e#1771#1799#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/assets/www/março.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
         </state>
       </provider>
     </entry>
