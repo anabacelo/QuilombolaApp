@@ -162,8 +162,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bde780f6-ea9a-4eeb-a148-7f67b478ba88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/assets/www/images/mes_junho.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/assets/www/junho.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/www/images/mes_julho.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/www/julho.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -189,23 +189,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/assets/www/junho.html">
+        <entry file="file://$PROJECT_DIR$/src/main/assets/www/julho.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+            <state relative-caret-position="257">
+              <caret line="66" column="62" lean-forward="true" selection-start-line="66" selection-start-column="62" selection-end-line="66" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_junho.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_julho.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="65" column="45" selection-start-line="65" selection-start-column="45" selection-end-line="65" selection-end-column="45" />
+            <state relative-caret-position="340">
+              <caret line="161" column="49" lean-forward="true" selection-start-line="161" selection-start-column="49" selection-end-line="161" selection-end-column="49" />
               <folding>
-                <element signature="e#1285#1315#0" expanded="true" />
-                <element signature="e#1667#1695#0" expanded="true" />
-                <element signature="e#2051#2081#0" expanded="true" />
+                <element signature="e#1361#1391#0" expanded="true" />
+                <element signature="e#2183#2213#0" expanded="true" />
+                <element signature="e#3005#3035#0" expanded="true" />
+                <element signature="e#3827#3857#0" expanded="true" />
+                <element signature="e#4649#4679#0" expanded="true" />
+                <element signature="e#5471#5501#0" expanded="true" />
+                <element signature="e#6293#6323#0" expanded="true" />
+                <element signature="e#7115#7145#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -215,8 +220,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="1403" column="8" lean-forward="true" selection-start-line="1403" selection-start-column="8" selection-end-line="1403" selection-end-column="111" />
+            <state relative-caret-position="331">
+              <caret line="1474" column="7" lean-forward="true" selection-start-line="1474" selection-start-column="7" selection-end-line="1474" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -255,7 +260,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/res/layout/layout_anemia_falciforme.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/layout_hipertensao_arterial.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/layout_quilombos_atendidos_sus.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/layout_mioma_uterino.xml" />
@@ -306,6 +310,7 @@
         <option value="$PROJECT_DIR$/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/src/main/assets/www/maio.html" />
         <option value="$PROJECT_DIR$/src/main/assets/www/junho.html" />
+        <option value="$PROJECT_DIR$/src/main/assets/www/julho.html" />
       </list>
     </option>
   </component>
@@ -540,12 +545,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/res/drawable/fb_img_1546873013431.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/drawable/fb_img_1546873106888.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/drawable/fb_img_1546873356857.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -934,13 +933,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="1403" column="8" lean-forward="true" selection-start-line="1403" selection-start-column="8" selection-end-line="1403" selection-end-column="111" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_junho.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="317">
@@ -956,8 +948,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/assets/www/junho.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+        <state relative-caret-position="515">
+          <caret line="43" column="22" lean-forward="true" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_julho.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="161" column="49" lean-forward="true" selection-start-line="161" selection-start-column="49" selection-end-line="161" selection-end-column="49" />
+          <folding>
+            <element signature="e#1361#1391#0" expanded="true" />
+            <element signature="e#2183#2213#0" expanded="true" />
+            <element signature="e#3005#3035#0" expanded="true" />
+            <element signature="e#3827#3857#0" expanded="true" />
+            <element signature="e#4649#4679#0" expanded="true" />
+            <element signature="e#5471#5501#0" expanded="true" />
+            <element signature="e#6293#6323#0" expanded="true" />
+            <element signature="e#7115#7145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="1474" column="7" lean-forward="true" selection-start-line="1474" selection-start-column="7" selection-end-line="1474" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/assets/www/julho.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="66" column="62" lean-forward="true" selection-start-line="66" selection-start-column="62" selection-end-line="66" selection-end-column="62" />
         </state>
       </provider>
     </entry>
