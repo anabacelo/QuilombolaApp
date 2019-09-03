@@ -162,9 +162,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bde780f6-ea9a-4eeb-a148-7f67b478ba88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/assets/www/images/mes_novembro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/assets/www/novembro.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/www/dezembro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/www/images/mes_dezembro.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/assets/www/abril.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/www/abril.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -189,26 +189,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/assets/www/novembro.html">
+        <entry file="file://$PROJECT_DIR$/src/main/assets/www/dezembro.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="70" column="16" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
+            <state relative-caret-position="408">
+              <caret line="54" column="156" selection-start-line="54" selection-start-column="156" selection-end-line="54" selection-end-column="156" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_novembro.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_dezembro.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="129" column="53" selection-start-line="129" selection-start-column="53" selection-end-line="129" selection-end-column="53" />
+            <state relative-caret-position="289">
+              <caret line="98" column="55" selection-start-line="98" selection-start-column="55" selection-end-line="98" selection-end-column="55" />
               <folding>
-                <element signature="e#1385#1418#0" expanded="true" />
-                <element signature="e#2225#2258#0" expanded="true" />
-                <element signature="e#3065#3098#0" expanded="true" />
-                <element signature="e#3905#3938#0" expanded="true" />
-                <element signature="e#4745#4778#0" expanded="true" />
-                <element signature="e#5585#5618#0" expanded="true" />
+                <element signature="e#1419#1452#0" expanded="true" />
+                <element signature="e#2259#2292#0" expanded="true" />
+                <element signature="e#3099#3132#0" expanded="true" />
+                <element signature="e#3939#3972#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -218,8 +216,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="1673" column="6" selection-start-line="1673" selection-start-column="6" selection-end-line="1673" selection-end-column="36" />
+            <state relative-caret-position="193">
+              <caret line="1709" lean-forward="true" selection-start-line="1708" selection-start-column="7" selection-end-line="1709" />
             </state>
           </provider>
         </entry>
@@ -258,7 +256,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/res/layout/layout_estatuto_crianca.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/layout_politica_nacional_de_assistencia_social.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/layout_lei_maria_da_penha.xml" />
         <option value="$PROJECT_DIR$/src/main/AndroidManifest.xml" />
@@ -300,7 +297,6 @@
         <option value="$PROJECT_DIR$/src/main/assets/www/janeiro.html" />
         <option value="$PROJECT_DIR$/src/main/assets/www/fevereiro.html" />
         <option value="$PROJECT_DIR$/src/main/assets/www/março.html" />
-        <option value="$PROJECT_DIR$/src/main/assets/www/abril.html" />
         <option value="$PROJECT_DIR$/src/main/assets/www/maio.html" />
         <option value="$PROJECT_DIR$/src/main/assets/www/junho.html" />
         <option value="$PROJECT_DIR$/src/main/assets/www/julho.html" />
@@ -309,6 +305,8 @@
         <option value="$PROJECT_DIR$/src/main/assets/www/setembro.html" />
         <option value="$PROJECT_DIR$/src/main/assets/www/outubro.html" />
         <option value="$PROJECT_DIR$/src/main/assets/www/novembro.html" />
+        <option value="$PROJECT_DIR$/src/main/assets/www/abril.html" />
+        <option value="$PROJECT_DIR$/src/main/assets/www/dezembro.html" />
       </list>
     </option>
   </component>
@@ -512,6 +510,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" sideWeight="0.502455" side_tool="true" weight="0.32980332" />
       <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.497545" visible="true" weight="0.25642964" />
@@ -542,14 +541,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/assets/www/images/oqueeserquilombola.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/assets/www/estatutodoidoso.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-957" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/assets/www/estatutodajuventude.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="385">
@@ -976,13 +967,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/assets/www/abril.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="30" column="96" lean-forward="true" selection-start-line="30" selection-start-column="96" selection-end-line="30" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_novembro.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -999,17 +983,45 @@
       </provider>
       <provider editor-type-id="android-designer2" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="1673" column="6" selection-start-line="1673" selection-start-column="6" selection-end-line="1673" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/assets/www/novembro.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
           <caret line="70" column="16" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/assets/www/abril.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="41" lean-forward="true" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_dezembro.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="98" column="55" selection-start-line="98" selection-start-column="55" selection-end-line="98" selection-end-column="55" />
+          <folding>
+            <element signature="e#1419#1452#0" expanded="true" />
+            <element signature="e#2259#2292#0" expanded="true" />
+            <element signature="e#3099#3132#0" expanded="true" />
+            <element signature="e#3939#3972#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="1709" lean-forward="true" selection-start-line="1708" selection-start-column="7" selection-end-line="1709" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/assets/www/dezembro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="54" column="156" selection-start-line="54" selection-start-column="156" selection-end-line="54" selection-end-column="156" />
         </state>
       </provider>
     </entry>
