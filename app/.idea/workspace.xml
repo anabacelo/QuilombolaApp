@@ -162,8 +162,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bde780f6-ea9a-4eeb-a148-7f67b478ba88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/assets/www/images/quilomboarealdabaronesa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/assets/www/quilomboarealdabaronesa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/www/images/quilombosilva.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/www/quilombofamiliasilva.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -187,29 +189,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/assets/www/hubquilombosdeportoalegre.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/assets/www/quilomboarealdabaronesa.html">
+        <entry file="file://$PROJECT_DIR$/src/main/assets/www/quilombofamiliasilva.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="47" column="76" lean-forward="true" selection-start-line="47" selection-start-column="76" selection-end-line="47" selection-end-column="76" />
+            <state relative-caret-position="391">
+              <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_quilombo_areal.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_quilombo_silva.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="40" column="58" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="58" />
+            <state relative-caret-position="374">
+              <caret line="43" column="38" lean-forward="true" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
+              <folding>
+                <element signature="e#1377#1419#0" expanded="true" />
+                <element signature="e#1851#1877#0" expanded="true" />
+              </folding>
             </state>
           </provider>
           <provider editor-type-id="android-designer2" />
@@ -218,8 +215,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="304" column="10" lean-forward="true" selection-start-line="304" selection-start-column="10" selection-end-line="304" selection-end-column="44" />
+            <state relative-caret-position="295">
+              <caret line="322" column="124" selection-start-line="315" selection-start-column="13" selection-end-line="322" selection-end-column="124" />
             </state>
           </provider>
         </entry>
@@ -254,6 +251,8 @@
       <find>texto_quilopoa01</find>
       <find>textoDireitosLayoutQuilomboDosAlpes</find>
       <find>texto_quilopoa02</find>
+      <find>textoDireitosLayoutQuilomboSilva</find>
+      <find>texto_quilopoa03</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -262,7 +261,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/res/layout/layout_estatudo_juventude.xml" />
         <option value="$PROJECT_DIR$/src/main/assets/www/politicanacionaldeassistenciasocial.html" />
         <option value="$PROJECT_DIR$/src/main/res/layout/layout_programa_brasil_quilombola.xml" />
         <option value="$PROJECT_DIR$/src/main/assets/www/programabrasilquilombola.html" />
@@ -296,7 +294,6 @@
         <option value="$PROJECT_DIR$/src/main/assets/www/maio.html" />
         <option value="$PROJECT_DIR$/src/main/assets/www/junho.html" />
         <option value="$PROJECT_DIR$/src/main/assets/www/julho.html" />
-        <option value="$PROJECT_DIR$/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/src/main/assets/www/agosto.html" />
         <option value="$PROJECT_DIR$/src/main/assets/www/setembro.html" />
         <option value="$PROJECT_DIR$/src/main/assets/www/outubro.html" />
@@ -313,6 +310,8 @@
         <option value="$PROJECT_DIR$/../build.gradle" />
         <option value="$PROJECT_DIR$/src/main/assets/www/quilomboalpes.html" />
         <option value="$PROJECT_DIR$/src/main/assets/www/quilomboarealdabaronesa.html" />
+        <option value="$PROJECT_DIR$/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/src/main/assets/www/quilombofamiliasilva.html" />
       </list>
     </option>
   </component>
@@ -549,30 +548,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_abril.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1649">
-          <caret line="97" column="53" selection-start-line="97" selection-start-column="53" selection-end-line="97" selection-end-column="53" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_maio.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="113" column="48" selection-start-line="113" selection-start-column="48" selection-end-line="113" selection-end-column="48" />
-          <folding>
-            <element signature="e#944#971#0" expanded="true" />
-            <element signature="e#1353#1382#0" expanded="true" />
-            <element signature="e#2169#2198#0" expanded="true" />
-            <element signature="e#2985#3014#0" expanded="true" />
-            <element signature="e#3801#3830#0" expanded="true" />
-            <element signature="e#4617#4646#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/assets/www/maio.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
@@ -925,17 +900,36 @@
       </provider>
       <provider editor-type-id="android-designer2" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/assets/www/quilomboarealdabaronesa.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="304" column="10" lean-forward="true" selection-start-line="304" selection-start-column="10" selection-end-line="304" selection-end-column="44" />
+        <state relative-caret-position="267">
+          <caret line="57" column="53" selection-start-line="57" selection-start-column="53" selection-end-line="57" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/assets/www/quilomboarealdabaronesa.html">
+    <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="47" column="76" lean-forward="true" selection-start-line="47" selection-start-column="76" selection-end-line="47" selection-end-column="76" />
+        <state relative-caret-position="295">
+          <caret line="322" column="124" selection-start-line="315" selection-start-column="13" selection-end-line="322" selection-end-column="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_quilombo_silva.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="43" column="38" lean-forward="true" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
+          <folding>
+            <element signature="e#1377#1419#0" expanded="true" />
+            <element signature="e#1851#1877#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/assets/www/quilombofamiliasilva.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
         </state>
       </provider>
     </entry>
