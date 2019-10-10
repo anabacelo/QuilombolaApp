@@ -1,4 +1,6 @@
-//noinspection GradleCompatible
+ext {
+    var = '3.4.2'
+}//noinspection GradleCompatible
 apply plugin: 'com.android.application'
 apply plugin: "androidx.navigation.safeargs"
 android {
@@ -85,4 +87,11 @@ dependencies {
     implementation files('libs/YouTubeAndroidPlayerApi.jar')
 
     testImplementation 'junit:junit:4.13-beta-2'
+}
+
+buildscript {
+    dependencies {
+        classpath "com.android.tools.build:gradle"
+        classpath 'com.android.tools.build:gradle:3.5.0'
+    }
 }
