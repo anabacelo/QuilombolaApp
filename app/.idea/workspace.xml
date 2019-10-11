@@ -162,8 +162,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bde780f6-ea9a-4eeb-a148-7f67b478ba88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/assets/www/images/quilombo_anastacia.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/assets/www/quilomboanastacia.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/www/entrevistas.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -188,22 +187,27 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/assets/www/quilomboanastacia.html">
+        <entry file="file://$PROJECT_DIR$/src/main/assets/www/entrevistas.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="44" column="147" selection-start-line="44" selection-start-column="147" selection-end-line="44" selection-end-column="147" />
+            <state relative-caret-position="386">
+              <caret line="46" column="85" selection-start-line="46" selection-start-column="85" selection-end-line="46" selection-end-column="85" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_quilombo_anastacia.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_entrevistas.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="51" column="70" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="70" />
+            <state relative-caret-position="272">
+              <caret line="88" column="65" selection-start-line="88" selection-start-column="38" selection-end-line="88" selection-end-column="65" />
               <folding>
-                <element signature="e#1367#1413#0" expanded="true" />
-                <element signature="e#1835#1878#0" expanded="true" />
+                <element signature="e#581#614#0" expanded="true" />
+                <element signature="e#1008#1034#0" expanded="true" />
+                <element signature="e#1520#1560#0" expanded="true" />
+                <element signature="e#2065#2109#0" expanded="true" />
+                <element signature="e#2600#2640#0" expanded="true" />
+                <element signature="e#3186#3225#0" expanded="true" />
+                <element signature="e#3769#3807#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -214,7 +218,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
-              <caret line="381" column="6" lean-forward="true" selection-start-line="381" selection-start-column="6" selection-end-line="382" selection-end-column="131" />
+              <caret line="446" column="8" lean-forward="true" selection-start-line="446" selection-start-column="8" selection-end-line="446" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -223,14 +227,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>anastácia</find>
-      <find>textoInstitutoGeralPericias</find>
-      <find>– CRVV</find>
-      <find>Centro de Referencia às Vitimas de Violência – CRVV</find>
-      <find>textoTituloCentroDeReferenciaAsVitimasDeViolencia</find>
-      <find>textoTituloDelegaciaEspecializadanoAtendimentoAMulher</find>
-      <find>atendimento dos casos</find>
-      <find>Hospital Nossa Senhora Conceição</find>
       <find>textoContatoServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher</find>
       <find>Delegacia Especializada no Atendimento à Mulher</find>
       <find>ile</find>
@@ -253,6 +249,14 @@
       <find>textoDireitosLayoutQuilomboAnastacia</find>
       <find>textoComplementoQuilomboAnastacia</find>
       <find>textoReferenciaQuilomboAnastacia</find>
+      <find>titulo_video_quilopoa03</find>
+      <find>video_quilopoa03</find>
+      <find>textoEntrevistaArealDaBaronesa</find>
+      <find>linkTextoEntrevistaArealDaBaronesa</find>
+      <find>textoEntrevistaQuilomboFidelix</find>
+      <find>linkEntrevistaQuilomboFidelix</find>
+      <find>textoEntrevistaQuilomboSilva</find>
+      <find>linkEntrevistaQuilomboSilva</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -261,7 +265,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/assets/www/leimariadapenha.html" />
         <option value="$PROJECT_DIR$/src/main/assets/www/saudedapopulacaonegra.html" />
         <option value="$PROJECT_DIR$/src/main/assets/www/politicanacionalintegral.html" />
         <option value="$PROJECT_DIR$/src/main/assets/www/doencasprevalecentenegra.html" />
@@ -312,10 +315,11 @@
         <option value="$PROJECT_DIR$/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/src/main/assets/www/quilombofamilialemos.html" />
         <option value="$PROJECT_DIR$/src/main/assets/www/quilomboanastacia.html" />
+        <option value="$PROJECT_DIR$/src/main/assets/www/entrevistas.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -389,7 +393,7 @@
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="device.picker.selection" value="Nexus_5X_API_28_x86" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/res/drawable-v21" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/assets/www/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/assets/www" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -404,8 +408,8 @@
       <recent name="C:\QuilombolaAppV4\QuilombolaApp\app\src\main\res\drawable-anydpi" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\QuilombolaAppV4\QuilombolaApp\app\src\main\assets\www\images" />
       <recent name="C:\QuilombolaAppV4\QuilombolaApp\app\src\main\assets\www" />
+      <recent name="C:\QuilombolaAppV4\QuilombolaApp\app\src\main\assets\www\images" />
       <recent name="C:\QuilombolaAppV4\QuilombolaApp\app\src\main\res\drawable-xhdpi" />
       <recent name="C:\QuilombolaAppV4\QuilombolaApp\app\src\main\res\drawable-v21" />
     </key>
@@ -549,30 +553,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_outubro.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="145" column="55" selection-start-line="145" selection-start-column="55" selection-end-line="145" selection-end-column="55" />
-          <folding>
-            <element signature="e#1377#1409#0" expanded="true" />
-            <element signature="e#2211#2243#0" expanded="true" />
-            <element signature="e#3045#3077#0" expanded="true" />
-            <element signature="e#3879#3911#0" expanded="true" />
-            <element signature="e#4713#4745#0" expanded="true" />
-            <element signature="e#5547#5579#0" expanded="true" />
-            <element signature="e#6381#6413#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/assets/www/outubro.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_novembro.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -905,17 +885,41 @@
       </provider>
       <provider editor-type-id="android-designer2" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/assets/www/quilomboanastacia.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="381" column="6" lean-forward="true" selection-start-line="381" selection-start-column="6" selection-end-line="382" selection-end-column="131" />
+        <state relative-caret-position="272">
+          <caret line="37" column="65" lean-forward="true" selection-start-line="37" selection-start-column="65" selection-end-line="37" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/assets/www/quilomboanastacia.html">
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/layout_entrevistas.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="44" column="147" selection-start-line="44" selection-start-column="147" selection-end-line="44" selection-end-column="147" />
+        <state relative-caret-position="272">
+          <caret line="88" column="65" selection-start-line="88" selection-start-column="38" selection-end-line="88" selection-end-column="65" />
+          <folding>
+            <element signature="e#581#614#0" expanded="true" />
+            <element signature="e#1008#1034#0" expanded="true" />
+            <element signature="e#1520#1560#0" expanded="true" />
+            <element signature="e#2065#2109#0" expanded="true" />
+            <element signature="e#2600#2640#0" expanded="true" />
+            <element signature="e#3186#3225#0" expanded="true" />
+            <element signature="e#3769#3807#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="446" column="8" lean-forward="true" selection-start-line="446" selection-start-column="8" selection-end-line="446" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/assets/www/entrevistas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="46" column="85" selection-start-line="46" selection-start-column="85" selection-end-line="46" selection-end-column="85" />
         </state>
       </provider>
     </entry>
