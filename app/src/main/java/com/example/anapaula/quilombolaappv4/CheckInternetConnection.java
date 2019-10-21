@@ -6,7 +6,6 @@ import android.net.NetworkInfo;
 import android.util.Log;
 import android.widget.Toast;
 
-import java.io.InputStream;
 import java.net.URL;
 import java.net.URLConnection;
 
