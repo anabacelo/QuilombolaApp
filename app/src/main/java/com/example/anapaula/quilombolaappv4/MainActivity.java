@@ -122,8 +122,16 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             android.support.v4.app.FragmentManager fragmentManager = getSupportFragmentManager();
             fragmentManager.beginTransaction().replace(R.id.fragment, nav2).commit();
 
+	    }
 
-        } else if (id == R.id.nav_3) {
+	    else if (id == R.id.nav_Login) {      // ABA LOGIN
+            setTitle("Login");
+            Nav_Login nav_login = new Nav_Login();
+            android.support.v4.app.FragmentManager fragmentManager = getSupportFragmentManager();
+            fragmentManager.beginTransaction().replace(R.id.fragment, nav_login).commit();
+        }
+
+        else if (id == R.id.nav_3) {
             setTitle("Aplicativo Quilombola");  // LEGISLAÇÃO
             Nav3 nav3 = new Nav3();
             android.support.v4.app.FragmentManager fragmentManager = getSupportFragmentManager();
@@ -149,6 +157,14 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             Nav5 nav5 = new Nav5();
             android.support.v4.app.FragmentManager fragmentManager = getSupportFragmentManager();
             fragmentManager.beginTransaction().replace(R.id.fragment, nav5).commit();
+
+        }
+
+	    else if (id == R.id.navCovid) {
+            setTitle("Aplicativo Quilombola");  // SAUDE NA PANDEMIA
+            NavCovid navCovid = new NavCovid();
+            android.support.v4.app.FragmentManager fragmentManager = getSupportFragmentManager();
+            fragmentManager.beginTransaction().replace(R.id.fragment, navCovid).commit();
 
         }
 
@@ -194,12 +210,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             fragmentManager.beginTransaction().replace(R.id.fragment, nav10).commit();
         }
 
-        else if (id == R.id.nav_Login) {
-            setTitle("Login");
-            Nav_Login nav_login = new Nav_Login();
-            android.support.v4.app.FragmentManager fragmentManager = getSupportFragmentManager();
-            fragmentManager.beginTransaction().replace(R.id.fragment, nav_login).commit();
-        }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);

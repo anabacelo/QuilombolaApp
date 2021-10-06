@@ -3,11 +3,7 @@ ext {
 }//noinspection GradleCompatible
 apply plugin: 'com.android.application'
 apply plugin: "androidx.navigation.safeargs"
-android {
-    defaultConfig {
 
-    }
-}
 android {
     compileSdkVersion 28
     buildToolsVersion '30.0.3'

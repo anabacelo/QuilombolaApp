@@ -36,6 +36,11 @@
             android:title="Saúde da População Negra" />
 
         <item
+            android:id="@+id/navCovid"
+            android:icon="@drawable/ic_core"
+            android:title="Saúde na pandemia" />
+
+        <item
             android:id="@+id/nav_6"
             android:icon="@drawable/ic_atendimento"
             android:title="Redes de Atendimento" />
