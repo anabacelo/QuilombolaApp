@@ -9,9 +9,9 @@
 
         <RelativeLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent" >
+            android:layout_height="match_parent">
 
-                <android.support.v17.leanback.widget.ListRowView
+                <androidx.leanback.widget.ListRowView
                     android:id="@+id/lvExpCoordinatorLayout"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -21,27 +21,29 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_weight="1">
+
                                 <ExpandableListView
                                     android:id="@+id/lvExpCalendario"
                                     android:layout_width="match_parent"
                                     android:layout_height="match_parent"
                                     android:layout_centerInParent="true"
-                                    android:layout_gravity="center_vertical">
-                                </ExpandableListView>
+                                    android:layout_gravity="center_vertical"></ExpandableListView>
                         </FrameLayout>
+
                         <FrameLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
                             android:layout_weight="1">
+
                                 <TextView
                                     android:id="@+id/textViewDireitosCalendario"
-                                    android:layout_below="@+id/lvExpCoordinatorLayout"
-                                    android:text="@string/textoReferenciaCalendarioQuilombola"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
-                                    android:layout_gravity="bottom|end" />
+                                    android:layout_below="@+id/lvExpCoordinatorLayout"
+                                    android:layout_gravity="bottom|end"
+                                    android:text="@string/textoReferenciaCalendarioQuilombola" />
                         </FrameLayout>
-                </android.support.v17.leanback.widget.ListRowView>
+                </androidx.leanback.widget.ListRowView>
 
         </RelativeLayout>
 </RelativeLayout>

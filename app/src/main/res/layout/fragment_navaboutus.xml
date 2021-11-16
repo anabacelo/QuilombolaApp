@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.anapaula.quilombolaappv4.NavAboutUs">
+    tools:context="com.example.anapaula.quilombolaappv4.NavAboutUs"
+    android:id="@+id/sobre_nos">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -81,15 +82,23 @@
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewBolsista4"
-                android:layout_below="@+id/textViewBolsista3"
-                android:text="@string/texto_sobre_nos_bolsista4"
+                style="@style/estiloTextoConteudo"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                style="@style/estiloTextoConteudo" />
+                android:layout_below="@+id/textViewBolsista3"
+                android:text="@string/texto_sobre_nos_bolsista4" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewBolsista5"
+                style="@style/estiloTextoConteudo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textViewBolsista4"
+                android:text="Guilherme Matheus Dornelles - Graduando em Engenharia de Software - Bolsista PIBIC CNPq" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewColaboradoresTitulo"
-                android:layout_below="@+id/textViewBolsista4"
+                android:layout_below="@+id/textViewBolsista5"
                 android:text="@string/texto_sobre_nos_colaboradores_titulo"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -97,11 +106,11 @@
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewColaborador1"
-                android:layout_below="@+id/textViewColaboradoresTitulo"
-                android:text="@string/texto_sobre_nos_colaborador1"
+                style="@style/estiloTextoConteudo"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                style="@style/estiloTextoConteudo" />
+                android:layout_below="@+id/textViewColaboradoresTitulo"
+                android:text="@string/texto_sobre_nos_colaborador1" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewColaborador2"
@@ -121,11 +130,11 @@
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewColaborador4"
-                android:layout_below="@+id/textViewColaborador3"
-                android:text="@string/texto_sobre_nos_colaborador4"
+                style="@style/estiloTextoConteudo"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                style="@style/estiloTextoConteudo" />
+                android:layout_below="@+id/textViewColaborador3"
+                android:text="@string/texto_sobre_nos_colaborador4" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
                 android:id="@+id/textViewColaborador5"

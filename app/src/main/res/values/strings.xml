@@ -22,7 +22,6 @@
     <!-- TODAS OS TEXTOS EM STRINGS PARA AS PÁGINAS -->
 
 
-
     <!-- Início - Pagina Inicial -->
     <string name="tituloLayoutPaginaInicial">
         Sejam bem vindos ao APP Quilombola!
@@ -227,7 +226,6 @@ Navegue à vontade!!!
     <string name="titulo_quilomboFidelix"> Quilombo Família Fidélix</string>
     <string name="titulo_video_quilopoa01"> VÍDEO: Quilombos Urbanos - Capítulo 4:</string>
     <string name="titulo_video_quilopoa02"> VÍDEO: Areal da Baronesa, berço do samba em Porto Alegre:</string>
-
 
 
     <string name="titulo_video_quilopoa03">
@@ -1792,7 +1790,6 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
 
-
     <string name="textoTituloTrancasNago">
         Tranças Nagô \n
     </string>
@@ -1815,12 +1812,7 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
     </string>
 
 
-
-
     <!-- CURIOSIDADES -->
-
-
-
 
 
     <string name="textoDireitosDoCalendario">
@@ -1919,7 +1911,6 @@ http://www.palmares.gov.br/?p=8766, 2011.
         pessoas idosas. \n\n
     </string>
     <!-- REDE ASSISTENCIAL -->
-
 
 
     <!-- Representações Quilombola - Início -->
@@ -2152,58 +2143,58 @@ http://www.palmares.gov.br/?p=8766, 2011.
 
 
     <!-- Início: Rede de enfrentamento a Violência contra a mulher -->
-    <string name = "textoTituloPoliciaCivil">
+    <string name="textoTituloPoliciaCivil">
         Polícia Civil
     </string>
 
-    <string name = "textoLinkPoliciaCivil">
+    <string name="textoLinkPoliciaCivil">
         https://www12.senado.leg.br/institucional/omv/acoes-contra-violencia/servicos-especializados-de-atendimento-a-mulher
     </string>
 
 
-    <string name = "textoTituloSecretariaNacionalDePoliticasParaMulheres">
+    <string name="textoTituloSecretariaNacionalDePoliticasParaMulheres">
         Secretaria Nacional de Políticas para Mulheres
     </string>
 
-    <string name = "textoLinkSecretariaNacionalDePoliticasParaMulheres">
+    <string name="textoLinkSecretariaNacionalDePoliticasParaMulheres">
         http://www.spm.gov.br/
     </string>
 
-    <string name = "textoTituloPatrulhaMariaDaPenhaDaBrigadaMilitarRS">
+    <string name="textoTituloPatrulhaMariaDaPenhaDaBrigadaMilitarRS">
         Patrulha Maria da Penha da Brigada Militar RS
     </string>
 
-    <string name = "textoLinkPatrulhaMariaDaPenhaDaBrigadaMilitarRS">
+    <string name="textoLinkPatrulhaMariaDaPenhaDaBrigadaMilitarRS">
         https://estado.rs.gov.br/patrulha-maria-da-penha-amplia-atendimento-as-mulheres-vitimas-de-violencia
     </string>
 
-    <string name = "textoPatrulhaMariaDaPenhaDaBrigadaMilitarRS">
+    <string name="textoPatrulhaMariaDaPenhaDaBrigadaMilitarRS">
         A Patrulha Maria da Penha atua, desde 2012, como forma de prevenção primária, comparecendo periodicamente à residência das mulheres que possuem Medidas Protetivas de
         Urgência, para verificar se as mesmas estão sendo cumpridas. Para isso há a necessidade de serem ministrados cursos de capacitação aos policiais militares,
         para atuarem com mais sensibilidade e conhecimento sobre a realidade das vítimas e para entenderem a enorme dificuldade que elas têm de denunciarem seus agressores.
         A patrulha iniciou sua atividade em Porto Alegre e hoje já está com 37 patrulhas em 28 municípios do estado.
     </string>
 
-    <string name = "textoTituloInstitutoGeralPericias">
+    <string name="textoTituloInstitutoGeralPericias">
         IGP – Instituto Geral de Perícias - Sala Lilás
     </string>
 
-    <string name = "textoLinkInstitutoGeralPericias">
+    <string name="textoLinkInstitutoGeralPericias">
         https://igp.rs.gov.br/inicial
     </string>
 
-    <string name = "textoInstitutoGeralPericias">
+    <string name="textoInstitutoGeralPericias">
         A Sala Lilás foi criada dentro do Instituto Geral de Perícias em Porto Alegre com o objetivo de oferecer um atendimento especializado à mulher vítima de violência.
         “Antes a mulher ficava numa sala de espera geral para fazer o exame de corpo de delito, muitas vezes junto com o próprio agressor ou com outros agressores.
         Agora, ela tem uma sala de espera diferenciada para fazer o exame de lesões e a perícia psíquica,
         onde promovemos um acolhimento mais qualificado e colocamos à disposição o atendimento com psicólogas e assistentes sociais. \n
     </string>
 
-    <string name = "textoTituloDepartamentoMedicoLegal">
+    <string name="textoTituloDepartamentoMedicoLegal">
         Departamento Médico-Legal \n
     </string>
 
-    <string name = "textoEnderecoDepartamentoMedicoLegal">
+    <string name="textoEnderecoDepartamentoMedicoLegal">
         Endereço: Avenida Ipiranga, 1807 Bairro: Santana \n
         Cidade: Porto Alegre – RS, Cep: 90160.093 \n
         Telefones do DML: \n
@@ -2212,15 +2203,15 @@ http://www.palmares.gov.br/?p=8766, 2011.
         Divisão de Perícias da Capital \n
     </string>
 
-    <string name = "textoTituloSempreMulher">
+    <string name="textoTituloSempreMulher">
         Sempre Mulher – Instituto de Pesquisa e Intervenção sobre Relações Raciais
     </string>
 
-    <string name = "textoLinkSempreMulher">
+    <string name="textoLinkSempreMulher">
         https://sempremulher.org.br/
     </string>
 
-    <string name = "textoSempreMulher">
+    <string name="textoSempreMulher">
         Tem por finalidade identificar através de estudos e pesquisas, as vulnerabilidades sociais e as possibilidades de superação.
         Por entender que a injustiça social atinge de forma mais cruel a população afrodescendente, em particular as mulheres, seus filhos e dependentes,
         o Instituto Sempre Mulher faz um recorte de gênero e raça, priorizando em suas ações o atendimento às mulheres negras e suas famílias a fim de contribuir para a
@@ -2247,30 +2238,30 @@ http://www.palmares.gov.br/?p=8766, 2011.
         Segurança Alimentar \n
     </string>
 
-    <string name = "textoTituloOngMariaMulher">
+    <string name="textoTituloOngMariaMulher">
         ONG Maria Mulher
     </string>
 
-    <string name = "textoLinkOngMariaMulher">
+    <string name="textoLinkOngMariaMulher">
         http://www.mariamulher.org.br/
     </string>
 
-    <string name = "textoOngMariaMulher">
+    <string name="textoOngMariaMulher">
         Nossa missão é a defesa dos direitos humanos das populações marginalizadas excluídas, principalmente de afrodescendentes e o combate às discriminações.
         \n\n
         Endereço: Av. Moab Caldas, 2035 - Santa Teresa, Porto Alegre, 90880-310 \n
         Telefone: (51) 3219-0180 \n
     </string>
 
-    <string name = "textoTituloACMUN">
+    <string name="textoTituloACMUN">
         ACMUN
     </string>
 
-    <string name = "textoLinkACMUN">
+    <string name="textoLinkACMUN">
         http://www.acmun.org.br/
     </string>
 
-    <string name = "textoACMUN">
+    <string name="textoACMUN">
         A Associação Cultural de Mulheres Negras, ACMUN, tem como principal objetivo a valorização da população negra, em especial das mulheres negras.
         A ACMUN desenvolve ações para o combate da discriminação de gênero, raça e etnia.
         \n\n
@@ -2280,11 +2271,11 @@ http://www.palmares.gov.br/?p=8766, 2011.
         E-mail: acmun_acmun@yahoo.com.br \n
     </string>
 
-    <string name = "textoTituloThemisGenero">
+    <string name="textoTituloThemisGenero">
         THEMIS GÊNERO JUSTIÇA E DIREITOS HUMANOS
     </string>
 
-    <string name = "textoThemisGenero">
+    <string name="textoThemisGenero">
         A THEMIS concentra sua atuação na promoção de uma rede de apoio e enfrentamento formada por diversos segmentos para compartilhar,
         elucidar e defender os direitos fundamentais das mulheres. Desde a sua criação a ONG desenvolveu 15 programas de formação de Promotoras Legais Populares e
         Jovens Multiplicadoras de Cidadania (JMCs). A THEMIS participou do consórcio de organizações que debateu e propôs a Lei Maria da Penha e acompanha sua implementação.
@@ -2297,35 +2288,35 @@ http://www.palmares.gov.br/?p=8766, 2011.
         E-MAIL: themis@themis.org.br \n
     </string>
 
-    <string name = "textoTituloPromotorasLegaisPopulares">
+    <string name="textoTituloPromotorasLegaisPopulares">
         Promotoras Legais Populares \n
     </string>
 
-    <string name = "textoPromotorasLegaisPopulares">
+    <string name="textoPromotorasLegaisPopulares">
         São mulheres lideranças da comunidade, que são capacitadas pala THEMIS em noções de direito a fim de dar acolhimento e orientação as mulheres vítimas de violência nos
         SIM (serviços de informação à mulher) nas comunidades. As promotoras atuam em todas as regiões de porto Alegre. \n\n
         Telefone: Themis 32120104 \n
     </string>
 
-    <string name = "textoTituloSIM">
+    <string name="textoTituloSIM">
         SIM Restinga na sede da AMOVIR
     </string>
 
-    <string name = "textoSIM">
+    <string name="textoSIM">
         Endereço: Oscar de Oliveira Ramos,1411 (fundos) - Bairro Restinga Nova \n
         E-mail: plpsrestinga@gmail.com \n
         Plantões todas as segundas das 9hs às 17 hs na AMOVIR \n
     </string>
 
-    <string name = "textoTituloDefensoriaPublica">
+    <string name="textoTituloDefensoriaPublica">
         Defensoria Pública do Rio Grande do Sul - Núcleo de Defesa da Mulher - NUDEM \n
     </string>
 
-    <string name = "textoLinkDefensoriaPublica">
+    <string name="textoLinkDefensoriaPublica">
         <b>http://www.defensoria.rs.def.br/conteudo/20571</b> \n
     </string>
 
-    <string name = "textoDefensoriaPublica">
+    <string name="textoDefensoriaPublica">
         <b>Sede Administrativa</b> \n
 
         Rua Sete de Setembro, 666 - Centro Histórico \n\n
@@ -2348,15 +2339,15 @@ http://www.palmares.gov.br/?p=8766, 2011.
         \n
     </string>
 
-    <string name = "textoTituloJuizadosEspecializadosEmViolencia">
+    <string name="textoTituloJuizadosEspecializadosEmViolencia">
         Juizados especializados em Violência Doméstica \n\n
     </string>
 
-    <string name = "textoLinkJuizadosEspecializadosEmViolencia">
+    <string name="textoLinkJuizadosEspecializadosEmViolencia">
         <b>http://www.tjrs.jus.br/violencia_domestica/juizados.html</b> \n\n
     </string>
 
-    <string name = "textoJuizadosEspecializadosEmViolencia">
+    <string name="textoJuizadosEspecializadosEmViolencia">
         <b>PORTO ALEGRE</b>
 
         1º Juizado de Violência Doméstica e Familiar Contra a Mulher \n
@@ -2370,32 +2361,32 @@ http://www.palmares.gov.br/?p=8766, 2011.
         E-mail: frpoacent2jzvdfamm@tj.rs.gov.br \n
     </string>
 
-    <string name = "textoTituloCentroReferenciaDeAtendimento">
+    <string name="textoTituloCentroReferenciaDeAtendimento">
         Centro de Referência de Atendimento á Mulher Municipal - Márcia Calixto \n\n
     </string>
 
-    <string name = "textoLinkCentroReferenciaDeAtendimento">
+    <string name="textoLinkCentroReferenciaDeAtendimento">
         <b> \t http://www2.portoalegre.rs.gov.br/smdh/default.php?p_secao=41 </b> \n\n
     </string>
 
-    <string name = "textoJuizadosCentroReferenciaDeAtendimento">
+    <string name="textoJuizadosCentroReferenciaDeAtendimento">
         Endereço: Rua Siqueira Campos, nº 1184, 16º andar \n
         Bairro: Centro Histórico Cep: 90010-001 Município: Porto Alegre \n
         Telefone: (51)3289-5102 \n
          E-mail:  cram@smdh.prefpoa.com.br \n
     </string>
 
-    <string name = "textoTituloCentroDeReferenciaEmDireitosHumanos">
+    <string name="textoTituloCentroDeReferenciaEmDireitosHumanos">
         Centro de Referência em Direitos Humanos da Defensoria Pública do Estado do Rio Grande do Sul - CRDH/DP-RS \n\n
     </string>
 
-    <string name = "textoLinkCentroDeReferenciaEmDireitosHumanos">
+    <string name="textoLinkCentroDeReferenciaEmDireitosHumanos">
         <b>
             http://www2.portoalegre.rs.gov.br/smdh/default.php?p_secao=41
         </b> \n\n
     </string>
 
-    <string name = "textoCentroDeReferenciaEmDireitosHumanos">
+    <string name="textoCentroDeReferenciaEmDireitosHumanos">
         Destina-se às vítimas de preconceito, discriminação, intolerância, abusos e maus-tratos, negligência e abandono,
         especialmente às mulheres em situação de violência e às vítimas de violência estatal (do sistema de justiça e de segurança pública). Indiretamente,
         aos familiares, lideranças comunitárias e cidadãos (ãs) em geral. \n
@@ -2403,15 +2394,15 @@ http://www.palmares.gov.br/?p=8766, 2011.
         DISQUE-ACOLHIMENTO 0800 644 5556 - Ligação Gratuita \n
     </string>
 
-    <string name = "textoTituloCentroDeReferenciaAsVitimasDeViolencia">
+    <string name="textoTituloCentroDeReferenciaAsVitimasDeViolencia">
         Centro de Referência às Vítimas de Violência – CRVV \n
     </string>
 
-    <string name = "textoLinkCentroDeReferenciaAsVitimasDeViolencia">
+    <string name="textoLinkCentroDeReferenciaAsVitimasDeViolencia">
         <b>http://www2.portoalegre.rs.gov.br/cmm/default.php?p_secao=24</b> \n\n
     </string>
 
-    <string name = "textoCentroDeReferenciaAsVitimasDeViolencia">
+    <string name="textoCentroDeReferenciaAsVitimasDeViolencia">
         O que é o CRVV? \n
         O Centro de Referência às Vítimas de Violência (CRVV) é um serviço do Município, em parceria com o Governo Federal, criado para prestar informações e
         orientações às vítimas de violações de direitos, abuso de autoridade, exploração sexual e qualquer tipo de discriminação.
@@ -2421,29 +2412,29 @@ http://www.palmares.gov.br/?p=8766, 2011.
         Fone: (51) 3289.5110. \n
     </string>
 
-    <string name = "textoTituloCentroEstadualDeReferenciaDaMulherVania">
+    <string name="textoTituloCentroEstadualDeReferenciaDaMulherVania">
         Centro Estadual de Referência da Mulher Vânia Araújo Machado\n\n
     </string>
 
-    <string name = "textoLinkCentroEstadualDeReferenciaDaMulherVania">
+    <string name="textoLinkCentroEstadualDeReferenciaDaMulherVania">
         <b>http://www.rs.gov.br/conteudo/224474/servico-do-centro-estadual-de-referencia-da-mulher-e-ampliado/termosbusca=*</b> \n\n
     </string>
 
-    <string name = "textoCentroEstadualDeReferenciaDaMulherVania">
+    <string name="textoCentroEstadualDeReferenciaDaMulherVania">
         Endereço: Travessa Tuyuty, 10, esquina com Rua André Machado, no Centro de Porto Alegre
         Atendimento: segunda a sexta-feira, das 8h30 às 18h \n
     </string>
 
-    <string name = "textoTituloEscutaLilas">
+    <string name="textoTituloEscutaLilas">
         Escuta Lilás
     </string>
 
-    <string name = "textoLinkEscutaLilas">
+    <string name="textoLinkEscutaLilas">
 
             https://estado.rs.gov.br/escuta-lilas-quadriplic-a-atendiment-os-as-mulheres-no-rs \n
     </string>
 
-    <string name = "textoEscutaLilas">
+    <string name="textoEscutaLilas">
         <b>A Escuta Lilás</b> é uma central de atendimento à mulher da Secretaria de Políticas para as Mulheres do RS,
                 acessada pelo telefone gratuíto 0800.541.0803, junto ao Centro de Referência da Mulher Vânia Araújo Machado (CRM). \n
         Escuta Lilás - 0800.541.0803 \n
@@ -2452,17 +2443,17 @@ http://www.palmares.gov.br/?p=8766, 2011.
         Para a Central de Atendimento à Mulher, 24 horas: ligue:180 \n
     </string>
 
-    <string name = "textoTituloILEMulher">
+    <string name="textoTituloILEMulher">
         ILÊ Mulher \n
     </string>
 
-    <string name = "textoLinkILEMulher">
+    <string name="textoLinkILEMulher">
         <b>
             https://www.ilemulher.org.br/
         </b> \n
     </string>
 
-    <string name = "textoContatoILEMulher">
+    <string name="textoContatoILEMulher">
         Endereço: Rua Gaspar Martins, 216  \n
         Bairro: Floresta, Porto Alegre - RS, CEP.: 90220-160 \n
         Telefone: (51) 3225-3828 – 51 3574 0591 \n
@@ -2470,21 +2461,21 @@ http://www.palmares.gov.br/?p=8766, 2011.
         Email: ilemulher@ilemulher.org.br \n
     </string>
 
-    <string name = "textoTituloSAJUGPUCRS">
+    <string name="textoTituloSAJUGPUCRS">
         SAJUG – PUCRS \n
     </string>
 
-    <string name = "textoLinkSAJUGPUCRS">
+    <string name="textoLinkSAJUGPUCRS">
         <b>http://www.pucrs.br/direito/a-escola/servicos/sajug-servico-de-assistencia-juridica-gratuita/</b> \n
     </string>
 
-    <string name = "textoSAJUGPUCRS">
+    <string name="textoSAJUGPUCRS">
         O Serviço de Assistência Jurídica Gratuita – SAJUG – é órgão da Escola de Direito da Pontifícia Universidade Católica do Rio Grande do Sul,
         vinculado ao Departamento de Prática Jurídica, que tem por a prestação de atividades filantrópicas, através do atendimento jurídico gratuito à comunidade carente de
         Porto Alegre. \n
     </string>
 
-    <string name = "textoComplementoSAJUGPUCRS">
+    <string name="textoComplementoSAJUGPUCRS">
         Áreas de Atuação \n
         Família, Cível e Penal. \n
         Requisitos de Atendimento \n
@@ -2492,7 +2483,7 @@ http://www.palmares.gov.br/?p=8766, 2011.
         Ser residente em Porto Alegre ou que a ação deva ser proposta ou contestada nos fóruns do Partenon ou Central deste município; \n
     </string>
 
-    <string name = "textoContatoSAJUGPUCRS">
+    <string name="textoContatoSAJUGPUCRS">
         Solicitar agendamento pelo fone: 3320-3532 ou no local. \n
 
         Locais de Atendimento \n
@@ -2508,37 +2499,37 @@ http://www.palmares.gov.br/?p=8766, 2011.
             CEP: 91430-140 – Porto Alegre – RS – Brasil \n
     </string>
 
-    <string name = "textoTituloSAJUUFRGS">
+    <string name="textoTituloSAJUUFRGS">
         SAJU - UFRGS - Serviço de Assessoria Jurídica Universitária \n
     </string>
 
-    <string name = "textoLinkSAJUUFRGS">
+    <string name="textoLinkSAJUUFRGS">
         <b>http://www.ufrgs.br/saju/</b> \n
     </string>
 
-    <string name = "textoSAJUUFRGS">
+    <string name="textoSAJUUFRGS">
         O Serviço de Assessoria Jurídica Universitária, através de seus grupos temáticos, presta atendimento a toda pessoa que não puder pagar por um advogado.
         Faculdade de Direito - Universidade Federal do Rio Grande do Sul (UFRGS)\n
     </string>
 
-    <string name = "textoContatoSAJUUFRGS">
+    <string name="textoContatoSAJUUFRGS">
         Endereço: Avenida João Pessoa, n° 80, CEP: 90.040-000 \n
         Centro, Porto Alegre – RS \n
         Telefone: (51) 3308-3967 \n
          E-mail: saju@ufrgs.br \n
     </string>
 
-    <string name = "textoTituloDelegaciaEspecializadanoAtendimentoAMulher">
+    <string name="textoTituloDelegaciaEspecializadanoAtendimentoAMulher">
         Delegacia Especializada no Atendimento à Mulher \n
     </string>
 
-    <string name = "textoDelegaciaEspecializadanoAtendimentoAMulher">
+    <string name="textoDelegaciaEspecializadanoAtendimentoAMulher">
         As DEAMs são unidades especializadas da Polícia Civil, que realizam ações de prevenção, proteção e investigação dos crimes de violência doméstica e violência sexual
         contra as mulheres, entre outros. Entre as ações, cabe citar: registro de Boletim de Ocorrência, solicitação ao juiz das medidas protetivas de urgência nos casos
         de violência doméstica e familiar contra as mulheres, realização da investigação dos crimes. \n
     </string>
 
-    <string name = "textoContatoDelegaciaEspecializadanoAtendimentoAMulher">
+    <string name="textoContatoDelegaciaEspecializadanoAtendimentoAMulher">
         RIO GRANDE DO SUL \n
 
         Canoas  \n
@@ -2561,40 +2552,40 @@ http://www.palmares.gov.br/?p=8766, 2011.
             Tel.:(51) 3592-1013 \n
     </string>
 
-    <string name = "textoTituloServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher">
+    <string name="textoTituloServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher">
         Serviços de Saúde Especializados para o Atendimento dos Casos de Violência Contra a Mulher \n
     </string>
 
-    <string name = "textoLinkServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher">
+    <string name="textoLinkServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher">
         http://sistema3.planalto.gov.br/spmu/atendimento/atendimento_mulher.php?uf=RS \n
     </string>
 
-    <string name = "textoTituloHospitalNossaSenhoraDaConceicao">
+    <string name="textoTituloHospitalNossaSenhoraDaConceicao">
         Hospital Nossa Senhora Conceição - Porto Alegre \n
     </string>
 
-    <string name = "textoEnderecoHospitalNossaSenhoraDaConceicao">
+    <string name="textoEnderecoHospitalNossaSenhoraDaConceicao">
         Endereço: Avenida Francisco Trein, 596 - Bairro Cristo Redentor \n
         Cep: 91350-240 \n
         Município: Porto Alegre \n
         Telefone: (51)3357-2161 \n
     </string>
 
-    <string name = "textoTituloHospitalProntoSocorroDePortoAlegre">
+    <string name="textoTituloHospitalProntoSocorroDePortoAlegre">
         Hospital Pronto Socorro de Porto Alegre \n
     </string>
 
-    <string name = "textoEnderecoHospitalProntoSocorroDePortoAlegre">
+    <string name="textoEnderecoHospitalProntoSocorroDePortoAlegre">
         Endereço: Largo Teodoro Herzl, s/n - Bairro Bom Fim \n
         Cep: 90040-192 \n
         Fone:(51)3289-7999 \n
     </string>
 
-    <string name = "textoTituloHospitalFemina">
+    <string name="textoTituloHospitalFemina">
         Hospital Femina - Porto Alegre \n
     </string>
 
-    <string name = "textoEnderecoHospitalFemina">
+    <string name="textoEnderecoHospitalFemina">
         Endereço:  Rua Mostardeiro,  17 - Bairro: Moinhos do Vento \n
         Cep: 90430-001 \n
         Município: Porto Alegre \n
@@ -2680,6 +2671,14 @@ http://www.palmares.gov.br/?p=8766, 2011.
     <string name="texto_sobre_nos_colaborador10">
     Renata Alencar Póvoas - Graduanda em Serviço Social/PUCRS – Bolsista PIBIC CNPq
     </string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
     <!-- Fim: SOBRE NOS -->
 
 </resources>
