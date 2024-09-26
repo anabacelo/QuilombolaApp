@@ -34,25 +34,26 @@ public class CheckInternetConnection {
     }
 
     public static boolean simpleServerCheck(){
-        try {
-            ConnectivityManager connectivityManager = (ConnectivityManager) GlobalApplication.getAppContext().getSystemService(Context.CONNECTIVITY_SERVICE);
-            NetworkInfo activeNetworkInfo = connectivityManager.getActiveNetworkInfo();
-            if(activeNetworkInfo != null && activeNetworkInfo.isConnected()){
-                try {
-                    URL strUrl = new URL("http://app-quilombola.epizy.com/favicon.ico");
-                    URLConnection connection = strUrl.openConnection();
-                    connection.setDoOutput(true);
-                    return true;
-                }
-                catch (Exception e){
-                    e.printStackTrace();
-                    return false;
-                }
-            }
-            return false;
-        } catch (Exception e) {
-            Log.e("isInternetAvailable:",e.toString());
-            return false;
-        }
+        return false;
+//        try {
+//            ConnectivityManager connectivityManager = (ConnectivityManager) GlobalApplication.getAppContext().getSystemService(Context.CONNECTIVITY_SERVICE);
+//            NetworkInfo activeNetworkInfo = connectivityManager.getActiveNetworkInfo();
+//            if(activeNetworkInfo != null && activeNetworkInfo.isConnected()){
+//                try {
+//                    URL strUrl = new URL("http://app-quilombola.epizy.com/favicon.ico");
+//                    URLConnection connection = strUrl.openConnection();
+//                    connection.setDoOutput(true);
+//                    return true;
+//                }
+//                catch (Exception e){
+//                    e.printStackTrace();
+//                    return false;
+//                }
+//            }
+//            return false;
+//        } catch (Exception e) {
+//            Log.e("isInternetAvailable:",e.toString());
+//            return false;
+//        }
     }
 }
