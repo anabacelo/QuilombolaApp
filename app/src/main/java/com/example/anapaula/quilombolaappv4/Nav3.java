@@ -32,11 +32,11 @@ public class Nav3 extends Fragment implements IOnBackPressed{
 
         if(CheckInternetConnection.simpleServerCheck()){
             mWebView.loadUrl("http://app-quilombola.epizy.com/legislacao.html");
-            Toast.makeText(GlobalApplication.getAppContext(), "Versão web carregada!", Toast.LENGTH_LONG).show();
+            //Toast.makeText(GlobalApplication.getAppContext(), "Versão web carregada!", Toast.LENGTH_LONG).show();
         }
         else {
             mWebView.loadUrl("file:///android_asset/www/legislacao.html");
-            Toast.makeText(GlobalApplication.getAppContext(), "Não foi possivel acessar o servidor. Versão local carregada!", Toast.LENGTH_LONG).show();
+            //Toast.makeText(GlobalApplication.getAppContext(), "Não foi possivel acessar o servidor. Versão local carregada!", Toast.LENGTH_LONG).show();
         }
 
         //Toast.makeText(GlobalApplication.getAppContext(), "Servidor remoto: " + CheckInternetConnection.simpleServerCheck(), Toast.LENGTH_LONG).show();

@@ -37,7 +37,7 @@ public class HomePage extends Fragment implements IOnBackPressed{
 
         if(CheckInternetConnection.simpleServerCheck()){
             mWebView.loadUrl("http://app-quilombola.epizy.com/home.html");
-            Toast.makeText(GlobalApplication.getAppContext(), "Versão web carregada!", Toast.LENGTH_LONG).show();
+            //Toast.makeText(GlobalApplication.getAppContext(), "Versão web carregada!", Toast.LENGTH_LONG).show();
         }
         else {
             mWebView.loadUrl("file:///android_asset/www/home.html");

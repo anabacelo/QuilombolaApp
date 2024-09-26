@@ -31,11 +31,11 @@ import android.widget.Toast;
 
         if(CheckInternetConnection.simpleServerCheck()){
             mWebView.loadUrl("http://app-quilombola.epizy.com/saudePandemia.html");
-            Toast.makeText(GlobalApplication.getAppContext(), "Versão web carregada!", Toast.LENGTH_LONG).show();
+            //Toast.makeText(GlobalApplication.getAppContext(), "Versão web carregada!", Toast.LENGTH_LONG).show();
         }
         else {
             mWebView.loadUrl("file:///android_asset/www/saudePandemia.html");
-            Toast.makeText(GlobalApplication.getAppContext(), "Não foi possivel acessar o servidor. Versão local carregada!", Toast.LENGTH_LONG).show();
+            //Toast.makeText(GlobalApplication.getAppContext(), "Não foi possivel acessar o servidor. Versão local carregada!", Toast.LENGTH_LONG).show();
         }
 
         //Toast.makeText(GlobalApplication.getAppContext(), "Servidor remoto: " + CheckInternetConnection.simpleServerCheck(), Toast.LENGTH_LONG).show();

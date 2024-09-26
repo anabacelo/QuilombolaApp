@@ -97,8 +97,16 @@
                 android:text="Guilherme Matheus Dornelles - Graduando em Engenharia de Software - Bolsista PIBIC CNPq" />
 
             <com.example.anapaula.quilombolaappv4.JustifyTextView
-                android:id="@+id/textViewColaboradoresTitulo"
+                android:id="@+id/textViewBolsista6"
+                style="@style/estiloTextoConteudo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
                 android:layout_below="@+id/textViewBolsista5"
+                android:text="Arthur Pizzolatti Igansi - Graduando em Engenharia de Software - Bolsista PIBITI CNPq" />
+
+            <com.example.anapaula.quilombolaappv4.JustifyTextView
+                android:id="@+id/textViewColaboradoresTitulo"
+                android:layout_below="@+id/textViewBolsista6"
                 android:text="@string/texto_sobre_nos_colaboradores_titulo"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

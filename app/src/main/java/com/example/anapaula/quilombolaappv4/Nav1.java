@@ -33,11 +33,11 @@ public class Nav1 extends Fragment implements IOnBackPressed{
 
         if(CheckInternetConnection.simpleServerCheck()){
             mWebView.loadUrl("http://app-quilombola.epizy.com/serquilombola.html");
-            Toast.makeText(GlobalApplication.getAppContext(), "Versão web carregada!", Toast.LENGTH_LONG).show();
+            //Toast.makeText(GlobalApplication.getAppContext(), "Versão web carregada!", Toast.LENGTH_LONG).show();
         }
         else {
             mWebView.loadUrl("file:///android_asset/www/serquilombola.html");
-            Toast.makeText(GlobalApplication.getAppContext(), "Não foi possivel acessar o servidor. Versão local carregada!", Toast.LENGTH_LONG).show();
+            //Toast.makeText(GlobalApplication.getAppContext(), "Não foi possivel acessar o servidor. Versão local carregada!", Toast.LENGTH_LONG).show();
         }
         //return inflater.inflate(R.layout.fragment_nav1, container, false);
         return view;

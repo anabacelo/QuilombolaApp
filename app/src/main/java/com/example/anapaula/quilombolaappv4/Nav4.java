@@ -39,11 +39,11 @@ public class Nav4 extends Fragment implements IOnBackPressed{
 
         if(CheckInternetConnection.simpleServerCheck()){
             mWebView.loadUrl("http://app-quilombola.epizy.com/historiaculturatradicao.html");
-            Toast.makeText(GlobalApplication.getAppContext(), "Versão web carregada!", Toast.LENGTH_LONG).show();
+            //Toast.makeText(GlobalApplication.getAppContext(), "Versão web carregada!", Toast.LENGTH_LONG).show();
         }
         else {
             mWebView.loadUrl("file:///android_asset/www/historiaculturatradicao.html");
-            Toast.makeText(GlobalApplication.getAppContext(), "Não foi possivel acessar o servidor. Versão local carregada!", Toast.LENGTH_LONG).show();
+            //Toast.makeText(GlobalApplication.getAppContext(), "Não foi possivel acessar o servidor. Versão local carregada!", Toast.LENGTH_LONG).show();
         }
         return view;
         //return inflater.inflate(R.layout.fragment_nav4, container, false);
