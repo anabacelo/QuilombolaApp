@@ -12,15 +12,21 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:fontFamily">@font/aclonica_regular</item>
+        <item name="android:textColorPrimary">@color/colorAccent</item>
+    </style>
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
     <style name="estiloTextoTituloNormal">
+        <item name="android:textColor">@color/dark_text</item>
         <item name="android:layout_marginLeft">10dp</item>
         <item name="android:layout_marginRight">10dp</item>
-        <item name="android:textSize">18dp</item>
+        <item name="android:textSize">20dp</item>
         <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/aclonica_regular</item>
     </style>
+
     <style name="estiloTextoTitulo">
         <item name="android:layout_marginLeft">10dp</item>
         <item name="android:layout_marginRight">10dp</item>
@@ -30,6 +36,8 @@
         <item name="android:paddingBottom">20dp</item>
         <item name="android:textSize">18dp</item>
         <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/dark_text</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
     </style>
 
     <style name="estiloTextoLayoutCentralizadoDireitosReservados">
@@ -38,6 +46,8 @@
         <item name="android:layout_gravity">center</item>
         <item name="android:scaleType">centerCrop</item>
         <item name="android:adjustViewBounds">true</item>
+        <item name="android:textColor">@color/dark_text</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
     </style>
 
     <style name="estiloTextoLayoutDireitaDireitosReservados">
@@ -46,6 +56,8 @@
         <item name="android:layout_marginBottom">10dp</item>
         <item name="android:layout_marginRight">30dp</item>
         <item name="android:layout_marginLeft">30dp</item>
+        <item name="android:textColor">@color/dark_text</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
     </style>
 
     <style name="estiloTextoLayoutEsquerdaDireitosReservados">
@@ -53,6 +65,8 @@
         <item name="android:layout_alignParentLeft">true</item>
         <item name="android:layout_marginBottom">10dp</item>
         <item name="android:layout_marginLeft">15dp</item>
+        <item name="android:textColor">@color/dark_text</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
     </style>
 
     <style name="estiloTextoConteudo">
@@ -60,12 +74,16 @@
         <item name="android:layout_marginLeft">10dp</item>
         <item name="android:layout_marginRight">10dp</item>
         <item name="android:paddingBottom">10dp</item>
+        <item name="android:textColor">@color/dark_text</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
     </style>
 
     <style name="estiloTextoComplemento">
         <item name="android:textSize">14dp</item>
         <item name="android:layout_marginLeft">10dp</item>
         <item name="android:layout_marginRight">10dp</item>
+        <item name="android:textColor">@color/dark_text</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
     </style>
 
     <style name="estiloImagem">
@@ -74,11 +92,13 @@
         <item name="android:layout_marginBottom">0dp</item>
         <item name="android:scaleType">centerCrop</item>
         <item name="android:adjustViewBounds">true</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
     </style>
 
     <style name="estiloLink">
         <item name="android:autoLink">web</item>
         <item name="android:clickable">true</item>
         <item name="android:linksClickable">true</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
     </style>
 </resources>

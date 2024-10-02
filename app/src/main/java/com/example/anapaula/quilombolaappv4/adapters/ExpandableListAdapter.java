@@ -2,6 +2,7 @@ package com.example.anapaula.quilombolaappv4.adapters;
 
 import android.content.Context;
 import android.graphics.Typeface;
+import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -74,8 +75,12 @@ public class ExpandableListAdapter extends BaseExpandableListAdapter {
         }
 
         TextView lblListHeader = (TextView)view.findViewById(R.id.lblListHeader);
+        lblListHeader.setMinHeight(100);
+        lblListHeader.setGravity(Gravity.CENTER_VERTICAL);
+        lblListHeader.setTextColor(context.getResources().getColor(R.color.dark_text));
         lblListHeader.setTypeface(null, Typeface.BOLD);
         lblListHeader.setText(headerTitle);
+
 
         return view;
     }

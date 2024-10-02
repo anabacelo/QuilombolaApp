@@ -70,20 +70,20 @@
             android:title="Mulheres Negras Quilombolas"
             android:icon="@drawable/ic_person"/>
 
-
+<!--        <item-->
+<!--            android:id="@+id/nav_communicate"-->
+<!--            android:title="Communicate">-->
+<!--            <menu>-->
+<!--                <item-->
+<!--                    android:id="@+id/nav_Login"-->
+<!--                    android:icon="@drawable/ic_admin"-->
+<!--                    android:title="Login" />-->
+<!--                <item-->
+<!--                    android:id="@+id/nav_send"-->
+<!--                    android:icon="@drawable/ic_logout"-->
+<!--                    android:title="Sair" />-->
+<!--            </menu>-->
+<!--        </item>-->
     </group>
-
-    <item android:title="Communicate">
-        <menu>
-            <item
-                android:id="@+id/nav_Login"
-                android:icon="@drawable/ic_admin"
-                android:title="Login" />
-            <item
-                android:id="@+id/nav_send"
-                android:icon="@drawable/ic_logout"
-                android:title="Sair" />
-        </menu>
-    </item>
 
 </menu>

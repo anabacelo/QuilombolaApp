@@ -10,16 +10,8 @@
         android:layout_height="wrap_content"
         android:orientation="vertical">
 
-        <TextView
-            android:id="@+id/textViewRepresentaQuilombo8"
-            android:text="Representações Quilombolas"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            style="@style/estiloTextoTitulo" />
-
         <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewCoordenacaoNacional"
-            android:layout_below="@id/textViewRepresentaQuilombo8"
             android:text="@string/textoCoordenacaoNacional"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
