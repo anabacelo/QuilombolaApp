@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.anapaula.quilombolaappv4.Nav2">
+    tools:context="com.example.anapaula.quilombolaappv4.ui.navigation.NavQuilombosPortoAlegre">
 
 
     <ScrollView
@@ -20,7 +20,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoIntroducaoMulheresQuilombola"
                 android:layout_below="@+id/textViewTituloMulheresQuilombola"
                 android:text="@string/textoIntroducaoMulheresQuilombola"
@@ -36,7 +36,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoIntroducaoDoisMulheresQuilombola"
                 android:layout_below="@+id/textViewTextoByPatriciaGonçalves"
                 android:text="@string/textoIntroducaoDoisMulheresQuilombola"
@@ -52,7 +52,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoUmDandara"
                 android:layout_below="@+id/textViewTextoTituloUmDadara"
                 android:text="@string/textoUmDadara"
@@ -68,7 +68,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoDoisAnastacia"
                 android:layout_below="@+id/textViewTextoTituloDoisAnastacia"
                 android:text="@string/textoDoisAnastacia"
@@ -84,7 +84,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoTresLuizaMahin"
                 android:layout_below="@+id/textViewTextoTituloTresLuizaMahin"
                 android:text="@string/textoTresLuizaMahin"
@@ -100,7 +100,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoQuatroTereza"
                 android:layout_below="@+id/textViewTextoTituloQuatroTereza"
                 android:text="@string/textoQuatroTereza"
@@ -116,7 +116,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoCincoAqualtune"
                 android:layout_below="@+id/textViewTextoTituloCincoAqualtune"
                 android:text="@string/textoCincoAqualtune"
@@ -132,7 +132,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoSeisZeferina"
                 android:layout_below="@+id/textViewTextoTituloSeisZeferina"
                 android:text="@string/textoSeisZeferina"
@@ -148,7 +148,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoSeteMariaFelipa"
                 android:layout_below="@+id/textViewTextoTituloSeteMariaFelipa"
                 android:text="@string/textoSeteMariaFelipa"
@@ -172,7 +172,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoTituloOitoAcotirene"
                 android:layout_below="@+id/textViewTextoDireitosMariaFelipa"
                 android:text="@string/textoTituloOitoAcotirene"
@@ -180,7 +180,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoOitoAcotirene"
                 android:layout_below="@+id/textViewTextoTituloOitoAcotirene"
                 android:text="@string/textoOitoAcotirene"
@@ -196,7 +196,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoNoveAdelina"
                 android:layout_below="@+id/textViewTextoTituloNoveAdelina"
                 android:text="@string/textoNoveAdelina"
@@ -212,7 +212,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoDezRainha"
                 android:layout_below="@+id/textViewTextoTituloDezRainha"
                 android:text="@string/textoDezRainha"
@@ -244,7 +244,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoOnzeMariana"
                 android:layout_below="@+id/textViewTextoTituloOnzeMariana"
                 android:text="@string/textoOnzeMariana"
@@ -260,7 +260,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoDozeEsperanca"
                 android:layout_below="@+id/textViewTextoTituloDozeEsperanca"
                 android:text="@string/textoDozeEsperanca"
@@ -276,7 +276,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoTrezeMariaFirmina"
                 android:layout_below="@+id/textViewTextoTituloTrezeMariaFirmina"
                 android:text="@string/textoTrezeMariaFirmina"
@@ -292,7 +292,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoQuatorzeEvaMaria"
                 android:layout_below="@+id/textViewTextoTituloQuatorzeEvaMaria"
                 android:text="@string/textoQuatorzeEvaMaria"
@@ -308,7 +308,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoQuinzeMariaAranha"
                 android:layout_below="@+id/textViewTextoTituloQuinzeMariaAranha"
                 android:text="@string/textoQuinzeMariaAranha"
@@ -324,7 +324,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoDezeseisNaAgontime"
                 android:layout_below="@+id/textViewTextoTituloDezeseisNaAgontime"
                 android:text="@string/textoDezeseisNaAgontime"
@@ -340,7 +340,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoDezeseteTiaSimoa"
                 android:layout_below="@+id/textViewTextoTituloDezeseteTiaSimoa"
                 android:text="@string/textoDezeseteTiaSimoa"
@@ -356,7 +356,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoDezoitoZacimba"
                 android:layout_below="@+id/textViewTextoTituloDezoitoZacimba"
                 android:text="@string/textoDezoitoZacimba"
@@ -364,7 +364,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoConteudo" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoDireitosAutoraisGeledesOrg"
                 android:layout_below="@+id/textViewTextoDezoitoZacimba"
                 android:text="@string/textoDireitosAutoraisGeledesOrg"

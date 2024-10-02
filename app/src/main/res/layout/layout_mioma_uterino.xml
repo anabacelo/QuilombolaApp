@@ -15,7 +15,7 @@
             android:orientation="vertical" >
 
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoMiomaUterino"
                 android:text="@string/textoMiomaUterino"
                 android:layout_width="wrap_content"
@@ -24,7 +24,7 @@
                 android:linksClickable="true"
                 style="@style/estiloTextoComplemento" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoComplementoMiomaUterino"
                 android:layout_below="@+id/textViewTextoMiomaUterino"
                 android:text="@string/textoComplementoMiomaUterino"

@@ -1,4 +1,4 @@
-package com.example.anapaula.quilombolaappv4;
+package com.example.anapaula.quilombolaappv4.ui.navigation;
 import android.os.Bundle;
 import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
@@ -6,14 +6,18 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
-import android.widget.Toast;
+
+import com.example.anapaula.quilombolaappv4.utils.IOnBackPressed;
+import com.example.anapaula.quilombolaappv4.R;
+import com.example.anapaula.quilombolaappv4.utils.CheckInternetConnection;
+import com.example.anapaula.quilombolaappv4.utils.WebViewClientOverride;
 
 /**
  * A simple {@link Fragment} subclass.
  */
-public class Nav1 extends Fragment implements IOnBackPressed{
+public class NavAcoesAfirmativas extends Fragment implements IOnBackPressed {
     private WebView mWebView;
-    public Nav1() {
+    public NavAcoesAfirmativas() {
         // Required empty public constructor
     }
 
@@ -32,12 +36,10 @@ public class Nav1 extends Fragment implements IOnBackPressed{
         mWebView.setWebViewClient(new WebViewClientOverride());
 
         if(CheckInternetConnection.simpleServerCheck()){
-            mWebView.loadUrl("http://app-quilombola.epizy.com/serquilombola.html");
-            //Toast.makeText(GlobalApplication.getAppContext(), "Versão web carregada!", Toast.LENGTH_LONG).show();
+            mWebView.loadUrl("http://app-quilombola.epizy.com/acoesafirmativas.html");
         }
         else {
-            mWebView.loadUrl("file:///android_asset/www/serquilombola.html");
-            //Toast.makeText(GlobalApplication.getAppContext(), "Não foi possivel acessar o servidor. Versão local carregada!", Toast.LENGTH_LONG).show();
+            mWebView.loadUrl("file:///android_asset/www/acoesafirmativas.html");
         }
         //return inflater.inflate(R.layout.fragment_nav1, container, false);
         return view;

@@ -1,4 +1,5 @@
-package com.example.anapaula.quilombolaappv4;
+package com.example.anapaula.quilombolaappv4.ui.views;
+
 import android.os.Bundle;
 import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
@@ -6,17 +7,26 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
-import android.widget.Toast;
 
+import com.example.anapaula.quilombolaappv4.utils.IOnBackPressed;
+import com.example.anapaula.quilombolaappv4.R;
+import com.example.anapaula.quilombolaappv4.utils.CheckInternetConnection;
+import com.example.anapaula.quilombolaappv4.utils.WebViewClientOverride;
 
-    public class NavCovid extends Fragment implements IOnBackPressed{
+/**
+ * A simple {@link Fragment} subclass.
+ */
+public class HomePage extends Fragment implements IOnBackPressed {
+
     private WebView mWebView;
-    public NavCovid(){
-        //Required empty public constructor
+
+    public HomePage() {
+        // Required empty public constructor
     }
 
     @Override
-    public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
+    public View onCreateView(LayoutInflater inflater, ViewGroup container,
+                             Bundle savedInstanceState) {
         // Inflate the layout for this fragment
 
         View view = inflater.inflate(R.layout.fragment_web, container, false);
@@ -30,11 +40,11 @@ import android.widget.Toast;
         mWebView.setWebViewClient(new WebViewClientOverride());
 
         if(CheckInternetConnection.simpleServerCheck()){
-            mWebView.loadUrl("http://app-quilombola.epizy.com/saudePandemia.html");
+            mWebView.loadUrl("http://app-quilombola.epizy.com/home.html");
             //Toast.makeText(GlobalApplication.getAppContext(), "Versão web carregada!", Toast.LENGTH_LONG).show();
         }
         else {
-            mWebView.loadUrl("file:///android_asset/www/saudePandemia.html");
+            mWebView.loadUrl("file:///android_asset/www/home.html");
             //Toast.makeText(GlobalApplication.getAppContext(), "Não foi possivel acessar o servidor. Versão local carregada!", Toast.LENGTH_LONG).show();
         }
 

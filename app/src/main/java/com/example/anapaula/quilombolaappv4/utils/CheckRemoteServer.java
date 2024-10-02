@@ -1,7 +1,9 @@
-package com.example.anapaula.quilombolaappv4;
+package com.example.anapaula.quilombolaappv4.utils;
 
 import android.os.AsyncTask;
 import android.widget.Toast;
+
+import com.example.anapaula.quilombolaappv4.GlobalApplication;
 
 import java.io.InputStream;
 import java.net.URL;

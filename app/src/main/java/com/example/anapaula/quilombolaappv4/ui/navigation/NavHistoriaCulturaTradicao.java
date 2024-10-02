@@ -1,4 +1,6 @@
-package com.example.anapaula.quilombolaappv4;
+package com.example.anapaula.quilombolaappv4.ui.navigation;
+
+
 import android.os.Bundle;
 import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
@@ -6,12 +8,20 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
+
+import com.example.anapaula.quilombolaappv4.utils.IOnBackPressed;
+import com.example.anapaula.quilombolaappv4.R;
+import com.example.anapaula.quilombolaappv4.utils.CheckInternetConnection;
+import com.example.anapaula.quilombolaappv4.utils.WebViewClientOverride;
+
+
 /**
  * A simple {@link Fragment} subclass.
  */
-public class NavAcoesAfirmativas extends Fragment implements IOnBackPressed{
+public class NavHistoriaCulturaTradicao extends Fragment implements IOnBackPressed {
     private WebView mWebView;
-    public NavAcoesAfirmativas() {
+
+    public NavHistoriaCulturaTradicao() {
         // Required empty public constructor
     }
 
@@ -19,6 +29,8 @@ public class NavAcoesAfirmativas extends Fragment implements IOnBackPressed{
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
+
+
         View view = inflater.inflate(R.layout.fragment_web, container, false);
 
         mWebView = (WebView) view.findViewById(R.id.webViewMain);
@@ -30,13 +42,15 @@ public class NavAcoesAfirmativas extends Fragment implements IOnBackPressed{
         mWebView.setWebViewClient(new WebViewClientOverride());
 
         if(CheckInternetConnection.simpleServerCheck()){
-            mWebView.loadUrl("http://app-quilombola.epizy.com/acoesafirmativas.html");
+            mWebView.loadUrl("http://app-quilombola.epizy.com/historiaculturatradicao.html");
+            //Toast.makeText(GlobalApplication.getAppContext(), "Versão web carregada!", Toast.LENGTH_LONG).show();
         }
         else {
-            mWebView.loadUrl("file:///android_asset/www/acoesafirmativas.html");
+            mWebView.loadUrl("file:///android_asset/www/historiaculturatradicao.html");
+            //Toast.makeText(GlobalApplication.getAppContext(), "Não foi possivel acessar o servidor. Versão local carregada!", Toast.LENGTH_LONG).show();
         }
-        //return inflater.inflate(R.layout.fragment_nav1, container, false);
         return view;
+        //return inflater.inflate(R.layout.fragment_nav4, container, false);
     }
     @Override
     public boolean onBackPressed() {

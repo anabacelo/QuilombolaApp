@@ -3,9 +3,25 @@ package com.example.anapaula.quilombolaappv4;
 import android.os.Bundle;
 import androidx.fragment.app.*;
 import androidx.appcompat.app.AppCompatActivity;
-import android.view.View;
 import androidx.fragment.app.FragmentActivity;
 import com.example.anapaula.quilombolaappv4.databinding.ActivityMainBinding;
+import com.example.anapaula.quilombolaappv4.ui.navigation.NavAboutUs;
+import com.example.anapaula.quilombolaappv4.ui.navigation.NavAcoesAfirmativas;
+import com.example.anapaula.quilombolaappv4.ui.navigation.NavCalendario;
+import com.example.anapaula.quilombolaappv4.ui.navigation.NavCovid;
+import com.example.anapaula.quilombolaappv4.ui.navigation.NavCuriosidades;
+import com.example.anapaula.quilombolaappv4.ui.navigation.NavHistoriaCulturaTradicao;
+import com.example.anapaula.quilombolaappv4.ui.navigation.NavLegislacao;
+import com.example.anapaula.quilombolaappv4.ui.navigation.NavLogin;
+import com.example.anapaula.quilombolaappv4.ui.navigation.NavMulheresQuilombolas;
+import com.example.anapaula.quilombolaappv4.ui.navigation.NavQuilombosPortoAlegre;
+import com.example.anapaula.quilombolaappv4.ui.navigation.NavRedesAtendimento;
+import com.example.anapaula.quilombolaappv4.ui.navigation.NavRepresentacao;
+import com.example.anapaula.quilombolaappv4.ui.navigation.NavSaudeNegra;
+import com.example.anapaula.quilombolaappv4.ui.navigation.NavSerQuilombola;
+import com.example.anapaula.quilombolaappv4.ui.navigation.NavServicosSociais;
+import com.example.anapaula.quilombolaappv4.ui.views.HomePage;
+import com.example.anapaula.quilombolaappv4.utils.IOnBackPressed;
 import com.google.android.material.navigation.NavigationView;
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
@@ -13,8 +29,7 @@ import androidx.appcompat.app.ActionBarDrawerToggle;
 import androidx.appcompat.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
-import com.google.android.material.floatingactionbutton.FloatingActionButton;
-import com.google.android.material.snackbar.Snackbar;
+
 import androidx.navigation.ui.AppBarConfiguration;
 
 
@@ -116,31 +131,31 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
         else if (id == R.id.nav_1) {
             setTitle("Aplicativo Quilombola");  // O QUE É SER QUILOMBOLA
-            Nav1 nav1 = new Nav1();
+            NavSerQuilombola navSerQuilombola = new NavSerQuilombola();
             FragmentManager manager = getSupportFragmentManager();
-            manager.beginTransaction().replace(R.id.fragment, nav1).commit();
+            manager.beginTransaction().replace(R.id.fragment, navSerQuilombola).commit();
         }
 
         else if (id == R.id.nav_2) {
             setTitle("Aplicativo Quilombola"); //QUILOMBOS DE PORTO ALEGRE
-            Nav2 nav2 = new Nav2();
+            NavQuilombosPortoAlegre navQuilombosPortoAlegre = new NavQuilombosPortoAlegre();
             FragmentManager manager = getSupportFragmentManager();
-            manager.beginTransaction().replace(R.id.fragment, nav2).commit();
+            manager.beginTransaction().replace(R.id.fragment, navQuilombosPortoAlegre).commit();
 
 	    }
 
 	    else if (id == R.id.nav_Login) {      // ABA LOGIN
             setTitle("Login");
-            Nav_Login nav_login = new Nav_Login();
+            NavLogin nav_login = new NavLogin();
             FragmentManager manager = getSupportFragmentManager();
             manager.beginTransaction().replace(R.id.fragment, nav_login).commit();
         }
 
         else if (id == R.id.nav_3) {
             setTitle("Aplicativo Quilombola");  // LEGISLAÇÃO
-            Nav3 nav3 = new Nav3();
+            NavLegislacao navLegislacao = new NavLegislacao();
             FragmentManager manager = getSupportFragmentManager();
-            manager.beginTransaction().replace(R.id.fragment, nav3).commit();
+            manager.beginTransaction().replace(R.id.fragment, navLegislacao).commit();
         }
 
         else if (id == R.id.nav_acoes) {
@@ -152,16 +167,16 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
         else if (id == R.id.nav_4) {
             setTitle("Aplicativo Quilombola");  // HISTORIA CULTURA E TRADIÇÃO
-            Nav4 nav4 = new Nav4();
+            NavHistoriaCulturaTradicao navHistoriaCulturaTradicao = new NavHistoriaCulturaTradicao();
             FragmentManager manager = getSupportFragmentManager();
-            manager.beginTransaction().replace(R.id.fragment, nav4).commit();
+            manager.beginTransaction().replace(R.id.fragment, navHistoriaCulturaTradicao).commit();
         }
 
         else if (id == R.id.nav_5) {
             setTitle("Aplicativo Quilombola");  // SAUDE DA POPULÇÃO NEGRA
-            Nav5 nav5 = new Nav5();
+            NavSaudeNegra navSaudeNegra = new NavSaudeNegra();
             FragmentManager manager = getSupportFragmentManager();
-            manager.beginTransaction().replace(R.id.fragment, nav5).commit();
+            manager.beginTransaction().replace(R.id.fragment, navSaudeNegra).commit();
 
         }
 
@@ -174,44 +189,44 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
         else if (id == R.id.nav_6) {
             setTitle("Aplicativo Quilombola");  // REDES DE ATENDIMENTO
-            Nav6 nav6 = new Nav6();
+            NavRedesAtendimento navRedesAtendimento = new NavRedesAtendimento();
             FragmentManager manager = getSupportFragmentManager();
-            manager.beginTransaction().replace(R.id.fragment, nav6).commit();
+            manager.beginTransaction().replace(R.id.fragment, navRedesAtendimento).commit();
         }
 
         else if (id == R.id.nav_7) {
             setTitle("Aplicativo Quilombola");  // SERVIÇÕES E BENEFICIOS
-            Nav7 nav7 = new Nav7();
+            NavServicosSociais navServicosSociais = new NavServicosSociais();
             FragmentManager manager = getSupportFragmentManager();
-            manager.beginTransaction().replace(R.id.fragment, nav7).commit();
+            manager.beginTransaction().replace(R.id.fragment, navServicosSociais).commit();
         }
 
         else if (id == R.id.nav_8) {
             setTitle("Aplicativo Quilombola");  // REPRESENTAÇÕES QUILOMBOLAS
-            Nav8 nav8 = new Nav8();
+            NavRepresentacao navRepresentacao = new NavRepresentacao();
             FragmentManager manager = getSupportFragmentManager();
-            manager.beginTransaction().replace(R.id.fragment, nav8).commit();
+            manager.beginTransaction().replace(R.id.fragment, navRepresentacao).commit();
         }
 
         else if (id == R.id.nav_9) {
             setTitle("Aplicativo Quilombola");  // CURIOSIDADES
-            Nav9 nav9 = new Nav9();
+            NavCuriosidades navCuriosidades = new NavCuriosidades();
             FragmentManager manager = getSupportFragmentManager();
-            manager.beginTransaction().replace(R.id.fragment, nav9).commit();
+            manager.beginTransaction().replace(R.id.fragment, navCuriosidades).commit();
         }
 
         else if (id == R.id.nav_11) {
             setTitle("Aplicativo Quilombola");  // CALENDÁRIO
-            Nav11 nav11 = new Nav11();
+            NavCalendario navCalendario = new NavCalendario();
             FragmentManager manager = getSupportFragmentManager();
-            manager.beginTransaction().replace(R.id.fragment, nav11).commit();
+            manager.beginTransaction().replace(R.id.fragment, navCalendario).commit();
         }
 
         else if (id == R.id.nav_10) {
             setTitle("Aplicativo Quilombola");  // MULHERES Negras Quilombola
-            Nav10 nav10 = new Nav10();
+            NavMulheresQuilombolas navMulheresQuilombolas = new NavMulheresQuilombolas();
             FragmentManager manager = getSupportFragmentManager();
-            manager.beginTransaction().replace(R.id.fragment, nav10).commit();
+            manager.beginTransaction().replace(R.id.fragment, navMulheresQuilombolas).commit();
         }
 
 

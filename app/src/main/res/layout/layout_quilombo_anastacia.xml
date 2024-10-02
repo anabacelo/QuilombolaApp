@@ -36,7 +36,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textquiloAnastacia"
                 android:layout_below="@+id/textViewTextoDireitosLayoutQuilomboAnastacia"
                 android:text="@string/textoComplementoQuilomboAnastacia"
@@ -46,7 +46,7 @@
                 android:linksClickable="true"
                 style="@style/estiloTextoConteudo" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewReferenciaQuilomboAnastacia"
                 android:layout_below="@+id/textquiloAnastacia"
                 android:text="@string/textoReferenciaQuilomboAnastacia"

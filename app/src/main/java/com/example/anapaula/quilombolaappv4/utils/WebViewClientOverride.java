@@ -1,4 +1,4 @@
-package com.example.anapaula.quilombolaappv4;
+package com.example.anapaula.quilombolaappv4.utils;
 
 import android.content.Intent;
 import android.net.Uri;

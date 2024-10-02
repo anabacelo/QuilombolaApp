@@ -6,7 +6,7 @@
     android:id="@+id/fragmentHomePage"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.anapaula.quilombolaappv4.HomePage">
+    tools:context="com.example.anapaula.quilombolaappv4.ui.views.HomePage">
 
 
     <ScrollView
@@ -32,7 +32,7 @@
                 android:layout_height="match_parent"
                 style="@style/estiloImagem" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoDireitoAutoralDaImagem"
                 android:layout_below="@+id/imageViewLogoResistenciaNegra"
                 android:text="@string/textoDireitoAutoralDaImagemDoAdalbertoReisDosSantos"
@@ -42,7 +42,7 @@
                 android:layout_gravity="center_horizontal|end"
                 style="@style/estiloTextoLayoutCentralizadoDireitosReservados" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoLayoutPaginaInicial"
                 android:layout_below="@+id/textViewTextoDireitoAutoralDaImagem"
                 android:text="@string/textoLayoutPaginaInicial"
@@ -50,7 +50,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoConteudo" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoLayoutPaginaInicialRodape"
                 android:layout_below="@+id/textViewTextoLayoutPaginaInicial"
                 android:text="@string/textoLayoutPaginaInicialRodape"

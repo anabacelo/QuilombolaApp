@@ -1,4 +1,4 @@
-package com.example.anapaula.quilombolaappv4;
+package com.example.anapaula.quilombolaappv4.components;
 
 import android.content.Context;
 import android.graphics.Canvas;

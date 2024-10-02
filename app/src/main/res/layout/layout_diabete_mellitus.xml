@@ -14,14 +14,14 @@
             android:layout_height="wrap_content"
             android:orientation="vertical" >
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTituloDiabetesMellitus"
                 android:text="@string/textoTituloDiabetesMellitus"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTitulo" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoDiabetesMellitus"
                 android:layout_below="@+id/textViewTituloDiabetesMellitus"
                 android:text="@string/textoDiabetesMellitus"
@@ -31,7 +31,7 @@
                 android:linksClickable="true"
                 style="@style/estiloTextoComplemento" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoComplementoDiabetesMellitus"
                 android:layout_below="@+id/textViewTextoDiabetesMellitus"
                 android:text="@string/textoComplementoDiabetesMellitus"

@@ -1,4 +1,4 @@
-package com.example.anapaula.quilombolaappv4;
+package com.example.anapaula.quilombolaappv4.ui.navigation;
 
 
 import android.os.Bundle;
@@ -7,6 +7,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ExpandableListView;
+
+import com.example.anapaula.quilombolaappv4.R;
+import com.example.anapaula.quilombolaappv4.adapters.ExpandableListAdapter;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -14,14 +18,14 @@ import java.util.List;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class Nav11 extends Fragment {
+public class NavCalendario extends Fragment {
     private ExpandableListView listView;
     private ExpandableListAdapter listAdapter;
     private List<String> listDataHeader;
     private HashMap<String, List<Integer>> listHashMap;
 
 
-    public Nav11() {
+    public NavCalendario() {
         // Required empty public constructor
     }
 

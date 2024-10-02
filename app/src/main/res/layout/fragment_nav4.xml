@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    tools:context="com.example.anapaula.quilombolaappv4.Nav4">
+    tools:context="com.example.anapaula.quilombolaappv4.ui.navigation.NavHistoriaCulturaTradicao">
 
 
     <ScrollView
@@ -45,7 +45,7 @@
                 android:layout_marginTop="-1dp"
                 android:src="@drawable/bonecaac" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewDireitosImageB"
                 android:layout_below="@+id/imageViewB"
                 android:text="@string/textoDireitosImageA"
@@ -53,7 +53,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textView4"
                 android:layout_below="@+id/textViewDireitosImageB"
                 android:text="@string/texto_histcult01_part02"
@@ -69,7 +69,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloImagem"/>
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewDireitosImagec"
                 android:layout_below="@+id/imageViewC"
                 android:text="@string/textoDireitosImageA"
@@ -77,7 +77,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textView6"
                 android:layout_below="@+id/textViewDireitosImagec"
                 android:text="@string/texto_histcult01_part03"
