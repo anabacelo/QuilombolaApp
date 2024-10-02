@@ -27,7 +27,7 @@
                     android:layout_height="wrap_content"
                     style="@style/estiloImagem" />
 
-                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                     android:id="@+id/textViewTextoDireitosLayouttQuilomboArealDaBaronesa"
                     android:layout_below="@id/imageViewLayoutQuilomboArealDaBaronesa"
                     android:text="@string/textoDireitosLayoutQuilomboArealDaBaronesa"
@@ -35,7 +35,7 @@
                     android:layout_height="wrap_content"
                     style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
 
-                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                     android:id="@+id/textViewTextoQuilomboArealDaBaronesa"
                     android:layout_below="@+id/textViewTextoDireitosLayouttQuilomboArealDaBaronesa"
                     android:text="@string/texto_quilopoa02"

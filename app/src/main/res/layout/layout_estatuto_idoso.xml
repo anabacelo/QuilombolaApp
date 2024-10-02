@@ -4,7 +4,7 @@
     android:id="@+id/layout_estatuto_idoso"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    tools:context="com.example.anapaula.quilombolaappv4.Nav3">
+    tools:context="com.example.anapaula.quilombolaappv4.ui.navigation.NavLegislacao">
 
     <ScrollView
         android:layout_width="wrap_content"
@@ -21,7 +21,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloImagem" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewDireitosImagemEstatudoDoIdoso"
                 android:layout_below="@id/imageViewEstatudoDoIdoso"
                 android:text="@string/textoDireitosImagemEstatudoDoIdoso"
@@ -29,7 +29,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewLayoutTextoEstatutoDoIdoso"
                 android:layout_below="@+id/textViewDireitosImagemEstatudoDoIdoso"
                 android:text="@string/textoLeiEstatutoDoIdoso"
@@ -39,7 +39,7 @@
                 android:linksClickable="true"
                 style="@style/estiloTextoConteudo" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewLayoutTextoReferenciaEstatutoDoIdoso"
                 android:layout_below="@+id/textViewLayoutTextoEstatutoDoIdoso"
                 android:text="@string/textoReferenciaLeiEstatutoDoIdoso"

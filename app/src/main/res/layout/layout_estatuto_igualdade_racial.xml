@@ -5,7 +5,7 @@
     android:id="@+id/layout_estatudo_igualdade_racial"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    tools:context="com.example.anapaula.quilombolaappv4.Nav3">
+    tools:context="com.example.anapaula.quilombolaappv4.ui.navigation.NavLegislacao">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -30,7 +30,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/text_estatuto_igualdade_racial"
                 android:layout_below="@id/textViewDireitosImagemEstatutoDaIgualdadeRacial"
                 android:text="@string/texto_estatuto_igualdade_racial"
@@ -40,7 +40,7 @@
                 android:linksClickable="true"
                 style="@style/estiloTextoComplemento" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/text_estatuto_igualdade_racial_complemento"
                 android:layout_below="@id/text_estatuto_igualdade_racial"
                 android:text="@string/texto_estatuto_igualdade_racial_complemento"

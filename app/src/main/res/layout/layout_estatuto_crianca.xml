@@ -7,7 +7,7 @@
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:orientation="vertical"
-    tools:context="com.example.anapaula.quilombolaappv4.Nav3">
+    tools:context="com.example.anapaula.quilombolaappv4.ui.navigation.NavLegislacao">
 
 
     <ScrollView
@@ -32,7 +32,7 @@
                     android:layout_height="wrap_content"
                     style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
 
-                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                     android:id="@+id/lblListItem_text_layout_estatudo_da_crianca"
                     android:layout_below="@id/textViewDireitosImagemEstatutoDaIgualdadeRacial"
                     android:text="@string/texto_lei_legislacao_conselho_tutelar"
@@ -43,7 +43,7 @@
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     style="@style/estiloTextoComplemento" />
 
-                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                     android:id="@+id/lblListItem_titulo_direito_a_vida_e_a_saude"
                     android:layout_below="@id/lblListItem_text_layout_estatudo_da_crianca"
                     android:text="@string/titulo_direito_a_vida_e_a_saude"
@@ -54,7 +54,7 @@
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     style="@style/estiloTextoTituloNormal" />
 
-                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                     android:id="@+id/lblListItem_tesxto_direito_a_vida_e_a_saude"
                     android:text="@string/texto_direito_a_vida_e_a_saude"
                     android:layout_below="@id/lblListItem_titulo_direito_a_vida_e_a_saude"
@@ -65,7 +65,7 @@
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     style="@style/estiloTextoComplemento" />
 
-                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                     android:id="@+id/lblListItem_titulo_direito_a_liberdade"
                     android:text="@string/lblListItem_titulo_direito_a_liberdade"
                     android:layout_below="@id/lblListItem_tesxto_direito_a_vida_e_a_saude"
@@ -76,7 +76,7 @@
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     style="@style/estiloTextoTituloNormal" />
 
-                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                     android:id="@+id/lblListItem_tesxto_direito_a_liberdade"
                     android:text="@string/texto_direito_a_liberdade"
                     android:layout_below="@id/lblListItem_titulo_direito_a_liberdade"
@@ -87,7 +87,7 @@
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     style="@style/estiloTextoComplemento" />
 
-                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                     android:id="@+id/lblListItem_titulo_direito_a_convivencia"
                     android:text="@string/lblListItem_titulo_direito_a_convivencia"
                     android:layout_below="@id/lblListItem_tesxto_direito_a_liberdade"
@@ -109,7 +109,7 @@
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     style="@style/estiloTextoComplemento" />
 
-                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                     android:id="@+id/lblListItem_titulo_medidas_de_protecao"
                     android:text="@string/lblListItem_titulo_medidas_de_protecao"
                     android:layout_below="@id/lblListItem_tesxto_direito_a_convivencia"
@@ -120,7 +120,7 @@
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     style="@style/estiloTextoTituloNormal" />
 
-                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                     android:id="@+id/lblListItem_tesxto__medidas_de_protecao"
                     android:text="@string/lblListItem_tesxto__medidas_de_protecao"
                     android:layout_below="@id/lblListItem_titulo_medidas_de_protecao"
@@ -131,7 +131,7 @@
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     style="@style/estiloTextoComplemento" />
 
-                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                     android:id="@+id/textViewLayoutTextoReferenciaEstatutoDoIdoso"
                     android:layout_below="@+id/lblListItem_tesxto__medidas_de_protecao"
                     android:text="@string/texto_referencia"

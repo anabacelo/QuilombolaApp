@@ -20,7 +20,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloImagem" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTituloAbril01"
                 android:layout_below="@+id/imageViewAbril"
                 android:text="@string/textoTituloAbril01"
@@ -28,7 +28,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewConteudoAbril01"
                 android:layout_below="@+id/textViewTituloAbril01"
                 android:text="@string/textoConteudoAbril01"
@@ -36,7 +36,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoConteudo" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTituloAbril04"
                 android:layout_below="@+id/textViewConteudoAbril01"
                 android:text="@string/textoTituloAbril04"
@@ -44,7 +44,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewConteudoAbril04"
                 android:layout_below="@+id/textViewTituloAbril04"
                 android:text="@string/textoConteudoAbril04"
@@ -52,7 +52,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoConteudo" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTituloAbril05"
                 android:layout_below="@+id/textViewConteudoAbril04"
                 android:text="@string/textoTituloAbril05"
@@ -60,7 +60,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewConteudoAbril05"
                 android:layout_below="@+id/textViewTituloAbril05"
                 android:text="@string/textoConteudoAbril05"
@@ -68,7 +68,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoConteudo" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTituloAbril25"
                 android:layout_below="@+id/textViewConteudoAbril05"
                 android:text="@string/textoTituloAbril25"
@@ -76,7 +76,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewConteudoAbril25"
                 android:layout_below="@+id/textViewTituloAbril25"
                 android:text="@string/textoConteudoAbril25"
@@ -84,7 +84,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoConteudo" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTituloAbril26"
                 android:layout_below="@+id/textViewConteudoAbril25"
                 android:text="@string/textoTituloAbril26"
@@ -92,7 +92,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewConteudoAbril26"
                 android:layout_below="@+id/textViewTituloAbril26"
                 android:text="@string/textoConteudoAbril26"

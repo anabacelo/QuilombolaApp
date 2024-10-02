@@ -36,7 +36,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textquiloLemos"
                 android:layout_below="@+id/textViewTextoDireitosLayoutQuilomboLemos"
                 android:text="@string/textoComplementoQuilomboLemos"
@@ -46,7 +46,7 @@
                 android:linksClickable="true"
                 style="@style/estiloTextoConteudo" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewReferenciaQuilomboLemos"
                 android:layout_below="@+id/textquiloLemos"
                 android:text="@string/textoReferenciaQuilomboLemos"

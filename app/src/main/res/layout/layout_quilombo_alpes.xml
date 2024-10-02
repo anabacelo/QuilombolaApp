@@ -30,7 +30,7 @@
                 android:textAlignment="center"
                 style="@style/estiloImagem" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoDireitosLayoutQuilomboDosAlpes"
                 android:layout_below="@id/imageViewQuilomboDosAlpes"
                 android:text="@string/textoDireitosLayoutQuilomboDosAlpes"
@@ -38,7 +38,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoLayoutQuilomboDosAlpes"
                 android:layout_below="@+id/textViewTextoDireitosLayoutQuilomboDosAlpes"
                 android:text="@string/texto_quilopoa01"

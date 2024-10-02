@@ -29,7 +29,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/texto_artigo_data_lei_maria_da_penha"
                 android:layout_below="@+id/textViewTextoDireitosLayoutLeiMariaDaPenha"
                 android:text="@string/texto_artigo_data_lei_maria_da_penha"
@@ -37,7 +37,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoComplemento" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/text_view_title_texto_os_mecanismos_da_lei"
                 android:layout_below="@+id/texto_artigo_data_lei_maria_da_penha"
                 android:text="@string/title_texto_os_mecanismos_da_lei"
@@ -45,7 +45,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/texto_os_mecanismos_da_lei"
                 android:layout_below="@+id/text_view_title_texto_os_mecanismos_da_lei"
                 android:text="@string/texto_os_mecanismos_da_lei"
@@ -53,7 +53,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoComplemento" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/title_texto_a_autoridade_policial"
                 android:layout_below="@+id/texto_os_mecanismos_da_lei"
                 android:text="@string/title_texto_a_autoridade_policial"
@@ -61,7 +61,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/texto_a_autoridade_policial"
                 android:layout_below="@+id/title_texto_a_autoridade_policial"
                 android:text="@string/texto_a_autoridade_policial"
@@ -69,7 +69,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoComplemento" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/title_texto_o_processo_judicial"
                 android:layout_below="@+id/texto_a_autoridade_policial"
                 android:text="@string/title_texto_o_processo_judicial"
@@ -77,7 +77,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/texto_o_processo_judicial"
                 android:layout_below="@+id/title_texto_o_processo_judicial"
                 android:text="@string/texto_o_processo_judicial"
@@ -85,7 +85,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoComplemento" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/title_referencias"
                 android:layout_below="@+id/texto_o_processo_judicial"
                 android:text="@string/title_referencias"
@@ -93,7 +93,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTituloNormal" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/title_texto_artigo_commplemento_lei_maria_da_penha"
                 android:layout_below="@+id/title_referencias"
                 android:text="@string/texto_artigo_commplemento_lei_maria_da_penha"

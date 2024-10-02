@@ -20,7 +20,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoTitulo" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textView4"
                 android:layout_below="@id/textView3"
                 android:text="@string/texto_beneficios02"

@@ -69,8 +69,9 @@ img {
 }
 
 .containerbutton{
-  padding-bottom: 8px;
-  padding-top: 8px;
+  padding-bottom: 25px;
+  padding-top: 25px;
   text-align: center;
+  background-color: #ecaa68;
 }
 

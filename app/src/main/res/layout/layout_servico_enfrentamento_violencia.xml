@@ -16,7 +16,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoTitulo" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoTituloPoliciaCivil"
             android:layout_below="@id/textViewTituloRedeEnfrentamento"
             android:text="@string/textoTituloPoliciaCivil"
@@ -24,7 +24,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoTituloNormal" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoPoliciaCivil"
             android:layout_below="@id/textViewTextoTituloPoliciaCivil"
             android:text="@string/textoLinkPoliciaCivil"
@@ -35,7 +35,7 @@
             android:linksClickable="true"
             style="@style/estiloTextoComplemento" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoTituloSecretariaNacional"
             android:layout_below="@id/textViewTextoPoliciaCivil"
             android:text="@string/textoTituloSecretariaNacionalDePoliticasParaMulheres"
@@ -43,7 +43,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoTituloNormal" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoLinkSecretariaNacional"
             android:layout_below="@id/textViewTextoTituloSecretariaNacional"
             android:text="@string/textoLinkSecretariaNacionalDePoliticasParaMulheres"
@@ -53,7 +53,7 @@
             android:linksClickable="true"
             style="@style/estiloTextoComplemento" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoTituloPatrulhaMariaDaPenhaDaBrigadaMilitarRS"
             android:layout_below="@id/textViewTextoLinkSecretariaNacional"
             android:text="@string/textoTituloPatrulhaMariaDaPenhaDaBrigadaMilitarRS"
@@ -61,7 +61,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoTituloNormal" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoLinkPatrulhaMariaDaPenhaDaBrigadaMilitarRS"
             android:layout_below="@id/textViewTextoTituloPatrulhaMariaDaPenhaDaBrigadaMilitarRS"
             android:text="@string/textoLinkPatrulhaMariaDaPenhaDaBrigadaMilitarRS"
@@ -71,7 +71,7 @@
             android:linksClickable="true"
             style="@style/estiloTextoComplemento" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoPatrulhaMariaDaPenhaDaBrigadaMilitarRS"
             android:layout_below="@id/textViewTextoLinkPatrulhaMariaDaPenhaDaBrigadaMilitarRS"
             android:text="@string/textoPatrulhaMariaDaPenhaDaBrigadaMilitarRS"
@@ -79,7 +79,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoConteudo" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoTituloInstitutoGeralPericias"
             android:layout_below="@id/textViewTextoPatrulhaMariaDaPenhaDaBrigadaMilitarRS"
             android:text="@string/textoTituloInstitutoGeralPericias"
@@ -87,7 +87,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoTituloNormal" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoLinkInstitutoGeralPericias"
             android:layout_below="@id/textViewTextoTituloInstitutoGeralPericias"
             android:text="@string/textoLinkInstitutoGeralPericias"
@@ -97,7 +97,7 @@
             android:linksClickable="true"
             style="@style/estiloTextoComplemento" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoInstitutoGeralPericias"
             style="@style/estiloTextoConteudo"
             android:layout_width="match_parent"
@@ -106,7 +106,7 @@
             android:layout_marginTop="8dp"
             android:text="@string/textoInstitutoGeralPericias" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTituloDepartamentoMedicoLegal"
             android:layout_below="@id/textViewTextoInstitutoGeralPericias"
             android:text="@string/textoTituloDepartamentoMedicoLegal"
@@ -114,7 +114,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoTituloNormal" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewEnderecoDepartamentoMedicoLegal"
             android:layout_below="@id/textViewTituloDepartamentoMedicoLegal"
             android:text="@string/textoEnderecoDepartamentoMedicoLegal"
@@ -122,7 +122,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoConteudo" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoTituloSempreMulher"
             android:layout_below="@id/textViewEnderecoDepartamentoMedicoLegal"
             android:text="@string/textoTituloSempreMulher"
@@ -130,7 +130,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoTituloNormal" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoLinkSempreMulher"
             android:layout_below="@id/textViewTextoTituloSempreMulher"
             android:text="@string/textoLinkSempreMulher"
@@ -140,7 +140,7 @@
             android:linksClickable="true"
             style="@style/estiloTextoConteudo" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoSempreMulher"
             android:layout_below="@id/textViewTextoLinkSempreMulher"
             android:text="@string/textoSempreMulher"
@@ -148,7 +148,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoConteudo" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoTituloOngMariaMulher"
             android:layout_below="@id/textViewTextoSempreMulher"
             android:text="@string/textoTituloOngMariaMulher"
@@ -156,7 +156,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoTituloNormal" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoLinkOngMariaMulher"
             android:layout_below="@id/textViewTextoTituloOngMariaMulher"
             android:text="@string/textoLinkOngMariaMulher"
@@ -166,7 +166,7 @@
             android:linksClickable="true"
             style="@style/estiloTextoComplemento" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoOngMariaMulher"
             android:layout_below="@id/textViewTextoLinkOngMariaMulher"
             android:text="@string/textoOngMariaMulher"
@@ -174,7 +174,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoConteudo" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoTituloACMUN"
             android:layout_below="@id/textViewTextoOngMariaMulher"
             android:text="@string/textoTituloACMUN"
@@ -182,7 +182,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoTituloNormal" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoLinkACMUN"
             android:layout_below="@id/textViewTextoTituloACMUN"
             android:text="@string/textoLinkACMUN"
@@ -192,7 +192,7 @@
             android:linksClickable="true"
             style="@style/estiloTextoComplemento" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoACMUN"
             android:layout_below="@id/textViewTextoLinkACMUN"
             android:text="@string/textoACMUN"
@@ -200,7 +200,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoConteudo" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoTituloThemisGenero"
             android:layout_below="@id/textViewTextoACMUN"
             android:text="@string/textoTituloThemisGenero"
@@ -208,7 +208,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoTituloNormal" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoThemisGenero"
             android:layout_below="@id/textViewTextoTituloThemisGenero"
             android:text="@string/textoThemisGenero"
@@ -216,7 +216,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoConteudo" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoTituloPromotorasLegaisPopulares"
             android:layout_below="@id/textViewTextoThemisGenero"
             android:text="@string/textoTituloPromotorasLegaisPopulares"
@@ -224,7 +224,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoTituloNormal" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoPromotorasLegaisPopulares"
             android:layout_below="@id/textViewTextoTituloPromotorasLegaisPopulares"
             android:text="@string/textoPromotorasLegaisPopulares"
@@ -232,7 +232,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoConteudo" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoTituloDefensoriaPublica"
             android:layout_below="@id/textViewTextoPromotorasLegaisPopulares"
             android:text="@string/textoTituloDefensoriaPublica"
@@ -240,7 +240,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoConteudo" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoLinkDefensoriaPublica"
             android:layout_below="@id/textViewTextoTituloDefensoriaPublica"
             android:text="@string/textoLinkDefensoriaPublica"
@@ -250,7 +250,7 @@
             android:linksClickable="true"
             style="@style/estiloTextoComplemento" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoDefensoriaPublica"
             android:layout_below="@id/textViewTextoLinkDefensoriaPublica"
             android:text="@string/textoDefensoriaPublica"
@@ -260,7 +260,7 @@
             android:linksClickable="true"
             style="@style/estiloTextoComplemento" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoTituloJuizadosEspecializadosEmViolencia"
             android:layout_below="@id/textViewTextoDefensoriaPublica"
             android:text="@string/textoTituloJuizadosEspecializadosEmViolencia"
@@ -268,7 +268,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoTituloNormal" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoLinkJuizadosEspecializadosEmViolencia"
             android:layout_below="@id/textViewTextoTituloJuizadosEspecializadosEmViolencia"
             android:text="@string/textoLinkJuizadosEspecializadosEmViolencia"
@@ -278,7 +278,7 @@
             android:linksClickable="true"
             style="@style/estiloTextoComplemento" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoJuizadosEspecializadosEmViolencia"
             android:layout_below="@id/textViewTextoLinkJuizadosEspecializadosEmViolencia"
             android:text="@string/textoJuizadosEspecializadosEmViolencia"
@@ -286,7 +286,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoConteudo" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoTituloCentroReferenciaDeAtendimento"
             android:layout_below="@id/textViewTextoJuizadosEspecializadosEmViolencia"
             android:text="@string/textoTituloCentroReferenciaDeAtendimento"
@@ -294,7 +294,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoTituloNormal"/>
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoLinkCentroReferenciaDeAtendimento"
             android:layout_below="@id/textViewTextoTituloCentroReferenciaDeAtendimento"
             android:text="@string/textoLinkCentroReferenciaDeAtendimento"
@@ -304,7 +304,7 @@
             android:linksClickable="true"
             style="@style/estiloTextoComplemento" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoCentroReferenciaDeAtendimento"
             android:layout_below="@id/textViewTextoLinkCentroReferenciaDeAtendimento"
             android:text="@string/textoJuizadosCentroReferenciaDeAtendimento"
@@ -312,7 +312,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoConteudo" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoTituloCentroDeReferenciaEmDireitosHumanos"
             android:layout_below="@id/textViewTextoCentroReferenciaDeAtendimento"
             android:text="@string/textoTituloCentroDeReferenciaEmDireitosHumanos"
@@ -320,7 +320,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoConteudo" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoLinkCentroDeReferenciaEmDireitosHumanos"
             android:layout_below="@id/textViewTextoTituloCentroDeReferenciaEmDireitosHumanos"
             android:text="@string/textoLinkCentroDeReferenciaEmDireitosHumanos"
@@ -330,7 +330,7 @@
             android:linksClickable="true"
             style="@style/estiloTextoComplemento" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoCentroDeReferenciaEmDireitosHumanos"
             android:layout_below="@id/textViewTextoLinkCentroDeReferenciaEmDireitosHumanos"
             android:text="@string/textoCentroDeReferenciaEmDireitosHumanos"
@@ -338,7 +338,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoConteudo" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoTituloCentroDeReferenciaAsVitimasDeViolencia"
             android:layout_below="@id/textViewTextoCentroDeReferenciaEmDireitosHumanos"
             android:text="@string/textoTituloCentroDeReferenciaAsVitimasDeViolencia"
@@ -346,7 +346,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoTituloNormal" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoLinkCentroDeReferenciaAsVitimasDeViolencia"
             android:layout_below="@id/textViewTextoTituloCentroDeReferenciaAsVitimasDeViolencia"
             android:text="@string/textoLinkCentroDeReferenciaAsVitimasDeViolencia"
@@ -357,7 +357,7 @@
             android:textSize="16sp"
             style="@style/estiloTextoComplemento" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoCentroDeReferenciaAsVitimasDeViolencia"
             android:layout_below="@id/textViewTextoLinkCentroDeReferenciaAsVitimasDeViolencia"
             android:text="@string/textoCentroDeReferenciaAsVitimasDeViolencia"
@@ -365,7 +365,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoComplemento" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoTituloEscutaLilas"
             android:layout_below="@id/textViewTextoCentroDeReferenciaAsVitimasDeViolencia"
             android:text="@string/textoTituloEscutaLilas"
@@ -373,7 +373,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoTituloNormal" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoLinkEscutaLilas"
             android:layout_below="@id/textViewTextoTituloEscutaLilas"
             android:text="@string/textoLinkEscutaLilas"
@@ -383,7 +383,7 @@
             android:linksClickable="true"
             style="@style/estiloTextoComplemento" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoEscutaLilas"
             android:layout_below="@id/textViewTextoLinkEscutaLilas"
             android:text="@string/textoEscutaLilas"
@@ -391,7 +391,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoConteudo"/>
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoTituloILEMulher"
             android:layout_below="@id/textViewTextoEscutaLilas"
             android:text="@string/textoTituloILEMulher"
@@ -399,7 +399,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoTituloNormal" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoLinkILEMulher"
             android:layout_below="@id/textViewTextoTituloILEMulher"
             android:text="@string/textoLinkILEMulher"
@@ -409,7 +409,7 @@
             android:linksClickable="true"
             style="@style/estiloTextoComplemento" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoContatoILEMulher"
             android:layout_below="@id/textViewTextoLinkILEMulher"
             android:text="@string/textoContatoILEMulher"
@@ -417,7 +417,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoConteudo" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoTituloSAJUGPUCRS"
             android:layout_below="@id/textViewTextoContatoILEMulher"
             android:text="@string/textoTituloSAJUGPUCRS"
@@ -425,7 +425,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoTituloNormal" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoLinkSAJUGPUCRS"
             android:layout_below="@id/textViewTextoTituloSAJUGPUCRS"
             android:text="@string/textoLinkSAJUGPUCRS"
@@ -435,7 +435,7 @@
             android:linksClickable="true"
             style="@style/estiloTextoComplemento" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoSAJUGPUCRS"
             android:layout_below="@id/textViewTextoLinkSAJUGPUCRS"
             android:text="@string/textoSAJUGPUCRS"
@@ -443,7 +443,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoConteudo" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoComplementoSAJUGPUCRS"
             android:layout_below="@id/textViewTextoSAJUGPUCRS"
             android:text="@string/textoComplementoSAJUGPUCRS"
@@ -451,7 +451,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoConteudo" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoContatoSAJUGPUCRS"
             android:layout_below="@id/textViewTextoComplementoSAJUGPUCRS"
             android:text="@string/textoContatoSAJUGPUCRS"
@@ -459,7 +459,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoConteudo" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoTituloSAJUUFRGS"
             android:layout_below="@id/textViewTextoContatoSAJUGPUCRS"
             android:text="@string/textoTituloSAJUUFRGS"
@@ -467,7 +467,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoTituloNormal" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoLinkSAJUUFRGS"
             android:layout_below="@id/textViewTextoTituloSAJUUFRGS"
             android:text="@string/textoLinkSAJUUFRGS"
@@ -477,7 +477,7 @@
             android:linksClickable="true"
             style="@style/estiloTextoComplemento" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoSAJUUFRGS"
             android:layout_below="@id/textViewTextoLinkSAJUUFRGS"
             android:text="@string/textoSAJUUFRGS"
@@ -485,7 +485,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoConteudo" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoContatoSAJUUFRGS"
             android:layout_below="@id/textViewTextoSAJUUFRGS"
             android:text="@string/textoContatoSAJUUFRGS"
@@ -493,7 +493,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoConteudo" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoTituloDelegaciaEspecializadanoAtendimentoAMulher"
             android:layout_below="@id/textViewTextoContatoSAJUUFRGS"
             android:text="@string/textoTituloDelegaciaEspecializadanoAtendimentoAMulher"
@@ -501,7 +501,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoTituloNormal" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoDelegaciaEspecializadanoAtendimentoAMulher"
             android:layout_below="@id/textViewTextoTituloDelegaciaEspecializadanoAtendimentoAMulher"
             android:text="@string/textoDelegaciaEspecializadanoAtendimentoAMulher"
@@ -509,7 +509,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoConteudo" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoContatoDelegaciaEspecializadanoAtendimentoAMulher"
             android:layout_below="@id/textViewTextoDelegaciaEspecializadanoAtendimentoAMulher"
             android:text="@string/textoContatoDelegaciaEspecializadanoAtendimentoAMulher"
@@ -517,7 +517,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoConteudo" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoTituloServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher"
             android:layout_below="@id/textViewTextoContatoDelegaciaEspecializadanoAtendimentoAMulher"
             android:text="@string/textoTituloServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher"
@@ -525,7 +525,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoTituloNormal" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoLinkServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher"
             android:layout_below="@id/textViewTextoTituloServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher"
             android:text="@string/textoLinkServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher"
@@ -535,7 +535,7 @@
             android:linksClickable="true"
             style="@style/estiloTextoComplemento" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTituloHospitalNossaSenhoraDaConceicao"
             android:layout_below="@id/textViewTextoLinkServicosDeSaudeEspecializadosParaAtendimentoDosCasosDeViolenciaContraAMulher"
             android:text="@string/textoTituloHospitalNossaSenhoraDaConceicao"
@@ -543,7 +543,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoTituloNormal" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoHospitalNossaSenhoraDaConceicao"
             android:layout_below="@id/textViewTituloHospitalNossaSenhoraDaConceicao"
             android:text="@string/textoEnderecoHospitalNossaSenhoraDaConceicao"
@@ -551,7 +551,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoConteudo" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTituloHospitalProntoSocorroDePortoAlegre"
             android:layout_below="@id/textViewTextoHospitalNossaSenhoraDaConceicao"
             android:text="@string/textoTituloHospitalProntoSocorroDePortoAlegre"
@@ -559,7 +559,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoTituloNormal" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoHospitalProntoSocorroDePortoAlegre"
             android:layout_below="@id/textViewTituloHospitalProntoSocorroDePortoAlegre"
             android:text="@string/textoEnderecoHospitalProntoSocorroDePortoAlegre"
@@ -567,7 +567,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoConteudo" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTituloHospitalFemina"
             android:layout_below="@id/textViewTextoHospitalProntoSocorroDePortoAlegre"
             android:text="@string/textoTituloHospitalFemina"
@@ -575,7 +575,7 @@
             android:layout_height="wrap_content"
             style="@style/estiloTextoTituloNormal" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewTextoEnderecoHospitalFemina"
             android:layout_below="@id/textViewTituloHospitalFemina"
             android:text="@string/textoEnderecoHospitalFemina"

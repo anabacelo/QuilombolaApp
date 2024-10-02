@@ -1,0 +1,78 @@
+/* Global Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+body {
+    background-color: #f9f9f9;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+.description {
+    margin-bottom: 40px;
+}
+
+.description h1 {
+    font-size: 1.8em;
+    color: #331411;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #f04530;
+    padding-bottom: 10px;
+}
+
+.description p, .description ul {
+    font-size: 1.1em;
+    margin-bottom: 15px;
+    color: #555;
+}
+
+.description a {
+    color: #f04530;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.description a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 15px;
+    }
+
+    .description h1 {
+        font-size: 1.5em;
+    }
+
+    .description p, .description ul {
+        font-size: 1em;
+    }
+}

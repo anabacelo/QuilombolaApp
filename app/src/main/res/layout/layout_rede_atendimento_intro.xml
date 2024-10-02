@@ -22,7 +22,7 @@
                 android:layout_height="wrap_content"
                 style="@style/estiloImagem" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewDescricao1"
                 android:layout_below="@+id/imageView"
                 android:text="@string/texto_assitencial01"
