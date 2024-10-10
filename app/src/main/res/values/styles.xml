@@ -101,4 +101,5 @@
         <item name="android:linksClickable">true</item>
         <item name="android:fontFamily">@font/lato_regular</item>
     </style>
+
 </resources>

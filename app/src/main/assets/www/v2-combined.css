@@ -639,8 +639,6 @@ body[data-href="tutorials"] #tutorials_menu a {
 }
 
 .latest-articles a {
-    color: #331411;
-    font-size: 22px;
     font-family: 'Lato';
     font-weight: 600;
 }

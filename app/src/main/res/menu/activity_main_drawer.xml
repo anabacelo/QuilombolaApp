@@ -5,18 +5,23 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_homepage"
+            android:checked="true"
             android:icon="@drawable/ic_home"
             android:title="Página Inicial" />
 
         <item
             android:id="@+id/nav_1"
             android:icon="@drawable/ic_duvida"
-            android:title="O que é ser Quilombola?" />
+            android:title="O que é ser Quilombola?"
+            android:titleCondensed="O que é ser..."
+            />
 
         <item
             android:id="@+id/nav_2"
             android:icon="@drawable/ic_location"
-            android:title="Quilombos de Porto Alegre" />
+            android:title="Quilombos de Porto Alegre"
+            android:titleCondensed="Quilombos em POA"
+            />
         <item
             android:id="@+id/nav_3"
             android:icon="@drawable/ic_law"
@@ -28,32 +33,32 @@
         <item
             android:id="@+id/nav_4"
             android:icon="@drawable/ic_books"
-            android:title="História, Cultura e Tradição" />
+            android:title="História, Cultura e Tradição"
+            android:titleCondensed="História..."/>
 
         <item
             android:id="@+id/nav_5"
             android:icon="@drawable/ic_core"
-            android:title="Saúde da População Negra" />
-
-        <item
-            android:id="@+id/navCovid"
-            android:icon="@drawable/ic_core"
-            android:title="Saúde na pandemia" />
+            android:title="Saúde da População Negra"
+            android:titleCondensed="Saúde..."/>
 
         <item
             android:id="@+id/nav_6"
             android:icon="@drawable/ic_atendimento"
-            android:title="Redes de Atendimento" />
+            android:title="Redes de Atendimento"
+            android:titleCondensed="Atendimento"/>
 
         <item
             android:id="@+id/nav_7"
             android:title="Serviços e Benefícios Sociais"
-            android:icon="@drawable/ic_handshake"/>
+            android:icon="@drawable/ic_handshake"
+            android:titleCondensed="Serviços Sociais"/>
 
         <item
             android:id="@+id/nav_8"
             android:title="Representações Quilombolas"
-            android:icon="@drawable/ic_people"/>
+            android:icon="@drawable/ic_people"
+            android:titleCondensed="Representações"/>
 
         <item
             android:id="@+id/nav_9"
@@ -63,12 +68,14 @@
         <item
             android:id="@+id/nav_11"
             android:title="Calendário Quilombola"
-            android:icon="@drawable/calendar2"/>
+            android:icon="@drawable/calendar2"
+            android:titleCondensed="Calendário"/>
 
         <item
             android:id="@+id/nav_10"
             android:title="Mulheres Negras Quilombolas"
-            android:icon="@drawable/ic_person"/>
+            android:icon="@drawable/ic_person"
+            android:titleCondensed="Mulheres Quilombolas"/>
 
 <!--        <item-->
 <!--            android:id="@+id/nav_communicate"-->

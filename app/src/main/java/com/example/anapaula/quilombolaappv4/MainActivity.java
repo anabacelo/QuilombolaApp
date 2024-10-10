@@ -31,8 +31,12 @@ import androidx.appcompat.widget.Toolbar;
 
 import android.text.SpannableString;
 import android.text.style.ForegroundColorSpan;
+import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.ImageView;
+import android.widget.TextView;
 
 import androidx.navigation.ui.AppBarConfiguration;
 
@@ -184,13 +188,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             FragmentManager manager = getSupportFragmentManager();
             manager.beginTransaction().replace(R.id.fragment, navSaudeNegra).commit();
 
-        }
-
-	    else if (id == R.id.navCovid) {
-            setTitle("Saúde na Pandemia");  // SAUDE NA PANDEMIA
-            NavCovid navCovid = new NavCovid();
-            FragmentManager manager = getSupportFragmentManager();
-            manager.beginTransaction().replace(R.id.fragment, navCovid).commit();
         }
 
         else if (id == R.id.nav_6) {
