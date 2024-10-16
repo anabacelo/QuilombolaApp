@@ -9,6 +9,7 @@ import com.example.anapaula.quilombolaappv4.databinding.ActivityMainBinding;
 import com.example.anapaula.quilombolaappv4.ui.navigation.NavAboutUs;
 import com.example.anapaula.quilombolaappv4.ui.navigation.NavAcoesAfirmativas;
 import com.example.anapaula.quilombolaappv4.ui.navigation.NavCalendario;
+import com.example.anapaula.quilombolaappv4.ui.navigation.NavComoSolicitarBeneficios;
 import com.example.anapaula.quilombolaappv4.ui.navigation.NavCovid;
 import com.example.anapaula.quilombolaappv4.ui.navigation.NavCuriosidades;
 import com.example.anapaula.quilombolaappv4.ui.navigation.NavHistoriaCulturaTradicao;
@@ -154,12 +155,12 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
 	    }
 
-//	    else if (id == R.id.nav_Login) {      // ABA LOGIN
-//            setTitle("Login");
-//            NavLogin nav_login = new NavLogin();
-//            FragmentManager manager = getSupportFragmentManager();
-//            manager.beginTransaction().replace(R.id.fragment, nav_login).commit();
-//        }
+	    else if (id == R.id.nav_conseguir_beneficios) {      // ABA LOGIN
+            setTitle("Como Solicitar Benefícios");
+            NavComoSolicitarBeneficios nav_conseguir_beneficios = new NavComoSolicitarBeneficios();
+            FragmentManager manager = getSupportFragmentManager();
+            manager.beginTransaction().replace(R.id.fragment, nav_conseguir_beneficios).commit();
+        }
 
         else if (id == R.id.nav_3) {
             setTitle("Legislação");  // LEGISLAÇÃO

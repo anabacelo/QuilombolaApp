@@ -6,7 +6,11 @@ import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.webkit.WebView;
+import android.webkit.WebViewClient;
+import android.widget.Button;
 import android.widget.ExpandableListView;
+import android.widget.FrameLayout;
 
 import com.example.anapaula.quilombolaappv4.R;
 import com.example.anapaula.quilombolaappv4.adapters.ExpandableListAdapter;
@@ -38,9 +42,12 @@ public class NavServicosSociais extends Fragment {
         return inflater.inflate(R.layout.fragment_nav7, container, false);
     }
 
-    public void onViewCreated(View view, Bundle savedInstaceState)
-    {
-        listView = (ExpandableListView)getView().findViewById(R.id.lvExp);
+    @Override
+    public void onViewCreated(View view, Bundle savedInstanceState) {
+        super.onViewCreated(view, savedInstanceState);
+
+        listView = view.findViewById(R.id.lvExp);
+
         initializeData();
         listAdapter = new ExpandableListAdapter(getActivity(), listDataHeader, listHash);
         listView.setAdapter(listAdapter);

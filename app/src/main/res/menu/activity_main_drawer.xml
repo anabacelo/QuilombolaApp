@@ -55,6 +55,13 @@
             android:titleCondensed="Serviços Sociais"/>
 
         <item
+            android:id="@+id/nav_conseguir_beneficios"
+            android:icon="@drawable/ic_information"
+            android:title="Como Solicitar Benefícios"
+            android:titleCondensed="Como Solicitar Benefícios"
+            />
+
+        <item
             android:id="@+id/nav_8"
             android:title="Representações Quilombolas"
             android:icon="@drawable/ic_people"
