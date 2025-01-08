@@ -10,6 +10,7 @@
     <WebView
         android:id="@+id/webViewMain"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        android:scrollbars="none" /> <!-- Remove barras de rolagem visuais -->
 
 </RelativeLayout>

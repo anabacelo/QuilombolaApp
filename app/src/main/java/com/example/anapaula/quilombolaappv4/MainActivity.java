@@ -1,6 +1,5 @@
 package com.example.anapaula.quilombolaappv4;
 
-import android.graphics.Color;
 import android.os.Bundle;
 import androidx.fragment.app.*;
 import androidx.appcompat.app.AppCompatActivity;
@@ -8,13 +7,13 @@ import androidx.fragment.app.FragmentActivity;
 import com.example.anapaula.quilombolaappv4.databinding.ActivityMainBinding;
 import com.example.anapaula.quilombolaappv4.ui.navigation.NavAboutUs;
 import com.example.anapaula.quilombolaappv4.ui.navigation.NavAcoesAfirmativas;
+import com.example.anapaula.quilombolaappv4.ui.navigation.NavAtencaoAosQuilombos;
 import com.example.anapaula.quilombolaappv4.ui.navigation.NavCalendario;
 import com.example.anapaula.quilombolaappv4.ui.navigation.NavComoSolicitarBeneficios;
-import com.example.anapaula.quilombolaappv4.ui.navigation.NavCovid;
+import com.example.anapaula.quilombolaappv4.ui.navigation.NavComoUsarOPIAPS;
 import com.example.anapaula.quilombolaappv4.ui.navigation.NavCuriosidades;
 import com.example.anapaula.quilombolaappv4.ui.navigation.NavHistoriaCulturaTradicao;
 import com.example.anapaula.quilombolaappv4.ui.navigation.NavLegislacao;
-import com.example.anapaula.quilombolaappv4.ui.navigation.NavLogin;
 import com.example.anapaula.quilombolaappv4.ui.navigation.NavMulheresQuilombolas;
 import com.example.anapaula.quilombolaappv4.ui.navigation.NavQuilombosPortoAlegre;
 import com.example.anapaula.quilombolaappv4.ui.navigation.NavRedesAtendimento;
@@ -30,14 +29,8 @@ import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.appcompat.app.ActionBarDrawerToggle;
 import androidx.appcompat.widget.Toolbar;
 
-import android.text.SpannableString;
-import android.text.style.ForegroundColorSpan;
-import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.View;
-import android.widget.ImageView;
-import android.widget.TextView;
 
 import androidx.navigation.ui.AppBarConfiguration;
 
@@ -155,13 +148,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
 	    }
 
-	    else if (id == R.id.nav_conseguir_beneficios) {      // ABA LOGIN
-            setTitle("Como Solicitar Benefícios");
-            NavComoSolicitarBeneficios nav_conseguir_beneficios = new NavComoSolicitarBeneficios();
-            FragmentManager manager = getSupportFragmentManager();
-            manager.beginTransaction().replace(R.id.fragment, nav_conseguir_beneficios).commit();
-        }
-
         else if (id == R.id.nav_3) {
             setTitle("Legislação");  // LEGISLAÇÃO
             NavLegislacao navLegislacao = new NavLegislacao();
@@ -203,6 +189,27 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             NavServicosSociais navServicosSociais = new NavServicosSociais();
             FragmentManager manager = getSupportFragmentManager();
             manager.beginTransaction().replace(R.id.fragment, navServicosSociais).commit();
+        }
+
+        else if (id == R.id.nav_conseguir_beneficios) { // Como Solicitar Benefícios
+            setTitle("Como Solicitar Benefícios");
+            NavComoSolicitarBeneficios nav_conseguir_beneficios = new NavComoSolicitarBeneficios();
+            FragmentManager manager = getSupportFragmentManager();
+            manager.beginTransaction().replace(R.id.fragment, nav_conseguir_beneficios).commit();
+        }
+
+        else if (id == R.id.nav_usar_piaps) { // Como Usar o PIAPS
+            setTitle("Como Usar o PIAPS");
+            NavComoUsarOPIAPS nav_como_usar_o_piaps = new NavComoUsarOPIAPS();
+            FragmentManager manager = getSupportFragmentManager();
+            manager.beginTransaction().replace(R.id.fragment, nav_como_usar_o_piaps).commit();
+        }
+
+        else if (id == R.id.nav_atencao_aos_quilombolas) { // ATENÇÃO À SAÚDE DA POPULAÇÃO QUILOMBOLA
+            setTitle("Atenção à Saúde da População Quilombola");
+            NavAtencaoAosQuilombos nav_atencao_aos_quilombos = new NavAtencaoAosQuilombos();
+            FragmentManager manager = getSupportFragmentManager();
+            manager.beginTransaction().replace(R.id.fragment, nav_atencao_aos_quilombos).commit();
         }
 
         else if (id == R.id.nav_8) {
