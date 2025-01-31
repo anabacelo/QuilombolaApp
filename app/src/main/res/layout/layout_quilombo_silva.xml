@@ -41,6 +41,25 @@
                 android:text="@string/texto_quilopoa03"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                style="@style/estiloTextoConteudo" />
+
+
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
+                android:id="@+id/textViewLinkQuilomboSilvaBlog"
+                android:layout_below="@+id/textViewTextoLayoutQuilomboSilva"
+                android:text="@string/link_quilomboSilva"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:linksClickable="true"
+                style="@style/estiloTextoConteudo" />
+
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
+                android:id="@+id/textViewLinkYoutubeFamiliaSilva"
+                android:layout_below="@+id/textViewLinkQuilomboSilvaBlog"
+                android:text="@string/link_familiaSilva"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:autoLink="web"
                 android:linksClickable="true"
                 style="@style/estiloTextoConteudo" />

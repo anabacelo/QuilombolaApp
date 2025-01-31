@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_quilombo_alpes"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/textViewQuilomboFlores"
+                android:text="@string/tituloQuilomboFlores"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoTitulo" />
+
+            <ImageView
+                android:id="@+id/imageViewQuilomboFlores"
+                android:layout_below="@+id/textViewQuilomboFlores"
+                android:src="@drawable/quilomboflores"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                style="@style/estiloImagem" />
+
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
+                android:id="@+id/textViewTextoLayoutQuilomboFlores"
+                android:layout_below="@+id/imageViewQuilomboFlores"
+                android:text="@string/texto_quilopoa06"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:autoLink="web"
+                android:linksClickable="true"
+                style="@style/estiloTextoConteudo" />
+
+        </RelativeLayout>
+    </ScrollView>
+</LinearLayout>

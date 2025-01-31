@@ -24,18 +24,10 @@
             <ImageView
                 android:id="@+id/imageView1"
                 android:layout_below="@+id/textView1"
-                android:src="@drawable/catracalivre"
+                android:src="@drawable/quilombosportoalegre"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 style="@style/estiloTextoLayoutCentralizadoDireitosReservados" />
-
-            <TextView
-                android:id="@+id/textViewDireitoAutoral_01"
-                android:layout_below="@+id/imageView1"
-                android:text="@string/direitoAutoralQuilombosPortoAlegre"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
 
         </RelativeLayout>
     </ScrollView>

@@ -50,6 +50,8 @@ public class NavQuilombosPortoAlegre extends Fragment
     {
         Integer layoutQuilombosPortoAlegre = R.layout.layout_quilombos_porto_alegre;
         Integer layoutQuilomboAlpes = R.layout.layout_quilombo_alpes;
+        Integer layoutQuilomboMachado = R.layout.layout_quilombo_machado;
+        Integer layoutQuilomboFlores = R.layout.layout_quilombo_flores;
         Integer layoutQuilomboAreal = R.layout.layout_quilombo_areal;
         Integer layoutQuilomboSilva = R.layout.layout_quilombo_silva;
         Integer layoutQuilomboFidelix = R.layout.layout_quilombo_fidelix;
@@ -65,6 +67,8 @@ public class NavQuilombosPortoAlegre extends Fragment
 
         listDataHeader.add("Quilombos de Porto Alegre");
         listDataHeader.add("Quilombo dos Alpes");
+        listDataHeader.add("Quilombo Machado");
+        listDataHeader.add("Quilombo Flores");
         listDataHeader.add("Quilombo Areal da Baronesa");
         listDataHeader.add("Quilombo Família Silva");
         listDataHeader.add("Quilombo Família Fidélix");
@@ -82,22 +86,28 @@ public class NavQuilombosPortoAlegre extends Fragment
         layoutList1.add(layoutQuilomboAlpes);
 
         List<Integer> layoutList2 = new ArrayList<>();
-        layoutList2.add(layoutQuilomboAreal);
+        layoutList2.add(layoutQuilomboMachado);
 
         List<Integer> layoutList3 = new ArrayList<>();
-        layoutList3.add(layoutQuilomboSilva);
+        layoutList3.add(layoutQuilomboFlores);
 
         List<Integer> layoutList4 = new ArrayList<>();
-        layoutList4.add(layoutQuilomboFidelix);
+        layoutList4.add(layoutQuilomboAreal);
 
         List<Integer> layoutList5 = new ArrayList<>();
-        layoutList5.add(layoutQuilomboLemos);
+        layoutList5.add(layoutQuilomboSilva);
 
         List<Integer> layoutList6 = new ArrayList<>();
-        layoutList6.add(layoutQuilomboAnastacia);
+        layoutList6.add(layoutQuilomboFidelix);
 
         List<Integer> layoutList7 = new ArrayList<>();
-        layoutList7.add(layoutEntrevistas);
+        layoutList7.add(layoutQuilomboLemos);
+
+        List<Integer> layoutList8 = new ArrayList<>();
+        layoutList8.add(layoutQuilomboAnastacia);
+
+        List<Integer> layoutList9 = new ArrayList<>();
+        layoutList9.add(layoutEntrevistas);
 
 
         listHash.put(listDataHeader.get(0), layoutList0);
@@ -108,5 +118,7 @@ public class NavQuilombosPortoAlegre extends Fragment
         listHash.put(listDataHeader.get(5), layoutList5);
         listHash.put(listDataHeader.get(6), layoutList6);
         listHash.put(listDataHeader.get(7), layoutList7);
+        listHash.put(listDataHeader.get(8), layoutList8);
+        listHash.put(listDataHeader.get(9), layoutList9);
     }
 }
