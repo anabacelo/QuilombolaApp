@@ -5,7 +5,7 @@
     android:id="@+id/layout_politica_nacional_de_assistencia_social"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    tools:context="com.example.anapaula.quilombolaappv4.Nav3">
+    tools:context="com.example.anapaula.quilombolaappv4.ui.navigation.NavLegislacao">
 
     <ScrollView
         android:layout_width="wrap_content"
@@ -30,7 +30,7 @@
                     android:layout_height="wrap_content"
                     style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
 
-                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                     android:id="@+id/textViewSubTituloSobreBeneficioPrestacaoContinuada"
                     android:layout_below="@id/textViewTextoDireitosPoliticaNacionalDeAssistenciaSocial"
                     android:text="@string/textoPoliticaNacionalDeAssistenciaSocial"
@@ -40,7 +40,7 @@
                     android:linksClickable="true"
                     style="@style/estiloTextoConteudo" />
 
-                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                     android:id="@+id/textViewTextoSubTituloSobreBeneficioPrestacaoContinuada"
                     android:layout_below="@id/textViewSubTituloSobreBeneficioPrestacaoContinuada"
                     android:text="@string/textoSubTituloSobreBeneficioPrestacaoContinuada"
@@ -48,7 +48,7 @@
                     android:layout_height="wrap_content"
                     style="@style/estiloTextoTituloNormal" />
 
-                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                     android:id="@+id/textViewTextoReferenteSubTituloSobreBeneficioPrestacaoContinuada"
                     android:layout_below="@id/textViewTextoSubTituloSobreBeneficioPrestacaoContinuada"
                     android:text="@string/textoReferernteSubTituloSobreBeneficioPrestacaoContinuada"
@@ -56,7 +56,7 @@
                     android:layout_height="wrap_content"
                     style="@style/estiloTextoConteudo" />
 
-                <com.example.anapaula.quilombolaappv4.JustifyTextView
+                <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                     android:id="@+id/textViewTextoReferencia"
                     android:layout_below="@id/textViewTextoReferenteSubTituloSobreBeneficioPrestacaoContinuada"
                     android:text="@string/textoReferencia"

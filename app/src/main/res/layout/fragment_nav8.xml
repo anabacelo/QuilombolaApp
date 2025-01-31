@@ -3,23 +3,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.anapaula.quilombolaappv4.Nav8">
+    tools:context="com.example.anapaula.quilombolaappv4.ui.navigation.NavRepresentacao">
 
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical">
 
-        <TextView
-            android:id="@+id/textViewRepresentaQuilombo8"
-            android:text="Representações Quilombolas"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            style="@style/estiloTextoTitulo" />
-
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewCoordenacaoNacional"
-            android:layout_below="@id/textViewRepresentaQuilombo8"
             android:text="@string/textoCoordenacaoNacional"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -27,7 +19,7 @@
             android:linksClickable="true"
             style="@style/estiloTextoConteudo" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewConaq"
             android:layout_below="@id/textViewCoordenacaoNacional"
             android:text="@string/textoConaq"
@@ -37,7 +29,7 @@
             android:linksClickable="true"
             style="@style/estiloTextoConteudo" />
 
-        <com.example.anapaula.quilombolaappv4.JustifyTextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
             android:id="@+id/textViewFrenteQuilombola"
             android:layout_below="@id/textViewConaq"
             android:text="@string/textoFrenteQuilombola"

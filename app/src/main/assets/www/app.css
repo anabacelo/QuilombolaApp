@@ -68,9 +68,29 @@ img {
   padding-bottom: 12px;
 }
 
-.containerbutton{
-  padding-bottom: 8px;
-  padding-top: 8px;
+.containerbutton {
+  padding-bottom: 25px;
+  padding-top: 25px;
   text-align: center;
+  background-color: #ecaa68; /* Cor de fundo */
+  border-radius: 12px; /* Bordas arredondadas */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra para dar profundidade */
+  cursor: pointer; /* Indicador de botão no cursor */
+  color: white; /* Cor do texto */
+  font-size: 18px; /* Tamanho da fonte */
+  font-weight: bold; /* Texto em negrito */
+  transition: background-color 0.3s, box-shadow 0.3s; /* Transição suave */
 }
+
+.containerbutton:hover {
+  background-color: #d5935a; /* Cor de fundo ao passar o mouse */
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2); /* Sombra mais forte ao passar o mouse */
+}
+
+.containerbutton:active {
+  background-color: #c47d4a; /* Cor ao clicar */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Sombra mais suave ao clicar */
+  transform: scale(0.98); /* Leve contração ao clicar para dar feedback de toque */
+}
+
 

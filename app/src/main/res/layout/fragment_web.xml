@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.anapaula.quilombolaappv4.HomePage"
+    tools:context="com.example.anapaula.quilombolaappv4.ui.navigation.HomePage"
     tools:ignore="MergeRootFrame">
 
     <WebView
         android:id="@+id/webViewMain"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        android:scrollbars="none" /> <!-- Remove barras de rolagem visuais -->
 
-</FrameLayout>
+</RelativeLayout>

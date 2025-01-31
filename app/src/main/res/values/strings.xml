@@ -11,7 +11,7 @@
     <string name="e_mail">E-mail:</string>
     <string name="entrar">Entrar</string>
     <string name="senha">Senha:</string>
-    <string name="app_name">Aplicativo Quilombola</string>
+    <string name="app_name">Quilombytes</string>
     <string name="pag_entrada">Adicionar imagem/texto</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -220,11 +220,12 @@ Navegue à vontade!!!
     <!-- QUILOMBOS DE PORTO ALEGRE -->
 
 
-    <string name="titulo_quilopoa01"> Quilombo dos Alpes</string>
+    <string name="titulo_quilopoa01"> Quilombo dos Alpes </string>
+    <string name="tituloQuilomboFlores"> Quilombo Flores </string>
+    <string name="tituloQuilomboMachado"> Quilombo Machado </string>
     <string name="tituloQuilomboAreal02"> Quilombo Areal da Baronesa</string>
     <string name="titulo_quilomboSilva"> Quilombo Família Silva</string>
     <string name="titulo_quilomboFidelix"> Quilombo Família Fidélix</string>
-    <string name="titulo_video_quilopoa01"> VÍDEO: Quilombos Urbanos - Capítulo 4:</string>
     <string name="titulo_video_quilopoa02"> VÍDEO: Areal da Baronesa, berço do samba em Porto Alegre:</string>
 
 
@@ -241,84 +242,137 @@ Metropolitana. O Quilombo Alpes é o quinto dessa reportagem especial.
         FOTO POR NEPEVI/PUCRS
     </string>
 
+    <string name="texto_quilopoa06">
+    O Quilombo da Família Flores está localizado na zona Sul de Porto Alegre, na Rua Manduca Rodrigues, nº 283, no bairro Glória.
+    \n\n
+    A história da comunidade começou em 1975, quando Rosalina da Costa Vasconcelos mudou-se para o território da Família Flores, acompanhada de seu pai e três de seus cinco filhos.
+    Antes disso, sua família vivia na Estrada dos Alpes, próxima ao Quilombo dos Alpes, que hoje está a uma distância de aproximadamente 2,5 km do território da Família Flores.
+    \n\n
+    A formação do Quilombo da Família Flores se deu a partir do encontro entre Rosalina e Adão Fausto Flores da Silva, consolidando-se ao longo dos anos por meio da luta e da resiliência da comunidade.
+    No entanto, os primeiros registros históricos da área onde hoje se encontra o quilombo remontam a 1848, quando o território fazia parte de uma antiga sesmaria pertencente a Manuel da Silva Nunes.
+    \n\n
+    Durante esse período, as terras eram ocupadas principalmente por chácaras, e os escravizados que ali viviam trabalhavam em serviços domésticos e na manutenção das propriedades do entorno (PMPA, 1995).
+    A presença negra no bairro Glória sempre foi marcante, e onde hoje se encontra o Quilombo da Família Flores, existia um grande arraial, que servia como refúgio para escravizados em busca de proteção e liberdade.
+    \n\n
+    Atualmente, a comunidade segue resistindo, preservando sua identidade e reivindicando seus direitos territoriais como um importante espaço de memória e luta quilombola em Porto Alegre.
+    \n\n
+    <b>Referências:</b>
+    \n- ACSELRAD, Henri (Org.). Cartografias Sociais e Território. Rio de Janeiro: IPPUR/UFRJ, 2008.
+    \n\n- PMPA. Memória dos Bairros: A Grande Glória. Porto Alegre: UE/Porto Alegre, 1995.
+    \n\n- <b>Link do vídeo no YouTube:</b>\n https://www.youtube.com/watch?v=iKrfUNqALQQ \n
+</string>
+
+
+    <string name="texto_quilopoa05">
+    \nO Quilombo dos Machado, também conhecido como Vila 7 de Setembro, está localizado na zona norte de Porto Alegre, ao longo da Rua Rocco Aloise, no bairro Sarandi.
+    A comunidade é composta por mais de 300 famílias, oriundas da Vila Respeito, além de imigrantes estrangeiros, principalmente do Haiti, e brasileiros vindos das regiões Norte e Nordeste do país.
+    \n\n
+    Desde 7 de setembro de 2012, a comunidade ocupa e reivindica seu território, e seu nome reflete a complexidade de sua formação. O nome Quilombo dos Machado remete à luta pela reparação geo-histórica da família Machado,
+    que tem como principais lideranças políticas Luís Rogério Machado Camilo, conhecido como Jamaika, e Vanda Tamires da Silva Antunes, a Tamy.
+    Já a denominação Vila 7 de Setembro está associada à luta por moradia e à inserção da mão de obra migrante na cidade, refletindo o impacto do êxodo rural.
+    \n\n
+    Ambas as nomenclaturas evidenciam a luta pela terra urbana e o direito à moradia, em um contexto de marginalização social imposta pelo desenvolvimento capitalista.
+    A comunidade segue resistindo e se organizando politicamente para garantir o reconhecimento e a regularização de seu território.
+    \n\n
+    <b>Referências:</b>
+    \n- ACSELRAD, Henri (org.). Cartografias Sociais e Território. Rio de Janeiro: IPPUR/UFRJ, 2008.
+    \n\n- UFRGS/NEGA. Relatório Geográfico do Quilombo dos Machado/Vila 07 de Setembro/Cartografia Social. Organização e Gestão Territorial, turma de 2019/1. Porto Alegre, 2019. (Não publicado).
+    \n\n- <b>Link do vídeo no YouTube:</b>\n https://www.youtube.com/watch?v=XYmtPjLRTRA\n
+</string>
+
+
     <string name="texto_quilopoa01">
-        Segundo dados da Prefeitura Municipal de Porto Alegre, aproximadamente 62 famílias fazem parte da Comunidade Quilombola dos
-        Alpes, localizada no ponto mais alto da Estrada dos Alpes, no bairro Cascata, com uma das vistas mais privilegiadas da
-        cidade de Porto Alegre. \n\n
-        Com mais de 100 anos de história, o Quilombo dos Alpes teve início com a matriarca Edwirges Francisca Garcia da Silva,
-        que teria chegado à região com sua família entre o final de 1890 e 1900, após terem fugido de possíveis castigos por seu
-        esposo ter quebrado o chifre de um boi em uma chácara onde trabalhavam no bairro Lami. \n\n
-        A Comunidade Quilombola dos Alpes obteve a certidão de autorreconhecimento da Fundação Cultural Palmares no ano de 2005,
-        sendo reconhecida pelo INCRA em 20 de Abril de 2016, com 58,2 hectares do território quilombola. \n\n
+    O Quilombo dos Alpes é uma comunidade quilombola centenária localizada na zona Sul de Porto Alegre, na Estrada dos Alpes, nº 1300, entre os bairros Glória, Cascata e Teresópolis.
+    \n\n
+    A comunidade teve início com a matriarca Edwirges Francisca Garcia da Silva, que chegou à região por volta de 1920, vinda do município de Charqueadas, a aproximadamente 60 km de Porto Alegre.
+    Junto com seus cinco filhos — Wilson, João Carlos, Arminda, Paulo e Jane —, Edwirges estabeleceu-se no topo do Morro dos Alpes, onde ergueu sua primeira casa.
+    O local, conhecido pelos descendentes como "Capão da Vó", foi o primeiro espaço de moradia e se consolidou como território seguro para a família. Hoje, esse espaço fica próximo à sede da Associação Quilombola dos Alpes Dona Edwirges.
+    \n\n
+    Segundo a Prefeitura Municipal de Porto Alegre, aproximadamente 62 famílias fazem parte da Comunidade Quilombola dos Alpes, localizada no ponto mais alto da Estrada dos Alpes,
+    proporcionando uma das vistas mais privilegiadas da cidade.
+    \n\n
+    A Comunidade Quilombola dos Alpes obteve a certidão de autorreconhecimento da Fundação Cultural Palmares em 2005 e foi oficialmente reconhecida pelo INCRA em 20 de abril de 2016.
+    O território quilombola abrange uma área de 58,2 hectares.
+    \n\n
+    <b>Referências:</b>
+    \n- AGUIAR, Pablito. Porto Alegre em Quadrinhos: Quilombo dos Alpes. Porto Alegre, 2018.
+    \n\n- BARCELLOS, Jorge Alberto Soares; PACHECO, Ricardo de Aguiar; RIELLA, Carlos (org.). A grande Glória. Porto Alegre: UE/Porto Alegre, 1995. (Série Memória dos Bairros).
+    \n\n- PIRES, Cláudia Luísa Zeferino; RATHMANN, Marília Guimarães; FREITAS, Clarice Moraes; SILVA, Luana de Lima e. O sagrado e o território: da ancestralidade à atualidade no Quilombo dos Alpes – Porto Alegre – RS. In: PIRES, Cláudia Luísa Zeferino; HEIDRICH, Álvaro Luiz; COSTA, Benhur Pinós da. (Org.). Plurilocalidades dos Sujeitos: representações e ações no território. Porto Alegre: Compasso Lugar-Cultura, 2016.
+    \n\n- BRASIL. Assessoria de Comunicação Social do INCRA/RS. Instituto Nacional de Colonização e Reforma Agrária. "Território quilombola dos Alpes é decretado de interesse social no Rio Grande do Sul". Publicado em 03 ago. 2016. Disponível em: http://www.incra.gov.br/noticias/territorio-quilombola-dos-alpes-e-decretado-de-interesse-social-no-rio-grande-do-sul. Acesso em: 10 jul. 2017.
+    \n\n- PREFEITURA MUNICIPAL DE PORTO ALEGRE. Alpes. Disponível em: http://www2.portoalegre.rs.gov.br/gpn/default.php?p_secao=71. Acesso em: 10 jul. 2017.
+    \n\n- <b>Link do vídeo no YouTube:</b> https://www.youtube.com/watch?v=3o7tQrsJL5E \n
+</string>
 
-        <b>
-        Fontes: BRASIL. \n
-            Assessoria de Comunicação Social do Incra/rs.
-            Instituto Nacional de Colonização e Reforma Agrária.
-        Território quilombola dos Alpes é decretado de interesse social no Rio Grande do Sul. 2016.
-            Publicado em 03 ago. 2016. \n\n
-
-        Disponível em:
-            http://www.incra.gov.br/noticias/territorio-quilombola-dos-alpes-e-decretado-de-interesse-social-no-rio-grande-do-sul>.
-            Acesso em: 10 jul. 2017. \n\n
-            PREFEITURA MUNICIPAL DE PORTO ALEGRE. Alpes. Disponível em:
-            http://www2.portoalegre.rs.gov.br/gpn/default.php?p_secao=71>.
-            Acesso em: 10 jul. 2017. \n\n
-        </b>
-
-    </string>
 
     <string name="textoDireitosLayoutQuilomboArealDaBaronesa">
         FOTO POR NEPEVI/PUCRS
     </string>
 
     <string name="texto_quilopoa02">
-        Abriga pelo menos 70 famílias, segundo o Instituto Nacional de Colonização e Reforma Agrária (INCRA). \n\n
-        <b>
-            Fonte: \n
-        </b>
-        <b>
-            http://www.canalrural.com.br/noticias/agricultura/quilombo-areal-resgata-historia-cultural-desde-epoca-escravidao-14187
-            \n\n
-        </b>
-
-        Situado no limite entre os bairros Cidade Baixa e Menino \n Deus, o Areal da Baronesa é um dos espaços de cultura negra mais tradicionais de Porto Alegre.
-        Teve origem no século XIX, quando passou a ser reduto de ex-escravos e seus descendentes, que ocupavam a chácara da Baronesa do Gravataí. Ela deixou as terras
-        para seus escravos. A área de 4,5 mil metros quadrados fica na avenida Luiz Guaranha, rua sem saída, onde vivem 80 famílias. A comunidade é legatária da área
-        conhecida por ter uma das primeiras ruas de Porto Alegre, pelas casas de religião, pelo Carnaval de Rua e por seus músicos populares. Ocupa um beco, a que chamam de
-        avenida – uma pequena rua com casas geminadas. As fachadas de antigas casas são preservadas, por seu caráter histórico. (PMPA, 2015)
-
-        \n\n As sociabilidades de rua e as relações de auxílio mútuo, caracterizam o “morar em casa de avenida” - modo de vida que é um dos elementos centrais na identidade
-        dessa comunidade. São aproximadamente 80 famílias que vivem em uma das últimas “avenidas” da região, a Luís Guaranha, historicamente ocupada por famílias negras.
-        As fachadas de antigas casas são preservadas, por seu caráter histórico. Através de participação política, lideranças da comunidade obtiveram no Orçamento
-        Participativo da cidade a construção de 12 novas casas no local.
-
-        \n\n Seus integrantes trabalham como serventes, domésticas, policiais da Brigada Militar, entre outros. Historicamente esta área ficou na memória dos habitantes da
-        cidade, principalmente os antigos carnavalescos como Areal da Baronesa, um dos mais antigos arraiais de Porto Alegre, que surgiu na região denominada na acepção
-        popular de Cidade Baixa, estava localizada ao sul da Colina da Rua Duque de Caxias, e recebeu sua delimitação oficial somente em 1959.
-
-        \n\n <b>Fonte: Diversidade e proteção social: estudos quanti-qualitativos das populações de Porto Alegre: afro-brasileiros; crianças, adolescentes e adultos em
-        situação de rua; coletivos indígenas remanescentes de quilombos/organizado por Ivaldo Gehlen, Marta Borba Silva e Simone Ritta dos Santos.
-
-        \nPorto Alegre: Century, 2008. 280p. </b>
+        O Quilombo do Areal, também conhecido como Areal da Baronesa, é uma comunidade quilombola centenária situada no limite entre os bairros Cidade Baixa e Menino Deus, em Porto Alegre (RS).
+        \n\n
+        De acordo com o Instituto Nacional de Colonização e Reforma Agrária (INCRA), ali vivem pelo menos 70 famílias, mas estimativas locais indicam um número superior a 80 e até mais de 100 famílias, distribuídas por cerca de 4,5 mil metros quadrados na Avenida Luiz Guaranha — uma rua sem saída, também chamada pelos moradores de “avenida”.
+        \n\n
+        A origem da comunidade remonta ao século XIX, quando ex-escravizados e seus descendentes passaram a ocupar a chácara pertencente à Baronesa do Gravataí, que deixou essas terras para seus antigos escravizados. O Areal da Baronesa é reconhecido por ser uma das áreas negras mais tradicionais de Porto Alegre, preservando características históricas como as fachadas de antigas casas, além de manter vivas suas expressões culturais, como o Carnaval de Rua, terreiros de religião de matriz africana e a forte presença de músicos populares.
+        \n\n
+        As relações de vizinhança e auxílio mútuo — conhecidas como “morar em casa de avenida” — são centrais na identidade da comunidade. Essa dinâmica de cooperação foi fundamental para garantir conquistas como a construção de 12 novas moradias por meio do Orçamento Participativo da cidade. Entre as ocupações atuais dos moradores estão trabalhos como serventes, empregadas domésticas e policiais da Brigada Militar.
+        \n\n
+        Historicamente, o Areal da Baronesa figura na memória da cidade, sobretudo no imaginário dos antigos carnavalescos, por ser um dos mais antigos arraiais de Porto Alegre. Antes mesmo de receber delimitação oficial em 1959, a região era popularmente considerada parte da Cidade Baixa, localizada ao sul da Colina da Rua Duque de Caxias.
+        \n\n
+        O Núcleo de Estudos Geografia &amp; Ambiente (NEGA/UFRGS), com a mediação de Ubirajara Toledo (membro do Instituto de Assessoria às Comunidades Remanescentes de Quilombos — IACOREQ), realizou a cartografia social do Quilombo do Areal em parceria com Fabiane de Figueiredo Xavier, uma das lideranças quilombolas do local.
+        \n\n
+        <b>Referências:</b>
+        \n- Quilombo do Areal: legatários do Areal da Baronesa. Porto Alegre: INCRA/RS, 2013. (Relatório Técnico de Identificação e Demarcação).
+        \n- PESSAVENTO, Sandra Jatahy. Lugares Malditos: A cidade do ‘outro’ no sul do brasileiro (Porto Alegre, passagem do século XIX ao século XX). Rev. Bras. Hist., São Paulo, v. 19, n. 37, set. 1999.
+        \n- <b>Link do vídeo no YouTube:</b> https://www.youtube.com/watch?v=XE9LGSfDi6I
     </string>
+
+
 
     <string name="textoDireitosLayoutQuilomboSilva">
         FOTO CLICRBS, POR NESTOR TIPA JÚNIOR
     </string>
 
     <string name="texto_quilopoa03">
-        O bairro Três Figueiras abriga há mais de 60 anos os descendentes da Família Silva,
-        que moram no final da rua projetada João Caetano, entre a Avenida Carlos Gomes e Nilo Peçanha. Formada por 15 famílias,
-        esta população habita um dos espaços mais valorizados de Porto Alegre.
-        \n\n Com o avanço dos condomínios de luxo no seu entorno,
-        a Família sofreu várias tentativas de retirada. Sua origem estaria ligada à Colônia Africana, antigo bairro de
-        Porto Alegre, mas laudo antropológico finalizado no ano de 2004 aponta que os seus fundadores teriam vindo do interior
-        do Rio Grande do Sul, sua relação com a Colônia Africana, com certeza, existia, pois alguns membros da comunidade se
-        referiam ao lugar onde haveria vivência religiosa ligada aos cultos de matriz afro-brasileira. \n\n Alguns dos filhos exercem a
-        profissão dos seus pais como a de jardineiro; os demais membros trabalham em casas do entorno como auxiliares de limpeza,
-        cozinheiras e de carregador de tacos de golfe no Country Club. Seus integrantes preservam os conhecimentos ancestrais
-        de ervas medicinais para o preparo de uma garrafada que alivia dores musculares. Vivem em pequenas casas de madeira. \n\n
+        O bairro Três Figueiras abriga, há mais de 60 anos, os descendentes da Família Silva,
+        que residem no final da Rua Projetada João Caetano, entre as avenidas Carlos Gomes e Nilo Peçanha.
+        Composta por 15 famílias, essa comunidade ocupa uma das áreas mais valorizadas de Porto Alegre.
+
+        \n\nCom o avanço dos condomínios de luxo ao seu redor, a comunidade enfrentou diversas tentativas de remoção.
+        Sua origem remonta à antiga Colônia Africana, um bairro histórico de Porto Alegre, mas um laudo antropológico
+        concluído em 2004 indica que seus fundadores vieram do interior do Rio Grande do Sul. Apesar disso,
+        a relação com a Colônia Africana era evidente, pois alguns membros da comunidade relatavam vivências religiosas
+        ligadas aos cultos de matriz afro-brasileira.
+
+        \n\nAtualmente, muitos dos filhos seguem as profissões de seus pais, como jardineiros, enquanto outros trabalham
+        como auxiliares de limpeza, cozinheiras e carregadores de tacos de golfe no Country Club. Além disso, os moradores
+        preservam conhecimentos ancestrais sobre ervas medicinais, utilizando-as para preparar uma garrafada que alivia
+        dores musculares. A maioria das famílias vive em pequenas casas de madeira.
+
+        \n\nQuilombo da família Silva:
+        O Quilombo da Família Silva é o primeiro quilombo urbano titulado no Brasil. Seu decreto de reconhecimento foi
+        assinado em 2006, e o título parcial foi emitido em 2009. A comunidade está localizada no bairro Três Figueiras,
+        um dos mais valorizados de Porto Alegre. Atualmente, ocupa uma área de 6.510,7808 metros quadrados (INCRA, 2006)
+        dentro dos 1,34 km² do bairro, e abriga mais de 20 famílias, totalizando aproximadamente 70 pessoas.
+
+        \n\nEsse território é um símbolo de resistência quilombola em meio ao espaço urbano, enfrentando desafios como
+        a violência, o racismo estrutural e a falta de diálogo por parte das autoridades.
+
+        \n\nReferências:\n\n
+        BLOG QUILOMBO FAMÍLIA SILVA.\n
+        Acesso em: 13 dez. 2019.\n
+        LEITE, Ilka Boaventura. Quilombos e Quilombolas: cidadania ou folclorização? Horizontes Antropológicos,
+        Porto Alegre, ano 5, n. 10, p. 123-149, 1999.
+
+        \n\nDisponível em:\n
+    </string>
+
+    <string name="link_quilomboSilva">
+    http://quilombofamiliasilva.blogspot.com/
+    </string>
+
+    <string name="link_familiaSilva">
+    https://www.youtube.com/watch?v=Q_a59uVWAYg
     </string>
 
 
@@ -327,37 +381,32 @@ Metropolitana. O Quilombo Alpes é o quinto dessa reportagem especial.
     </string>
 
     <string name="texto_quilopoa04">
-        A Família Fidélix é como se denomina a comunidade localizada na região do bairro Cidade Baixa, na Rua Otto Ernest Maier,
-        limitada por um lado pela Rua Sebastião Leão e pelo outro lado pelo Hospital de Porto Alegre. Com 32 famílias, na sua maioria
-        egressa da cidade de Santana do Livramento, a comunidade foi fundada há cerca de 25 anos, na década de 1980.
+    O Quilombo da Família Fidélix está localizado na Rua Otto Ernest Mayer, próximo ao limite entre os bairros Azenha e Cidade Baixa, em Porto Alegre (RS).
+    Atualmente, 29 famílias vivem no local e reivindicam a demarcação de seu território.
+    \n\n
+    A comunidade, que se autodenomina Família Fidélix, tem sua origem ligada a migrantes vindos principalmente de Santana do Livramento.
+    Fundada há cerca de 25 anos, na década de 1980, sua formação se deu por meio da ocupação de um espaço que, segundo relatos, era um “mato só”.
+    \n\n
+    Os fundadores Sérgio Ivan Fidélix, Milton Waldir Teixeira Santana e Hamilton Correa Lemos se conheceram em um bar na Rua Lima e Silva, um dos pontos de lazer da comunidade.
+    O crescimento do território se deu ao longo das décadas de 1980 e 1990, com a construção das primeiras moradias e a formação de laços comunitários fortes.
+    \n\n
+    Historicamente, a comunidade se reconhece como legatária da Ilhota, um antigo território negro de Porto Alegre.
+    Essa área sofreu transformações significativas ao longo do século XX, principalmente com o Projeto Renascença, na década de 1970,
+    que canalizou o Arroio Dilúvio e formou a Avenida Ipiranga. A especulação imobiliária e a construção do Hospital de Porto Alegre levaram
+    à remoção de grande parte da população negra da região para áreas periféricas, como a Restinga Velha.
+    \n\n
+    Apesar das mudanças, a Comunidade Família Fidélix permaneceu na área e fortaleceu suas raízes, criando espaços de lazer, como um campo de futebol,
+    e desenvolvendo uma rede de apoio entre os moradores. A fundação da associação de moradores e da associação quilombola foi essencial
+    para reivindicar a regularização da terra e garantir melhores condições de vida para as famílias.
+    \n\n
+    <b>Referências:</b>
+    \n- ANJOS, José Carlos dos (Coord.). Relatório Sócio, Histórico e Antropológico da comunidade quilombola Família Fidélix – Porto Alegre, RS. Porto Alegre: UFRGS; INCRA-RS, 2009.
+    \n\n- <b>Link do vídeo no YouTube:\n</b> https://www.youtube.com/watch?v=Q93Snswh8oQ
+    \n\n-26 de maio de 2011. Quarto capítulo da reportagem especial sobre os Quilombos Urbanos da região metropolitana de Porto Alegre.
+    Aborda a história do Quilombo do Areal, no bairro Cidade Baixa, Porto Alegre:
+    \n https://www.youtube.com/watch?v=DKHGd6YMYiY \n
+</string>
 
-        \n\n Os fundadores Sérgio
-        Ivan Fidélix, Milton Waldir Teixeira Santana e Hamilton Correa Lemos vieram para Porto Alegre nesta mesma década. Encontravam-se
-        nos mesmos lugares de lazer, um bar situado na Rua Lima e Silva, e acabaram ocupando o espaço que, segundo seus relatos, era um
-        “mato só”. Quando referem-se a este espaço e seu entorno no passado, remetem-se a outro território na memória da cidade de Porto
-        Alegre, a Ilhota do qual se dizem legatários.
-
-        \n\n Seu crescimento deu-se na década de 1940.
-
-        \n\n O Projeto Renascença (que propunha um
-        renascimento de um novo lugar apagando sua desorganização e pobreza), executado na década de 1970, canalizou o Arroio Dilúvio,
-        formando a Avenida Ipiranga, e parcelando a área em lotes comercializados pela especulação imobiliária. Sua população na maioria
-        foi retirada para a área da Restinga Velha.
-
-        \n\n Parte desta área, no final da década de 1970, foi cedida para a construção do Hospital
-        de Porto Alegre, vinculado inicialmente ao funcionalismo municipal. O entorno foi então ocupado pelos integrantes da
-        Comunidade Família Fidélix, que paulatinamente construíam suas moradias, nas décadas posteriores 1980 e 1990 , constituindo
-        lugares de lazer como o campo de futebol. Fortaleceram os laços de compadrio e de vizinhança, ampliando o espaço de atuação
-        política com a fundação da associação de moradores e quilombola para as demandas sociais e o pleito de regularização da terra. \n\n
- </string>
-
-    <string name="video_quilopoa01">
-        26 de maio de 2011. Quarto capítulo da reportagem especial sobre os Quilombos Urbanos da região metropolitana
-        de Porto Alegre. Fala sobre o quilombo do Areal, no bairro Cidade Baixa, em Porto Alegre\n\n
-        <b> Vídeo: \n
-            https://www.youtube.com/watch?v=DKHGd6YMYiY</b>
-        \n\n
-    </string>
 
     <string name="titulo_quilomboAnastacia">
         Quilombo Anastácia
@@ -448,7 +497,7 @@ Metropolitana. O Quilombo Silva é segundo dessa reportagem especial.
     <!-- QUILOMBOS DE PORTO ALEGRE -->
 
     <!-- LEGISLAÇÃO -->
-    <string name="titulo_lei_estatudo_idoso">Legislação 1 Estatuto do Idoso</string>
+    <string name="titulo_lei_estatudo_idoso">Estatuto do Idoso</string>
     <string name="titulo_lei_legislacao_conselho_tutelar"> ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI 8.069, de 13 de junho de 1990)\n</string>
     <string name="titulo_politica_nacional_de_assistencia_social"> Política Nacional de Assistência Social</string>
     <string name="titulo_estatuto_juventude">ESTATUTO DA JUVENTUDE (LEI 12852, de 05 de agosto de 2013)\n</string>

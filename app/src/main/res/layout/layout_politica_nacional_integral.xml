@@ -15,7 +15,7 @@
             android:layout_height="wrap_content"
             android:orientation="vertical" >
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoPopulacaoNegra"
                 android:text="@string/textoPoliticaNacionalIntegral"
                 android:layout_width="wrap_content"
@@ -24,7 +24,7 @@
                 android:linksClickable="true"
                 style="@style/estiloTextoComplemento" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTextoComplementoPopulacaoNegra"
                 android:layout_below="@+id/textViewTextoPopulacaoNegra"
                 android:text="@string/textoComplementoPoliticaNacionalIntegral"

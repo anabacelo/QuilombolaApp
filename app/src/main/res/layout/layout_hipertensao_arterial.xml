@@ -14,7 +14,7 @@
             android:layout_height="wrap_content"
             android:orientation="vertical" >
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTexotHipertensao"
                 android:text="@string/textoHipertensao"
                 android:layout_width="wrap_content"
@@ -23,7 +23,7 @@
                 android:linksClickable="true"
                 style="@style/estiloTextoComplemento" />
 
-            <com.example.anapaula.quilombolaappv4.JustifyTextView
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
                 android:id="@+id/textViewTexoComplementotHipertensao"
                 android:layout_below="@+id/textViewTexotHipertensao"
                 android:text="@string/textoComplementoHipertensao"
