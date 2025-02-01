@@ -15,9 +15,9 @@ jobs:
       - name: Configurar JDK
         uses: actions/setup-java@v3
         with:
-	  distribution: 'temurin'
+          distribution: 'temurin'
           java-version: '11'
-
+          
       - name: Build do APK
         run: ./gradlew assembleRelease
 
