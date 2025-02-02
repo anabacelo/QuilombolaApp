@@ -17,6 +17,9 @@ jobs:
         with:
           distribution: 'temurin'
           java-version: '11'
+
+      - name: Dar permissão de execução ao gradlew
+        run: chmod +x gradlew
           
       - name: Build do APK
         run: ./gradlew assembleRelease
