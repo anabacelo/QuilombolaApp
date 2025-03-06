@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_quilombo_fidelix"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/textViewLayoutQuilomboOuro"
+                android:text="@string/titulo_quilomboOuro"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoTitulo" />
+
+            <ImageView
+                android:id="@+id/imageViewLayoutQuilomboOuro"
+                android:layout_below="@id/textViewLayoutQuilomboOuro"
+                android:src="@drawable/quilombo_ouro"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloImagem" />
+
+            <TextView
+                android:id="@+id/textViewTextoDireitosLayoutQuilomboOuro"
+                android:layout_below="@id/imageViewLayoutQuilomboOuro"
+                android:text="@string/textoDireitosLayoutQuilomboOuro"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
+
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
+                android:id="@+id/textquiloOuro"
+                android:layout_below="@+id/textViewTextoDireitosLayoutQuilomboOuro"
+                android:text="@string/texto_quilombo_ouro"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:linksClickable="true"
+                style="@style/estiloTextoConteudo" />
+
+        </RelativeLayout>
+    </ScrollView>
+</LinearLayout>

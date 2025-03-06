@@ -5,7 +5,7 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:8.6.0' // Keep your current AGP version
+        classpath 'com.android.tools.build:gradle:8.5.0' // Keep your current AGP version
         classpath "androidx.navigation:navigation-safe-args-gradle-plugin:2.8.1" // Update to the latest version
     }
 }

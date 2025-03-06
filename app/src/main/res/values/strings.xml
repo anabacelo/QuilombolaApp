@@ -430,6 +430,43 @@ Metropolitana. O Quilombo Alpes é o quinto dessa reportagem especial.
         comunidade quilombola no município de Viamão/RS. Dissertação. Programa de Pós-Graduação em Antropologia Social UFGRS. 2006.
     </string>
 
+    <string name="titulo_quilomboOuro">
+       Quilombo Família de Ouro
+    </string>
+
+    <string name="textoDireitosLayoutQuilomboOuro">
+       Foto: Clara Aguiar
+    </string>
+
+    <string name="texto_quilombo_ouro">
+        O Quilombo Família de Ouro Ylê de Oxum e Ossanha está localizado na Vila MAPA, na parada 4 do bairro Lomba do Pinheiro, em Porto Alegre (RS).
+        Atualmente, mais de 80 famílias estão unidas por vínculos espirituais e de parentesco na comunidade.
+
+        A comunidade, que se autodenomina Quilombo Família de Ouro, é a oitava comunidade quilombola de Porto Alegre a se autorreconhecer.
+        Sua origem está ligada à tradição religiosa de matriz africana, seguindo os preceitos africanistas e umbandistas, cultivados por gerações na família de sua matriarca, Patrícia de Lourdes Peres da Rosa, conhecida como Mãe Paty.
+
+        O Núcleo de Estudos Geografia e Ambiente (NEGA/UFRGS), em parceria com a Frente Quilombola do RS, realizou a cartografia social da comunidade, destacando sua importância histórica e cultural.
+        Mãe Paty é a principal representante política e espiritual do Ylê de Oxum e Ossanha, liderando a comunidade na preservação de suas tradições e na luta por reconhecimento e direitos.
+
+        A comunidade se fortaleceu ao longo dos anos, mantendo suas raízes religiosas e culturais, e construindo uma rede de apoio entre seus membros.
+        A fundação da associação quilombola foi essencial para reivindicar a regularização do território e garantir melhores condições de vida para as famílias.
+
+        <b>Referências:</b>
+        \n- Dados coletados pela Frente Quilombola do RS e NEGA/UFRGS.
+        \n- Entrevistas com lideranças comunitárias, incluindo Mãe Paty.
+        \n- <b>Link do vídeo no YouTube:</b>
+        \n https://www.youtube.com/watch?v=exemplo_quilombo_familia_ouro
+    </string>
+
+
+    <string name="textoReferenciaQuilomboOuro">
+        ACSELRAD, Henri (org.). Cartografias Sociais e Território.
+        Rio de Janeiro: IPPUR/ UFRJ, 2008.
+        FREIRE, Eduardo Duarte et al. (org.). Lomba do Pinheiro
+        (Memória dos Bairros). Porto Alegre: Unidade Editorial da
+        Secretaria Municipal da Cultura de Porto Alegre, 2000.
+    </string>
+
     <string name="titulo_quilomboLemos">
        Quilombo Família Lemos
     </string>
