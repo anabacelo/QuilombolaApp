@@ -56,6 +56,8 @@ public class NavQuilombosPortoAlegre extends Fragment
         Integer layoutQuilomboSilva = R.layout.layout_quilombo_silva;
         Integer layoutQuilomboFidelix = R.layout.layout_quilombo_fidelix;
         Integer layoutQuilomboLemos = R.layout.layout_quilombo_lemos;
+        Integer layoutQuilomboOuro = R.layout.layout_quilombo_de_ouro;
+        Integer layoutQuilomboMocambo = R.layout.layout_quilombo_mocambo;
 
         Integer layoutQuilomboAnastacia = R.layout.layout_quilombo_anastacia;
 
@@ -73,6 +75,8 @@ public class NavQuilombosPortoAlegre extends Fragment
         listDataHeader.add("Quilombo Família Silva");
         listDataHeader.add("Quilombo Família Fidélix");
         listDataHeader.add("Quilombo Família Lemos");
+        listDataHeader.add("Quilombo Família Ouro");
+        listDataHeader.add("Quilombo Mocambo");
 
         listDataHeader.add("Quilombo Anastácia");
 
@@ -104,10 +108,16 @@ public class NavQuilombosPortoAlegre extends Fragment
         layoutList7.add(layoutQuilomboLemos);
 
         List<Integer> layoutList8 = new ArrayList<>();
-        layoutList8.add(layoutQuilomboAnastacia);
+        layoutList8.add(layoutQuilomboOuro);
 
         List<Integer> layoutList9 = new ArrayList<>();
-        layoutList9.add(layoutEntrevistas);
+        layoutList9.add(layoutQuilomboMocambo);
+
+        List<Integer> layoutList10 = new ArrayList<>();
+        layoutList10.add(layoutQuilomboAnastacia);
+
+        List<Integer> layoutList11 = new ArrayList<>();
+        layoutList11.add(layoutEntrevistas);
 
 
         listHash.put(listDataHeader.get(0), layoutList0);
@@ -120,5 +130,7 @@ public class NavQuilombosPortoAlegre extends Fragment
         listHash.put(listDataHeader.get(7), layoutList7);
         listHash.put(listDataHeader.get(8), layoutList8);
         listHash.put(listDataHeader.get(9), layoutList9);
+        listHash.put(listDataHeader.get(10), layoutList10);
+        listHash.put(listDataHeader.get(11), layoutList11);
     }
 }
