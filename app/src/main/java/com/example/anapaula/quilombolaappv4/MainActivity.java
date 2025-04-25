@@ -22,6 +22,7 @@ import com.example.anapaula.quilombolaappv4.ui.navigation.NavSaudeNegra;
 import com.example.anapaula.quilombolaappv4.ui.navigation.NavSerQuilombola;
 import com.example.anapaula.quilombolaappv4.ui.navigation.NavServicosSociais;
 import com.example.anapaula.quilombolaappv4.ui.navigation.HomePage;
+import com.example.anapaula.quilombolaappv4.ui.navigation.NavVacinacao;
 import com.example.anapaula.quilombolaappv4.utils.IOnBackPressed;
 import com.google.android.material.navigation.NavigationView;
 import androidx.core.view.GravityCompat;
@@ -175,6 +176,13 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             FragmentManager manager = getSupportFragmentManager();
             manager.beginTransaction().replace(R.id.fragment, navSaudeNegra).commit();
 
+        }
+
+        else if (id == R.id.nav_vacinacao) {
+            setTitle("Informações sobre vacinação");
+            NavVacinacao vacinacao = new NavVacinacao();
+            FragmentManager manager = getSupportFragmentManager();
+            manager.beginTransaction().replace(R.id.fragment, vacinacao).commit();
         }
 
         else if (id == R.id.nav_6) {

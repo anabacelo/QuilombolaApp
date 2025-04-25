@@ -68,11 +68,19 @@
             android:titleCondensed="Como Usar o PIAPS"
             />
 
+
         <item
             android:id="@+id/nav_atencao_aos_quilombolas"
             android:icon="@drawable/baseline_local_hospital_24"
             android:title="Atenção à Saúde da População Quilombola"
             android:titleCondensed="Atenção à Saúde Quilombola"
+            />
+
+        <item
+            android:id="@+id/nav_vacinacao"
+            android:icon="@drawable/baseline_local_hospital_24"
+            android:title="Informações sobre vacinação"
+            android:titleCondensed="Vacinação"
             />
 
         <item
