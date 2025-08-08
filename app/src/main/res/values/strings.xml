@@ -124,6 +124,16 @@ Navegue à vontade!!!
 
     </string>
 
+    <string name="titulo_atencao_primaria_saude"> Atenção Primária à Saúde </string>
+
+    <string name="textoSaudePrimaria">
+        A Atenção Primária à Saúde é o conjunto de ações em saúde individuais, familiares e coletivas que envolvem promoção, prevenção, proteção, diagnóstico, tratamento, reabilitação redução de danos, cuidados paliativos e vigilância em saúde, desenvolvida por meio de práticas de cuidado integrado e realizada por equipes multiprofissionais, dirigida para uma população em território definido sob responsabilidade das equipes de saúde. É norteada pela Política de Atenção Primária do Município de Porto Alegre, que visa delimitar princípios e diretrizes gerais de organização dos serviços.\n\n
+        
+        Portal da Prefeitura de Porto Alegre - Atenção Primária à Saúde:\n
+        https://prefeitura.poa.br/sms/atencao-primaria-saude\n\n
+
+        Acesse o portal oficial para informações sobre unidades de saúde, atendimentos, vacinação, saúde mental e todos os serviços de atenção primária disponíveis no município de Porto Alegre.\n
+    </string>
 
     <string name="texto_beneficios02">
 

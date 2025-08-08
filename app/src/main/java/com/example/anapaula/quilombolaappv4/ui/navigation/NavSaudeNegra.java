@@ -57,6 +57,7 @@ public class NavSaudeNegra extends Fragment {
         Integer layoutHipertensaoArterial = R.layout.layout_hipertensao_arterial;
         Integer layoutMiomaUterino = R.layout.layout_mioma_uterino;
         Integer layoutQuilombosAtendidosSUS = R.layout.layout_quilombos_atendidos_sus;
+        Integer layoutSaudePrimaria = R.layout.layout_atencao_primaria_a_saude;
 
         listDataHeader = new ArrayList<String>();
         listHash = new HashMap<>();
@@ -69,6 +70,7 @@ public class NavSaudeNegra extends Fragment {
         listDataHeader.add("Hipertensão Arterial Sistêmica");
         listDataHeader.add("Mioma Uterino");
         listDataHeader.add("Atendimento SUS para os Quilombos");
+        listDataHeader.add("Atenção Primária à Saúde");
 
         List<Integer> layoutList0 = new ArrayList<>();
         layoutList0.add(layoutSaudePopulacaoNegra);
@@ -94,6 +96,9 @@ public class NavSaudeNegra extends Fragment {
         List<Integer> layoutList7 = new ArrayList<>();
         layoutList7.add(layoutQuilombosAtendidosSUS);
 
+        List<Integer> layoutList8 = new ArrayList<>();
+        layoutList8.add(layoutSaudePrimaria);
+
         listHash.put(listDataHeader.get(0), layoutList0);
         listHash.put(listDataHeader.get(1), layoutList1);
         listHash.put(listDataHeader.get(2), layoutList2);
@@ -102,5 +107,6 @@ public class NavSaudeNegra extends Fragment {
         listHash.put(listDataHeader.get(5), layoutList5);
         listHash.put(listDataHeader.get(6), layoutList6);
         listHash.put(listDataHeader.get(7), layoutList7);
+        listHash.put(listDataHeader.get(8), layoutList8);
     }
 }
