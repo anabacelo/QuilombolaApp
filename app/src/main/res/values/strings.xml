@@ -1924,6 +1924,32 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         caminho nas fugas para os quilombos. A simbologia da resistência também é muito forte nas tranças nagô.
     </string>
 
+    <string name="texto_curiosidade_rosario_titulo">
+        "Saberes do Rosário: Patrimônio Cultural do Brasil"
+    </string>
+
+    <string name="texto_curiosidade_rosario_introducao">
+        O Instituto do Patrimônio Histórico e Artístico Nacional (Iphan) reconheceu oficialmente os Saberes do Rosário: Reinados, Congados e Congadas como Patrimônio Cultural do Brasil. É o reconhecimento da força da fé e da resistência negra que atravessa gerações e molda a identidade do nosso país.
+    </string>
+
+    <string name="texto_curiosidade_rosario_complemento">
+        Com imensa alegria, celebramos que as Irmandades de Nossa Senhora do Rosário de Mostardas e de Tavares foram incluídas nesse reconhecimento histórico!
+
+A decisão foi anunciada durante reunião do Conselho Consultivo do Iphan, acompanhada por representantes das festas em Belo Horizonte. O processo de reconhecimento — que durou cerca de 20 anos — foi construído com ampla participação de comunidades, pesquisadores, agentes públicos e instituições comprometidas com a preservação da memória negra no Brasil.
+    </string>
+
+    <string name="texto_curiosidade_rosario_continuacao">
+        Para o instituto, trata-se de uma das expressões mais profundas da cultura afro-brasileira e da fé popular, que agora passa a integrar o Livro de Registro das Celebrações, como bem imaterial do patrimônio cultural brasileiro.
+
+Em 12 de julho de 1804, Dom João VI autorizou a formação da Irmandade do Rosário de Mostardas por homens negros dançantes do Ensaio de Promessa — uma herança ancestral que pulsa há mais de dois séculos no Litoral Negro Gaúcho.
+
+Cada toque de tambor ecoa a memória dos que vieram antes, mantendo viva uma cultura de fé, luta e esperança.
+    </string>
+
+    <string name="texto_curiosidade_rosario_final">
+        Viva os Saberes do Rosário! Viva as Irmandades! Viva o povo negro e quilombola que transforma memória em resistência!
+    </string>
+
 
     <!-- CURIOSIDADES -->
 
