@@ -230,6 +230,55 @@
                 android:layout_below="@+id/imageViewDesenhosGrafite1546873383437"
                 android:text="@string/textoDireitoAutoralDaImagemDoAdalbertoReisDosSantos" />
 
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
+                android:id="@+id/textViewRosarioTitulo"
+                style="@style/estiloTextoTituloNormal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textViewTextoDireitoAutoralDaImagemDoAdalbertoReisDosSantos"
+                android:layout_marginTop="20dp"
+                android:text="@string/texto_curiosidade_rosario_titulo" />
+
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
+                android:id="@+id/textViewRosarioIntroducao"
+                style="@style/estiloTextoConteudo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textViewRosarioTitulo"
+                android:text="@string/texto_curiosidade_rosario_introducao" />
+
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
+                android:id="@+id/textViewRosarioComplemento"
+                style="@style/estiloTextoConteudo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textViewRosarioIntroducao"
+                android:text="@string/texto_curiosidade_rosario_complemento" />
+
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
+                android:id="@+id/textViewRosarioContinuacao"
+                style="@style/estiloTextoConteudo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textViewRosarioComplemento"
+                android:text="@string/texto_curiosidade_rosario_continuacao" />
+
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
+                android:id="@+id/textViewRosarioFinal"
+                style="@style/estiloTextoConteudo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textViewRosarioContinuacao"
+                android:text="@string/texto_curiosidade_rosario_final" />
+
+            <ImageView
+                android:id="@+id/imageViewRosarioFinal"
+                style="@style/estiloImagem"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textViewRosarioFinal"
+                android:src="@drawable/rosario" />
+
         </RelativeLayout>
     </ScrollView>
             </LinearLayout>

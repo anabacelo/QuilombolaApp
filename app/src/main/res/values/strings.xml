@@ -124,6 +124,16 @@ Navegue à vontade!!!
 
     </string>
 
+    <string name="titulo_atencao_primaria_saude"> Atenção Primária à Saúde </string>
+
+    <string name="textoSaudePrimaria">
+        A Atenção Primária à Saúde é o conjunto de ações em saúde individuais, familiares e coletivas que envolvem promoção, prevenção, proteção, diagnóstico, tratamento, reabilitação redução de danos, cuidados paliativos e vigilância em saúde, desenvolvida por meio de práticas de cuidado integrado e realizada por equipes multiprofissionais, dirigida para uma população em território definido sob responsabilidade das equipes de saúde. É norteada pela Política de Atenção Primária do Município de Porto Alegre, que visa delimitar princípios e diretrizes gerais de organização dos serviços.\n\n
+        
+        Portal da Prefeitura de Porto Alegre - Atenção Primária à Saúde:\n
+        https://prefeitura.poa.br/sms/atencao-primaria-saude\n\n
+
+        Acesse o portal oficial para informações sobre unidades de saúde, atendimentos, vacinação, saúde mental e todos os serviços de atenção primária disponíveis no município de Porto Alegre.\n
+    </string>
 
     <string name="texto_beneficios02">
 
@@ -1912,6 +1922,32 @@ A partir de todos estes elementos é possível ter uma dimensão da importância
         Aqui no Brasil e em outros países da América Latina como a Colômbia, no período da escravidão elas foram usadas de maneira muito inteligente, como forma de comunicação
         entre os negros. As mulheres negras tinham o costume da trançar seus cabelos e faziam os mapas na cabeça umas das outras, desenhados com as tranças para encontrar o
         caminho nas fugas para os quilombos. A simbologia da resistência também é muito forte nas tranças nagô.
+    </string>
+
+    <string name="texto_curiosidade_rosario_titulo">
+        "Saberes do Rosário: Patrimônio Cultural do Brasil"
+    </string>
+
+    <string name="texto_curiosidade_rosario_introducao">
+        O Instituto do Patrimônio Histórico e Artístico Nacional (Iphan) reconheceu oficialmente os Saberes do Rosário: Reinados, Congados e Congadas como Patrimônio Cultural do Brasil. É o reconhecimento da força da fé e da resistência negra que atravessa gerações e molda a identidade do nosso país.
+    </string>
+
+    <string name="texto_curiosidade_rosario_complemento">
+        Com imensa alegria, celebramos que as Irmandades de Nossa Senhora do Rosário de Mostardas e de Tavares foram incluídas nesse reconhecimento histórico!
+
+A decisão foi anunciada durante reunião do Conselho Consultivo do Iphan, acompanhada por representantes das festas em Belo Horizonte. O processo de reconhecimento — que durou cerca de 20 anos — foi construído com ampla participação de comunidades, pesquisadores, agentes públicos e instituições comprometidas com a preservação da memória negra no Brasil.
+    </string>
+
+    <string name="texto_curiosidade_rosario_continuacao">
+        Para o instituto, trata-se de uma das expressões mais profundas da cultura afro-brasileira e da fé popular, que agora passa a integrar o Livro de Registro das Celebrações, como bem imaterial do patrimônio cultural brasileiro.
+
+Em 12 de julho de 1804, Dom João VI autorizou a formação da Irmandade do Rosário de Mostardas por homens negros dançantes do Ensaio de Promessa — uma herança ancestral que pulsa há mais de dois séculos no Litoral Negro Gaúcho.
+
+Cada toque de tambor ecoa a memória dos que vieram antes, mantendo viva uma cultura de fé, luta e esperança.
+    </string>
+
+    <string name="texto_curiosidade_rosario_final">
+        Viva os Saberes do Rosário! Viva as Irmandades! Viva o povo negro e quilombola que transforma memória em resistência!
     </string>
 
 
