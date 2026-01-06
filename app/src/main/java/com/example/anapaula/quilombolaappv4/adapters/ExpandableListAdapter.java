@@ -1,6 +1,7 @@
 package com.example.anapaula.quilombolaappv4.adapters;
 
 import android.content.Context;
+import android.content.Intent;
 import android.graphics.Typeface;
 import android.view.Gravity;
 import android.view.LayoutInflater;
@@ -10,6 +11,7 @@ import android.widget.BaseExpandableListAdapter;
 import android.widget.TextView;
 
 import com.example.anapaula.quilombolaappv4.R;
+import com.example.anapaula.quilombolaappv4.VideoPlayerActivity;
 
 import java.util.HashMap;
 import java.util.List;
@@ -92,7 +94,31 @@ public class ExpandableListAdapter extends BaseExpandableListAdapter {
         LayoutInflater inflater = (LayoutInflater)this.context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
         view = inflater.inflate(childViewId, null);
 
+        // Lógica para os vídeos do Quilombo do Areal
+        if (childViewId == R.layout.layout_quilombo_areal) {
+            setupArealVideos(view);
+        }
+
         return view;
+    }
+
+    private void setupArealVideos(View view) {
+        View btn1 = view.findViewById(R.id.btnVideoAreal1);
+        View btn2 = view.findViewById(R.id.btnVideoAreal2);
+        View btn3 = view.findViewById(R.id.btnVideoAreal3);
+        View btn4 = view.findViewById(R.id.btnVideoAreal4);
+
+        if (btn1 != null) btn1.setOnClickListener(v -> startVideo(R.raw.videoplayback));
+        if (btn2 != null) btn2.setOnClickListener(v -> startVideo(R.raw.videoplayback2));
+        if (btn3 != null) btn3.setOnClickListener(v -> startVideo(R.raw.videoplayback3));
+        if (btn4 != null) btn4.setOnClickListener(v -> startVideo(R.raw.videoplayback4));
+    }
+
+    private void startVideo(int resId) {
+        Intent intent = new Intent(context, VideoPlayerActivity.class);
+        intent.putExtra("VIDEO_RES_ID", resId);
+        intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+        context.startActivity(intent);
     }
 
     @Override

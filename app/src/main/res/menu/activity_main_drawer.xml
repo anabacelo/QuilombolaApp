@@ -43,6 +43,13 @@
             android:titleCondensed="Saúde..."/>
 
         <item
+            android:id="@+id/nav_vacinacao"
+            android:icon="@drawable/baseline_local_hospital_24"
+            android:title="Informações sobre vacinação"
+            android:titleCondensed="Vacinação"
+            />
+
+        <item
             android:id="@+id/nav_6"
             android:icon="@drawable/ic_atendimento"
             android:title="Redes de Atendimento"
@@ -77,13 +84,6 @@
             />
 
         <item
-            android:id="@+id/nav_vacinacao"
-            android:icon="@drawable/baseline_local_hospital_24"
-            android:title="Informações sobre vacinação"
-            android:titleCondensed="Vacinação"
-            />
-
-        <item
             android:id="@+id/nav_8"
             android:title="Representações Quilombolas"
             android:icon="@drawable/ic_people"
@@ -106,20 +106,6 @@
             android:icon="@drawable/ic_person"
             android:titleCondensed="Mulheres Quilombolas"/>
 
-<!--        <item-->
-<!--            android:id="@+id/nav_communicate"-->
-<!--            android:title="Communicate">-->
-<!--            <menu>-->
-<!--                <item-->
-<!--                    android:id="@+id/nav_Login"-->
-<!--                    android:icon="@drawable/ic_admin"-->
-<!--                    android:title="Login" />-->
-<!--                <item-->
-<!--                    android:id="@+id/nav_send"-->
-<!--                    android:icon="@drawable/ic_logout"-->
-<!--                    android:title="Sair" />-->
-<!--            </menu>-->
-<!--        </item>-->
     </group>
 
 </menu>

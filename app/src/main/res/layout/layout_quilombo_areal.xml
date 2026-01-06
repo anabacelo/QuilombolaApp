@@ -1,58 +1,135 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
-
+    android:layout_height="match_parent"
+    android:orientation="vertical">
 
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-            <RelativeLayout
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="20dp">
+
+            <TextView
+                android:id="@+id/textViewLayoutQuilomboArealDaBaronesa"
+                style="@style/estiloTextoTitulo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/tituloQuilomboAreal02" />
+
+            <ImageView
+                android:id="@+id/imageViewLayoutQuilomboArealDaBaronesa"
+                style="@style/estiloImagem"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/textViewLayoutQuilomboArealDaBaronesa"
+                android:src="@drawable/quilomboarealdabaronesa" />
+
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
+                android:id="@+id/textViewTextoDireitosLayouttQuilomboArealDaBaronesa"
+                style="@style/estiloTextoLayoutEsquerdaDireitosReservados"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/imageViewLayoutQuilomboArealDaBaronesa"
+                android:text="@string/textoDireitosLayoutQuilomboArealDaBaronesa" />
+
+            <com.example.anapaula.quilombolaappv4.components.JustifyTextView
+                android:id="@+id/textViewTextoQuilomboArealDaBaronesa"
+                style="@style/estiloTextoConteudo"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content">
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textViewTextoDireitosLayouttQuilomboArealDaBaronesa"
+                android:autoLink="web"
+                android:linksClickable="true"
+                android:text="@string/texto_quilopoa02" />
 
-                <TextView
-                    android:id="@+id/textViewLayoutQuilomboArealDaBaronesa"
-                    android:text="@string/tituloQuilomboAreal02"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    style="@style/estiloTextoTitulo" />
+            <!-- Seção de Vídeos -->
+            <TextView
+                android:id="@+id/textViewTituloVideosAreal"
+                style="@style/estiloTextoTituloNormal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/textViewTextoQuilomboArealDaBaronesa"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="10dp"
+                android:text="Vídeos da Comunidade" />
 
-                <ImageView
-                    android:id="@+id/imageViewLayoutQuilomboArealDaBaronesa"
-                    android:layout_below="@id/textViewLayoutQuilomboArealDaBaronesa"
-                    android:src="@drawable/quilomboarealdabaronesa"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    style="@style/estiloImagem" />
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnVideoAreal1"
+                style="@style/Widget.MaterialComponents.Button.Icon"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/textViewTituloVideosAreal"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="10dp"
+                android:backgroundTint="@color/colorAccent"
+                android:text="A comunidade"
+                android:textColor="@color/white"
+                app:cornerRadius="20dp"
+                app:icon="@android:drawable/ic_media_play"
+                app:iconTint="@color/white" />
 
-                <com.example.anapaula.quilombolaappv4.components.JustifyTextView
-                    android:id="@+id/textViewTextoDireitosLayouttQuilomboArealDaBaronesa"
-                    android:layout_below="@id/imageViewLayoutQuilomboArealDaBaronesa"
-                    android:text="@string/textoDireitosLayoutQuilomboArealDaBaronesa"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    style="@style/estiloTextoLayoutEsquerdaDireitosReservados" />
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnVideoAreal2"
+                style="@style/Widget.MaterialComponents.Button.Icon"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/btnVideoAreal1"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="10dp"
+                android:backgroundTint="@color/colorAccent"
+                android:text="O Carnaval"
+                android:textColor="@color/white"
+                app:cornerRadius="20dp"
+                app:icon="@android:drawable/ic_media_play"
+                app:iconTint="@color/white" />
 
-                <com.example.anapaula.quilombolaappv4.components.JustifyTextView
-                    android:id="@+id/textViewTextoQuilomboArealDaBaronesa"
-                    android:layout_below="@+id/textViewTextoDireitosLayouttQuilomboArealDaBaronesa"
-                    android:text="@string/texto_quilopoa02"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:autoLink="web"
-                    android:linksClickable="true"
-                    android:paddingBottom="60dp"
-                    style="@style/estiloTextoConteudo" />
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnVideoAreal3"
+                style="@style/Widget.MaterialComponents.Button.Icon"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/btnVideoAreal2"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="10dp"
+                android:backgroundTint="@color/colorAccent"
+                android:text="A Religião"
+                android:textColor="@color/white"
+                app:cornerRadius="20dp"
+                app:icon="@android:drawable/ic_media_play"
+                app:iconTint="@color/white" />
 
-                <ImageView
-                    android:id="@+id/imageViewEstatisticasQuilomboArealDaBaronesa"
-                    android:layout_below="@+id/textViewTextoQuilomboArealDaBaronesa"
-                    android:src="@drawable/quiloareal02"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    style="@style/estiloImagem" />
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnVideoAreal4"
+                style="@style/Widget.MaterialComponents.Button.Icon"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/btnVideoAreal3"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginBottom="20dp"
+                android:backgroundTint="@color/colorAccent"
+                android:text="O Legado"
+                android:textColor="@color/white"
+                app:cornerRadius="20dp"
+                app:icon="@android:drawable/ic_media_play"
+                app:iconTint="@color/white" />
+
+            <ImageView
+                android:id="@+id/imageViewEstatisticasQuilomboArealDaBaronesa"
+                style="@style/estiloImagem"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/btnVideoAreal4"
+                android:src="@drawable/quiloareal02" />
 
         </RelativeLayout>
     </ScrollView>

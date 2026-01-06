@@ -23,6 +23,7 @@ import com.example.anapaula.quilombolaappv4.ui.navigation.NavSerQuilombola;
 import com.example.anapaula.quilombolaappv4.ui.navigation.NavServicosSociais;
 import com.example.anapaula.quilombolaappv4.ui.navigation.HomePage;
 import com.example.anapaula.quilombolaappv4.ui.navigation.NavVacinacao;
+import com.example.anapaula.quilombolaappv4.ui.navigation.NavVideos;
 import com.example.anapaula.quilombolaappv4.utils.IOnBackPressed;
 import com.google.android.material.navigation.NavigationView;
 import androidx.core.view.GravityCompat;
@@ -247,7 +248,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             FragmentManager manager = getSupportFragmentManager();
             manager.beginTransaction().replace(R.id.fragment, navMulheresQuilombolas).commit();
         }
-
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
