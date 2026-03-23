@@ -583,21 +583,20 @@
             style="@style/estiloTextoConteudo" />
 
     
-<TextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:text="Guia de Apoio e Proteção às Mulheres"
-    android:textStyle="bold"
-    android:textSize="18sp"
+    style="@style/estiloTextoTituloNormal"
     android:paddingTop="16dp"
     android:paddingBottom="8dp"/>
 
-<TextView
+        <com.example.anapaula.quilombolaappv4.components.JustifyTextView
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:text="Guia de Apoio e Proteção às Mulheres (PDF)\nhttps://drive.google.com/file/d/1WdkvBPRcbj4FgR-4kUQBzxfmCJVFG6qR/view?usp=sharing"
+    android:text="https://drive.google.com/file/d/1WdkvBPRcbj4FgR-4kUQBzxfmCJVFG6qR/view?usp=sharing"
     android:autoLink="web"
     android:linksClickable="true"
-    android:textColor="@android:color/holo_blue_dark"/>
+    style="@style/estiloTextoComplemento"/>
     
 </LinearLayout>
