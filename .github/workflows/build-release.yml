@@ -10,7 +10,7 @@ jobs:
 
     steps:
       - name: Checkout do repositório
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Configurar JDK
         uses: actions/setup-java@v3
@@ -21,8 +21,11 @@ jobs:
       - name: Dar permissão de execução ao gradlew
         run: chmod +x gradlew
           
-      - name: Build do APK
-        run: ./gradlew assembleRelease
+      - name: Build do APK (DEBUG)
+        run: ./gradlew assembleDebug
+
+      - name: Listar arquivos gerados
+        run: find . -type f -name "*.apk"
 
       - name: Criar Release
         id: create_release
@@ -35,15 +38,12 @@ jobs:
           draft: false
           prerelease: false
           
-      - name: Listar arquivos gerados
-        run: find . -type f -name "*.apk"
-
       - name: Upload do APK na Release
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: app/build/outputs/apk/release/app-release-unsigned.apk
+          asset_path: app/build/outputs/apk/debug/app-debug.apk
           asset_name: quilombolaapp.apk
           asset_content_type: application/vnd.android.package-archive
