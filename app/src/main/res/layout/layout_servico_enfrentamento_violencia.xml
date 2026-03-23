@@ -583,6 +583,7 @@
             style="@style/estiloTextoConteudo" />
 
     
+<TextView
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:text="Guia de Apoio e Proteção às Mulheres"
@@ -591,11 +592,12 @@
     android:paddingTop="16dp"
     android:paddingBottom="8dp"/>
 
-    android:id="@+id/txtPdfGuia"
+<TextView
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:text="Guia de Apoio e Proteção às Mulheres (PDF)"
-    android:textColor="@android:color/holo_blue_dark"
-    android:clickable="true"/>
+    android:text="Guia de Apoio e Proteção às Mulheres (PDF)\https://drive.google.com/file/d/1WdkvBPRcbj4FgR-4kUQBzxfmCJVFG6qR/view?usp=sharing
+    android:autoLink="web"
+    android:linksClickable="true"
+    android:textColor="@android:color/holo_blue_dark"/>
     
 </LinearLayout>
