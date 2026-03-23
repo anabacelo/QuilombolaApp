@@ -581,4 +581,21 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             style="@style/estiloTextoConteudo" />
+
+    
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Guia de Apoio e Proteção às Mulheres"
+    android:textStyle="bold"
+    android:textSize="18sp"
+    android:paddingTop="16dp"
+    android:paddingBottom="8dp"/>
+
+    android:id="@+id/txtPdfGuia"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Guia de Apoio e Proteção às Mulheres (PDF)"
+    android:textColor="@android:color/holo_blue_dark"
+    android:clickable="true"/>
+    
 </LinearLayout>
