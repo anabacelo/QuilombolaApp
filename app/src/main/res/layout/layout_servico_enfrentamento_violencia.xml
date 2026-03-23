@@ -595,7 +595,7 @@
 <TextView
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:text="Guia de Apoio e Proteção às Mulheres (PDF)\https://drive.google.com/file/d/1WdkvBPRcbj4FgR-4kUQBzxfmCJVFG6qR/view?usp=sharing
+    android:text="Guia de Apoio e Proteção às Mulheres (PDF)\nhttps://drive.google.com/file/d/1WdkvBPRcbj4FgR-4kUQBzxfmCJVFG6qR/view?usp=sharing"
     android:autoLink="web"
     android:linksClickable="true"
     android:textColor="@android:color/holo_blue_dark"/>
