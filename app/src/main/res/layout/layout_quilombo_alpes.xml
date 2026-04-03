@@ -53,7 +53,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Guia em PDF sobre o Quilombo dos Alpes"
-                style="@style/estiloTextoTituloNormal"
+                style="@style/estiloTextoConteudo"
                 android:paddingTop="16dp"
                 android:paddingBottom="8dp"/>
 
@@ -65,8 +65,8 @@
                 android:text="https://drive.google.com/file/d/16aDXrcGVYIloG_Xn9a7btRsin0jr8xC8/view?usp=drive_link"
                 android:autoLink="web"
                 android:linksClickable="true"
-                style="@style/estiloTextoComplemento"/>
-
+                style="@style/estiloTextoConteudo"/>
+            
         </RelativeLayout>
     </ScrollView>
 </LinearLayout>
