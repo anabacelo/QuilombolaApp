@@ -19,6 +19,6 @@ public class NavCartilhaSaudeBucal extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
 
-        return inflater.inflate(R.layout.layout_cartilha_saude_bucal, container, false);
+        return inflater.inflate(R.layout.cartilha_saude_bucal, container, false);
     }
 }
