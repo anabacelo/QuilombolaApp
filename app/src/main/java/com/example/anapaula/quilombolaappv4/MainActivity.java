@@ -24,6 +24,7 @@ import com.example.anapaula.quilombolaappv4.ui.navigation.NavServicosSociais;
 import com.example.anapaula.quilombolaappv4.ui.navigation.HomePage;
 import com.example.anapaula.quilombolaappv4.ui.navigation.NavVacinacao;
 import com.example.anapaula.quilombolaappv4.ui.navigation.NavVideos;
+import com.example.anapaula.quilombolaappv4.ui.navigation.NavCartilhaSaudeBucal;
 import com.example.anapaula.quilombolaappv4.utils.IOnBackPressed;
 import com.google.android.material.navigation.NavigationView;
 import androidx.core.view.GravityCompat;
@@ -249,9 +250,16 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             manager.beginTransaction().replace(R.id.fragment, navMulheresQuilombolas).commit();
         }
 
+		else if (id == R.id.nav_cartilha_saude_bucal) {
+            setTitle("Cartilha de Saúde Bucal");
+            NavCartilhaSaudeBucal fragment = new NavCartilhaSaudeBucal();
+            FragmentManager manager = getSupportFragmentManager();
+            manager.beginTransaction().replace(R.id.fragment, fragment).commit();
+		}
+
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
         return true;
-    }
+        }
 
 }
