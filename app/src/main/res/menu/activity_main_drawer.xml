@@ -105,6 +105,9 @@
             android:title="Mulheres Negras Quilombolas"
             android:icon="@drawable/ic_person"
             android:titleCondensed="Mulheres Quilombolas"/>
+        <item
+            android:id="@+id/nav_cartilha_saude_bucal"
+            android:title="Cartilha sobre Saúde Bucal" />
 
     </group>
 
