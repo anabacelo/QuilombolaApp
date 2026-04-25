@@ -28,7 +28,7 @@
                 android:id="@+id/imagemCartilha"
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
-                android:src="@drawable/ic_launcher_foreground"
+                android:src="@mipmap/quilombola_icon"
                 android:scaleType="centerCrop"
                 android:layout_marginBottom="16dp" />
 
