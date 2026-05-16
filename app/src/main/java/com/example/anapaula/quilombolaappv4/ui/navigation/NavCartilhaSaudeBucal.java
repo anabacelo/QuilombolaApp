@@ -29,18 +29,41 @@ public class NavCartilhaSaudeBucal extends Fragment {
 
         List<String> titulos = new ArrayList<>();
         List<String> textos = new ArrayList<>();
+        List<Integer> imagens = new ArrayList<>();
 
-        // Conteúdo inicial (teste)
+        // PÁGINA 1
         titulos.add("Higiene Bucal");
-        textos.add("Escove os dentes após as refeições.");
+        textos.add("Escove os dentes após as refeições e antes de dormir.");
+        imagens.add(R.drawable.guide_img1);
 
+        // PÁGINA 2
         titulos.add("Uso do fio dental");
-        textos.add("Use fio dental diariamente.");
+        textos.add("Use fio dental diariamente para remover resíduos.");
+        imagens.add(R.drawable.guide_img2);
 
+        // PÁGINA 3
         titulos.add("Visite o dentista");
-        textos.add("Consultas regulares são importantes.");
+        textos.add("Consultas regulares ajudam na prevenção.");
+        imagens.add(R.drawable.guide_img3);
 
-        CartilhaAdapter adapter = new CartilhaAdapter(titulos, textos);
+        // PÁGINA 4
+        titulos.add("Escovação correta");
+        textos.add("Escove com movimentos suaves e circulares.");
+        imagens.add(R.drawable.guide_img4);
+
+        // PÁGINA 5
+        titulos.add("Saúde Bucal");
+        textos.add("Cuidar da boca é cuidar da saúde do corpo todo.");
+        imagens.add(R.drawable.guide_img5);
+
+        // PÁGINA 6
+        titulos.add("Prevenção");
+        textos.add("A prevenção é o melhor caminho para evitar doenças.");
+        imagens.add(R.drawable.guide_img6);
+
+        CartilhaAdapter adapter =
+                new CartilhaAdapter(titulos, textos, imagens);
+
         viewPager.setAdapter(adapter);
 
         return view;
