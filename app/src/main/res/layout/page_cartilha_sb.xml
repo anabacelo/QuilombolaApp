@@ -2,18 +2,20 @@
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:fillViewport="true"
     android:background="#2563EB">
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:orientation="vertical"
+        android:gravity="center"
         android:padding="24dp">
 
         <ImageView
             android:id="@+id/imagemCartilha"
-            android:layout_width="250dp"
-            android:layout_height="250dp"
+            android:layout_width="280dp"
+            android:layout_height="280dp"
             android:layout_gravity="center"
             android:scaleType="fitCenter"
             android:layout_marginBottom="24dp" />
@@ -23,18 +25,18 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="#FFFFFF"
-            android:textSize="24sp"
+            android:textSize="28sp"
             android:textStyle="bold"
             android:gravity="center"
-            android:layout_marginBottom="16dp" />
+            android:layout_marginBottom="20dp" />
 
         <TextView
             android:id="@+id/textoCartilha"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="#FFFFFF"
-            android:textSize="18sp"
-            android:lineSpacingExtra="6dp"
+            android:textSize="20sp"
+            android:lineSpacingExtra="8dp"
             android:gravity="center" />
 
     </LinearLayout>
