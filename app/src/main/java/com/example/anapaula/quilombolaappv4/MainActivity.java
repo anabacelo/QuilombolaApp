@@ -31,6 +31,7 @@ import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.appcompat.app.ActionBarDrawerToggle;
 import androidx.appcompat.widget.Toolbar;
+import com.example.anapaula.quilombolaappv4.ui.navigation.NavUnidadesSaudeOdontologia;
 
 import android.view.Menu;
 import android.view.MenuItem;
@@ -251,12 +252,18 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         }
 
 		else if (id == R.id.nav_cartilha_saude_bucal) {
-            setTitle("Cartilha de Saúde Bucal");
-            NavCartilhaSaudeBucal fragment = new NavCartilhaSaudeBucal();
-            FragmentManager manager = getSupportFragmentManager();
-            manager.beginTransaction().replace(R.id.fragment, fragment).commit();
-		}
+    setTitle("Cartilha de Saúde Bucal");
+    NavCartilhaSaudeBucal fragment = new NavCartilhaSaudeBucal();
+    FragmentManager manager = getSupportFragmentManager();
+    manager.beginTransaction().replace(R.id.fragment, fragment).commit();
+}
 
+       else if (id == R.id.nav_unidades_saude_odontologia) {
+    setTitle("Unidades Básicas de Saúde Próximas dos Quilombos com Serviços Odontológicos");
+    NavUnidadesSaudeOdontologia fragment = new NavUnidadesSaudeOdontologia();
+    FragmentManager manager = getSupportFragmentManager();
+    manager.beginTransaction().replace(R.id.fragment, fragment).commit();
+}
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
         return true;
