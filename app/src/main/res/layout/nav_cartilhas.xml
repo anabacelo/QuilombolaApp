@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cartilhas Informativas"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:paddingBottom="16dp" />
+
+    <Button
+        android:id="@+id/btnCartilhaMudancasClimaticas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mudanças Climáticas e Saúde das Comunidades Quilombolas"
+        android:textAllCaps="false"
+        android:backgroundTint="#ecaa68"
+        android:textColor="#FFFFFF"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/btnCartilhaVigilanciaPopular"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Vigilância Popular em Saúde — Comunidades Quilombolas"
+        android:textAllCaps="false"
+        android:backgroundTint="#ecaa68"
+        android:textColor="#FFFFFF" />
+
+</LinearLayout>

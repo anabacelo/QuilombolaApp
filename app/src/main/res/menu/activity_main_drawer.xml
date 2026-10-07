@@ -75,7 +75,6 @@
             android:titleCondensed="Como Usar o PIAPS"
             />
 
-
         <item
             android:id="@+id/nav_atencao_aos_quilombolas"
             android:icon="@drawable/baseline_local_hospital_24"
@@ -115,6 +114,11 @@
             android:icon="@drawable/baseline_local_hospital_24"
             android:title="Unidades Básicas de Saúde Próximas dos Quilombos com Serviços Odontológicos"
             android:titleCondensed="UBS Odontologia"/>
+
+        <item
+            android:id="@+id/nav_cartilhas"
+            android:icon="@drawable/ic_information"
+            android:title="Cartilhas Informativas" />
 
     </group>
 
